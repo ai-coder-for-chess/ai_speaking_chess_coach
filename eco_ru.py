@@ -15,6 +15,7 @@ DEBUG = True
 
 # Cache file lives next to this module
 _CACHE = pathlib.Path(__file__).resolve().parent / "eco_ru_cache.json"
+cache_path = ECO_CACHE_FILE
 
 _HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -29,11 +30,11 @@ def _candidate_urls() -> list[str]:
     """
     letters = _discover_letter_urls()
     if not letters:
-        letters = [f"{ECO_CACHE_FILE}/{l}/" for l in ("a", "b", "c", "d", "e")]
+        letters = [f"{cache_path}/{l}/" for l in ("a", "b", "c", "d", "e")]
 
     # dedupe while keeping order
     seen, out = set(), []
-    for u in ECO_CACHE_FILE + letters:
+    for u in cache_path + letters:
         if u not in seen:
             seen.add(u); out.append(u)
 
@@ -55,7 +56,7 @@ def _canon_letter_url(href: str, text: str) -> Optional[str]:
 def _discover_letter_urls() -> list[str]:
     """Parse /help/eco and extract absolute URLs for A..E pages."""
     try:
-        r = requests.get(ECO_CACHE_FILE, headers=_HEADERS, timeout=12)
+        r = requests.get(cache_path, headers=_HEADERS, timeout=12)
         if r.status_code != 200 or not (r.text or "").strip():
             return []
         html = r.text

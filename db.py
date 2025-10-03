@@ -4,6 +4,7 @@ import sqlite3, json, threading, os
 from typing import Optional, Any, Dict, List, Tuple
 
 _DB_PATH = os.environ.get("CHESS_DB_PATH", "chess_assistant.sqlite3")
+DB_SQLITE = str(_DB_PATH)
 _lock = threading.RLock()
 
 _SCHEMA = """

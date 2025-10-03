@@ -21,7 +21,7 @@ from asr_backend import init_asr, transcribe_wav
 from coach_session import CoachSession
 from engine_core import ENGINE_PATH, analyze_fen
 from speech_ru import strip_move_numbers, san_to_speech, pv_to_speech, opening_title_to_speech
-from paths import ROOT, ENGINE_PATH, PGN_DIR, ECO_CACHE_FILE, DB_PATH, ensure_dirs
+from paths import ensure_dirs, ROOT, DATA_DIR, PGN_DIR, ECO_CACHE_FILE, ENGINE_PATH, DB_PATH
 ensure_dirs()
 
 
@@ -33,6 +33,14 @@ from faster_whisper import WhisperModel
 
 _ASR = None
 _CALIB_PATH = Path.home() / ".ai_chess_eta_calib.json"
+
+# unified paths (string form where needed)
+ENGINE_PATH = str(ENGINE_PATH)         # engine code may expect str
+PGN_PATH    = str(PGN_DIR)
+ECO_PATH    = str(ECO_CACHE_FILE)
+DB_SQLITE   = str(DB_PATH)
+ECO_CACHE_PATH = ECO_PATH
+DB_FILE        = DB_SQLITE
 
 # Where to look for analyzed games
 ANALYSIS_DIRS = [
@@ -659,6 +667,7 @@ def run_assistant(lang_code: str, log_fn, stop_event: threading.Event, on_done, 
     last_branch_info: dict | None = None
     awaiting_mistake_query = False      # ждём "как правильно?"
     last_mistake_hint: dict | None = None  # {"played_san":..., "best_san":..., "cpl":..., "mark":...}
+    coach = None 
 
     try:
         init_asr(model_size="large-v3", device="cpu", compute_type="int8")

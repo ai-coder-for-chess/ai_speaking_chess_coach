@@ -29,6 +29,15 @@ from planner import plan_for_fen
 from llm_util import ask
 from name_normalize import match_names
 from engine_core import ENGINE_PATH, fetch_opening_stats
+from paths import DATA_DIR, PGN_DIR, ECO_CACHE_FILE, ENGINE_PATH, DB_PATH
+
+PGN_PATH  = str(PGN_DIR)
+ECO_PATH  = str(ECO_CACHE_FILE)
+DB_SQLITE = str(DB_PATH)
+ENGINE    = str(ENGINE_PATH)
+ECO_CACHE_PATH = ECO_PATH
+DB_FILE        = DB_SQLITE
+STOCKFISH_PATH = ENGINE
 
 
 # --- Mistake thresholds in centipawns (same logic as game_analyzer.py) ---
