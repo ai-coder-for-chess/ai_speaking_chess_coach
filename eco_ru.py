@@ -8,14 +8,13 @@ import requests
 import html as ihtml
 from typing import Dict, Optional
 from urllib.parse import urljoin
+from paths import ECO_CACHE_FILE
 
 # Toggle minimal debug prints
 DEBUG = True
 
 # Cache file lives next to this module
 _CACHE = pathlib.Path(__file__).resolve().parent / "eco_ru_cache.json"
-
-ECO_ROOT = "https://www.chessbase.ru/help/eco"
 
 _HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -28,14 +27,13 @@ def _candidate_urls() -> list[str]:
     Real section pages come from the root menu (A00-A99..E00-E99).
     If discovery fails, fall back to static /a..e pages.
     """
-    base = [ECO_ROOT]
     letters = _discover_letter_urls()
     if not letters:
-        letters = [f"{ECO_ROOT}/{l}/" for l in ("a", "b", "c", "d", "e")]
+        letters = [f"{ECO_CACHE_FILE}/{l}/" for l in ("a", "b", "c", "d", "e")]
 
     # dedupe while keeping order
     seen, out = set(), []
-    for u in base + letters:
+    for u in ECO_CACHE_FILE + letters:
         if u not in seen:
             seen.add(u); out.append(u)
 
@@ -47,17 +45,17 @@ def _canon_letter_url(href: str, text: str) -> Optional[str]:
     """Return canonical https://www.chessbase.ru/help/eco/{a..e}/ from an <a> href or its text."""
     m = re.search(r'/help/eco/([a-e])/?', href, re.IGNORECASE)
     if m:
-        return f"{ECO_ROOT}/{m.group(1).lower()}/"
+        return f"{ECO_CACHE_FILE}/{m.group(1).lower()}/"
     # fallback: derive from link text like "A00-A99"
     m = re.match(r'([A-E])00-[A-E]99', text.strip())
     if m:
-        return f"{ECO_ROOT}/{m.group(1).lower()}/"
+        return f"{ECO_CACHE_FILE}/{m.group(1).lower()}/"
     return None
 
 def _discover_letter_urls() -> list[str]:
     """Parse /help/eco and extract absolute URLs for A..E pages."""
     try:
-        r = requests.get(ECO_ROOT, headers=_HEADERS, timeout=12)
+        r = requests.get(ECO_CACHE_FILE, headers=_HEADERS, timeout=12)
         if r.status_code != 200 or not (r.text or "").strip():
             return []
         html = r.text

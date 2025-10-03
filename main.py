@@ -21,6 +21,8 @@ from asr_backend import init_asr, transcribe_wav
 from coach_session import CoachSession
 from engine_core import ENGINE_PATH, analyze_fen
 from speech_ru import strip_move_numbers, san_to_speech, pv_to_speech, opening_title_to_speech
+from paths import ROOT, ENGINE_PATH, PGN_DIR, ECO_CACHE_FILE, DB_PATH, ensure_dirs
+ensure_dirs()
 
 
 # ---------- LLM ----------

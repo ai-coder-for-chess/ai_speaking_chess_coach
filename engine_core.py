@@ -8,15 +8,12 @@ if sys.platform.startswith("win"):
 import chess
 from chess import engine
 from chess.engine import PovScore
-import pathlib
+from pathlib import Path
+from paths import ENGINE_PATH 
+
 
 USE_ONLINE_TABLEBASE = True
 USE_LICHESS_CLOUD = True
-
-# ─── путь к движку Stockfish ─────────────────────────────────────────────
-ENGINE_PATH = pathlib.Path(
-    r"C:\Users\semen\Downloads\stockfish-windows-x86-64-avx2\stockfish\stockfish-windows-x86-64-avx2.exe"
-)
 
 def _try_tablebase(fen: str):
     """Вернёт dict(eval, best, pv, depth, source) либо None."""

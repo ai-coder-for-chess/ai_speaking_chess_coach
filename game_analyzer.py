@@ -14,6 +14,8 @@ from typing import Optional, Callable
 import chess
 import chess.pgn
 import chess.engine
+from paths import PGN_DIR, ensure_dirs
+ensure_dirs()
 
 # На Windows снижает риск подвисаний UCI
 if sys.platform.startswith("win"):
