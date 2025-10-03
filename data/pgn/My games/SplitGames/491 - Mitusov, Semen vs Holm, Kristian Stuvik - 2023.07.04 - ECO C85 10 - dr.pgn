@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2023"]
+[Site "Oslo, Norway"]
+[Date "2023.07.04"]
+[Round "6.4"]
+[White "Holm, Kristian Stuvik"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C85"]
+[WhiteElo "2480"]
+[BlackElo "2434"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "35"]
+[GameId "471442064877"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 (7. d3 Nd7 8. Nbd2 f6 9. Nc4 Nc5 10. Nh4 Be6 11. Nf5 Bf8 12. Qe2 Qd7 13. f4 Bxc4 14. dxc4 g6) 7... Nd7 (7... Bg4 8. h3 Bh5 9. Qe2 (9. g4 Nxg4 10. hxg4 Bxg4 11. Kg2 f5 12. Qe1 Bxf3+ 13. Kxf3 f4) 9... Qd6 (9... Bd6 10. g4 Nxg4 11. hxg4 Bxg4)) 8. d4 exd4 (8... f6 9. dxe5 fxe5 10. Ng5 Nf6) 9. Qxd4 (9. Nxd4 O-O (9... Ne5) 10. Nf5 Bf6 11. Qe1 Re8 (11... Nc5 12. Be3 Bxf5 13. Bxc5 Re8 14. Rd1 Qc8 15. Bd4) 12. Be3 Ne5 13. Rd1 Bd7 14. b3 Qc8 15. Ng3) 9... O-O 10. Bf4 Nc5 11. Qe3 Ne6 (11... Bg4 $6 12. Nd4 $14) 12. Rad1 Qe8 13. Bg3 Bc5 14. Qc1 f6 15. Ne1 (15. Nh4 Qh5 16. Nf5 g6 $15) 15... b5 16. Nd3 Bb6 17. Kh1 Nd4 18. f3 1/2-1/2
+

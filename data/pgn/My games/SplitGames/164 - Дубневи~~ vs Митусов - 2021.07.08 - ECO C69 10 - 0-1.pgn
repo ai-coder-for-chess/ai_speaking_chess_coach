@@ -1,0 +1,21 @@
+﻿[Event "Синицина"]
+[Site "?"]
+[Date "2021.07.08"]
+[Round "7"]
+[White "Дубневи~~"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C69"]
+[WhiteElo "2206"]
+[BlackElo "2426"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "142"]
+[GameId "407214156590"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8. Nb3 Qxd1 9. Rxd1 Bd7 10. Bf4 O-O-O 11. Nc3 Be6 12. Rxd8+ Kxd8 13. Rd1+ Kc8 14. Nd5 Bxd5 15. exd5 Bd6 16. Bxd6 cxd6 17. Re1 Kd7 18. Na5 Ne7 19. Nc4 Nf5 $2 $11 (19... Nxd5 $1 20. Rd1 b5 $19) 20. Kf1 h5 21. a4 b5 22. axb5 axb5 23. Ne3 Nxe3+ 24. Rxe3 Ra8 25. Ke2 Ra2 26. Rb3 b4 27. Kd2 Kc7 28. Rg3 (28. c3 bxc3+ 29. Kxc3 Ra4 30. Ra3 $11) 28... Rxb2 29. Kc1 Ra2 30. Kb1 b3 31. Rxb3 Ra4 32. Rg3 g5 33. Rf3 Rd4 34. Rxf6 Rxd5 35. Kb2 Kc6 36. Kc3 g4 37. f3 gxf3 38. Rxf3 Rg5 39. g3 Rg4 40. Rf8 h4 41. gxh4 Rxh4 42. Rf2 Rh3+ 43. Kd2 Kd5 44. Rg2 Kc4 45. Rg4+ Kb5 46. Rg2 d5 47. Kc1 d4 48. Kb2 Kb4 49. Rd2 Rh4 50. Rg2 c4 51. Rf2 c3+ 52. Ka2 Kc4 53. Rf8 Rxh2 54. Rc8+ Kd5 55. Rd8+ Ke4 56. Kb3 Ke3 57. Re8+ Kd2 58. Rd8 Rh4 59. Rd7 Re4 60. Rd8 Ke3 61. Kc4 Re7 62. Rd6 $4 (62. Rh8 Rc7+ 63. Kb3 Rb7+ 64. Kc4 Kd2 65. Rh2+ Kc1 66. Kxd4 Kb2 67. Rg2 Rd7+ 68. Kc4 Rd2 69. Rg3 $11) 62... Kd2 63. Kxd4 Kxc2 64. Rh6 Rc7 65. Rg6 Kc1 66. Kd3 c2 67. Rh6 Kb2 68. Rb6+ Ka3 69. Ra6+ Kb4 70. Ra1 c1=Q 71. Rxc1 Rxc1 0-1
+

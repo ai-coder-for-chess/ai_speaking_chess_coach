@@ -1,0 +1,21 @@
+﻿[Event "ПУ рапид"]
+[Site "?"]
+[Date "2021.10.02"]
+[Round "7"]
+[White "Билы~~"]
+[Black "Митусов"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C28"]
+[WhiteElo "2293"]
+[BlackElo "2185"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "185"]
+[GameId "414809248577"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Bd2 O-O 6. Nge2 d6 7. O-O Be6 8. Bg5 h6 9. Bh4 Nd4 $2 (9... Bc5 10. Kh1 g5 11. Bg3 a6) 10. Nxd4 exd4 11. Ne2 Bc5 $2 (11... Bxc4 12. dxc4 g5 13. Bg3 Nxe4) 12. Bb3 Qe7 13. f4 Bxb3 14. axb3 Qe6 15. Bxf6 Qxf6 16. Ng3 Rae8 17. Qg4 Kh7 18. Rae1 c6 19. Qd1 Bb6 20. Rf3 Bd8 21. Nh5 Qe6 22. Ref1 f5 23. Ng3 fxe4 24. Nxe4 Qd7 25. f5 d5 $2 26. Nc5 Qd6 27. Nxb7 Qe7 28. Nxd8 Qxd8 29. Rf4 Rf6 30. Kh1 Re3 31. Rxd4 Qe7 32. Rdf4 Qe5 33. d4 Qe7 34. R4f2 Qe4 35. Rf4 Qe7 36. h3 Re2 37. R4f2 Re3 38. c3 a5 39. Qg4 Re4 40. Qg3 Re3 41. Qb8 Qe4 42. Qf4 Qe7 43. Kh2 Re4 44. Qg3 Re3 45. Rf3 Re2 46. R1f2 Re1 47. Qf4 Re4 48. Qb8 Re1 49. b4 axb4 50. Qxb4 Qe4 51. Qb8 Ra1 52. Qe5 Qb1 53. Re2 Qg1+ 54. Kg3 Rd1 55. Qf4 Rf7 56. Qg4 Re1 57. Rxe1 Qxe1+ 58. Kh2 Rf6 59. Qf4 Qe2 60. Rf2 Qe1 61. Qf3 Qe7 62. Qe2 Qc7+ 63. Qe5 Qa7 64. Rf3 Qb7 65. Rg3 Qd7 66. Rf3 Qb7 67. b4 Qa7 68. h4 Qa8 69. Qc7 Qf8 70. g4 h5 71. Qf4 hxg4 72. Qxg4 Qe7 73. Qf4 Qe1 74. Rg3 Qe2+ 75. Kh3 Qc2 76. Rf3 Qe2 77. Qg4 Qe7 78. Rg3 Qf7 $4 (78... Qd7 $13) 79. Qg6+ Kg8 80. Qxf7+ Rxf7 81. Rg6 Rxf5 82. Rxc6 Kh7 83. Kg4 Rf1 84. Rc5 Rc1 85. b5 Kg6 86. Rc6+ Kf7 87. Kf5 g6+ 88. Ke5 Rh1 89. Kxd5 Rxh4 90. b6 Rh1 91. c4 g5 92. c5 g4 93. b7 1-0
+

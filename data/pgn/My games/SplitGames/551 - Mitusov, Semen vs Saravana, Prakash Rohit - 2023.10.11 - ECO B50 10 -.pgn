@@ -1,0 +1,19 @@
+﻿[Event "Fagerness Autumn 2023"]
+[Site "?"]
+[Date "2023.10.11"]
+[Round "5.7"]
+[White "Mitusov, Semen"]
+[Black "Saravana, Prakash Rohit"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B50"]
+[WhiteElo "2468"]
+[BlackElo "2226"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "117"]
+[GameId "480221500193"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 g6 8. Bb2 Bg7 9. d4 (9. c4 $1 O-O (9... e5 10. Nc3 O-O 11. d3 Nh5 12. g3 f5 13. exf5 Rxf5 14. Rae1) 10. d4 cxd4 11. Bxd4 a6) 9... cxd4 10. Nxd4 a6 $6 (10... Nc5 11. Nd2 O-O 12. c4) 11. c4 O-O 12. Nc3 Nh5 $6 (12... d5 13. cxd5 exd5 14. e5 Nxe5 (14... Ne4 15. Nxd5 Nxe5 16. Nf4 Nc5 17. Rad1) 15. Qxe5 Ne4 16. Qxg7+ Kxg7 17. Nxe4 Kg8 18. Nc3 $18) 13. Rad1 Qg5 14. g3 Rfd8 15. Kh1 Rac8 16. f4 Qa5 17. f5 exf5 18. Nd5 Re8 19. Bc3 (19. Nxf5 $1 gxf5 20. Qxh5 Bxb2 21. Rxf5 Qd8 22. Rxf7 Nf8 23. Rdf1 Rxe4 24. Nf6+ Bxf6 25. R1xf6) 19... Qd8 20. Nxf5 gxf5 21. Qxh5 Bxc3 22. Nxc3 Qf6 23. Qxf5 $2 (23. Rxf5 Qxc3 24. Qxf7+ Kh8 25. Qxd7 Qc2 26. Re1 Rf8 27. Rh5 $18) 23... Qxf5 24. exf5 $6 (24. Rxf5 Nc5 25. Rxd6 Nxe4 26. Nxe4 Rxe4 27. Rd7 $18) 24... Re3 25. Nd5 Re2 26. Nc3 (26. f6 Kf8 27. Ne7 Re8 28. Rxd6 Nxf6 29. Rdxf6 R8xe7 30. R1f2 $18) 26... Re3 27. Rxd6 Rxc3 28. Rxd7 b5 $2 (28... Rc2 29. f6 b5) 29. cxb5 axb5 30. f6 $6 (30. Rf2 Rc2 31. Rdd2 Rxd2 32. Rxd2 b4 33. Kg2 Kg7 34. Kh3 Kf6 35. Kg4 $18) 30... Rc2 31. Rd5 $4 (31. Ra7 Rd2 (31... h6 32. Kg1 $18) 32. Kg1 h6 33. Rf2) 31... h6 32. g4 $2 (32. Ra1 Rf2 33. Rxb5 Rcc2 34. Rh5 Rxf6 35. b4 Kg7 36. a4 $18) 32... Kh7 33. Rxb5 Rxa2 34. Rh5 Kg6 35. Rb1 Rcc2 36. b4 Rcb2 $6 (36... Rg2 37. b5 Rgc2 38. Rh3 Rf2 $11) 37. Rxb2 Rxb2 38. b5 Kxf6 39. Kg1 Kg6 40. Rc5 Rb4 41. h3 Rb2 42. Rf5 Kg7 43. Kf1 Kg6 44. Re5 Rb3 45. Kg2 Rb2+ $4 (45... Kf6 46. Rh5 Kg6 47. Kf2 f5 48. Rxf5 Rxh3 49. Rc5 Rb3 $11 50. Ke2 Kf6 51. Kd2 Ke6 52. Kc2 Rb4 53. Kc3 Rxg4) 46. Kf3 Rb3+ 47. Kf4 Kf6 (47... Kg7 48. Rh5 f5 49. Rxf5 Rxh3 50. Rc5 Rb3 51. Ke5 Rb4 52. Kd6 Rxg4 53. b6 Rb4 54. Kc7) (47... Rb4+ 48. Ke3 Rb3+ 49. Kd4 Rxh3 50. b6 Rb3 51. Kc5 $18) 48. Rh5 Rb4+ 49. Ke3 Ke7 50. Kd3 f5 51. gxf5 Kf7 52. f6 $3 Rb1 53. Rf5 Rb3+ 54. Kc4 Rxh3 55. b6 Rg3 56. b7 Rg8 57. Kc5 Rf8 58. Kb6 Ke6 59. Rf1 1-0
+

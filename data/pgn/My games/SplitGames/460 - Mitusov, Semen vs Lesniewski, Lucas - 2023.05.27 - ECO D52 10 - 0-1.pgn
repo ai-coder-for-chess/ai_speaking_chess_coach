@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.27"]
+[Round "2"]
+[White "Lesniewski, Lucas"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D52"]
+[WhiteElo "1861"]
+[BlackElo "2428"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "60"]
+[GameId "468092560430"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Bb4 (6... Qa5 7. Nd2 Bb4 8. Qc2 O-O 9. Be2 dxc4 10. Bxf6 Nxf6 11. Nxc4 Qc7 12. O-O b6 13. Rac1) 7. Nd2 O-O 8. a3 Be7 (8... Bxc3 9. bxc3 Qa5 10. Qc2 dxc4 11. Bxf6 Nxf6 12. Nxc4 Qc7 $11) 9. cxd5 exd5 10. Bd3 Ne8 11. h4 Nd6 12. Qc2 f5 (12... h6 13. Bf4 Nf6 $13) 13. g4 Nb6 14. O-O-O (14. Bf4 $16) 14... Ne4 15. Ndxe4 fxe4 16. Nxe4 dxe4 17. Bxe4 h6 18. Bf4 Nd5 $2 (18... Rxf4 19. exf4 Bxg4 20. Rdg1 Bh5 $19) 19. Bxh6 (19. Be5 Bf6) 19... Nf6 (19... Qd6 20. Bg5 Bxg4 21. Rdg1 Bf3 22. Bxf3 Rxf3) 20. Bg5 Nxe4 21. Qxe4 Bxg5 $2 (21... Rf7 $19) 22. hxg5 Qxg5 23. f4 Qd5 $2 (23... Qf6 $11) 24. Qc2 $4 (24. Qh7+ Kf7 25. f5 Bd7 26. Qg6+ Ke7 27. Qxg7+ Qf7 $18) 24... Bxg4 25. Qh7+ Kf7 26. f5 Bxd1 27. Qg6+ Ke7 28. Qxg7+ Rf7 29. Qg5+ Kd7 30. Rxd1 Qxf5 0-1
+

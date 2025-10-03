@@ -1,0 +1,20 @@
+﻿[Event "OSS klubbmesterskap 2022"]
+[Site "?"]
+[Date "2022.10.20"]
+[Round "5"]
+[White "Altarbosh Ward"]
+[Black "Mitusov Semen"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "D01"]
+[WhiteElo "2161"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "137"]
+[GameId "448877841655"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Nbd7 4. Nf3 h6 5. Bf4 a6 6. e3 e6 7. Ne5 c5 8. Qf3 Qa5 $6 (8... Nxe5 9. Bxe5 Nd7 10. Bf4 b5 11. Qg3 Bb7) 9. Be2 b5 10. O-O Bb7 11. a3 cxd4 $2 (11... Nxe5 12. Bxe5 Nd7 $15) 12. exd4 Rc8 13. Qg3 Qd8 14. Rae1 Nb6 $2 (14... Nxe5 15. Bxe5 h5 16. h4 Ng4 $11) 15. Ng6 fxg6 16. Qxg6+ Ke7 17. Bg4 Rc6 18. Bxe6 Rxe6 19. Rxe6+ Kxe6 20. Re1+ Kd7 21. Qf5+ Kc6 22. Re6+ Bd6 23. Rxd6+ Qxd6 24. Bxd6 Kxd6 25. Qf4+ Kd7 26. Qg3 Re8 27. h4 Re7 28. Qb8 Ke6 29. Nd1 Nc4 30. b3 Nd6 31. Ne3 Re8 32. Qc7 Nd7 33. g4 Rc8 34. Qa5 Kf7 (34... Nf8) 35. Qe1 Kg8 36. Qb4 Nf7 37. Qe7 Bc6 38. g5 hxg5 39. hxg5 Nf8 40. g6 Nh6 41. Qd6 Bb7 42. Qb6 Bc6 43. Qxa6 Rc7 44. Qb6 Rc8 45. Qa6 Rc7 46. a4 bxa4 47. bxa4 Nxg6 48. Qb6 Rc8 49. a5 Ne7 50. a6 Nhf5 51. Ng4 Nd6 52. Ne5 Nc4 53. Qc5 Nxe5 54. Qxe7 Re8 55. Qc5 Nf3+ 56. Kg2 Ne1+ 57. Kg3 Ba8 58. a7 Rf8 59. f4 Re8 60. Qb5 Kf7 61. Kf2 Re7 62. Qb8 Re8 63. Qc7+ Re7 64. Qc8 Re8 65. Qf5+ Kg8 66. c3 Bb7 67. Qd7 Nd3+ 68. Kf3 Ne1+ 69. Kg3 1-0
+

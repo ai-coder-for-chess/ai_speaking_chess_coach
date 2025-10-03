@@ -1,0 +1,17 @@
+﻿[Event "NTG Lyn-GP mai 2023"]
+[Site "?"]
+[Date "2023.05.13"]
+[Round "2"]
+[White "Enter New Game"]
+[Black "?"]
+[Result "*"]
+[Annotator "semen"]
+[ECO "B86"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "23"]
+[GameId "466836602480"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. a4 Qc7 (8... O-O 9. Be3 Qc7 10. Bb3 Nc6 11. f4 Na5 12. Ba2 Nc4 $15) 9. Bb3 Nbd7 $2 10. Be3 $2 (10. Bxe6 fxe6 11. Nxe6 Qc4 12. Nxg7+ Kf7 13. Nf5 Ne5 14. Nxe7 Kxe7 15. Bg5 $18) 10... Nc5 11. f3 Nxb3 12. cxb3 *
+

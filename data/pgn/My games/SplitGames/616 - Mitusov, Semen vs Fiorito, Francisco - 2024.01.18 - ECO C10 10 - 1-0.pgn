@@ -1,0 +1,20 @@
+﻿[Event "Sevilla Open 2024"]
+[Site "lichess.org"]
+[Date "2024.01.18"]
+[Round "7.5"]
+[White "Mitusov, Semen"]
+[Black "Fiorito, Francisco"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C10"]
+[WhiteElo "2479"]
+[BlackElo "2370"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "93"]
+[GameId "488964120577"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,93,28,17,34,46,25,44,36,35,59,59,47,37,50,37,25,11,20,12,13,13,11,-15,-13,-2,15,7,21,21,17,-2,45,36,52,0,26,15,1,0,70,98,141,102,102,93,93,22,46,52,71,51,49,48,46,13,55,55,64,64,226,226,237,251,248,251,251,250,285,282,282,209,261,280,285,276,293,286,278,303,364,349,355,387,476,408,515,527,746,777,797,1175,1192,1190,1191,1199]} 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Bd6 8. Bd3 O-O 9. Qe2 b6 10. O-O-O Bb7 11. Bg5 h6 12. Bh4 Rc8 (12... Be7 13. Ne5 Nd7 14. Bg3 Nxe5 15. Bxe5 $14) (12... c5 13. dxc5 bxc5 14. Ne5 Qc7 15. Bxf6 gxf6 16. Ng4 f5 17. Nxh6+ Kg7 18. Ng4 $11) 13. Kb1 (13. Ne5 c5 14. dxc5 Rxc5 15. f4 $13) 13... c5 14. dxc5 (14. Bb5 Be7 15. dxc5 Qc7 16. Ne5 Qxc5 17. Nd7 Nxd7 18. Bxe7 Qxe7 19. Rxd7 Qg5 20. f3 $14) (14. Rhe1 Bxf3 15. Qxf3 c4 16. Be4 g5 17. Bg3 Bxg3 18. fxg3 $13) 14... Rxc5 15. Rhe1 $6 (15. Bg3 $1 Ne8 16. Ne5 Qc7 17. Ng4 h5 18. Bxd6 Nxd6 19. Ne5 $14) 15... Qb8 $6 (15... Qe7 $1 16. Nd2 Rd8 17. f3 $11) 16. Bxf6 gxf6 17. Nd2 (17. Nd4 f5 18. Bc4 Be5 19. g4 $14) 17... Rd8 18. Ne4 Bxe4 19. Qxe4 Kf8 $2 (19... f5 20. Qh4 Kg7 21. Re3 Bf4 22. Rh3 Qc7 23. g3 Bg5 24. Qh5 Rxd3 $19) 20. Qh7 Ke7 21. Bf5 $6 (21. Bg6 $1 Rf8 22. Rd3 Be5 23. Red1 Rc7 24. Qxh6 Rh8 25. Qd2 $18) 21... Be5 (21... Re5 22. f4 Rxe1 23. Rxe1 $18) 22. Bg6 Rf8 23. Bd3 $6 (23. c3) 23... Qa8 (23... Rh8 24. Qe4 Rd8 25. Qe2 Rd4 26. c3) 24. Qxh6 Rh8 25. Qd2 Rxh2 26. Be4 $2 (26. f4 $1 Bc7 27. Be4 Qc8 28. f5 $18) 26... Qb8 27. g3 Qc7 28. Re3 Rc4 (28... f5 29. Rd3 Kf6 30. Rd7 Qc8 31. Bb7 Qf8 $13) 29. Rd3 Qc5 $4 (29... Kf8 30. Rh1 (30. Bg6 Bxb2 $3 31. Bxf7 Bc3 $11) 30... Rxh1+ 31. Bxh1 $16) 30. Rd8 Rd4 31. Rxd4 Qxd4 32. Qxd4 Bxd4 33. Rxd4 f5 34. Bc6 Rxf2 35. a4 e5 36. Rd7+ Ke6 37. Rxa7 e4 38. Bb5 e3 39. Ra8 Rf3 40. Rb8 Rxg3 41. Rxb6+ Ke7 42. Rb8 f4 43. a5 Rg1+ 44. Ka2 Rg5 45. a6 Rxb5 46. Rxb5 e2 47. Re5+ 1-0
+

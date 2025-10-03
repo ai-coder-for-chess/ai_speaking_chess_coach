@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.28"]
+[Round "8.7"]
+[White "Mitusov, Semen"]
+[Black "Laxman, R.R."]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C54"]
+[WhiteElo "2465"]
+[BlackElo "2310"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "99"]
+[GameId "2128602485305445"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 {[%eval 18,0]} e5 {[%eval 21,0]} 2. Nf3 {[%eval 13,0]} Nc6 {[%eval 17,0]} 3. Bc4 {[%eval 12,0]} Bc5 {[%eval 2,0]} 4. c3 {[%eval 9,0]} Nf6 {[%eval 13,0]} 5. d3 {[%eval 11,0]} d6 {[%eval 18,0]} 6. O-O {[%eval 8,0]} h6 {[%eval 16,0]} 7. Nbd2 {[%eval 15,0]} a5 {[%eval 23,0]} 8. Re1 {[%eval 29,0]} O-O {[%eval 23,0]} 9. Nf1 {[%eval 27,0]} Bb6 {[%eval 33,0]} 10. Ng3 {[%eval 28,0]} Ne7 {[%eval 2,0]} 11. d4 {[%eval 19,0]} Ng6 {[%eval 31,0]} 12. h3 {[%eval 19,0]} c6 {[%eval 45,0]} 13. Bb3 {[%eval 4,0]} Be6 {[%eval 38,0]} 14. Bc2 {[%eval 44,0]} Bc7 {[%eval 35,0]} 15. Be3 {[%eval 41,0]} Re8 {[%eval 37,0]} 16. Qd2 {[%eval 4,0]} Kh7 {[%eval 55,0]} 17. a4 {[%eval 47,0]} Qe7 {[%eval 63,0]} 18. Rad1 {[%eval 57,0]} Rad8 {[%eval 8,0]} 19. Qc1 {[%eval 45,0]} Qf8 {[%eval 46,0]} 20. Nf5 {[%eval 27,0]} Bxf5 $6 {[%eval 98,0] Inaccuracy. Kh8 was best.} (20... Kh8) 21. exf5 {[%eval 100,0]} Ne7 {[%eval 104,0]} 22. dxe5 {[%eval 102,0]} dxe5 {[%eval 104,0]} 23. Rxd8 {[%eval 113,0]} Rxd8 {[%eval 103,0]} 24. Bc5 {[%eval 104,0]} b6 {[%eval 113,0]} 25. Ba3 {[%eval 111,0]} e4 {[%eval 154,0]} 26. Bxe4 {[%eval 149,0]} Nxe4 {[%eval 127,0]} 27. Rxe4 {[%eval 125,0]} c5 {[%eval 105,0]} 28. Qc2 {[%eval 101,0]} Nd5 {[%eval 166,0]} 29. b3 {[%eval 142,0]} Nf6 {[%eval 197,0]} 30. Re1 $2 {[%eval 78,0] Mistake. Re2 was best.} (30. Re2 Rd7 31. c4 Qd8 32. Rd2 Qe8 33. Kf1 Rxd2 34. Nxd2 Be5 35. Nf3 Ba1) 30... Qd6 {[%eval 88,0]} 31. Bb2 {[%eval 56,0]} c4 {[%eval 6,0]} 32. bxc4 {[%eval 64,0]} Qf4 $6 {[%eval 143,0] Inaccuracy. Qc5 was best.} (32... Qc5 33. Qb3) 33. c5 {[%eval 137,0]} bxc5 {[%eval 135,0]} 34. c4 {[%eval 133,0]} Qd6 {[%eval 157,0]} 35. Kf1 {[%eval 117,0]} Kg8 {[%eval 114,0]} 36. Bc3 {[%eval 115,0]} Qa6 {[%eval 151,0]} 37. Bd2 {[%eval 107,0]} Qc6 {[%eval 108,0]} 38. Kg1 {[%eval 95,0]} Kf8 {[%eval 101,0]} 39. Bc3 {[%eval 124,0]} Qa6 $6 {[%eval 215,0] Inaccuracy. Kg8 was best.} (39... Kg8 40. Nd2) 40. Ne5 $6 {[%eval 113,0] Inaccuracy. Bxf6 was best.} (40. Bxf6) 40... Qd6 $6 {[%eval 206,0] Inaccuracy. Kg8 was best.} (40... Kg8) 41. f4 {[%eval 166,0]} Kg8 {[%eval 139,0]} 42. Qe2 {[%eval 148,0]} Qb6 {[%eval 158,0]} 43. Ng4 {[%eval 165,0]} Nh5 {[%eval 137,0]} 44. f6 {[%eval 134,0]} Nxf4 {[%eval 163,0]} 45. Qe4 {[%eval 165,0]} Qb3 {[%eval 171,0]} 46. Qf3 {[%eval 142,0]} Nd3 $4 {[%eval 949,0] Blunder. h5 was best.} (46... h5) 47. Nxh6+ Kh7 48. Nxf7 Qxc3 49. Qh5+ Kg8 50. Qh8+ 1-0
+

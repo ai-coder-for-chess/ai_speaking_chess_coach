@@ -1,0 +1,17 @@
+﻿[Event "OSS hostturnering 2023"]
+[Site "?"]
+[Date "2023.09.08"]
+[Round "1"]
+[White "Sveshnikov med L*f6"]
+[Black "?"]
+[Result "*"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "34"]
+[GameId "477784363674"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 (10... Bg7 11. Bd3 Be6 12. c3 f5 13. Qh5 O-O 14. exf5 Bxd5 15. f6 e4 16. fxg7 Re8 17. Qxd5 exd3+ 18. Kf1 Ne5 19. g3 Qb6 20. Kg2 Rac8) 11. Nxb5 axb5 12. Bxb5 Bb7 13. exf5 Rc8 14. a4 Bg7 15. Ra3 Kf8 16. Rg3 Nd4 (16... h5 17. c3 e4 18. O-O Ne5 19. Qd4 h4 20. Rxg7 Kxg7 21. Qxe4) 17. Qg4 Bf6 *
+

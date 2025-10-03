@@ -1,0 +1,22 @@
+﻿[Event "Eliteserien 2023 24"]
+[Site "Oslo"]
+[Date "2024.??.??"]
+[Round "8.12"]
+[White "Isik, Alparslan"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2452"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "90"]
+[GameId "493657890493"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+[WhiteTeam "SK 1911"]
+[BlackTeam "OSS"]
+
+{[%evp 0,90,31,29,14,-5,-5,18,6,20,39,42,34,8,18,23,2,-3,-3,-27,-34,-57,-48,-40,-27,-70,-34,-49,-64,-63,-51,-65,-73,-72,-51,-40,-35,-28,-7,-7,56,60,74,65,74,-5,-19,-19,59,33,54,52,47,62,48,48,91,120,59,55,61,14,39,29,0,0,0,0,32,38,-51,-28,-28,-24,-35,-34,0,-34,-34,-58,-57,-36,-34,-39,-32,-39,-39,-39,-39,-39,-39,-39,-39]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Bb4 7. Qb3 (7. e3) (7. Qc2 h6 (7... c5 8. e3 Qa5 9. Bd3 c4 10. Bf5 O-O 11. O-O Re8 12. Nd2 g6 (12... Qa6) 13. Bh3) 8. Bh4 g5 9. Bg3 Ne4 10. Nd2 Nxg3 11. hxg3 c6 12. a3 Be7) 7... c5 8. e3 Qa5 9. Rc1 (9. Bxf6 c4 10. Bd8 Kxd8 11. Qc2 Nf6 12. Nd2 g6 $17) 9... c4 10. Qc2 Ne4 11. Bh4 Qxa2 (11... Nxc3 12. bxc3 Ba3 13. Rb1 Nb6 14. Be2 Na4 15. Kd2 O-O 16. Bd1 b5 17. Ne5 Nxc3 18. Qxc3 b4 19. Qa1 c3+ $19) 12. Be2 b5 13. O-O Bxc3 14. bxc3 Qxc2 15. Rxc2 Nb6 (15... a5 16. Nd2 Nxd2 17. Rxd2 b4 18. e4 Nb6 $19) 16. Nd2 Bf5 (16... Nxd2 $1 17. Rxd2 a5 18. Ra1 b4 19. cxb4 axb4 20. Rxa8 Nxa8 21. e4 b3 $19) 17. Nxe4 Bxe4 18. Ra2 Na4 $6 (18... a5 $1 19. f3 (19. Rfa1 Na4 20. f3 Nxc3 21. fxe4 Nxa2 22. Rxa2 b4 $19) 19... Bd3 20. Rfa1 Bxe2 21. Rxe2 b4) 19. Rc1 Nxc3 $1 20. Rxc3 b4 21. Rc1 b3 22. Rb2 $1 (22. Rd2 $2 a5 23. f3 Bg6 24. e4 Kd7 $1 25. exd5 Rhb8 $19) 22... a5 23. f3 a4 $6 (23... Bg6 24. Ra1 a4 25. Ra3 Kd7 26. Be1 Bd3 27. Bc3 f5 28. Kf2 Bxe2 29. Rxe2 Rhe8 30. h4 Kc6 31. f4 Kb5 32. Re1 Re6 33. g3 h6 34. Re2 g5 $19) 24. fxe4 a3 25. Rbb1 $1 a2 26. Be1 $1 axb1=Q 27. Rxb1 Kd7 28. exd5 (28. Bg4+ Kc7 29. exd5 Ra2 $11) 28... Rhb8 29. Bxc4 (29. Bc3 Ra2 30. Bxc4 Rc2 $11) 29... b2 30. Kf2 Ra1 31. Bd3 Rxb1 32. Bxb1 Ra8 33. Bc3 Ra1 34. Bxh7 g6 35. Bxb2 Ra2 36. h4 Rxb2+ 37. Kf3 Ke7 38. h5 (38. g4 Rb8 (38... Kf6 39. d6 Kg7 40. Ke4 Kxh7 41. d7 Rb8 42. Kd5 $18) 39. h5 gxh5 40. gxh5 Rh8 41. Bf5 Rxh5 $11) 38... gxh5 39. Be4 Rd2 40. Kf4 h4 41. Bf3 f6 42. Kf5 Rd3 43. Ke4 Rd2 44. Kf5 Rd3 45. Ke4 Rd2 1/2-1/2
+

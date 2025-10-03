@@ -1,0 +1,23 @@
+﻿[Event "Fagernes International 2024"]
+[Site "Fagernes, Norway"]
+[Date "2024.03.26"]
+[Round "3.21"]
+[White "Lindh, Fredrik"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/xSpaceX"]
+[ECO "C60"]
+[WhiteElo "2256"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "82"]
+[GameId "495646808914"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "100/40+40:0"]
+[WhiteClock "0:39:27"]
+[BlackClock "0:49:20"]
+
+1. e4 {[%eval 13,0] [%emt 0:00:00]} e5 {[%eval 17,0] [%emt 0:00:00]} 2. Nf3 {[%eval 21,0] [%emt 0:00:00]} Nc6 {[%eval 13,0] [%emt 0:00:00]} 3. Bb5 {[%eval 21,0] [%emt 0:00:00]} Nge7 {[%eval 53,0] [%emt 0:00:00]} 4. Nc3 {[%eval 56,0] [%emt 0:00:00]} Ng6 {[%eval 34,0] [%emt 0:00:00]} 5. d4 {[%eval 5,0] [%emt 0:00:00]} exd4 {[%eval 51,0] [%emt 0:00:00]} 6. Nxd4 {[%eval 13,0] [%emt 0:00:00]} Nxd4 {[%eval 52,0] [%emt 0:00:00]} 7. Qxd4 {[%eval 46,0] [%emt 0:00:00]} c6 {[%eval 24,0] [%emt 0:00:00]} 8. Be2 {[%eval 39,0] [%emt 0:00:00]} Qb6 {[%eval 44,0] [%emt 0:00:00]} 9. Qd3 {[%eval 43,0] [%emt 0:00:00]} Be7 {[%eval 42,0] [%emt 0:00:00]} 10. O-O {[%eval 47,0] [%emt 0:00:00]} O-O {[%eval 43,0] [%emt 0:00:00]} 11. a4 {[%eval 4,0] [%emt 0:00:00]} d6 {[%eval 41,0] [%emt 0:00:00]} 12. Be3 {[%eval 42,0] [%emt 0:00:00]} Qc7 {[%eval 53,0] [%emt 0:00:00]} 13. f4 {[%eval 59,0] [%emt 0:00:00]} Kh8 {[%eval 63,0] [%emt 0:00:00]} 14. Bh5 {[%eval 3,0] [%emt 0:00:00]} Bd7 {[%eval 6,0] [%emt 0:00:00]} 15. Bd4 {[%eval 51,0] [%emt 0:00:00]} Qa5 {[%eval 57,0] [%emt 0:00:00]} 16. Bxg6 {[%eval 25,0] [%emt 0:00:00]} fxg6 {[%eval 28,0] [%emt 0:00:00]} 17. b4 {[%eval 37,0] [%emt 0:00:00]} Qc7 {[%eval 51,0] [%emt 0:00:00]} 18. Ne2 {[%eval 0,0] [%emt 0:00:00]} Bf6 {[%eval 23,0] [%emt 0:00:00]} 19. a5 {[%eval 26,0] [%emt 0:00:00]} Rae8 {[%eval 13,0] [%emt 0:00:00]} 20. Bxf6 {[%eval 14,0] [%emt 0:00:00]} Rxf6 {[%eval 18,0] [%emt 0:00:00]} 21. Nc3 {[%eval 2,0] [%emt 0:00:00]} Be6 {[%eval 16,0] [%emt 0:00:00]} 22. Rad1 {[%eval 8,0] [%emt 0:00:00]} Qf7 {[%eval 12,0] [%emt 0:00:00]} 23. Qe3 {[%eval 5,0] [%emt 0:00:00]} Bg4 {[%eval 41,0] [%emt 0:00:00]} 24. Rd2 {[%eval 32,0] [%emt 0:00:00]} a6 {[%eval 4,0] [%emt 0:00:00]} 25. h3 {[%eval 32,0] [%emt 0:01:45]} Bc8 {[%eval 35,0] [%emt 0:00:00]} 26. Rff2 {[%eval 33,0] [%emt 0:03:23]} h6 {[%eval 62,0] [%emt 0:00:00]} 27. e5 {[%eval 67,0] [%emt 0:08:27]} Rfe6 {[%eval 88,0] [%emt 0:00:00]} 28. Ne4 {[%eval 92,0] [%emt 0:03:19]} Qe7 {[%eval 97,0] [%emt 0:00:00]} 29. Qd4 $2 {[%eval 54,0] [%emt 0:02:00] Mistake. Qe1 was best.} (29. Qe1 dxe5) 29... dxe5 {[%eval 51,0] [%emt 0:00:00]} 30. fxe5 {[%eval 5,0] [%emt 0:00:14]} Rxe5 {[%eval 4,0] [%emt 0:00:00]} 31. Nd6 {[%eval 35,0] [%emt 0:00:46]} Rd5 {[%eval 35,0] [%emt 0:00:00]} 32. Qf4 {[%eval 55,0] [%emt 0:00:49]} Qe1+ $6 {[%eval 0,0] [%emt 0:08:24] Inaccuracy. g5 was best.} (32... g5 33. Qf7) 33. Kh2 {[%eval 0,0] [%emt 0:00:15]} g5 {[%eval 0,0] [%emt 0:00:18]} 34. Qf7 {[%eval 0,0] [%emt 0:01:29]} Qe5+ {[%eval 0,0] [%emt 0:04:57]} 35. g3 {[%eval 0,0] [%emt 0:00:33]} Rg8 {[%eval 47,0] [%emt 0:00:32]} 36. Rxd5 $2 {[%eval 63,0] [%emt 0:00:38] Mistake. Qxd5 was best.} (36. Qxd5 Qxd5 37. Rxd5 cxd5 38. Rd2 Rf8 39. c3 Kg8 40. g4 Rd8 41. Rxd5 Kf8 42. c4 Ke7) 36... cxd5 {[%eval 74,0] [%emt 0:00:25]} 37. Qc7 $6 {[%eval -67,0] [%emt 0:01:09] Inaccuracy. Nxc8 was best.} (37. Nxc8 Rxc8 38. Qf3 Qd4 39. Re2 Rd8 40. c3 Qc4 41. Qe3 Rc8 42. Kg2 d4 43. cxd4 Qxb4) 37... Qe3 {[%eval -93,0] [%emt 0:00:38]} 38. Qc5 $2 {[%eval -158,0] [%emt 0:00:40] Mistake. Rg2 was best.} (38. Rg2 Be6 39. Qxb7 Qf3 40. Qe7 Bxh3 41. Rd2 Bg4 42. Qf7 Qe3 43. Rg2 Rb8 44. b5 axb5) 38... d4 {[%eval -196,0] [%emt 0:00:37]} 39. Kg2 $4 {[%eval -498,0] [%emt 0:00:38] Blunder. Rg2 was best.} (39. Rg2 Bd7) 39... Bxh3+ {[%eval -471,0] [%emt 0:01:13]} 40. Kxh3 {[%eval -479,0] [%emt 0:00:24]} Qxf2 {[%eval -486,0] [%emt 0:00:23]} 41. Qd5 {[%eval -559,0] [%emt 0:00:00]} Rf8 {[%eval -414,0] [%emt 0:00:00]} 0-1
+

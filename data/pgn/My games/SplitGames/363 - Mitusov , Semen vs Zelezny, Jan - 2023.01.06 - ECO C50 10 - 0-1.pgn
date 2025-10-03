@@ -1,0 +1,19 @@
+﻿[Event "Prague Open"]
+[Site "?"]
+[Date "2023.01.06"]
+[Round "1.3"]
+[White "Zelezny, Jan"]
+[Black "Mitusov , Semen"]
+[Result "0-1"]
+[Annotator "Semen"]
+[ECO "C50"]
+[WhiteElo "1949"]
+[BlackElo "2397"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "40"]
+[GameId "455615093658"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 h6 8. Bh4 Qe7 9. f4 Qc5 10. Bxf7+ $4 (10. fxe5 Nf3+ 11. Kh1 Nxh4 12. exf6 Qxc4 13. fxg7 Rg8 14. Nc3 c6 15. Qd2 d6 16. Rae1 Be6 17. Nd5 Rxg7 18. Nf6+ Ke7 19. Qxh6 Nxg2 20. Qxg7 Nxe1 21. Rxe1 Qc5 22. e5 Bd5+ 23. Nxd5+ Qxd5+ 24. Kg1 Qd4+ $11) 10... Kxf7 11. fxe5 Nf3+ 12. Kh1 Nxh4 13. Qh5+ $2 (13. exf6 d6 14. Nc3 Qe5 15. Nd5 c6 $19) 13... Kg8 14. Rxf6 gxf6 15. Qxh4 Qxe5 16. Nc3 c6 17. Rf1 Qg5 18. Qe1 d6 19. e5 Qxe5 20. Ne4 Bf5 0-1
+

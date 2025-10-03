@@ -1,0 +1,19 @@
+﻿[Event "OSS vеrturnering 2023"]
+[Site "?"]
+[Date "2023.03.03"]
+[Round "3"]
+[White "Al-Tarboush, Ward"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B92"]
+[WhiteElo "2256"]
+[BlackElo "2396"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "84"]
+[GameId "460532671723"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,84,25,33,43,50,77,42,48,30,28,17,78,42,31,21,40,60,44,26,63,55,25,18,9,8,4,-2,15,-2,17,16,14,-1,15,-3,-15,-45,-44,-65,-59,-59,-38,-65,-114,-86,-97,-97,-92,-85,-89,-135,-115,-142,-136,-122,-95,-108,-52,-111,-108,-108,-108,-78,-55,-78,-52,-95,-44,-60,-68,-137,-236,-206,-201,-213,-292,-254,-254,-1843,-2611,-29983,-29984,-29985,-29986,-29987,-29988]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 (7... Be7 8. O-O (8. f4 O-O 9. O-O Bd7 10. Be3 Bc6 11. Bd3 b5 $11) 8... O-O 9. Be3 Be6) 8. f4 h6 $6 (8... Be7 9. f5 Bd7 10. Bg5 Bc6 11. Bxf6 Bxf6 12. Qd3 Bg5 $11) 9. f5 (9. Be3 exf4 10. Bxf4 Nc6 $14) 9... Bc8 (9... Bd7 10. Be3 Bc6 11. Qd3 b5 12. Nd5 $14) 10. Be3 Nbd7 11. Qd3 b5 12. a4 b4 13. Nd5 Bb7 14. Bf3 Bxd5 15. exd5 Be7 16. O-O-O Qc7 17. Kb1 O-O 18. Qd2 Rfc8 19. Rc1 e4 20. Be2 Ne5 21. a5 $2 (21. Qxb4 Nxd5 22. Qxe4 Nxe3 23. Qxe3 Bg5 $19) (21. Bd4 Qd7 22. g4 Nxd5 23. h4 $11) 21... Nc4 22. Bxc4 Qxc4 23. Rhd1 Rab8 (23... Ng4 24. Bf4 e3 25. Qd4 Bf6 26. Qxc4 Rxc4 27. Bxd6 e2 28. Rd3) 24. Bb6 Bd8 25. Bxd8 (25. g4 Rxb6 26. axb6 Bxb6 $19) 25... Rxd8 26. Qe1 $2 (26. g4 $1 Rb5 27. g5 Rxd5 28. Qg2 hxg5 29. Qxg5 Rxd1 30. Rxd1 Rc8 31. Rg1 Ne8 $17) 26... Re8 27. Rd4 Qc8 (27... Qb5 28. Rcd1 Re5 $19) 28. g4 Re5 (28... e3 29. Qe2 Rb5 30. Rcd1 Re5 $19) 29. Qe2 $6 (29. Rxb4 $17) 29... Qb7 30. Re1 Rbe8 31. h4 Nxd5 32. g5 hxg5 $2 (32... h5 33. Qxh5 Rxf5 $17) 33. hxg5 Rxf5 34. Qh2 $2 (34. Rxe4 Rfe5 35. Rxe5 Rxe5 36. Qf2 Qe7 37. Rxe5 dxe5 $11) 34... Rxg5 35. Rh1 f6 36. Qxd6 e3 37. Rdh4 e2 38. Rh8+ Kf7 39. Nc5 (39. Rxe8 Nc3+ 40. bxc3 Qxh1+ 41. Ka2 Kxe8 42. Qe6+ Kf8 43. Qc8+ Kf7 44. Qd7+ Kg8 45. Qe8+ Kh7 46. Qxe2 bxc3 $19) 39... e1=Q+ 40. Rxe1 Rxe1+ 41. Ka2 b3+ 42. Nxb3 Nb4+ 0-1
+

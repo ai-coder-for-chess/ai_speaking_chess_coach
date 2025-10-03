@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Gbiorczyk, Mikolaj"]
+[Result "1-0"]
+[Annotator "Semen"]
+[ECO "C55"]
+[WhiteElo "2315"]
+[BlackElo "1663"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "60"]
+[GameId "453748184836"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. c3 d6 6. Qe2 g5 7. Be3 Bg7 8. h3 Be6 9. Nbd2 Qd7 10. O-O-O O-O-O 11. Kb1 d5 12. Bb5 Qd6 13. Bxc6 $2 (13. Nb3 Nd7 14. exd5 Bxd5 15. c4 Be6 16. c5 Qe7 17. Bxc6 bxc6 $16) 13... bxc6 $4 (13... Qxc6 $1 14. Nxe5 Qa6 (14... Qd6 15. f4) 15. Nb3 dxe4) 14. Nb3 Nd7 15. d4 exd4 16. Nfxd4 (16. Qa6+ Kb8 17. Na5 Nc5 18. Nxc6+) 16... c5 17. Nb5 Qb6 18. exd5 Bf5+ 19. Ka1 a6 20. Na3 Kb7 21. Nc4 Qb5 22. Nca5+ Ka8 23. Qxb5 axb5 24. Nc6 Rde8 25. Nxc5 Nxc5 (25... Rxe3 26. Nxd7 Rxc3 $11) 26. Bxc5 Re2 27. Rhe1 Rhe8 28. Ne7 Rxe1 29. Rxe1 Bf6 30. Re3 Bh7 1-0
+

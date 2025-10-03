@@ -1,0 +1,21 @@
+﻿[Event "×У"]
+[Site "?"]
+[Date "2021.05.10"]
+[Round "5"]
+[White "Квак"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C54"]
+[WhiteElo "2048"]
+[BlackElo "2288"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "401991369575"]
+[EventType "simul"]
+[EventRounds "15"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,7,16,28,38,44,44,13,24,-9]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4 Bb6 9. Nc3 O-O 10. Be3 Kh8 11. O-O Bg4 12. h3 Bh5 13. Qc1 Bxf3 (13... f6 14. Bxc6 bxc6 15. exf6 Bxf3 16. fxg7+ Kxg7 17. Bh6+ (17. gxf3 Rxf3 18. Nxe4 dxe4 19. Qxc6) 17... Kh8 18. Bxf8 Qxf8) 14. gxf3 Nxc3 15. bxc3 Ne7 16. f4 Rc8 17. Qd1 f5 18. Kh2 c5 19. Rg1 Ng6 20. Qh5 Qh4 21. Qf3 Ne7 22. Rg5 g6 23. Rb1 cxd4 24. cxd4 Rc2 25. a4 Rfc8 26. a5 Bxa5 27. Ba4 R2c7 28. Rb5 Bb6 29. Rxd5 h6 30. Rg1 Nxd5 31. Qxd5 Kh7 32. Bd7 Rg8 33. Bxf5 Rcg7 34. Rxg6 Kh8 35. Qe6 Rxg6 36. Bxg6 Bd8 $2 (36... Bxd4 $3 37. Qf7 Rxg6 $2 (37... Rg7 38. Qf8+ Rg8 $11) 38. Qxg6 (38. Bxd4 $3 Re6 $3) 38... Bxe3 39. fxe3 Qf2+ 40. Qg2) 37. Bd3 (37. Be4 Bg5 38. fxg5 Qxe4 39. Qxh6+ Qh7) 37... a5 38. Bc4 Rf8 39. d5 $4 Rxf4 40. Qe8+ Kg7 41. Bxf4 Qxf2+ 42. Kh1 Qf3+ 43. Kg1 $4 Bb6+ 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.17"]
+[Round "8.7"]
+[White "Navrotescu, Andreea"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A85"]
+[WhiteElo "2320"]
+[BlackElo "2464"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "42"]
+[GameId "2137161459880073"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. c4 f5 2. Nc3 Nf6 3. d4 g6 4. h4 Bg7 5. h5 Nxh5 6. e4 Nf6 $6 {Inaccuracy. fxe4 was best.} (6... fxe4 7. Rxh5 gxh5 8. Qxh5+ Kf8 9. Qf5+ Kg8 10. Qxe4 Nc6 11. Nf3) 7. exf5 gxf5 8. Be2 O-O 9. Qd3 d6 10. Qh3 $2 {Mistake. Qg3 was best.} (10. Qg3 Nc6 11. Nf3 Ng4 12. Bg5 Qe8 13. Nd5 Rb8 14. b4 Rf7 15. Nxc7 Qd7) 10... f4 11. Qh2 e5 12. Bd3 $6 {Inaccuracy. dxe5 was best.} (12. dxe5) 12... h6 13. f3 Nc6 14. Nge2 $6 {Inaccuracy. d5 was best.} (14. d5 e4 15. Bxe4 Nxe4 16. Nxe4 Ne5 17. Bd2 Bf5 18. Bc3 Qd7 19. Bxe5 Bxe5) 14... exd4 15. Nb5 $6 {Inaccuracy. Nd5 was best.} (15. Nd5 Nxd5 16. cxd5 Nb4 17. Be4 Bf5 18. a3 Bxe4 19. axb4 Bxd5 20. Nxf4 Bc4) 15... Nb4 16. Bb1 $6 {Inaccuracy. Bg6 was best.} (16. Bg6 d3 17. Nxf4 Ng4 18. Qh4 Nc2+ 19. Kf1 Qxh4 20. Rxh4 Ne5 21. Be4 Nxa1) 16... d3 17. Nxf4 Qe7+ 18. Kd1 Ng4 19. Qg1 $6 {Inaccuracy. Qh4 was best.} (19. Qh4 Ne3+ 20. Kd2 Qe5 21. Nxd3 Nxd3 22. Bxd3 Bf5 23. Re1 Rae8 24. Qf2 Bxd3) 19... Rxf4 20. Qe1 Qxe1+ 21. Kxe1 Rxc4 0-1
+

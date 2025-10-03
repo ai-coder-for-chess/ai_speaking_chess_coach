@@ -1,0 +1,19 @@
+﻿[Event "Kragerш Resort 2023"]
+[Site "?"]
+[Date "2023.02.22"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Шksendal, Martin"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2396"]
+[BlackElo "2041"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "125"]
+[GameId "459871410513"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 Be6 8. g4 d5 9. exd5 Nxd5 10. Bg2 Bb4 11. O-O Bxc3 12. bxc3 $6 (12. Nxc3 Nxc3 13. Qxd8+ Kxd8 14. bxc3 Nc6 15. Be3 Kc7 16. Rfb1 b5 17. a4 Bc4 18. a5 $18) 12... Nc6 13. Rb1 O-O 14. Ba3 Re8 15. c4 (15. Rxb7 Na5 16. Rb1 Nc4 17. Bc1 $15) 15... Nf4 16. Nxf4 exf4 17. Rxb7 Ne5 18. Bb2 f3 19. Bh1 Bxc4 20. Qxd8 Raxd8 21. Re1 Be2 (21... Bd5 22. Rc7 Ng6 23. Rxe8+ Rxe8 24. Kh2 Nf4 25. Rc3 Ne2 26. Rd3 $11) 22. Bxe5 Rxe5 23. Rb3 Rc5 (23... Re4 24. Kh2 h5 25. gxh5 $11 (25. Kg3 hxg4 26. hxg4 Rdd4 $19)) 24. Bxf3 Bxf3 25. Rxf3 Rxc2 26. Re7 f6 27. Rb3 Kh8 28. a3 h6 29. Rbb7 Rg8 30. Ra7 Rc6 31. Kg2 Kh7 32. Kg3 Kg6 33. a4 h5 34. gxh5+ Kxh5 35. Rxg7 Rc3+ 36. f3 Rxg7+ 37. Rxg7 f5 $4 (37... a5 $11) 38. Rh7+ Kg5 39. h4+ Kg6 40. Ra7 (40. Rd7 Rc6 41. Rd5 Rb6 42. h5+ Kg5 43. f4+ Kxh5 44. Rxf5+ Kg6 45. Ra5 $18) 40... Rc6 41. a5 Kh5 42. Rh7+ Kg6 43. Rb7 Rc4 44. Kh3 $4 $11 (44. Rb6+ Kh5 45. Rf6 f4+ 46. Rxf4 Rc5 47. Ra4 $18) 44... Kh5 45. Rh7+ Kg6 46. Ra7 Kh5 47. Rxa6 Rxh4+ 48. Kg3 Ra4 49. Ra8 f4+ 50. Kh3 Ra3 51. a6 Kg6 52. Kg4 Ra4 53. Kh4 Kh6 54. Ra7 Kg6 55. Kg4 Kf6 56. Kh5 Ra1 57. Ra8 Ra5+ 58. Kh6 Ra1 59. Rf8+ Ke7 $4 (59... Ke5 $11) 60. Rxf4 Rxa6+ 61. Kg7 Ra5 (61... Re6 62. Rf7+ Ke8 63. f4 Re1 64. f5 $18) 62. Re4+ Kd6 63. f4 1-0
+

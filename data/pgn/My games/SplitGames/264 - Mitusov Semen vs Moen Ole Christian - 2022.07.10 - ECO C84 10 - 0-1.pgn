@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "?"]
+[Date "2022.07.10"]
+[Round "2"]
+[White "Moen Ole Christian"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C84"]
+[WhiteElo "2152"]
+[BlackElo "2378"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "128"]
+[GameId "439674694590"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,26,25,31,11,38,38,10,8,4,6,12,2,2,19,10,28,-36,3,-32,17,-12,-29,-57,5,-79,-61,-51,-38]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 (5... Be7 6. Bxc6 dxc6 7. d3 Nd7 8. Nbd2 f6 9. Nc4 Nc5 10. Nh4 Be6 11. Nf5 Bf8 12. Qe2 Qd7 13. f4 Bxc4 14. dxc4 g6 15. Rd1 Qe6 16. Ng3 exf4 17. Bxf4 Bd6 $15) 6. Bb3 Be7 7. d4 d6 8. c3 O-O 9. h3 Re8 (9... h6 10. Re1 Re8 11. Nbd2 Bf8 12. Nf1 $14) 10. Ng5 Rf8 11. f4 h6 12. Nf3 exd4 $2 (12... Bb7 13. Re1 (13. Nbd2 exf4) 13... Re8 $11) 13. cxd4 d5 14. e5 Ne4 15. Nc3 Nxc3 (15... Be6 $5 16. Re1 $16 (16. Nxe4 dxe4 17. d5 Bc5+ 18. Kh2 Bf5 $16)) 16. bxc3 f5 (16... Bf5 17. Bc2 Bxc2 18. Qxc2 f5 $18) 17. exf6 $1 Rxf6 18. Ne5 Na5 19. Bc2 Bf5 20. Bxf5 Rxf5 21. Qd3 Rf8 22. f5 Nc4 23. Qg3 h5 $4 (23... Bg5 $1 24. Bxg5 Qxg5 25. Qxg5 hxg5 26. Rae1 Nd2 $11) 24. Qg6 $2 (24. Ng6 $1 Rf7 (24... Re8 25. Nxe7+ Qxe7 26. f6 Qf7 27. Bh6 g6 28. Bg7 $18) 25. Qf3 $18) 24... Nxe5 $2 (24... Bf6 25. Bf4 (25. Nxc4 dxc4) 25... Qe8 $16) 25. dxe5 Bc5+ 26. Kh1 Qe8 27. Qg3 h4 28. Qf4 Qh5 29. Qg4 $2 (29. Bd2 $1 Rae8 30. Rae1 a5 $18) 29... Qxg4 30. hxg4 d4 31. Bd2 Rad8 32. Rae1 $6 (32. Rad1 dxc3 33. Bxc3 b4 34. Bb2 Be7 $14) 32... dxc3 33. Bxc3 b4 34. Ba1 Rd2 35. g5 $6 (35. e6 Be7 $1 36. Rc1 Bd6 $11) 35... Bf2 36. e6 $2 (36. Re4 Rxf5 37. Bd4 Kf7 38. Bxf2 Rdxf2 39. Rxf2 Rxf2 40. Rxb4 Ke6 $15) 36... Bxe1 37. Rxe1 Rxa2 38. f6 (38. Bd4 Ra5 39. f6 Rd5 40. f7+ Rxf7 41. exf7+ Kxf7 42. Be3 b3 $19) 38... gxf6 39. gxf6 Rxa1 40. f7+ Kg7 41. Rxa1 Kf6 $4 $11 (41... Rb8 42. Rxa6 b3 43. Ra1 b2 44. Rb1 c5 $19) 42. Rxa6 b3 43. Ra3 $6 (43. Rc6 $1 b2 44. e7+ Kxe7 45. Rxc7+ Kf6 46. Rb7 $11) 43... b2 44. Rb3 Kxe6 45. Rxb2 Rxf7 46. Rb4 Rh7 47. Kg1 c5 48. Rg4 $3 Kd5 49. Kf2 c4 50. Ke2 Kc5 51. Kd2 Kb4 52. Rg8 Rh5 53. Kc2 Ra5 54. Rb8+ Rb5 55. Rg8 Rb7 56. Rh8 $4 (56. g3 $1 h3 57. Rh8 Rf7 58. Rxh3 Rf2+ 59. Kd1 $3 Kb3 60. Rh8 Rg2 61. Rg8 $11) 56... Rg7 57. Rb8+ Kc5 58. Rc8+ Kd4 59. Rd8+ Ke3 60. Kc3 Rg4 61. Rf8 Rxg2 62. Kxc4 h3 63. Kc3 h2 64. Rh8 Kf2 0-1
+

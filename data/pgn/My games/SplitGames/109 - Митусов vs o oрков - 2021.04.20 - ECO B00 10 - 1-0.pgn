@@ -1,0 +1,20 @@
+﻿[Event "×У до 20 лет"]
+[Site "?"]
+[Date "2021.04.20"]
+[Round "2"]
+[White "Митусов"]
+[Black "o/oрков"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B00"]
+[WhiteElo "2286"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "400203368339"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 g6 5. d5 Nb8 6. Be3 Bg7 7. Qd2 O-O 8. Bh6 e6 9. dxe6 Bxe6 10. h3 d5 11. Bxg7 Kxg7 12. exd5 Nxd5 13. O-O-O c6 14. Bc4 Qf6 15. Bxd5 cxd5 16. Nxd5 Bxd5 17. Qxd5 Nc6 18. a3 Rac8 19. Qg5 Qe6 20. Kb1 Qc4 21. Qd5 Qe2 22. Rd2 Qe7 23. Re1 Qc7 24. Qc4 Rfd8 25. Qc3+ Kg8 26. Red1 Rxd2 27. Rxd2 b5 28. Qc5 Qb7 29. h4 b4 30. h5 bxa3 31. Qxa3 Nb4 (31... Qb5 32. Qd3 Qxh5 33. Qd7 Qf5 34. Qxf5 gxf5 $18) 32. h6 Qe4 $2 (32... Qb5 33. Ne1 $2 (33. b3 $18) 33... Re8 34. Nd3 Nxd3 35. Rxd3 Re1+ 36. Ka2 Qc4+ 37. Rb3 Re6 $11) 33. Qc3 1-0
+

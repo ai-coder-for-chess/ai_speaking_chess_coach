@@ -1,0 +1,21 @@
+﻿[Event "Синицина"]
+[Site "?"]
+[Date "2021.07.08"]
+[Round "6"]
+[White "Митусов"]
+[Black "Лемешев"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B12"]
+[WhiteElo "2426"]
+[BlackElo "2206"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "69"]
+[GameId "407213630483"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,22,16,28,79,69,75,57,54,37,65,58,102,20,42,17,19,25,16,26,15,14,0,0,61]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. f4 e6 7. h5 c5 8. c3 Nc6 9. Nf3 Qb6 10. Rh2 Rc8 11. Be3 Na5 12. dxc5 Bxc5 13. Bxc5 Qxc5 14. Qd4 Nc4 15. Bxc4 Qxc4 16. Qxc4 dxc4 17. Nbd2 Bc6 18. Nd4 Bd5 19. Nb5 Kf8 20. Nd6 Rc7 21. O-O-O g6 22. hxg6 fxg6 23. f5 gxf5 24. gxf5 exf5 25. Nxf5 Ne7 26. Ne3 Kg7 27. Rf2 Rhc8 28. Nxd5 Nxd5 29. Ne4 Ne3 30. Rg1+ Kh8 31. Rh2 Nf5 32. Rg5 Ng7 33. Nf6 h5 34. Rg6 Re7 35. Rh6# 1-0
+

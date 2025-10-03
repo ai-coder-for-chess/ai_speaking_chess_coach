@@ -1,0 +1,20 @@
+﻿[Event "×У"]
+[Site "?"]
+[Date "2021.05.13"]
+[Round "1"]
+[White "Митусов"]
+[Black "Масляк"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2212"]
+[BlackElo "2063"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "21"]
+[GameId "402260113029"]
+[EventType "simul"]
+[EventRounds "15"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. c3 e6 3. Nf3 d5 4. exd5 exd5 5. d4 Nf6 6. Bb5+ Nc6 7. O-O Be7 8. dxc5 O-O 9. Be3 Ne4 10. Nbd2 Nxc5 11. Qc2 1-0
+

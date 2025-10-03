@@ -1,0 +1,19 @@
+﻿[Event "Fagerness Autumn 2023"]
+[Site "?"]
+[Date "2023.10.10"]
+[Round "3.15"]
+[White "Mitusov, Semen"]
+[Black "Sitbon, Itay"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B15"]
+[WhiteElo "2468"]
+[BlackElo "2163"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "83"]
+[GameId "480122878599"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Bd3 O-O 8. Ne2 Re8 9. O-O Bg4 (9... Nd7 10. c4 Nf8 11. Ng3 g6 12. Qd2 f5 13. Rae1 Be6 14. Ne2) 10. h3 Bh5 11. Qd2 (11. c4 Nd7 (11... Bc7 12. Re1 Bg6 (12... Qd6 13. Bf4) 13. Qb3) 12. c5 Bc7 13. Qb3 f5 14. Rae1) 11... Nd7 12. Nf4 $6 (12. Rfe1 Nf8 13. c4 Bg6 (13... Bc7 14. Nf4 Bg6 15. Bf1) 14. Nc3) 12... Bg6 13. Nxg6 hxg6 14. c4 g5 $2 (14... f5 15. Bg5 Nf6 16. Rad1 $11) 15. Rfe1 g6 16. Rad1 Kg7 17. c5 Bc7 18. Bc4 Nf8 19. b4 Ne6 20. d5 cxd5 21. Bxd5 (21. Qxd5 Qxd5 22. Bxd5 Rab8 23. g3) 21... Qc8 22. b5 Be5 $2 (22... Nf4 23. Bf3 Qf5 24. Qd7) 23. c6 b6 24. Qb4 Nf4 $2 25. Bxf7 $1 a5 26. Qa3 Nxh3+ (26... Kxf7 27. Rd7+ Kg8 28. Bxf4 (28. Qb3+ Ne6 29. Bxg5) 28... Bxf4 29. Ree7) 27. Kf1 Rf8 (27... Rd8 28. Qe7 Qc7 29. Rd7 Rxd7 30. cxd7 Bd6 31. Qe4 Kxf7 32. Qxa8 Qxd7 33. Qd5+ Kg7) 28. Bb3 Re8 29. Rd7+ Kh8 30. gxh3 a4 31. Bc4 Ra7 32. Qd3 a3 33. Rxa7 Qxh3+ 34. Ke2 Bf4 35. Bd5 Qh5+ 36. Kd2 Qh4 37. Rh1 Bh2 38. Rxh2 Qxh2 39. Qxg6 Qxf2+ 40. Bxf2 Re2+ 41. Kxe2 g4 42. Qg7# 1-0
+

@@ -1,0 +1,21 @@
+﻿[Event "Rudar 9 2024"]
+[Site "?"]
+[Date "2024.08.07"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Stojanovic, Mihajlo"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C07"]
+[WhiteElo "2479"]
+[BlackElo "2471"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "119"]
+[GameId "2076176054177803"]
+[EventDate "2024.08.07"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,119,19,31,41,46,51,43,52,23,8,8,10,5,32,8,12,30,30,19,12,15,14,14,21,13,23,23,15,35,45,59,61,67,67,63,60,38,37,38,32,32,36,37,35,35,26,19,35,17,21,24,21,14,30,24,28,24,21,12,21,11,13,9,16,21,21,21,24,19,37,36,31,33,32,26,21,21,68,70,60,60,63,60,64,57,58,61,53,53,53,53,49,49,49,49,53,53,53,49,49,53,49,49,49,49,53,53,53,53,53,50,50,50,50,50,50,50,50,50,50,50]} 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Nxd5 7. c3 Be7 8. N2f3 Nc6 (8... O-O 9. Bd3 Nc6 10. O-O Nxd4 11. Nxd4 Bf6 12. Be4 Qb6) 9. Bc4 (9. Nxc6 bxc6 10. c4 $16 Nb4 (10... Nf6 11. Qxd8+ Bxd8 12. Bd3) 11. a3 Qxd1+ 12. Kxd1 Na6 13. b4 Bf6 14. Rb1 $16) 9... O-O 10. O-O Nxd4 11. Nxd4 Bf6 12. Re1 Qd6 (12... b6 13. Nc6 Qc7 14. Bxd5 Bb7 15. Qf3 exd5 16. Nd4 Bxd4 17. cxd4 $11) 13. Nf5 Qc5 14. Bxd5 (14. Bb3 $1 Rd8 (14... Nxc3 15. Nh6+ gxh6 16. bxc3 Rd8 17. Qg4+ Kh8 $14) 15. Nxg7) 14... Qxd5 15. Qxd5 exd5 16. Ne7+ Bxe7 17. Rxe7 f6 18. Be3 Rf7 19. Re8+ Rf8 20. Rxf8+ Kxf8 21. a4 Bd7 22. a5 a6 23. f3 h5 24. h4 Kf7 25. Kf2 Re8 26. Rd1 Bc6 27. Rd2 Re5 28. Bf4 Re8 29. Rd4 Rh8 30. Ke1 Ke6 31. Be3 Rg8 32. Kf2 Rh8 33. Rd1 Kf5 34. Rg1 Re8 35. g4+ hxg4 36. fxg4+ Kg6 37. h5+ Kh7 38. g5 fxg5 39. Rxg5 Re6 40. Rg4 (40. Ke2 g6 41. h6) 40... Re5 41. Bd4 Rxh5 42. Rxg7+ Kh6 43. Kf3 Rh4 44. Rg1 Re4 45. b4 Bb5 46. Be3+ Kh7 47. Rg5 Bc6 48. Kf2 Re6 49. Bd4 Kh6 50. Rg8 Re8 51. Rg1 Re4 52. Kf3 Bb5 53. Rg2 Bc6 54. Rg8 Re8 55. Rg7 Re4 56. Rg3 Bb5 57. Be3+ Kh7 58. Rg5 Bc6 59. Ke2 Bb5+ 60. Kf3 1/2-1/2
+

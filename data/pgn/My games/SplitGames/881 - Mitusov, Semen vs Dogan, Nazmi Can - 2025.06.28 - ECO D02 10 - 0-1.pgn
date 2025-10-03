@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open 2025"]
+[Site "?"]
+[Date "2025.06.28"]
+[Round "8.20"]
+[White "Dogan, Nazmi Can"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D02"]
+[WhiteElo "2199"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "56"]
+[GameId "2193728834707456"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 e6 (5... Nh5 6. dxc5 Nxf4 7. exf4 Qa5 (7... g6 8. c3 Bh6 9. g3 O-O 10. Bg2 b6 11. cxb6 Qxb6) 8. c4 (8. c3 Qxc5 9. Bd3 g6) (8. a3 Qxc5 9. c4 Be6 (9... g6)) 8... Qxc5 (8... e6 9. a3 Qxc5 10. b4 Qd6 11. g3 g6 12. Bg2 Bg7 13. O-O Bxa1 14. Qxa1 O-O 15. c5 Qe7 16. Rc1 a6 17. h4 Bd7 18. h5 f6 19. h6 Rf7 20. Nh2 Qf8 21. Ng4 e5 22. Ne3 Nd4 23. Bxd5 Ne2+ 24. Kf1 Nxc1 25. Qxc1 Bc6 26. Ne4 Bxd5 27. Nxd5 Qxh6 28. Kg1 exf4 29. Nd6 Raf8 30. Nxf4 Re7 31. Kg2 Kh8 32. Qc3 Qg7 33. Qc4 Re1 34. Qc3 Rd1 35. Qf3 Rxd6 36. cxd6 Qd7 37. Kh2 Rd8 38. Nh3 Kg7 39. Nf4 Qxd6 40. Qxb7+ Rd7 41. Qc8 Re7 42. Qc4 Qb6 43. Kg2 Qb7+ 44. Kh2 Qf3 45. Ne6+ Kh6 46. Qh4+ Qh5 47. Qxh5+ Kxh5 48. Nc5 Re2 49. Kg2 Ra2 50. a4 Kg4 51. a5 h5 52. Nxa6 Rb2 53. Nc7 Rxb4 54. Nd5 Rd4 55. Nf4 Kf5 56. a6 Ra4 57. Nd5 Rxa6 58. Ne7+ Kg5 59. Kh3 Kh6 {0-1 Shyam,S (2526)-Lintchevski,D (2548) Almaty Academy GM 12 2022 (1)}) 9. b4 Nxb4 10. a3 Nc6 11. Nb3 Qb6 12. cxd5 Nb8) 6. c3 Nh5 7. Bg5 f6 8. Bh4 g6 9. Bd3 cxd4 10. cxd4 Be7 11. Bb5 (11. O-O O-O 12. Rc1 Bd7 13. a3 Qe8 14. b4 g5 15. Bg3 Nxg3 16. hxg3 g4 17. Nh4 f5 18. f4 Qd8) 11... Bd7 12. O-O O-O 13. Bg3 Qb6 14. Ba4 Nxg3 15. hxg3 Rfd8 16. a3 Qxb2 $6 (16... Be8 17. b4 a5 18. b5 Na7 19. Qb3 g5) 17. Rb1 $6 (17. Nb3 $1 $11 Ne5 (17... Bxa3 18. Ne1) 18. Bxd7 Nxf3+ 19. gxf3 Rxd7 20. Re1) 17... Qxa3 18. Rxb7 Qd6 (18... Be8 $1) 19. e4 Rab8 20. e5 fxe5 21. Bxc6 Bxc6 22. Rxb8 Rxb8 23. Nxe5 a5 24. Qg4 Be8 25. Nd3 $2 (25. Ra1 a4 26. Kh2 a3 27. Qf4 Ra8 28. Nb3 $13) 25... Bb5 26. Nf4 Bxf1 27. Nxf1 Rb1 28. Nxe6 Qa6 0-1
+

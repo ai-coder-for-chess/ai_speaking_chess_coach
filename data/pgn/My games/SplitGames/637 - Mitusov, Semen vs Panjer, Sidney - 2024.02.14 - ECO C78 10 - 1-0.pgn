@@ -1,0 +1,20 @@
+﻿[Event "Portimao 2024"]
+[Site "lichess.org"]
+[Date "2024.02.14"]
+[Round "4.4"]
+[White "Mitusov, Semen"]
+[Black "Panjer, Sidney"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C78"]
+[WhiteElo "2487"]
+[BlackElo "2059"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "63"]
+[GameId "491351992877"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,63,34,34,13,13,22,13,16,2,4,14,19,19,30,-1,30,-9,79,79,66,-40,37,-13,4,11,138,61,91,17,34,31,34,39,53,36,46,-56,-45,-41,-53,-3,-12,-12,91,76,105,105,96,100,98,102,93,140,193,217,258,258,543,543,565,582,965,978,1000,956]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. a4 Rb8 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 Re8 13. Ng5 Rf8 14. Re1 Ra8 15. Nf3 Re8 16. Nbd2 exd4 $2 (16... Bb7 17. Ng5 (17. g4 exd4 18. cxd4 Ne7 19. Ng5 Rf8 20. e5) 17... Re7 18. Ndf3 h6 19. Nxf7 Rxf7 20. Bxf7+ Kxf7 21. dxe5) (16... h6 17. Nf1) 17. cxd4 h6 18. Nf1 $2 (18. e5 dxe5 19. dxe5 Bxe3 20. Rxe3 Nd5 21. Rd3 Ncb4 22. Bxd5 Nxd5 23. Ne4 Be6 24. Qd2 c6 25. Nf6+ gxf6 26. Qxh6 $18) 18... Rxe4 (18... Nxe4 19. Bd5 Bb7 20. Bxh6 gxh6 21. Rxe4 Rxe4 22. Bxe4 d5) 19. Ng3 Re8 20. Qd2 d5 21. Rac1 Ne7 $4 (21... Ne4 $1 22. Nxe4 dxe4 23. Ng5 hxg5 24. Rxc6 Bb7 (24... g4 25. hxg4 Bxg4 26. Rxa6) 25. Bxg5) (21... Bd7 22. Bxh6 Rxe1+ 23. Rxe1 gxh6 24. Qxh6 Nxd4 25. Re5 $18) 22. Bf4 $2 (22. Bxh6 gxh6 23. Qxh6 Ng6 24. Bc2 $18) 22... Ng6 23. Bxc7 Rxe1+ 24. Qxe1 Qd7 25. Ne5 Nxe5 26. Bxe5 Ne8 27. Nh5 f6 28. Bxf6 Nxf6 29. Nxf6+ gxf6 30. Bxd5+ Qxd5 31. Qe8+ Kg7 32. Rc7+ 1-0
+

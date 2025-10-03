@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.24"]
+[Round "4.8"]
+[White "Mitusov, Semen"]
+[Black "Grooten, Tommy"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B81"]
+[WhiteElo "2465"]
+[BlackElo "2153"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "51"]
+[GameId "2126701579366411"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Rg1 Nc6 8. h4 (8. Be3 Be7 9. Qe2 Nxd4 10. Bxd4 e5 11. Be3 Be6 12. O-O-O Nd7 13. Kb1 (13. h4 Bxh4 14. Nb5 Be7 15. Nxd6+ Bxd6 16. Rxd6 Qa5 17. a3) 13... a6 14. f4 exf4 15. Bxf4 Bf6 16. Qe3 Be5 17. Bxe5 Nxe5 18. Be2 Rc8 19. Nd5 Rc6 {1/2 Karpov,A (2720)-Andersson,U (2605) Turin International 1982 (1)}) 8... d5 9. exd5 Nxd5 10. Nxd5 exd5 11. Be3 Qxh4 12. Qf3 (12. Nb5 Qe7 13. Qxd5 Be6 14. Qe4 O-O-O 15. Nxa7+ Nxa7 16. Bxa7 $13) 12... Nxd4 13. Bxd4 Qe7+ 14. Be2 Qe4 15. O-O-O (15. Qc3 Be6 16. Qd2 (16. f3 Qf4 17. Bb5+ Bd7 18. Be5 Qg5 19. Bxd7+ Kxd7 20. f4 Qh4+ 21. Ke2 $13) 16... Bd6 17. f3 Qf4 18. Bxg7 Qxd2+ 19. Kxd2 Bf4+ 20. Kd3 Rg8 21. Bd4 f5 $11) 15... Qxf3 16. Bxf3 Be6 17. Rge1 Kd7 18. Be3 (18. c4 Rc8 19. b3 b5 20. Bxd5 Bxd5 21. Bc3 bxc4 22. Rxd5+ Kc6 23. bxc4 Rg8 24. Bd4 Bb4 $11) 18... Bd6 19. Bxd5 Bxd5 20. Rxd5 Kc6 21. Red1 (21. Rd4 b6 22. a4 Rad8 23. b4 a6 24. Red1 Be7 25. c4 Rxd4 26. b5+ axb5 27. cxb5+ Kc7 28. Bxd4 $13) 21... Rad8 22. Ra5 (22. R1d3 Be7 (22... b6 23. b4 Rhe8 24. c4 Be7 25. b5+ Kc7 26. Kc2 Rxd5 27. Rxd5 Rd8 28. Rxd8 Kxd8) 23. Rxd8 Bxd8 24. Rc3+ Kd7 25. Bd4) 22... a6 23. Rd4 Rhe8 (23... g6 24. Raa4 h5 25. Rac4+ Kd7 26. Rd3 $13) (23... Kc7 24. a4 b6 25. Rh5) 24. c3 Kc7 (24... f6 25. Kc2 Be5 26. Rc5+ $1 $18) 25. Kc2 Be5 $4 (25... Re5 26. Raa4 Kc8 27. Rac4+ Bc7 28. a4 $11) 26. Rc5+ 1-0
+

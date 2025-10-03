@@ -1,0 +1,20 @@
+﻿[Event "OSS Klubbmesterskap 2022"]
+[Site "?"]
+[Date "2022.11.24"]
+[Round "7"]
+[White "Mitusov Semen"]
+[Black "Ayzenberg Alena"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C18"]
+[WhiteElo "2413"]
+[BlackElo "2000"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "57"]
+[GameId "451874703974"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qg4 (8. Qb1 $1 c4 (8... a6 9. Nf3 Nc6 10. Qb2 (10. Qb3 Qxb3 11. cxb3 Na5 12. Rb1 c4 13. bxc4 dxc4 14. Ng5 Ne7 15. Ne4 O-O 16. Nd6 b5)) 9. h4 Nc6 10. h5 h6 11. g4 Bd7 12. Ne2 O-O-O 13. Ng3 f6 14. f4) (8. h4 cxd4 9. Qg4 Kf8 10. Bd3) 8... Kf8 9. Ra2 $6 (9. Qd1 b6) (9. h4 Nc6 (9... Qxc2 10. h5) 10. h5 cxd4 11. h6 g6 12. Nf3) 9... Nc6 10. Nf3 Nge7 (10... b6 11. Bd3 Ba6 12. O-O Bxd3 13. cxd3 c4) 11. Bd3 c4 $6 (11... b6 12. O-O Ba6 13. Bxa6 Qxa6 14. dxc5 bxc5 15. Rb1 $14) 12. Be2 Nf5 13. O-O (13. Qf4 h5 14. Nh4 Nce7 15. Nxf5 Nxf5 16. h4) 13... h5 14. Qh3 Bd7 $2 (14... Kg8 15. Nh4 Nce7 16. Nxf5 Nxf5 17. Bxh5 g6 18. g4) 15. g4 Nfe7 16. gxh5 Nf5 17. Nh4 Nce7 18. Bg5 Ke8 19. Bg4 Nxh4 20. Qxh4 Ng6 $6 (20... Nf5 21. Qh3 Qa5 (21... Qc6 22. a4 a5 23. Kh1 Rb8 24. Raa1 b6 25. Rg1 Rh7 26. Qf3 Rb7 27. h4 Rb8 28. Bh3 Rb7 29. h6 g6 30. h5) 22. Rb1) 21. Qg3 Nf8 $6 22. Kh1 Rc8 $6 23. Bh4 Rc6 $4 24. Be2 Rh7 25. Qg5 f6 26. exf6 gxf6 27. Qxf6 Rc8 28. h6 Bc6 29. Rg1 1-0
+

@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "21"]
+[White "Mitusov, Semen"]
+[Black "Delgerdalai, Bayajavkhlan"]
+[Result "1-0"]
+[Annotator "Semen"]
+[ECO "B92"]
+[WhiteElo "2315"]
+[BlackElo "2032"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "81"]
+[GameId "453758473356"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3 Be6 9. O-O Nbd7 10. a4 Rc8 11. Qd2 O-O 12. Rfd1 (12. a5) 12... Nb6 13. a5 Nc4 14. Bxc4 Rxc4 15. f3 Qb8 (15... Qc8 $15) 16. Qf2 Rfc8 17. Nc1 Rxc3 18. bxc3 Rxc3 19. Bb6 $2 (19. Nd3 d5 20. Bc5 $16) 19... Qc8 20. Rd2 d5 21. Ne2 Rc6 22. Rad1 $4 (22. Qg3) 22... Rxc2 $4 (22... Rxb6 $19) 23. exd5 Rxd2 24. Rxd2 Nxd5 25. Ba7 Bb4 26. Rd1 b6 27. Rc1 Bc5 28. Rxc5 bxc5 29. Bxc5 Qb7 30. h3 h6 31. Ng3 Qb1+ 32. Kh2 Nf4 33. Ne4 Nd3 34. Qe2 Nf4 35. Qxa6 Qc2 36. Bf2 f5 37. Qa8+ Kh7 38. a6 fxe4 39. a7 Qxf2 $2 (39... e3 $19) 40. Qxe4+ g6 (40... Kh8 41. a8=Q+ Bg8 $19) 41. Qb7+ $11 1-0
+

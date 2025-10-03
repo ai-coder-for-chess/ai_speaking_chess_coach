@@ -1,0 +1,20 @@
+﻿[Event "SixDays Budapest July 2025 GM A"]
+[Site "Budapest"]
+[Date "2025.07.30"]
+[Round "6.4"]
+[White "Advaitt Srikant Koduri"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2369"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "2205314073632768"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "90+30"]
+
+1. d4 {[%eval 17,0] [%emt 0:00:00]} d5 {[%eval 2,0] [%emt 0:00:00]} 2. Nf3 {[%eval 8,0] [%emt 0:00:00]} Nf6 {[%eval 11,0] [%emt 0:00:00]} 3. Bf4 {[%eval 2,0] [%emt 0:00:00]} c5 {[%eval 11,0] [%emt 0:00:00]} 4. c3 {[%eval 0,0] [%emt 0:00:00]} Nc6 {[%eval 0,0] [%emt 0:00:00]} 5. e3 {[%eval 17,0] [%emt 0:00:00]} Qb6 {[%eval 0,0] [%emt 0:00:00]} 6. Qc2 {[%eval 0,0] [%emt 0:00:00]} g6 {[%eval 0,0] [%emt 0:00:00]} 7. h3 {[%eval 0,0] [%emt 0:00:00]} Bg7 {[%eval 0,0] [%emt 0:00:00]} 8. Nbd2 {[%eval 4,0] [%emt 0:00:00]} O-O {[%eval 8,0] [%emt 0:00:00]} 9. Be2 {[%eval 7,0] [%emt 0:00:00]} cxd4 {[%eval 0,0] [%emt 0:00:00]} 10. exd4 {[%eval 0,0] [%emt 0:00:00]} Nh5 {[%eval 12,0] [%emt 0:00:00]} 11. Bh2 {[%eval 4,0] [%emt 0:00:00]} Bh6 {[%eval 5,0] [%emt 0:00:00]} 12. Qb3 {[%eval 7,0] [%emt 0:00:00]} Qxb3 {[%eval 7,0] [%emt 0:00:00]} 13. axb3 {[%eval 8,0] [%emt 0:00:00]} Nf4 {[%eval 9,0] [%emt 0:00:00]} 14. Bxf4 {[%eval 3,0] [%emt 0:00:00]} Bxf4 {[%eval 6,0] [%emt 0:00:00]} 15. b4 {[%eval 2,0] [%emt 0:00:00]} f6 {[%eval 23,0] [%emt 0:00:00]} 16. Nb3 {[%eval 2,0] [%emt 0:00:00]} Bc7 {[%eval 31,0] [%emt 0:00:00]} 17. b5 {[%eval 3,0] [%emt 0:00:00]} Nd8 {[%eval 35,0] [%emt 0:00:00]} 18. O-O {[%eval 19,0] [%emt 0:00:00]} Nf7 {[%eval 31,0] [%emt 0:00:00]} 19. Rfd1 {[%eval 19,0] [%emt 0:00:00]} Rd8 {[%eval 26,0] [%emt 0:00:00]} 20. Nc5 {[%eval 21,0] [%emt 0:00:00]} Bb6 {[%eval 18,0] [%emt 0:00:00]} 21. Na4 {[%eval 17,0] [%emt 0:00:00]} Rb8 {[%eval 47,0] [%emt 0:00:00]} 22. Nxb6 {[%eval 6,0] [%emt 0:00:00]} axb6 {[%eval 1,0] [%emt 0:00:00]} 23. b3 {[%eval 0,0] [%emt 0:00:00]} Bf5 {[%eval 0,0] [%emt 0:00:00]} 24. c4 {[%eval 0,0]} Bc2 {[%eval 6,0] [%emt 0:00:00]} 25. Rdc1 {[%eval 8,0] [%emt 0:00:00]} Bxb3 {[%eval 6,0] [%emt 0:00:00]} 26. c5 {[%eval 15,0] [%emt 0:00:00]} bxc5 {[%eval 0,0] [%emt 0:00:00]} 27. dxc5 {[%eval 0,0] [%emt 0:00:00]} d4 {[%eval 5,0] [%emt 0:00:00]} 28. c6 {[%eval 1,0] [%emt 0:00:00]} bxc6 {[%eval 0,0] [%emt 0:00:00]} 29. bxc6 {[%eval 0,0] [%emt 0:00:00]} Rbc8 {[%eval 8,0] [%emt 0:00:00]} 30. c7 {[%eval 0,0] [%emt 0:10:36]} Rd7 {[%eval 0,0] [%emt 0:00:00]} 31. Nxd4 {[%eval 0,0] [%emt 0:03:36]} Rxd4 {[%eval 0,0] [%emt 0:00:00]} 32. Ba6 {[%eval 4,0] [%emt 0:00:06]} Be6 {[%eval 0,0] [%emt 0:00:00]} 33. Bxc8 {[%eval 0,0] [%emt 0:00:40]} Bxc8 {[%eval 8,0] [%emt 0:00:00]} 34. Ra8 {[%eval 5,0] [%emt 0:00:09]} Nd6 {[%eval 1,0] [%emt 0:00:00]} 35. Rc6 {[%eval 0,0] [%emt 0:00:24]} Kg7 {[%eval 0,0] [%emt 0:00:00]} 36. Rxd6 {[%eval 0,0] [%emt 0:00:13]} Rxd6 {[%eval 0,0] [%emt 0:00:00]} 37. Rxc8 {[%eval 0,0] [%emt 0:00:07]} Rd1+ {[%eval 1,0] [%emt 0:00:00]} 38. Kh2 {[%eval 0,0] [%emt 0:00:06]} Rc1 {[%eval 0,0] [%emt 0:00:00]} 39. g4 {[%eval 0,0] [%emt 0:02:35]} Rc3 {[%eval 0,0] [%emt 0:00:00]} 40. Kg2 {[%eval 0,0] [%emt 0:00:37]} h5 {[%eval 0,0] [%emt 0:00:00]} 41. gxh5 {[%eval 0,0] [%emt 0:01:44]} gxh5 {[%eval 0,0] [%emt 0:00:00]} 42. h4 {[%eval 0,0] [%emt 0:00:17]} Kf7 {[%eval 1,0] [%emt 0:00:00]} 43. f3 {[%eval 0,0] [%emt 0:00:24]} Rc2+ {[%eval 0,0] [%emt 0:00:00]} 44. Kg3 {[%eval 0,0] [%emt 0:00:07]} Kg7 {[%eval 0,0] [%emt 0:00:00]} 45. Kf4 {[%eval 0,0] [%emt 0:00:53]} Rc4+ {[%eval 0,0] [%emt 0:00:00]} 46. Kg3 {[%eval 0,0] [%emt 0:00:59]} Rc3 {[%eval 0,0] [%emt 0:00:00]} 47. Kf4 {[%eval 1,0] [%emt 0:00:08]} Rc4+ {[%eval 9,0] [%emt 0:00:00]} 1/2-1/2
+

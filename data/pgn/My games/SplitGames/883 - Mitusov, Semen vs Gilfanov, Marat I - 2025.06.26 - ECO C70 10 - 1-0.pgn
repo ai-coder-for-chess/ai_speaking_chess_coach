@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open 2025"]
+[Site "?"]
+[Date "2025.06.26"]
+[Round "6.8"]
+[White "Gilfanov, Marat I"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C70"]
+[WhiteElo "2343"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "71"]
+[GameId "2193070848704512"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 b5 7. Bb3 Bb7 (7... Na5 8. Nxd4 Bb7 9. Nxf5 Nxb3 10. axb3 d6 11. Qe2 Qd7 12. e6 Qc6 13. Bg5 g6 14. Ne3 h6 15. Bf4 Ne7 16. c4 b4 17. Qg4 Qc5 18. O-O Bg7 19. Nd2 O-O-O {0-1 Vidit,S (2727)-Praggnanandhaa,R (2747) Candidates Tournament Toronto 2024 (3)}) 8. O-O (8. a4 Na5 9. Ba2 c5 10. O-O Qb6 11. c3 Ne7 12. b4 cxb4 13. cxb4 Nc4 14. Na3 Nd5 15. Nxc4 bxc4) 8... Na5 9. Nxd4 (9. Qxd4) (9. Bxg8 Rxg8 10. Qxd4 Qe7) 9... c5 10. Bxg8 cxd4 11. Bb3 Qb6 (11... Nxb3 12. axb3 Qb6) 12. Qh5+ (12. Qd3) (12. Nd2 Qg6 13. f3 Bc5) 12... g6 (12... Qg6 13. Qxg6+ hxg6 14. Bg5 (14. Nd2 Rc8) 14... Rh5 15. f4 Bc5 16. Kh1 Nxb3 17. axb3 Kf7 18. h4 Rah8 19. Kh2 Rxg5 20. fxg5 Rxh4+ 21. Kg3 Rg4+) 13. Qh3 Qc6 $6 (13... Nxb3 14. Qxb3 g5) 14. c3 Nxb3 15. axb3 dxc3 $6 (15... Rc8 16. Bg5 Bg7 17. cxd4) 16. Nxc3 Be7 17. Rd1 Qe6 18. Qd3 Bc6 19. Nd5 Qxe5 20. Nxe7 Qxe7 21. Bf4 O-O 22. Re1 Qh4 $6 (22... Qb4 23. Bd2 Qc5 24. Bc3 Qd5 25. Qh3 Rae8 26. Rad1 Rxe1+ 27. Rxe1 f4 28. f3 b4) 23. Qd2 $1 Rfe8 $6 (23... a5 $1 24. Bg3 Qb4) (23... Qg4 24. f3 Bxf3 25. h3) 24. Bg5 Qh5 (24... Qg4 25. f3 Bxf3 26. h3 Qh5 27. gxf3 Qxf3 28. Kh2) 25. f3 Kf7 26. Qf4 h6 27. Bxh6 Rxe1+ 28. Rxe1 Re8 29. Rxe8 Kxe8 30. Qb8+ Kf7 31. Qf8+ Ke6 32. Qe8+ Kf6 33. Bf4 Qh7 34. Be5+ Kg5 35. Qd8+ Kh6 36. Qh4# 1-0
+

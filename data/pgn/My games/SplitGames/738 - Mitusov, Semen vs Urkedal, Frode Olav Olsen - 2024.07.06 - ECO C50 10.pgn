@@ -1,0 +1,20 @@
+﻿[Event "NM 2024"]
+[Site "?"]
+[Date "2024.07.06"]
+[Round "9.2"]
+[White "Mitusov, Semen"]
+[Black "Urkedal, Frode Olav Olsen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C50"]
+[WhiteElo "2478"]
+[BlackElo "2551"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "52"]
+[GameId "2067253324967947"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,52,19,31,34,13,1,9,9,20,12,12,14,8,10,-23,10,-28,-24,-24,-4,-9,-11,-2,0,-9,7,-5,4,-42,-49,-49,-47,-43,-27,-50,-49,-54,-42,-132,-136,-108,-149,-169,-163,-249,-209,-436,-480,-463,-477,-483,-483,-676,-662]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 h6 6. a3 d6 7. Na4 Bb6 8. c3 O-O 9. O-O Re8 10. Re1 Be6 11. Bb5 Bd7 12. Bc4 Ne7 13. Qb3 Rf8 14. Qc2 Bxf2+ 15. Kxf2 b5 16. Bb3 Ng6 17. c4 bxa4 18. Bxa4 Bg4 19. Nd2 Nh5 20. Nf1 Qh4+ 21. g3 Nxg3 22. hxg3 Qh1 23. Ke3 Qf3+ 24. Kd2 Qf2+ 25. Kc3 Qxe1+ 26. Qd2 Qxf1 0-1
+

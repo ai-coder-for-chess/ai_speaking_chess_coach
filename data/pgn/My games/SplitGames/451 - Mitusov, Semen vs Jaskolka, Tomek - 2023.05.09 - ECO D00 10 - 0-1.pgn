@@ -1,0 +1,20 @@
+﻿[Event "Titled tuesday"]
+[Site "Chess.com"]
+[Date "2023.05.09"]
+[Round "10"]
+[White "Jaskolka, Tomek"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D00"]
+[WhiteElo "2238"]
+[BlackElo "2418"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "133"]
+[GameId "466558572741"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. e3 a6 (4... Bb4 5. Bd3 (5. Nge2 O-O 6. a3 Be7) 5... c5 6. dxc5 Nbd7 7. Nge2 a6 8. O-O Bxc5) 5. Nf3 c5 6. a3 Nc6 7. Ne5 Bd6 8. Nxc6 bxc6 9. Bxd6 Qxd6 10. dxc5 Qxc5 11. Qd4 Qd6 12. Na4 O-O 13. Be2 Rb8 14. b4 e5 15. Qc5 Qc7 16. O-O Ne4 17. Qa5 Qa7 18. Rfd1 Nd6 (18... Bg4 $1) 19. Qc5 Qxc5 20. Nxc5 Ra8 21. c4 Nxc4 22. Bxc4 dxc4 23. Rac1 a5 24. Rxc4 axb4 25. axb4 Rb8 (25... Ba6) 26. f3 h6 27. Kf2 Rb5 28. Rd6 Bf5 29. Rxc6 Rfb8 30. Na6 R8b6 31. Rxb6 Rxb6 32. Nc5 f6 33. e4 Bg6 34. Nd7 Rb7 35. Nc5 Rb5 36. Nd3 Bf7 37. Rc8+ Kh7 38. Rc5 Rb7 39. Ke3 h5 40. h4 Kg6 41. g3 Kh7 42. Kd2 Be8 43. Kc3 Ra7 44. Ra5 Rd7 45. b5 Rb7 46. Kc4 Kg6 47. Nc5 Rb6 48. Kb4 Rd6 49. Ra6 Rd4+ 50. Kc3 $2 (50. Ka5) 50... Bxb5 51. Rb6 Rc4+ 52. Kb3 Rxc5 53. Kb4 Rc4+ 54. Kxb5 Rc3 55. f4 Rxg3 56. fxe5 Rb3+ 57. Kc5 Rxb6 58. Kxb6 fxe5 59. Kc5 Kf6 60. Kd6 g5 61. hxg5+ Kxg5 62. Kxe5 h4 63. Kd6 (63. Kd4 h3) 63... h3 64. e5 h2 65. e6 h1=Q 66. e7 Qa8 67. Ke6 0-1
+

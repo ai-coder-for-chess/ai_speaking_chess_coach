@@ -1,0 +1,20 @@
+﻿[Event "Fagernes vår 2025"]
+[Site "Fagernes, Norway"]
+[Date "2025.04.16"]
+[Round "4.17"]
+[White "Berget, Eirik"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2041"]
+[BlackElo "2459"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "90"]
+[GameId "2167230984450087"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,90,21,23,41,63,46,11,13,33,51,44,34,5,5,5,5,-28,-31,-38,-27,-112,-106,-115,-106,-106,-103,-103,-56,-56,-56,-53,-59,-59,-72,-276,-283,-323,-322,-322,-327,-330,-259,-261,-276,-296,-296,-291,-286,-369,-448,-498,-479,-485,-498,-479,-555,-556,-576,-647,-413,-428,-348,-363,-399,-397,-409,-411,-380,-459,-357,-379,-384,-408,-408,-417,-490,-542,-440,-443,-423,-442,-443,-450,-528,-528,-573,-640,-667,-1279,-1544,-2221,-1299]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bc4 d6 8. h3 O-O 9. Bg5 h6 10. Bh4 g5 11. Nxg5 hxg5 12. Bxg5 Be6 13. Bb3 Kg7 (13... Bxb3 14. axb3) (13... Nd4 14. O-O Bxb3 15. axb3 Bxc3 16. bxc3 Ne6 17. f4 $17) 14. O-O Bxc3 15. bxc3 Bxb3 (15... Qd7 16. Qf3 Nh7 17. Qh5 Bxb3 18. f4 $13) 16. axb3 Qd7 17. f4 $2 (17. Qd3 Nh7 18. Be3 Kh8 19. Rad1 Rg8 $19) 17... Nxe4 18. fxe5 $2 (18. Ra4 f5 19. Rxe4 fxe4 20. Qh5 Qe6 21. f5 Rxf5 22. Bh6+ Qxh6 23. Qxf5 Rg8 $19) 18... Nxg5 19. Qh5 Nxh3+ 20. gxh3 Nxe5 21. Qg5+ Ng6 22. Qf6+ Kg8 23. Rf3 Rae8 24. Ra4 Re1+ 25. Kh2 Rfe8 26. Rg4 R8e2+ 27. Rf2 Rxf2+ 28. Qxf2 Qe6 29. Rg2 Qe5+ 30. Qg3 Qxg3+ 31. Kxg3 Re3+ 32. Kg4 Rxc3 33. h4 Kh7 34. Kg5 Rc5+ 35. Kf6 Rf5+ 36. Kxf5 Nxh4+ 37. Kf6 Nxg2 38. Kxf7 Ne3 39. Ke6 d5 40. Ke5 Kg6 41. Kd4 Nxc2+ 42. Kxd5 Kf5 43. Kd6 Ke4 44. Kc7 b5 45. Kb7 b4 0-1
+

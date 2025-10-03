@@ -1,0 +1,21 @@
+﻿[Event "Rudar 7 2024"]
+[Site "?"]
+[Date "2024.07.27"]
+[Round "6"]
+[White "Kushagra, Mohan"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C70"]
+[WhiteElo "2367"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "90"]
+[GameId "2072184270188587"]
+[EventDate "2024.07.22"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 b5 7. Bb3 Na5 8. O-O Bb7 9. c3 Nxb3 10. Qxb3 (10. axb3 Ne7 11. Nxd4 c5 12. Ne2 Qb6 $15) 10... dxc3 $6 (10... Qe7 11. cxd4 Qe6 12. Qc2 Bxf3 13. gxf3 Ne7 14. Nc3 g5 $13) 11. Nxc3 Qe7 12. Nd5 Qc5 13. Rd1 $6 (13. Nf4 Ne7 14. e6 $16) 13... Ne7 14. Nf4 Qc4 15. Qxc4 (15. Qe3 Nd5 16. Nxd5 Bxd5) 15... bxc4 16. Be3 g6 17. e6 d6 18. Bd4 $2 (18. Ng5 Bg7 19. Rac1 c3 20. bxc3 O-O 21. c4 $14) 18... Bxf3 19. gxf3 Rg8 20. Rac1 Bh6 21. Be3 g5 (21... Bxf4 22. Bxf4 g5 23. Bd2 d5 24. b3 Nc6 25. bxc4 d4 $19) 22. Ne2 Rg6 23. Rxc4 Rc8 24. Ra4 Rxe6 25. Rxa6 f4 26. Nd4 Re5 27. Bd2 Rd5 28. Ne2 $6 (28. Nc6 Nxc6 29. Rxc6 Kd7 30. Rc2 c5 31. Ra1 Rd3 32. a4 $17) 28... Bg7 29. b3 Kf8 (29... Nf5 30. Re1 (30. Kf1 Nh4 31. Ng1 Kd7 32. Ra4 Bc3 33. Ke2 Re8+ 34. Re4 Nxf3 $1 35. Kxf3 g4+ $19) 30... Rxd2 31. Ng3+ Ne7 32. Nf5 Be5 $19) 30. Ra4 Ng6 31. Kf1 Rd3 32. Ng1 Re8 33. Re4 (33. Rc4 c5 34. Rc2 Nh4) 33... Rxe4 34. fxe4 f3 35. Ke1 g4 36. Ba5 (36. Rc1 Bd4) 36... Rxd1+ 37. Kxd1 c6 38. h3 h5 39. hxg4 hxg4 40. Bb6 c5 41. b4 cxb4 42. Kc2 Ne7 43. Kb3 Nc6 44. Kc4 Ke8 45. Kd3 Kd7 0-1
+

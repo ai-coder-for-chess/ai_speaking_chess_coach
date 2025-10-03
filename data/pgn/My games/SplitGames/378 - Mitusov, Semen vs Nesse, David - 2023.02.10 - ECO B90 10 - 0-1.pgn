@@ -1,0 +1,19 @@
+﻿[Event "OSS vеrturnering 2023"]
+[Site "?"]
+[Date "2023.02.10"]
+[Round "1"]
+[White "Nesse, David"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "1963"]
+[BlackElo "2396"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "90"]
+[GameId "458694384508"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 (6... g6 7. g4 Bg7 8. Bg2 O-O 9. Be3 Nc6 10. Qd2 Nxd4 11. Bxd4 b5) 7. Nf3 Qc7 8. Bg5 Nbd7 9. Be2 b5 (9... h6 10. Bxf6 Nxf6 11. O-O Be7 12. Nd5 Nxd5 13. exd5 f5) 10. O-O Bb7 11. Bxf6 Nxf6 12. Nd5 Nxd5 13. exd5 Be7 14. c4 bxc4 15. Rc1 (15. Qa4+ Qd7 16. Qxd7+ Kxd7 17. Bxc4 Rhc8 18. b3 g6 19. Rad1 f5 $17) 15... O-O 16. Bxc4 $6 (16. Nd2 Bxd5 17. Nxc4 Bc6 $11) 16... Qa5 17. Rc3 Rfc8 18. Ra3 Qc5 19. Rc3 (19. Ra4 a5 $15) 19... Qa5 20. Ra3 Qb6 21. Qa4 Rc5 $6 (21... Qxb2 22. Rb3 Qc2 23. Qd7 Qxc4 24. Rxb7 Re8 $19) 22. Nd2 (22. Rd1 Qxb2 23. Nd2 Bxd5 24. Rb3 Qd4 25. Rd3 Bc6 $19) (22. Rb3 Qc7 23. Rc3 Rc8 24. Rfc1 $15) 22... Bxd5 23. Bxd5 Rxd5 24. Rb3 Qd8 (24... Rd4 25. Rxb6 Rxa4 26. a3 Rd4 $19) 25. Nb1 $6 (25. Nc4 Rd4 26. Rb7 Bf8 27. Qb3 Rc8 28. Ne3 d5 $17) 25... Rd4 26. Qc6 Qc8 27. Qf3 Rb8 (27... d5 28. Nc3 e4 $19) 28. Rc3 Qb7 29. Rb3 Qa7 30. Rc1 Bf8 31. Rbc3 Qb7 32. Qe2 Qb5 (32... Qxb2 33. Qxa6 d5 34. a4 g6 $19) 33. Qxb5 axb5 34. Rc7 b4 35. Kf1 g6 36. Ke2 d5 37. g3 Ra8 38. a3 bxa3 39. bxa3 Bxa3 40. Nxa3 Rxa3 41. Re7 Ra2+ 42. Ke1 Re4+ 43. Kf1 Ree2 44. Kg1 e4 45. Rd7 Rad2 0-1
+

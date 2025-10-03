@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open"]
+[Site "izmir"]
+[Date "2023.06.21"]
+[Round "4.11"]
+[White "Zeynalli, Rashad"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B51"]
+[WhiteElo "2200"]
+[BlackElo "2434"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "42"]
+[GameId "470262073871"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,42,19,28,40,50,86,50,62,64,62,60,64,57,60,59,47,37,35,28,50,39,25,18,0,-24,38,-24,-52,-50,-63,-58,-46,-108,-81,-161,-176,-173,-155,-399,-215,-239,-244,-244,-266]} 1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Ngf6 5. Nc3 g6 (5... a6 6. Be2 g6 7. O-O Bg7) 6. O-O Bg7 7. a5 a6 8. Be2 (8. Bc4 O-O 9. d3 b5 10. axb6 Nxb6 11. Bb3 a5 12. Re1 a4 13. Ba2 Bg4 14. h3 Bxf3 15. Qxf3 Nfd7 $15) 8... O-O 9. d3 Qc7 $6 (9... b5 10. axb6 a5 11. Qd2 Nxb6 (11... Bb7 12. Qg5) 12. Qf4) (9... Nb8 10. e5 Ne8 11. exd6 Nxd6 12. Be3 Nd7) 10. Qd2 (10. Nd2 b5 11. axb6 Nxb6 12. f4 $14 Bb7 (12... e6 13. Nc4)) 10... Nb8 11. Re1 (11. Qf4 Nc6 12. Qh4 e6) 11... Nc6 12. Bd1 (12. Qf4) 12... Nxa5 13. Nd5 Nxd5 14. exd5 b6 15. Qg5 e6 16. Qh4 $2 (16. h4 f6 17. Qg3 e5 $15) (16. dxe6 fxe6 (16... Bxe6 17. Qh4 Bd5 18. Ng5 h6 19. Nh3 Rfe8) 17. Qh4 Bf6 18. Ng5 Ra7) 16... exd5 17. Ng5 h6 18. Nf3 Qd8 19. Re7 (19. Qg3 Nc6 20. Bf4 Bxb2 21. Rb1 Bc3 22. Bxh6 Bxe1 23. Nxe1 $19) 19... Nc6 20. Bg5 Nxe7 21. Bxe7 g5 0-1
+

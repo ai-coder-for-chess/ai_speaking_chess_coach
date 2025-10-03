@@ -1,0 +1,20 @@
+﻿[Event "Sevilla Open 2024"]
+[Site "lichess.org"]
+[Date "2024.01.16"]
+[Round "5.3"]
+[White "Mitusov, Semen"]
+[Black "Ouellet, Maili-Jade"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2479"]
+[BlackElo "2222"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "99"]
+[GameId "488787187454"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,99,28,29,41,40,71,62,40,38,38,33,50,11,14,17,13,-4,-2,6,6,6,6,13,25,-16,-16,-9,-10,-4,-7,-19,-27,-21,-6,-22,-10,-10,-19,-11,-12,-13,-18,-31,-27,-27,-19,-19,-33,-37,-45,-39,-39,-33,-33,-33,-39,-39,-33,-34,-33,-41,-42,-31,-24,-24,-27,-43,-20,-17,-20,-27,-36,-36,-16,-36,-13,-9,9,0,0,-14,9,9,11,4,7,4,11,13,13,0,13,13,5,0,10,0,5,0,5,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Be7 8. Bg5 (8. g3 O-O 9. Bg2 Be6 10. O-O Nbd7 11. Ng5 Bc4 12. Re1) 8... Be6 9. Bxf6 Bxf6 10. Nd5 Nd7 11. Bc4 Nb6 (11... Rc8 12. b3 Qa5+ 13. b4 Qd8 14. Bb3 Nb6 15. Nxf6+ Qxf6 16. Qxd6 Bxb3 17. Qxf6) 12. Nxb6 (12. Nxf6+ Qxf6 13. Bxe6 Qxe6 14. O-O O-O 15. Re1 Rac8 16. b3 Rc3 17. Nd2 Rfc8 18. a5 Na8 19. Nc4) 12... Qxb6 13. Bxe6 fxe6 14. O-O O-O 15. c4 $6 (15. a5 Qc6 16. c3 Qxe4 (16... Rad8 17. Re1) 17. Qxd6) 15... Qc5 16. b3 a5 (16... Bd8) 17. Ra2 Be7 18. Qe2 Rf4 19. Rd2 Raf8 20. Rd3 (20. Ne1 Qc6 21. f3 Qb6+ 22. Kh1 Qxb3 23. Rb2 Rxe4) 20... Qc6 21. Nd2 Bd8 22. Rf3 Rxf3 23. Nxf3 Bb6 24. g3 Bc5 25. Ne1 Qb6 26. Qc2 Qc6 27. Qd3 Qb6 28. Nf3 Rf6 29. Kg2 Qc7 30. Ng5 (30. h4 h6 31. Ng1 Qf7 32. Nh3 b6 33. f4 exf4 34. Nxf4 $13) 30... h6 31. Nh3 g5 $1 32. f3 Qf7 33. Nf2 b6 34. Nd1 Qg6 35. Nc3 Rf7 36. Nb5 Qg7 37. Qe2 Rd7 38. Rd1 Kf8 39. Rd3 Ke7 40. Kf1 Kd8 41. Ke1 Kc8 42. Kd1 Kb7 43. Kc2 Qf8 44. Qd1 Bb4 45. Qf1 Rf7 46. Qd1 Rd7 47. Kb1 Bc5 (47... Kc6 48. Ka2 Rf7 49. h3 h5 50. c5 Bxc5 51. Qc1 $13) 48. Ka2 Bb4 49. Nc3 Rf7 50. Nb5 1/2-1/2
+

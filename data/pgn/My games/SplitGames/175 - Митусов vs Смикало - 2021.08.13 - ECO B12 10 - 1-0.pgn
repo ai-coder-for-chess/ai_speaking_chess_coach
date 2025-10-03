@@ -1,0 +1,21 @@
+﻿[Event "Кубок Львова"]
+[Site "?"]
+[Date "2021.08.13"]
+[Round "9"]
+[White "Митусов"]
+[Black "Смикало"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B12"]
+[WhiteElo "2305"]
+[BlackElo "1853"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "55"]
+[GameId "410634340544"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2 Qa6 9. c4 Bb4 10. b3 Ne7 11. Ne2 Nd7 12. O-O Nf5 (12... f6 $5 13. exf6 gxf6 14. a3 Bd6 15. Bf4 e5 16. dxe5 Bxe5 17. Bxe5 Nxe5 18. Qh3 Qa5 19. Rad1 $18) 13. Ng3 Nxg3 14. Qxg3 (14. fxg3 $5) 14... Bxd2 $6 (14... Nf8 15. a3 Bxd2 16. Bxd2 Ng6 17. cxd5 cxd5 18. Bb4 $18) 15. Bxd2 g6 16. cxd5 cxd5 17. Bb4 O-O-O 18. Be7 $6 (18. Bd6 $1 Nb8 19. Rfc1+ Nc6 20. a4 {[%cal Gb3b4,Gb4b5]}) 18... Rde8 19. Rfc1+ Kb8 20. Bd6+ Ka8 21. Rc7 Nb8 22. Rxf7 Nc6 23. Qe3 Rhg8 24. a4 Na5 25. Bb4 Qb6 26. Qc3 Nxb3 27. Qxb3 a5 28. Rb1 1-0
+

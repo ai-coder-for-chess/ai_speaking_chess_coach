@@ -1,0 +1,21 @@
+﻿[Event "×У до 20 лет рапид"]
+[Site "?"]
+[Date "2021.04.28"]
+[Round "4"]
+[White "Бохнак"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D20"]
+[WhiteElo "1722"]
+[BlackElo "2205"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "17"]
+[GameId "400929530824"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nf6 4. e4 e5 5. d5 b5 6. Nxb5 Nxe4 7. Qc2 (7. Qa4 c6 8. Bxc4 (8. dxc6 Bc5 9. Bxc4 Qb6 10. c7 O-O 11. cxb8=Q Rxb8) 8... Nc5) 7... Bb4+ 8. Ke2 Bf5 9. Qa4 0-1
+

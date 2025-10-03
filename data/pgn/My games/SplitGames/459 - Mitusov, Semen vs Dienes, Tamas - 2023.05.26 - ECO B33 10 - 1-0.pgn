@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.26"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Dienes, Tamas"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2428"]
+[BlackElo "1512"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "83"]
+[GameId "468009890308"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 Bb7 $6 (13... bxa4 14. Rxa4 a5 15. Bc4 Rb8 16. b3 Kh8 17. Nce3 g6 18. h4 Bxh4 19. g3 Bg5 20. f4 exf4 21. gxf4 Bh4+ 22. Kf1 f5 23. Ra2 $13) 14. axb5 (14. h4 Bh6 15. axb5 axb5 16. Rxa8 Qxa8 17. Bxb5 Nd4 18. Na3 Bxd5 19. exd5 Nxb5 20. Nxb5 $16) 14... axb5 15. Rxa8 $6 (15. h4 Rxa1 16. Nxa1 Bh6 17. Bxb5 Ne7 18. Bc4 $16) 15... Qxa8 16. Bxb5 Ne7 (16... Nd4 $1 $11) 17. h4 Nxd5 18. exd5 Bd8 19. c4 f5 20. Rh3 $6 (20. O-O Bxh4 21. Bd7 Kh8 22. Qh5 Bf6) 20... Bc8 21. b4 Qa7 22. h5 $6 (22. Ra3 Qe7 23. c5 Qxh4 24. cxd6 Bb6 25. Qe2 Qh1+ 26. Qf1 $14) 22... f4 23. Ra3 Qe7 24. c5 $6 (24. Qe2 Qh4 25. Kd1 $11) 24... Qh4 25. Be2 $6 (25. h6 Qxh6 26. Qe2 $15) 25... e4 26. g3 Qh1+ $2 (26... fxg3 27. fxg3 (27. Rxg3 Rxf2 28. Kxf2 Qh2+ 29. Rg2 Bh4+ 30. Ke3 Qxg2 $19) 27... Qh2 $19) 27. Kd2 e3+ $6 (27... Qh2 28. gxf4 Qxf4+ 29. Ne3 dxc5 30. bxc5 Bg5 $15) 28. fxe3 Qxd1+ $2 (28... Qxd5+ 29. Rd3 Qb7 30. gxf4 dxc5 31. bxc5 Bf5 $11) 29. Kxd1 fxg3 30. Ne1 Bh3 31. Bf3 Bf6 $2 (31... g5 32. hxg6 h5 $16) 32. c6 Bb2 $6 (32... Rb8 33. c7 Rc8 34. Ra7 $18) 33. Rb3 Be5 34. b5 Ra8 35. b6 Ra1+ 36. Kd2 Ra2+ 37. Kc1 g2 38. Nxg2 Bxg2 39. Bxg2 Rxg2 40. b7 Rg1+ 41. Kc2 Rg2+ 42. Kd3 1-0
+

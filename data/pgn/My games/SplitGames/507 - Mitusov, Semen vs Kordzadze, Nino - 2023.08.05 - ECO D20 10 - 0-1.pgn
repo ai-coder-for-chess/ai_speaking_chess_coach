@@ -1,0 +1,19 @@
+﻿[Event "Riga blitz 2023"]
+[Site "?"]
+[Date "2023.08.05"]
+[Round "3.24"]
+[White "Kordzadze, Nino"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D20"]
+[WhiteElo "1951"]
+[BlackElo "2318"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "474329398176"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 (3... e5 4. Nf3 exd4 5. Bxc4) 4. Nc3 (4. e5 Nd5 5. Bxc4 Nb6 (5... Bf5 6. Qb3 c6 7. Bxd5 (7. Qxb7 Nb6) 7... cxd5 8. Qxb7 Qc8 9. Qxc8+ Bxc8)) 4... e5 5. d5 b5 6. Qc2 a6 (6... c6 7. dxc6 Nxc6 8. Nxb5 Qa5+ 9. Nc3 Nd4 10. Qb1 Nd5 11. Bd2 Nb4) 7. b3 (7. a4 b4 8. Nb1 c6) 7... cxb3 8. axb3 Bb7 9. Be2 c6 10. Nf3 cxd5 11. exd5 Bb4 12. O-O Qc7 13. Bb2 Nxd5 14. Rac1 Bxc3 15. Bxc3 Nxc3 16. Qxc3 Qxc3 17. Rxc3 Nc6 18. Rc5 f6 19. Rfc1 Kd7 20. Nh4 g6 21. Bf3 Rac8 22. Bg4+ f5 23. Nxf5 gxf5 24. Bxf5+ Kd6 25. Bxc8 Rxc8 26. b4 Ne7 27. Rd1+ Ke6 28. f3 Rxc5 29. bxc5 Nd5 30. Kf2 b4 31. g4 a5 32. Rc1 Bc6 33. Ke2 a4 34. Kd2 a3 35. Kd3 b3 36. Kc4 b2 37. Rd1 Ne3+ 0-1
+

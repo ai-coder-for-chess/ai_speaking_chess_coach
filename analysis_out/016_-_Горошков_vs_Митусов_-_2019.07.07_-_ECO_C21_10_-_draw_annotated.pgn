@@ -1,0 +1,43 @@
+[Event "Винница"]
+[Site "?"]
+[Date "2019.07.07"]
+[Round "9"]
+[White "Горошков"]
+[Black "Митусов"]
+[Result "1/2-1/2"]
+[ECO "C21"]
+[WhiteElo "2003"]
+[BlackElo "2199"]
+[WhiteFideId "-1"]
+[PlyCount "39"]
+[GameId "447373813445"]
+[EventDate "2019.06.17"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nf6 6. Nf3 ( 6. Nc3 Bb4 7.
+Nf3 O-O 8. Bd3 Re8+ { +0.12 } ) ( 6. a3 Bg4 7. Nc3 Bxd1 8. Nxd5 Nxd5 { -0.05 }
+) 6... Bb4+ ( 6... Bf5 7. Nc3 Bb4 8. Be2 Ne4 9. Bd2 { +0.19 } ) ( 6... Qa5+ 7.
+Nbd2 Be6 8. Be2 Bb4 9. O-O { +0.22 } ) 7. Nc3 ( 7. Bd2 Bxd2+ 8. Qxd2 O-O 9. Nc3
+Qd6 { -0.11 } ) 7... O-O ( 7... Qa5 8. Bd2 Nc6 9. Be2 Bg4 10. a3 { +0.10 } ) (
+7... Qc6 8. Bd2 O-O 9. Be2 Bxc3 10. bxc3 { +0.11 } ) 8. Be2 ( 8. Bd3 Re8+ 9.
+Be3 Bg4 10. O-O Qd6 { -0.02 } ) 8... c5 ( 8... Nc6 9. O-O Qd6 10. Bg5 Ba5 11.
+h3 { +0.10 } ) ( 8... Qd6 9. O-O Nc6 10. Bg5 Ba5 11. h3 { +0.14 } ) 9. O-O Bxc3
+( 9... Qd8 10. Be3 cxd4 11. Nxd4 h6 12. Rc1 { +0.60 } ) ( 9... Qd7 10. dxc5
+Bxc5 11. Bg5 Be7 12. Qc2 { +0.67 } ) 10. bxc3 cxd4 ( 10... Re8 11. c4 Qe6 12.
+Re1 cxd4 13. Nxd4 { +0.70 } ) 11. Nxd4 ( 11. c4 Qa5 12. Nxd4 Rd8 13. Bb2 Nc6
+{ +0.37 } ) ( 11. Ba3 Re8 12. Nxd4 Nc6 13. Nb5 Qe5 { +0.34 } ) 11... Nbd7 $6 (
+11... Nc6 { +0.39 } 12. Be3 Nxd4 13. Bxd4 Bf5 14. Re1 ) ( 11... Qa5 { +0.52 }
+12. Be3 Nc6 13. Nxc6 bxc6 14. Qd6 ) 12. Ba3 ( 12. Nb5 Qc6 13. Ba3 Re8 14. Nd6
+Re6 { +1.33 } ) ( 12. Re1 Qa5 13. Bf4 Nc5 14. Bf3 Bd7 { +1.10 } ) 12... Re8 (
+12... Rd8 13. Nb5 Nf8 14. Qxd5 Nxd5 15. c4 { +1.05 } ) 13. Nb5 Qc6 ( 13... Qe5
+14. Re1 Nc5 15. Bf3 Qxe1+ 16. Qxe1 { +1.49 } ) 14. Nd6 ( 14. c4 Ne4 15. Bf3
+Ndf6 16. Nd6 Rd8 { +1.22 } ) 14... Re6 15. Bf3 ( 15. c4 Nc5 16. Bf3 Qxd6 17.
+Qxd6 Rxd6 { +1.59 } ) ( 15. Nb5 Re8 16. Nd6 Re6 17. c4 Nc5 { +1.49 } ) 15...
+Qa6 ( 15... Qc7 16. Rb1 Ne5 17. Be2 Ne8 18. Nb5 { +1.01 } ) 16. Bb4 h6 $6 (
+16... Ne5 { +0.86 } 17. Be2 Qb6 18. a4 a6 19. Ba3 ) 17. a4 Ne5 18. Be2 Qb6 (
+18... Qc6 19. a5 Ne4 20. Nf5 Qd7 21. f3 { +1.78 } ) 19. a5 Qd8 20. Ne4 $6 ( 20.
+h3 { +1.85 } 20... a6 21. f4 Nc6 22. Bc4 b5 ) ( 20. Ra2 { +1.74 } 20... a6 21.
+Rd2 Qc7 22. f4 Nc6 ) 1/2-1/2
+

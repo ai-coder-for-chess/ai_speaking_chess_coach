@@ -1,0 +1,21 @@
+﻿[Event "×У до 20 лет"]
+[Site "?"]
+[Date "2021.04.22"]
+[Round "4"]
+[White "Митусов"]
+[Black "Квак"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C26"]
+[WhiteElo "2286"]
+[BlackElo "2058"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "92"]
+[GameId "400383405590"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,16,16,28,38,41,41,-42,-50,-24,-29,-19,15,-18,-16,-15,-21,-46,-6]} 1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 (3... d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Bd6 7. Nf3 O-O 8. O-O Nc6 9. d4) 4. Bg2 O-O 5. d3 $6 (5. Nge2 c6 6. O-O d5 7. exd5 cxd5 8. d4 exd4 9. Nxd4 Bg4 10. Qd3 Bxd4 11. Qxd4 Nc6 12. Qc5 d4 13. h3 $13) 5... c6 6. Nge2 $6 (6. Nf3 $5 Re8 7. O-O d5 8. exd5 cxd5 9. Bg5) 6... d5 7. exd5 cxd5 8. O-O d4 (8... h6 9. d4 exd4 10. Nxd4 Bg4 11. Qd3) 9. Na4 Bd6 10. c3 dxc3 $2 (10... Nc6 $1 11. cxd4 exd4 12. h3 Bf5 13. Bf4 $17) 11. Naxc3 Nc6 12. d4 Bg4 {Предложил ничью} 13. h3 Bf5 14. Bg5 (14. dxe5 Bxe5 15. Bf4 Qc8 16. Kh2 Rd8 $13) 14... h6 15. Bxf6 Qxf6 16. d5 $6 (16. Nd5 Qe6 17. dxe5 Bxe5 18. Nef4 Qd7 19. Qh5 $14) 16... Nb4 $6 (16... Ne7) (16... Nd4 17. Nxd4 exd4 18. Ne4 Bxe4 19. Bxe4 $11) 17. a3 $6 (17. g4 Bh7 18. Ng3 Qe7 19. Be4 $14) 17... Na6 18. Ne4 $6 (18. g4 Bg6 19. Ng3) 18... Bxe4 19. Bxe4 Nc5 20. Nc3 Qe7 $1 21. Bg2 f5 22. b4 Nd7 23. Qb3 Kh8 24. Rfe1 e4 25. Nb5 Ne5 (25... a6 $1 26. Nd4 Be5 27. Rad1 Bxd4 28. Rxd4 Qd6 $15) 26. Rad1 a6 27. Nd4 Rf6 28. Ne6 (28. f3 $1 exf3 29. Nxf3 $11) 28... Nd3 29. Re2 Rg8 30. Rc2 (30. Rxd3) 30... g5 31. Re2 $6 (31. Rxd3 $1 exd3 32. Qxd3 Rf7 33. Qd1 Qf6 $44) 31... Ne5 32. Qc3 h5 $6 (32... g4 $17) 33. Bxe4 $4 (33. f3 $1 b5 34. fxe4 f4 35. Nd4 $16) 33... fxe4 34. Rxe4 Nf3+ $2 (34... Rf3 35. Re3 Qf6 $19) 35. Kg2 Qf7 36. Rf1 $4 (36. Re3 $1 Ne5 37. Rxe5 Rxf2+ 38. Kg1 Bxe5 39. Qxe5+ Qf6 40. Qxf6+ Rxf6 {Я считал, что у черных здесь выграно} 41. Kg2 Rc8 42. Rd2 $11) 36... Nh4+ $3 37. Kg1 (37. gxh4 gxh4+ 38. Kh1 Qg6 $18 {[%cal Gc3f3]}) 37... Kh7 38. Qc2 Kh6 39. Rd1 (39. gxh4 gxh4+ 40. Kh1 Rf3 (40... Qg6 $4 41. f4 $11) 41. Rxh4 Be7 $19) 39... Nf5 $6 40. h4 $4 {Цейтнот} (40. Qd2 $13 {[%cal Gh3h4]}) 40... gxh4 41. Qd2+ Kh7 42. Ng5+ Rxg5 43. Qxg5 hxg3 44. fxg3 $2 (44. Re6 $1 gxf2+ 45. Kxf2 Rxe6 (45... Rh6 $1) 46. dxe6 Qg6 47. Qxg6+ (47. Rg1 $2 Bg3+ 48. Rxg3 Nxg3 $19) 47... Kxg6 48. e7 $1 Kf7 49. Rd5 Ng3 50. b5 a5 51. b6 Kxe7 52. Rxa5 $17) 44... Nxg3 45. Re6 Rf1+ 46. Kg2 Qf3+ 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "NM 2025"]
+[Site "?"]
+[Date "2025.07.08"]
+[Round "5"]
+[White "Melaa, Sondre"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C99"]
+[WhiteElo "2328"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "164"]
+[GameId "2201670475780160"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,164,23,12,12,12,12,25,28,-2,5,10,21,-4,-2,6,14,-21,-13,-16,-11,-3,11,17,27,-13,-9,-6,29,6,23,34,33,31,41,0,0,-19,9,-14,1,-1,-1,-27,-13,-74,-67,-75,-35,-34,-5,-13,16,-13,-25,-57,-48,-68,-77,-98,-61,-60,-66,-53,-58,-55,-55,-47,-32,-20,-18,-25,-19,-20,16,1,34,-27,0,-72,-46,-86,-48,-43,-25,-29,-28,-16,4,-14,0,6,0,-16,38,33,31,21,17,14,48,-5,0,0,0,-55,-68,-62,-60,-57,-58,-56,-19,-18,-32,-29,-32,-11,-17,-18,-14,-22,0,-58,-43,-56,-44,-94,-100,-100,-100,-161,-139,-99,-83,-208,-77,-106,-106,-185,-151,-400,-430,-460,-439,-468,-496,-659,-659,-580,-580,-890,-1048,-1123,-675,-682,-688,-687,-727,-1042,-1168,-1504,-1632,-1701,-1644,-1587,-1865]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 (7... O-O 8. d4 Nxd4 9. Nxd4 exd4 10. e5 Ne8 11. Qxd4 c5 (11... d6 12. Qe4 Rb8 13. Bf4 Bb7 14. Qe3 c5 15. c3) 12. Qe4 Rb8 13. c4) 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Re8 (13... Nc6 14. d5 Nb4 15. Bb1 a5 16. Nf1 Bd7 17. Be3 Rfc8 18. Re2 Qb7 19. Ng3 Bd8 20. Qd2 Na6 21. Bc2) 14. d5 Bd7 15. Nf1 Rec8 16. Bd3 Nb7 17. Ng3 Nc5 18. Bf1 h6 19. Nh2 Bf8 20. Qf3 Qd8 21. Nf5 Nh7 22. g4 Ng5 23. Qg2 g6 24. Ng3 Nh7 25. Be3 Rc7 26. f3 Rac8 27. Qd2 Be7 $1 28. Rac1 Bh4 29. Kg2 Bg5 (29... Ng5) 30. Bxg5 Qxg5 31. Qxg5 hxg5 32. Red1 Kg7 33. Rd2 Na4 (33... Nf6 34. Rdc2 a5 35. Be2 Ne8 36. Nhf1 Na4) 34. Rxc7 Rxc7 35. b3 Nc3 36. Bd3 a5 37. Rc2 Rc8 38. Kf1 Nf6 39. Ke1 b4 40. Bf1 (40. Ne2 Nxe2 41. Rxc8 Nf4 42. Ra8 Nxd3+ 43. Kd2 Nc5 44. Rxa5) 40... Rc5 (40... Rh8 41. a4 Bxa4 42. bxa4 Nd7 43. Ne2 Nxa4) 41. Kd2 Ne8 (41... Nfxd5 42. exd5 Rxd5+ 43. Ke3 Rd1) 42. Bd3 Nb1+ 43. Kd1 Na3 44. Rc1 Bb5 45. Bxb5 Nxb5 46. Ne2 f5 47. Rxc5 dxc5 48. Kd2 Nf6 49. Kd3 Nd6 50. Ng3 f4 51. Ne2 Nd7 52. Nf1 $2 (52. Nc1 c4+ 53. bxc4 Nc5+ 54. Ke2 a4 55. Nd3) 52... c4+ 53. bxc4 Nc5+ 54. Kc2 Nxc4 55. Nd2 Ne3+ $2 (55... Na3+ 56. Kb2 a4 57. Nc1 (57. Nb1 Nd3+) 57... Kf7 58. Nb1 Nc4+ 59. Kc2 Ne3+ 60. Kd2 a3 $19) 56. Kb2 a4 57. a3 Nd3+ 58. Kb1 b3 59. Nc3 Nc5 60. Kb2 Kf6 61. Nb5 Nd1+ 62. Kc1 Nf2 63. Kb2 Ncd3+ (63... Nfd3+ 64. Kc3 Ne1) 64. Kc3 Ne1 65. Kb4 b2 66. Nc3 Nxh3 67. Kc5 $2 (67. Kxa4 Ng1 68. Kb3 Ngxf3 69. Nxf3 Nxf3 70. Kxb2 Nh2 71. a4 Nxg4 72. a5 Ne3 73. a6 g4 74. a7 Nc4+ 75. Kc2 Nb6 76. Kd3 g3 77. Ke2 g5 78. d6 $18) 67... Ke7 68. Kc6 Kd8 69. d6 Ng1 70. d7 (70. Nc4 Ne2 71. Nxe5 Nxc3 72. Nf7+ Ke8 73. d7+ Kxf7 74. d8=Q b1=Q 75. Qd7+ $11) 70... Ngxf3 71. Nxa4 $2 (71. Nc4 Nd4+ 72. Kd6 Nb5+ 73. Kc6 Nxc3 74. Nxe5 b1=Q 75. Nf7+ Ke7 76. d8=Q+ Kxf7 77. Qd7+ $11) 71... Nd4+ 72. Kd6 Nb3 $1 73. Nxb3 b1=Q 74. Nac5 Qd1+ 75. Kc6 Ke7 76. Na5 f3 77. Kb7 f2 78. Nc6+ Kf6 79. Nb4 f1=Q 80. Nd5+ Qxd5+ 81. exd5 Qb5+ 82. Ka8 Ke7 0-1
+

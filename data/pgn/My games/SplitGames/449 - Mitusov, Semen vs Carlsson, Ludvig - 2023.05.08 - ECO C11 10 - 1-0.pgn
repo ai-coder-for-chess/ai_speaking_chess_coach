@@ -1,0 +1,19 @@
+﻿[Event "Vennpartier"]
+[Site "?"]
+[Date "2023.05.08"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Carlsson, Ludvig"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C11"]
+[WhiteElo "2396"]
+[BlackElo "2368"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "51"]
+[GameId "466400690607"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4 Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Ncb5 $6 Qxa2 12. Rb3 Qa1+ (12... Rb8 13. Qc3 Qa5 14. Nxc6 Qxc3+ 15. Rxc3 bxc6 16. Rxc6 a6 17. Ba7 axb5 18. Bxb8 Nxb8 19. Rxc8+ Kd7 20. Rxf8 (20. Rxb8 Bb4+) 20... Rxf8 21. Bxb5+ Nc6 22. Kf2 Rb8 23. c4 dxc4 24. Rd1+ Kc7 25. Bxc4 Rb4 26. Rc1 $11) 13. Ke2 (13. Kf2 Nc5 14. Kf3 Ne4 15. Qd3 Qa5) 13... Kd8 (13... Rb8 14. Nc7+ Kd8 15. Ncxe6+ fxe6 16. Nxe6+ Ke8 (16... Ke7 17. Qxd5 Qa5 18. Rb5 Qc3 19. Kf2 $18) 17. Qxd5 Qa5 18. Rb5 Qc3 19. Kf2 Ne7) 14. Kf2 (14. Kf3 a6 15. Nxc6+ bxc6 16. Be2 Qa4 17. Nd6 Bxd6 18. exd6 c5 19. Kg3 Qc6) 14... Nc5 (14... a6 15. Nxc6+ bxc6 16. Be2 Qa4 17. Nd6 Bxd6 18. exd6 c5 19. f5) 15. Bd3 Qxh1 16. Nxc6+ Kd7 17. Ncxa7 Rxa7 18. Nxa7 Qa1 19. Nb5 Nxb3 20. cxb3 b6 21. Qc2 Qa8 22. Qc7+ Ke8 23. Nd6+ Bxd6 24. Bb5+ Bd7 25. Qxd7+ Kf8 26. exd6 1-0
+

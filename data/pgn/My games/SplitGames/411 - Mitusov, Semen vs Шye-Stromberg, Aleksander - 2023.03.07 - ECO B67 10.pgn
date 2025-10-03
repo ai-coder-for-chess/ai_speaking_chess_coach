@@ -1,0 +1,19 @@
+﻿[Event "Nortekk Superlyn mars 2023"]
+[Site "?"]
+[Date "2023.03.07"]
+[Round "3"]
+[White "Mitusov, Semen"]
+[Black "Шye-Stromberg, Aleksander"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B67"]
+[WhiteElo "2395"]
+[BlackElo "2133"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "63"]
+[GameId "461012059428"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 b5 10. e5 $2 (10. Bxf6 gxf6 (10... Qxf6 11. e5 dxe5 12. Ndxb5 Qd8 13. Nd6+ Bxd6 14. Qxd6 exf4 15. Bxa6 Rxa6 16. Nb5 Ra7 17. Nxa7 Nxa7 18. Qd4 Nc6 19. Qxg7 Rf8 20. Rd2 Ne7 $16) 11. Kb1 Qb6 12. Nxc6 Bxc6 13. f5 b4 14. Ne2 e5 15. Ng3 h5 16. h4 Qc5 17. Bd3 $14) 10... dxe5 11. Nxc6 Bxc6 12. Qe1 (12. Qxd8+ Rxd8 13. Rxd8+ Kxd8 14. fxe5 h6 15. Bh4 g5 16. Bg3 Nd7 $19) 12... Qc7 13. fxe5 Nd7 14. Bf4 Rc8 15. Bd3 Nc5 16. Kb1 Be7 (16... Qb7 $19) 17. Qg3 b4 $6 (17... g5) 18. Qxg7 Rf8 19. Ne2 Nxd3 20. cxd3 Bb5 $2 (20... Ba4 21. Rc1 Bc2+ 22. Ka1 Qa5 23. Bd2 Qa4 24. Qg4 $15) 21. Nd4 Qd7 22. Nxb5 Qxb5 23. Qxh7 b3 24. d4 bxa2+ 25. Ka1 Rb8 26. Rd2 Bb4 27. Rf2 Bc3 28. Qc2 $2 (28. bxc3 Qb1+ 29. Rxb1 axb1=Q+ 30. Qxb1 Rxb1+ 31. Kxb1 $18) 28... Bxd4 29. Rd2 Qd5 $4 (29... Bxe5 30. Bxe5 Qxe5 31. Qa4+ Qb5 32. Qh4 $18) 30. Qa4+ Ke7 31. Rxd4 Qxg2 32. Qd7# 1-0
+

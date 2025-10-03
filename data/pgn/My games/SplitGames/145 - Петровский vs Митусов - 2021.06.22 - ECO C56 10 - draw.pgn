@@ -1,0 +1,21 @@
+﻿[Event "×У до 18 лет"]
+[Site "?"]
+[Date "2021.06.22"]
+[Round "6"]
+[White "Петровский"]
+[Black "Митусов"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C56"]
+[WhiteElo "2186"]
+[BlackElo "2294"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "83"]
+[GameId "405791522123"]
+[EventType "simul"]
+[EventRounds "18"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8. Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne4 12. Be3 Bb6 13. Nd2 c5 14. Ne2 Nxd2 15. Qxd2 d4 16. Bf2 O-O 17. a4 a5 18. Rae1 f5 19. b3 Bc6 20. c4 Qe7 (20... dxc3 $5 21. Qxc3 (21. Qxd8 Raxd8 22. Nxc3 Rd3 23. Rc1 Rfd8) 21... Qd5 22. Qg3 Rad8 23. Rc1 Bb7) 21. h3 Rae8 22. Kh2 Qe6 23. Ng3 Bb7 24. Qd3 Qc6 25. Rg1 Qh6 26. Qd2 Re6 27. Re2 Rg6 28. Rf1 Re6 29. Be1 Qg6 30. Qd1 Qe8 31. Bd2 h5 32. Qe1 h4 33. Nh1 Qh5 34. Ref2 Ra8 35. Rg1 Kf7 36. Re2 Rh8 37. Rf2 Ra8 38. Re2 Rh8 39. Rf2 Ra8 (39... Rhe8 40. Bxa5 $2 (40. Re2) 40... g5 41. g4 hxg3+ 42. Nxg3 Qh7 $1 $19) 40. Re2 Rae8 41. Rf2 Ra8 42. Re2 1/2-1/2
+

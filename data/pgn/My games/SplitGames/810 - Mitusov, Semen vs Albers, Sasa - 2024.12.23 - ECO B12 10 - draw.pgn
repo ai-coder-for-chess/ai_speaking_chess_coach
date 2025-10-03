@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.23"]
+[Round "3.3"]
+[White "Albers, Sasa"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2268"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "53"]
+[GameId "2126041991413771"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O a5 7. a4 h6 (7... f6 8. Nh4 (8. Re1 fxe5 9. dxe5 Bc5) (8. c4 fxe5 9. dxe5 Bc5) 8... fxe5 9. Nxf5 exf5 10. dxe5 Nxe5 11. Re1 Bd6 12. c4 Nf6 13. cxd5 Nxd5) 8. Na3 Ne7 9. c3 Bh7 10. Nc2 c5 11. Bb5 Nc6 12. Be3 Rc8 (12... c4 13. Nfe1 Na7 14. Bxd7+ Qxd7 15. f4) 13. Nfe1 cxd4 (13... c4) 14. cxd4 Be7 15. Qg4 Bg6 16. Rc1 h5 17. Qe2 h4 18. h3 Bf5 19. Nf3 Ndb8 20. Qd2 Na6 21. Bg5 Bxg5 22. Nxg5 Nc7 23. Na3 Na8 24. Nf3 Be4 25. Ng5 Bf5 26. Nf3 Be4 27. Ng5 1/2-1/2
+

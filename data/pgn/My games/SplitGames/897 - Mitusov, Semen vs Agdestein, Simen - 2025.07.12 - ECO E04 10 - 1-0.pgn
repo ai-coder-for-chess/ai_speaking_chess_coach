@@ -1,0 +1,20 @@
+﻿[Event "NM 2025"]
+[Site "?"]
+[Date "2025.07.12"]
+[Round "9"]
+[White "Agdestein, Simen"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "E04"]
+[WhiteElo "2565"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "2201670475845730"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,94,27,27,29,-11,2,-17,7,3,14,9,20,-14,-12,8,14,23,28,39,39,35,32,24,50,21,53,48,44,49,18,17,16,71,26,56,45,46,46,55,53,39,40,9,-5,2,-8,-6,31,-29,45,39,80,44,163,58,223,121,158,133,167,152,152,103,262,163,156,146,290,169,256,191,324,338,337,250,270,172,165,202,212,159,314,266,332,341,392,416,535,566,714,833,1319,1390,2354,2354,2409]} 1. d4 d5 2. c4 e6 3. Nf3 a6 4. g3 dxc4 5. Bg2 Nf6 (5... b5 6. Ne5 c6 7. O-O Bb7 8. b3 cxb3 9. Qxb3 Nf6 10. Rd1) (5... Nc6 6. O-O Rb8) 6. O-O Nc6 7. e3 Rb8 8. Nfd2 e5 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Nbd2 Bb4 13. b3 Bc3 (13... h5 14. h3 Bc3 15. Ba3 Bxa1 16. Qxa1 h4 17. Qd4) 14. Ba3 Bxa1 15. Qxa1 h5 (15... Qd3 16. h3 Nh6) 16. h3 h4 17. Qd4 (17. hxg4 hxg3 18. Nf3 Qd3 19. Ncd2 Rd8 20. Kg2 (20. Qc1 g2 21. Kxg2 Bxg4 22. Qxc6+ Bd7 23. Qe4 Bh3+ 24. Kg1 Bxf1 25. Qc6+ Qd7) 20... Qg6 21. Rh1 Rh2+ 22. Rxh2 gxh2) 17... Qxd4 18. exd4 Nh6 19. g4 f5 (19... Rd8 20. Bc5 f5 21. exf6 gxf6 22. Re1 Kf7 23. f4) 20. exf6 gxf6 21. Na5 Bd5 22. Re1+ Kd7 (22... Kf7 23. Re7+ Kg6 24. f4 Rhe8 25. f5+ Nxf5 26. gxf5+ Kxf5) 23. Re7+ Kd8 24. f4 Rb5 (24... c5 25. Rg7 Rb6 $3 26. Bxc5 Re6) 25. Nac4 (25. Ndc4 c5 26. Rg7 Rg8 27. Rh7 Nxg4 28. hxg4 Rxg4+ 29. Kh2 cxd4) 25... Bxc4 (25... Nf7 26. Ne3 Ra5 27. Bb4 Rxa2 28. Nxd5 Nd6) 26. Nxc4 Rd5 27. Re6 Rxd4 28. Rxf6 Nxg4 $1 (28... Rd1+ 29. Kg2) 29. hxg4 h3 30. Kh2 Re4 31. Bb4 c5 32. Ba5 Re2+ 33. Kh1 Rf2 34. Rxa6 $2 (34. Rf7) 34... Rh4 $4 (34... Rf1+ 35. Kh2 Rf2+ 36. Kg3 Rg2+ 37. Kf3 Rh4 $11) 35. Ra8+ Ke7 $6 (35... Kd7 36. Ne5+ Ke6 37. Re8+ Kd5 38. Rd8+ Ke4 39. Rd2) 36. Ne3 Rh7 37. Rc8 Kd6 38. Rd8+ Kc6 39. f5 Rxa2 40. Bc3 h2 41. Rd2 Rxd2 42. Bxd2 Kd6 43. g5 Rh3 44. g6 Ke7 45. Nd5+ Kd6 46. g7 Rg3 47. Bf4+ Kxd5 1-0
+

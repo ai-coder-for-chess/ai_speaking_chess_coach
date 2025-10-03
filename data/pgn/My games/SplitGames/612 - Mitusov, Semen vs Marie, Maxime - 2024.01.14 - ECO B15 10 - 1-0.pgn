@@ -1,0 +1,20 @@
+﻿[Event "Sevilla Open 2024"]
+[Site "lichess.org"]
+[Date "2024.01.14"]
+[Round "3.5"]
+[White "Mitusov, Semen"]
+[Black "Marie, Maxime"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B15"]
+[WhiteElo "2479"]
+[BlackElo "2204"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "79"]
+[GameId "488612140447"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8. Qc2 Re8+ 9. Ne2 h5 (9... g6 10. h4 Be6 11. h5 f5 12. Be3 Nd7 13. hxg6 fxg6 14. g4 f4 15. Bxg6 fxe3 16. Bxe8 exf2+ 17. Kf1 Nf6 18. g5 Bd5 19. gxf6 Bxh1 20. f7+ Kg7 21. Qf5) 10. O-O h4 11. Nf4 Nd7 (11... Qc7 12. g3 Nd7 13. Qd1 Nf8 14. Qh5 g6 15. Qh6 f5 16. Qxh4) (11... Na6 12. Bd2 (12. Qd1 g6) 12... Nc7 13. Rae1 Ne6 14. Nh5) 12. Qd1 g6 $6 (12... Nf8 13. Qh5 g6 (13... Qc7 14. g3 Qd7 15. Ng2 (15. Qxh4 g5) 15... hxg3 16. hxg3 Qg4 17. Qxg4 Bxg4 $11) 14. Nxg6 fxg6 15. Bxg6 Nxg6 16. Qxg6+ Kh8 17. Qh5+ Kg8 18. Bh6 Bf8 19. Rae1 Re6 20. Re3 Bd7 21. Qxh4 Kf7 $14) (12... Bxf4 13. Bxf4 h3 14. Qh5 Nf8 15. gxh3 Be6 16. Rfe1 Qd7 17. Re3 Qd5 18. Qxd5 Bxd5 19. Bg3) 13. Nxg6 fxg6 14. Bxg6 Re7 (14... Kg7 15. Qg4 Ne5 (15... Nf8 16. Bf5+ Kf7 17. Bh6 Bxf5 18. Qg7+ Ke6 19. Rae1+ Kd5 20. Qf7+ Ne6 21. Qh5 Bxh2+ 22. Kxh2 Qc7+ 23. g3 Qh7 24. g4 Nf4 25. Bxf4 Qxh5 26. gxh5 $16) 16. Bh6+ Kh8 17. Qh5 Nxg6 18. Bf4+ Kg7 19. Qh6+ Kg8 20. Qxg6+ Kh8 21. Bxd6 $18) (14... Nf8 15. Qh5 Be6 16. Bh6 Qd7 17. Rae1 Bf7 18. Bxf8 Bxg6 19. Qxg6+ Kxf8 20. Qxf6+ Kg8 21. Qg5+ Qg7 22. Qxh4 $16) 15. Bh6 Nf8 16. Qh5 Be6 (16... Rg7 17. Bc2 Be6 18. Bxg7 Kxg7 19. f4 Qd7 20. f5 Bd5 21. Rae1 $18) (16... Bd7 17. Rae1 Ne6 (17... Be8 18. Bxf8 Bxg6 19. Qxg6+ Kxf8 20. Qxf6+ Kg8 21. Qxh4 Rxe1 22. Qg4+ $18) 18. Re4) 17. Rfe1 Qd7 (17... Qc7 18. Re4 Bxh2+ 19. Kh1 h3 20. Bxf8 Rxf8 (20... hxg2+ 21. Kxg2 Rxf8 22. c4 Rg7 23. Rh4 $18) 21. g3 Bd5 22. Kxh2 Bxe4 23. Bxe4 f5 24. Qg6+ Rg7 25. Qe6+ Qf7 26. Bxf5 Qxe6 27. Bxe6+ Kh8 28. f4 $16) 18. Re4 $6 (18. Bxf8 Rxf8 19. Re4 Rg7 (19... Rff7 20. Rxh4 Rh7 21. Bxh7+ Rxh7 22. Qxh7+ Qxh7 23. Rxh7 Kxh7 24. b3 $18) 20. Rxh4 Rxg6 21. Qxg6+ Qg7 22. Qd3 Bd5 23. Qh3 f5 24. Re1 $16) 18... Rg7 $2 (18... Nxg6 19. Qxg6+ Rg7 20. Bxg7 Bf5 21. Qxf6 Bxe4 22. Qxh4 Kxg7 23. Qxe4 Re8 $11) 19. Bxg7 Qxg7 20. Bf5 Bxf5 (20... Bf7 21. Qe2 Qh6 22. Rg4+ Kh8 23. Qe4) 21. Qxf5 Qh6 22. Rae1 (22. Re6 Bxh2+ 23. Kxh2 Nxe6 24. Qxe6+ Kh8 25. Re1 $18) 22... Kf7 23. Qh3 Rd8 24. Rxh4 Qg6 $2 (24... Re8 25. Rf1 Qg6) 25. g3 Rd7 26. Rhe4 f5 27. Re8 Re7 28. R8xe7+ Bxe7 29. Re5 f4 30. Rf5+ Bf6 31. Rxf4 Qb1+ (31... Ne6 32. Rf3) 32. Kg2 Qxa2 33. Qh5+ Ke7 34. Qc5+ Kf7 35. Rxf6+ Kxf6 36. Qxf8+ Kg6 37. Qd6+ Kh5 38. Qf6 Qb1 39. h3 a5 40. g4# 1-0
+

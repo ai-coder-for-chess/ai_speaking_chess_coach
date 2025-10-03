@@ -1,0 +1,21 @@
+﻿[Event "EM i hurtigsjakk 2022"]
+[Site "chess24.com"]
+[Date "2022.12.17"]
+[Round "2"]
+[White "Mitusov, Semen"]
+[Black "Gorkiewicz, Mateusz"]
+[Result "1-0"]
+[Annotator "Semen"]
+[ECO "C55"]
+[WhiteElo "2317"]
+[BlackElo "1928"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "95"]
+[GameId "453825682164"]
+[EventDate "2022.??.??"]
+[EventType "rapid"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,95,34,34,17,4,4,11,11,8,12,12,24,3,3,-21,-24,-30,-31,-9,-8,-8,-12,-16,5,-8,32,-25,-2,-15,8,-13,18,-40,0,0,6,-15,-15,-27,-24,-24,10,10,10,20,12,12,21,23,41,16,35,26,46,51,51,19,14,8,10,6,0,0,0,0,-3,-3,-3,0,67,67,67,97,105,105,125,125,142,141,229,373,373,185,197,190,182,123,123,123,147,123,123,150,150,123,29991,29992]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. c3 Na5 8. Bb5 a6 9. Ba4 b5 10. Bc2 c5 11. a4 (11. Nbd2 Nc6 12. Nf1 Re8 13. h3 h6 14. Ng3) 11... b4 12. Nbd2 Re8 13. Nf1 h6 14. h3 Nc6 15. Ng3 Be6 16. Bb3 (16. d4 cxd4 17. cxd4 exd4 18. Ne2 $14) 16... Bxb3 17. Qxb3 Bf8 18. Be3 d5 19. exd5 Qxd5 20. Qc2 c4 $6 (20... Rad8 21. Rad1 b3 22. Qb1 Qe6 $17) 21. dxc4 Qxc4 22. Nd2 Qe6 23. c4 Rad8 24. Nb3 Qc8 25. Re2 Re6 26. Rae1 Nd4 27. Bxd4 exd4 28. Nc1 Rxe2 29. Rxe2 Nd7 30. Nd3 Nc5 31. b3 a5 32. Nxc5 Bxc5 33. Qd3 g6 34. Ne4 Bb6 $6 (34... Be7 35. Nd2 Bc5 36. Nf3 $14) 35. Nf6+ Kg7 36. Nd5 Ba7 $2 (36... Bc5 37. Qe4 $18) 37. Re7 Rxd5 38. cxd5 Qc1+ 39. Qf1 Qc2 (39... Qc5 40. Qe2 $18) 40. Rxa7 d3 41. Qa1+ (41. Kh2 d2 42. Qe2 d1=Q 43. Qe5+ $18) 41... Qc3 42. Qd1 d2 43. Rc7 (43. Kh2 $18) 43... Qxc7 44. Qxd2 Qc3 45. Qd1 Kf8 46. d6 Ke8 47. Qe2+ Kd8 (47... Kf8 48. Qe4) 48. Qe7+ 1-0
+

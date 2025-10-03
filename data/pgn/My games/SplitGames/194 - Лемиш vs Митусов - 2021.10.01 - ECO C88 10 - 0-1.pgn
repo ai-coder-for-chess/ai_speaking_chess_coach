@@ -1,0 +1,20 @@
+﻿[Event "ПУ рапид"]
+[Site "?"]
+[Date "2021.10.01"]
+[Round "5"]
+[White "Лемиш"]
+[Black "Митусов"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "1833"]
+[BlackElo "2185"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "54"]
+[GameId "414721747871"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. c3 d5 10. exd5 Nxd5 11. d4 exd4 12. Nxd4 Nxd4 13. Qxd4 c5 14. Qd1 c4 15. Bc2 Bc5 16. Be4 Qb6 17. Qf3 Rad8 18. Na3 f5 19. Bc2 Ne3 20. Qe2 Nxg2 21. Qe6+ Qxe6 22. Rxe6 Nh4 23. Bg5 Nf3+ 24. Kf1 Nxg5 25. Re5 Bxa3 26. bxa3 Rd2 27. Bxf5 g6 0-1
+

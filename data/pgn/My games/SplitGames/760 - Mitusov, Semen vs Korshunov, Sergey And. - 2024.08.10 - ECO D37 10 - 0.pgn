@@ -1,0 +1,21 @@
+﻿[Event "Rudar 9 2024"]
+[Site "?"]
+[Date "2024.08.10"]
+[Round "4"]
+[White "Korshunov, Sergey And."]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2340"]
+[BlackElo "2479"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "50"]
+[GameId "2077638735310859"]
+[EventDate "2024.08.07"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,50,19,31,19,0,-3,-3,-12,21,42,16,27,34,27,19,29,21,21,5,6,-22,2,-10,-4,-5,12,-2,-22,-18,-11,-19,-17,-23,-4,1,-20,-11,-19,-84,-78,-91,-97,-93,-88,-227,-227,-227,-123,-255,-255,-425,-438]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. Bf4 dxc4 6. e3 Nd5 7. Bxc4 Nxf4 8. exf4 Nb6 (8... Bd6) 9. Bd3 (9. Bb3 g6 10. d5 Bg7 11. dxe6 Bxe6 12. Bxe6 Qxd1+ 13. Rxd1 fxe6 14. O-O Bxc3 15. bxc3 Nd5) 9... g6 10. h4 Bg7 11. Qc2 (11. h5 Qe7 12. h6 Bf6 13. g4 O-O 14. g5 Bh8) 11... Qe7 12. O-O-O $6 (12. h5 Bd7 13. h6 Bf8) 12... Bd7 13. h5 O-O-O (13... Bc6 14. h6 Bf6 15. Be4 Bxe4 16. Nxe4 O-O-O) 14. Ne5 Be8 15. hxg6 hxg6 16. Rxh8 Bxh8 17. Be4 (17. Rh1 Bf6 18. Rh7 Rxd4 19. Bxg6 Bxe5 $19) 17... f5 18. Bf3 g5 19. fxg5 (19. g4 fxg4 20. Bxg4 gxf4 21. Ng6 Bxg6 22. Qxg6 Kb8 $15) 19... Qxg5+ 20. Kb1 Bxe5 21. dxe5 Nc4 22. Bd5 $2 (22. Qe2 Rxd1+ 23. Nxd1 Bb5 $19) 22... exd5 23. Nxd5 Bf7 (23... b5 $5) 24. f4 (24. Qxc4 Rxd5 25. Rxd5 Qg8) 24... Bxd5 25. Rxd5 Qxf4 0-1
+

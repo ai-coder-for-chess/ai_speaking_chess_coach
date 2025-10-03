@@ -1,0 +1,20 @@
+﻿[Event "Fagerness Autumn 2022"]
+[Site "?"]
+[Date "2022.10.13"]
+[Round "6.9"]
+[White "Mitusov Semen"]
+[Black "Shehzad Shazil"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C18"]
+[WhiteElo "2415"]
+[BlackElo "2224"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "127"]
+[GameId "448095208909"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ (5... Ba5 6. b4 cxb4 (6... cxd4 7. Nb5) 7. Nb5) (5... cxd4 6. axb4 dxc3 7. Qg4 Ne7 8. Qxg7 Rg8 9. Qxh7 Qc7 10. Nf3 Nbc6 11. Ra3 $18) 6. bxc3 Ne7 7. Qg4 Kf8 8. Bd3 (8. Qd1) (8. Bd2 Qc7 9. Bd3 b6 10. Nf3 Ba6 11. O-O Bxd3 12. cxd3 c4 13. Bg5 $14) 8... Qa5 9. Bd2 Qa4 10. Ra2 c4 11. Bf1 Bd7 12. h4 h5 13. Qd1 Nbc6 14. Be2 b5 15. Ra1 a5 16. Bf3 (16. Bxh5 Rxh5 17. Qxh5 Qxc2 18. Qh8+ Ng8 19. Nf3 $18) 16... g6 $2 17. Bg5 Ke8 18. Ne2 (18. Bf6 Rg8 19. g4 hxg4 20. Bxg4 Kd8 21. Nf3 Kc7 22. Ng5 $18) 18... Kd8 19. O-O Kc7 20. Ng3 $6 Rhb8 21. Qd2 b4 22. axb4 Qb5 23. bxa5 Rxa5 24. Ne2 Qa6 25. Rxa5 Qxa5 26. Rc1 Qa2 27. Qd1 Ra8 28. Bf4 Ra3 29. Bg5 Nc8 30. Bh6 Ra8 31. Rb1 Nb6 32. g3 Ne7 33. Qc1 Nf5 34. Bg5 Ra3 35. Kg2 Ba4 36. Bd8+ Kxd8 37. Rxb6 Kc7 38. Ra6 Kb7 39. Ra5 Qa1 40. Qg5 Bc6 41. Rxa3 (41. Rc5 $1 Qe1 42. Qf6 Ra1 43. Qxf7+ Kb6 44. Kh3 Qf1+ 45. Bg2 Qxe2 46. Qxe6 Qg4+ 47. Kh2 $18) 41... Qxa3 42. g4 hxg4 43. Bxg4 Bd7 $2 (43... Ng7 44. Qf6 Qf8 45. Nf4 Ne8 46. Qd8 Qa3 47. Bxe6 fxe6 48. Nxe6 $18) 44. Bxf5 exf5 45. Nf4 Be6 (45... Qc1 46. e6 $1 fxe6 47. Nxg6) 46. Nxe6 fxe6 47. Qxg6 Qxc3 48. Qf7+ Kb8 49. Qe8+ Kb7 50. Qb5+ Ka8 51. Qa6+ Kb8 52. Qb6+ Ka8 53. Qxe6 Qxd4 (53... Qxc2 54. Qxd5+ Ka7 55. e6 Qe2 56. Qxf5 $18) 54. Qxf5 Qxh4 55. e6 Kb8 (55... d4 56. Qd5+ (56. Qa5+ Kb7 57. Qb5+) 56... Ka7 57. Qd7+ Kb6 58. e7 Qe4+ 59. Kg3) 56. Qxd5 Qg4+ 57. Kf1 Qh3+ 58. Ke2 Qg4+ 59. Ke3 Qh3+ 60. f3 Qh6+ 61. f4 Qh3+ 62. Kd4 Qh4 63. Qe5+ Ka7 64. e7 1-0
+

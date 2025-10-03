@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "?"]
+[Date "2022.08.16"]
+[Round "3"]
+[White "Mitusov Semen"]
+[Black "Panek Bartosz"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B12"]
+[WhiteElo "2415"]
+[BlackElo "2138"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "61"]
+[GameId "442964367647"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. c4 $2 (6. O-O Nc6 7. Be3) (6. Be3 $1 Nc6 7. dxc5 f6 8. Bb5 $18) 6... dxc4 7. O-O Nc6 8. Bxc4 (8. Be3 cxd4 9. Nxd4 Nxd4 10. Bxd4 Ne7 $15) 8... cxd4 9. Bb5 Bc5 10. Nbd2 $6 (10. Bxc6+ bxc6 11. Nbd2 Ne7 12. Nb3 Bb6 13. Nfxd4 $15) 10... Nge7 11. Nb3 Qb6 12. a4 O-O (12... a6 $1 13. Bxc6+ (13. Bc4 Bg4 $19) 13... Nxc6 14. a5 Qb4 15. Nxc5 Qxc5 16. b3 Qd5 17. Ba3 Bg4 $19) 13. Bg5 a6 $6 (13... Be4 $17) (13... f6 14. exf6 gxf6 15. Bh6 Rfd8 16. Bc4) 14. Bxc6 Nxc6 15. Rc1 Bb4 (15... Be7 $1 16. Rxc6 Qxc6 17. Bxe7 Bc2 18. Nbxd4 Bxd1 19. Nxc6 Bxf3 20. Bxf8 Bxc6 21. Bb4 Bxa4 22. Rc1 $17) 16. Nbxd4 Nxd4 17. Nxd4 Bg6 (17... Be4 $1 18. Qg4 Qxd4 19. Bf6 g6 20. Rcd1 Bd2 21. Rfe1 Qxb2 22. Rxe4 Rac8 $17) 18. Be3 Rfd8 19. Qb3 Bc5 20. Rxc5 Qxc5 21. Nxe6 Qxe5 $6 (21... Qc2 22. Qxc2 Bxc2 23. Nxd8 Rxd8 24. a5 Rd1 $11) 22. Nxd8 Rxd8 23. Qxb7 Be4 $6 (23... h6 $1 24. Rc1 a5 $11) 24. Qxa6 Bxg2 $4 (24... Qd5 25. Qb5 Qa8 26. Qg5 h6 27. Qg3 Qxa4 $11) 25. Kxg2 Qe4+ 26. Kg3 h5 27. h3 Qe5+ 28. Kg2 Rd6 (28... Qd5+ 29. Kh2 Rd6 30. Qc8+ Kh7 31. Qc5) 29. Qa8+ Kh7 30. Rg1 Rg6+ 31. Kh1 1-0
+

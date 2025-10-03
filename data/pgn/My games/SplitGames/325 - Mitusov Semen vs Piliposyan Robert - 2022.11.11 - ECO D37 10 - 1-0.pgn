@@ -1,0 +1,20 @@
+﻿[Event "EYCC 2022"]
+[Site "?"]
+[Date "2022.11.11"]
+[Round "6.8"]
+[White "Piliposyan Robert"]
+[Black "Mitusov Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2281"]
+[BlackElo "2413"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "79"]
+[GameId "450653603292"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,79,19,9,26,0,-9,-7,-6,-2,19,15,9,9,46,51,56,42,47,21,50,37,6,34,44,54,54,27,49,46,54,32,84,63,59,78,69,66,78,60,89,77,104,79,89,96,69,71,96,65,209,167,157,140,147,52,150,150,132,135,257,214,123,113,114,112,145,231,315,256,325,338,338,655,874,567,587,587,771,814,831,828]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 (6... Nbd7 7. c5 b6 (7... Ne4 8. Rc1 Nxc3 9. Rxc3 b6 10. cxb6 (10. c6 Nf6) 10... Bb4 (10... c5 11. Bc7 Qe8) 11. bxc7 Bxc3+ 12. bxc3 Qe7) 8. b4 (8. c6 Nb8 9. Qa4) 8... a5 9. a3) 7. dxc5 Bxc5 8. a3 Nc6 9. Qc2 Qa5 10. Rd1 (10. O-O-O Be7 11. g4 (11. h4 a6 12. Ng5 Rd8) 11... dxc4 12. Bxc4 e5 13. g5 exf4 14. gxf6 Bxf6 15. Nd5 Ne7 16. Nxf6+ gxf6 17. Rhg1+ Kh8) (10. Nd2 Bb4) 10... Be7 11. Be2 (11. Nd2 e5 12. Bg5 d4 13. Nb3 Qb6 (13... Qd8 14. Be2 a5 15. Na4 g6 16. Bxf6 Bxf6) 14. Bxf6 Bxf6 15. Nd5 Qd8 16. Bd3 g6 17. Nxf6+ Qxf6 18. exd4 Nxd4 19. Nxd4 exd4 20. O-O) 11... Ne4 12. cxd5 Nxc3 13. bxc3 exd5 14. O-O Be6 (14... Rd8 15. a4 h6 16. Rb1 Bd6 $14) 15. a4 (15. Rb1 Qxa3 16. Rxb7 Rfc8 17. Rc1 Bf5 18. Qd1 a5 19. Bb5 Nd8 20. Rc7 Rxc7 21. Bxc7 Ne6 22. Be5 f6 23. Bg3 Bg4 24. Bd7 Nd4 25. Bxg4 Qxc1 26. Nxd4 Qxd1+ 27. Bxd1 a4 28. Bf3 Ra5 29. Bc7 Rc5 30. Bb6 Rxc3 31. Bxd5+ Kh8 32. Kf1 Bc5 33. Bxc5 Rxc5 34. e4 f5 35. f3 fxe4 36. fxe4 g6 37. Ke2 a3 38. Kd3 Ra5 39. Ba2 Kg7 40. Kc3 Kf6 41. Nf3 Rb5 42. e5+ Ke7 43. Nd4 Rb2 44. Bd5 Rf2 45. Nc2 Re2 46. Nb4 Kd7 47. Kd4 g5 48. h3 h5 49. g4 h4 50. Bc4 Re1 51. Bd3 Rd1 52. Ke4 Rd2 53. Bc4 Rb2 54. Na2 Rh2 55. Kf5 Rxh3 56. Kxg5 Rh1 57. Kf6 h3 58. Nc3 Re1 59. Be6+ Kd8 60. Bd5 h2 61. g5 Rf1+ 62. Ke6 Rc1 63. Na2 Rg1 64. Kf6 Rf1+ 65. Ke6 Rg1 66. Kf6 Rd1 67. Ba8 Rf1+ 68. Ke6 h1=Q 69. Bxh1 Rxh1 70. g6 Rg1 71. Kf7 Rf1+ 72. Ke6 Rg1 73. Kf7 Rf1+ 74. Ke6 Rg1 {Ѕ-Ѕ (74) Miles,A (2565)-Van der Sterren,P (2475) Wijk aan Zee 1984}) 15... Rfd8 $2 (15... Bf6 16. Rb1 Rfc8 17. Rxb7 (17. Ng5 Bxg5 18. Bxg5 d4) 17... Nd8 18. Rb3 d4 19. c4 Qxa4) 16. Rb1 Rd7 17. Nd4 Bf6 (17... Nxd4 18. cxd4) 18. Rb5 Qd8 19. Rfb1 (19. Nxe6 fxe6 20. Rfb1) 19... Qc8 $6 (19... Bxd4 20. cxd4 Na5 21. Bd3 h6 22. h3 b6 $14) 20. Bd3 (20. Nxe6 fxe6 21. c4 $18) 20... h6 (20... g6 21. Nxe6 fxe6 22. Bxg6 hxg6 23. Qxg6+ Bg7 24. Qxe6+ Rf7 25. Qxd5 b6 $16) 21. Nxe6 fxe6 22. Qd1 b6 23. Qg4 Qe8 $6 (23... Rd8 $16) 24. c4 d4 $6 (24... Rad8 25. cxd5 Rxd5 26. Bc4 $18) 25. Bg6 Qe7 26. Be4 $2 (26. Bxh6 $18 gxh6 (26... Ne5 27. Rxe5 (27. Qe4 Rad8) 27... Bxe5 28. Bg5) 27. Be4+ Qg7 28. Qxe6+) 26... Rc8 27. Rh5 (27. Bxh6 Ne5 28. Qg3 Rc5) 27... dxe3 $4 (27... Nd8 28. Rxh6 Nf7 29. Rh7 Rxc4 30. Qg6 Kf8 31. g4 $18) 28. fxe3 Nd8 29. Bxh6 Rc5 30. Rf1 Rxh5 31. Qxh5 Nf7 (31... Qc5 32. Qxc5 bxc5 33. Bf4) 32. Bf4 Qb4 $6 (32... Qc5 33. Qh7+ (33. Qxc5 bxc5) 33... Kf8 34. Bg6 e5 35. Bg5 $18) 33. g4 $1 Qxc4 34. Qh7+ Kf8 35. g5 Bc3 36. g6 e5 37. Bg5 Qxf1+ 38. Kxf1 Nxg5 39. Qh8+ Ke7 40. Qxg7+ 1-0
+

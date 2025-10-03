@@ -1,0 +1,21 @@
+﻿[Event "×О рапид"]
+[Site "?"]
+[Date "2021.08.23"]
+[Round "2"]
+[White "Митусов"]
+[Black "Пархоменко"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "B24"]
+[WhiteElo "2432"]
+[BlackElo "2143"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "92"]
+[GameId "411260955982"]
+[EventType "simul"]
+[EventRounds "5"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8. Bg5 f6 9. Be3 d6 10. d4 b6 11. Qd2 $2 (11. d5 $1 exd5 12. exd5 $16) 11... e5 12. dxe5 dxe5 13. Qxd8 $2 (13. Nd5 $11) 13... Rxd8 14. Nd5 Ba6 (14... Nxd5 $1 15. exd5 Nd4) 15. Rfe1 $2 (15. Nxe7+ Nxe7 16. Rfe1 $11) 15... Nxd5 16. exd5 Nd4 17. Bxd4 cxd4 18. Rad1 Rac8 19. c3 Bxe2 20. Rxe2 dxc3 21. bxc3 Bf8 22. Rd3 Bd6 23. Re4 Rc5 24. Ra4 Rd7 25. Bf1 Rdc7 26. Rf3 Kf7 27. c4 Ke7 28. Rfa3 a5 29. Rb3 Rb7 30. Kg2 Rcc7 31. c5 Bxc5 32. Rh4 $2 (32. Bb5 $1) 32... Kd6 $1 33. Bd3 f5 34. g4 e4 35. Bb5 Kxd5 36. gxf5 gxf5 37. Rh5 Ke5 38. Rbh3 Rg7+ 39. Kf1 Bd4 40. Rh6 Rbc7 41. Ba4 Rc1+ 42. Ke2 Rg2 43. Kd2 Ra1 44. Kc2 Rxf2+ 45. Kb3 Rb1+ 46. Ka3 Bc5# 0-1
+

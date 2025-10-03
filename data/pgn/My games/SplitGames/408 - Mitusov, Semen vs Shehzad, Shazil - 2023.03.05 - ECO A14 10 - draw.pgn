@@ -1,0 +1,20 @@
+﻿[Event "Eliteserien 2022 - 2023"]
+[Site "Oslo"]
+[Date "2023.03.05"]
+[Round "9"]
+[White "Shehzad, Shazil"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "A14"]
+[WhiteElo "2225"]
+[BlackElo "2396"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "165"]
+[GameId "460714641189"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. b3 d4 7. e3 c5 8. Ne5 Nfd7 (8... Qc7 9. f4 Nfd7 10. Nd3 Nc6 11. Na3 a6 12. Nc2 dxe3 13. dxe3 b5) 9. exd4 cxd4 10. Nxd7 Nxd7 11. d3 e5 12. Re1 (12. Ba3 Re8 13. Bxe7 Rxe7 14. Nd2 $14) 12... Re8 13. Ba3 Bg5 $6 (13... Bxa3 14. Nxa3 a5 15. Qd2 Nc5) 14. b4 $2 (14. Nd2 Bxd2 15. Qxd2 Nf6 16. f4 Ng4 17. fxe5 $18) 14... Nf6 15. Nd2 Bxd2 $6 (15... Bg4 16. Qc2 Bxd2 17. Qxd2 Qd7 $11) 16. Qxd2 Rb8 17. Re2 Bg4 18. f3 Bh5 19. Rae1 Qc7 20. Bb2 Rbd8 21. Bc1 h6 22. h3 $6 (22. a4 Bg6) 22... b5 $1 23. g4 $6 (23. c5 Nd5 24. Qb2 f6 $15) 23... Bg6 24. f4 exf4 $4 (24... e4 25. dxe4 (25. f5 e3 26. Qd1 Bh7 $19) 25... bxc4 26. f5 d3 27. Re3 c3 $19) 25. Rxe8+ Rxe8 26. Rxe8+ Nxe8 27. Qxf4 Qe7 28. c5 Bxd3 29. Qxd4 (29. Bb2 $14) 29... Qe1+ 30. Kh2 Qxc1 31. Qxd3 Qf4+ 32. Qg3 Qxb4 33. Qb8 Kf8 34. Qxa7 Qf4+ 35. Kh1 b4 36. c6 Qc1+ 37. Kh2 Qf4+ 38. Kg1 Qc1+ 39. Kf2 Qb2+ 40. Kg1 Qa1+ 41. Kf2 Qb2+ 42. Kg1 Qe5 43. Qb6 Qd6 44. Qe3 Nc7 45. Qa7 g5 46. Qb8+ Kg7 47. Qa7 Ne6 48. Qf2 Qe5 49. Qd2 Qc5+ 50. Kh1 Kf8 51. Qd7 Qc1+ 52. Kh2 Qf4+ 53. Kh1 Qg3 54. Qd2 Qc3 55. Qd7 Kg7 56. Kg1 Qe1+ 57. Kh2 Qe5+ 58. Kg1 Qe3+ 59. Kh1 Nf4 60. Qd1 (60. c7 Qe1+ 61. Kh2 Qf2 62. Qc6 Ne2 $19) 60... Qf2 (60... Nxh3 61. Bxh3 Qxh3+ 62. Kg1 Qe3+ 63. Kf1 Qf4+ 64. Kg1 $11) 61. Qf3 (61. Qg1 Qd2) 61... Qc5 (61... Qxa2 62. c7 Qa1+ 63. Kh2 Qc1 64. Qc6 Qe3 65. c8=Q Ne2 66. Qc5 Qf4+ 67. Kh1 Ng3+ $11) 62. Qe4 Kf6 63. Kh2 (63. Qh7 Ke7 64. Qxh6 Ne2 $19) 63... Qd6 64. Kh1 Qd1+ 65. Kh2 Qd6 66. Kh1 Ne6 67. Qf5+ Ke7 68. Bd5 Qg3 69. Bxe6 Qxh3+ 70. Kg1 Qe3+ 71. Kf1 Qxe6 72. Qc5+ Qd6 73. Qa7+ $4 (73. Qe3+ Kd8 74. Qb6+ Qc7 75. Qxb4 Qxc6 76. Qf8+ Qe8 77. Qxe8+ Kxe8 $11) 73... Ke6 74. Qb7 Qf4+ $4 (74... Qd3+ 75. Kf2 Qd4+ 76. Kf3 (76. Ke1 Qa1+ 77. Ke2 Qxa2+ 78. Ke3 Qb3+ 79. Ke2 Qc4+ 80. Ke3 Qc5+ 81. Ke2 Qe5+ 82. Kd2 Qd5+ 83. Kc2 Kf6 $19) 76... Qf4+ $19) 75. Ke1 Qg3+ 76. Kf1 $4 Qf3+ $4 (76... Qd3+ $19) 77. Ke1 Qe4+ 78. Kd2 Qd5+ 79. Kc1 Qc4+ 80. Kb2 Qc3+ 81. Kb1 Qd3+ 82. Kb2 Qa3+ 83. Kb1 1/2-1/2
+

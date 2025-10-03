@@ -1,0 +1,20 @@
+﻿[Event "Norway Chess Open 2022"]
+[Site "?"]
+[Date "2022.06.07"]
+[Round "6"]
+[White "Greenfeld Alon"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "D35"]
+[WhiteElo "2501"]
+[BlackElo "2369"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "41"]
+[GameId "436773618222"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,33,16,28,26,-1,-14,-16,-16,-27,-13,-51,-12,9,37,37,47,8,40,43,87,2,2,-18,21,6,14,-32,4,2,10,4,-8,-14,-15,-26]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8. h3 Nb6 9. Nf3 (9. Bf4 $5 Bd6 10. Nge2 Bxf4 11. Nxf4 Qe7 12. Qc2 Bd7 $11 13. g4) 9... Nh5 10. Bf4 $6 (10. Bxe7 $5 Qxe7 11. O-O O-O 12. Re1 (12. Qc2 g6 13. Rfe1 Ng7 14. e4 dxe4 15. Nxe4 Bf5 16. Qd2 Rfe8 $14) 12... Be6 13. Na4 Nxa4 14. Qxa4 Nf6 15. Qc2 Rad8 16. Qc5 Qxc5 17. dxc5 a5 $14) 10... Nxf4 11. exf4 Bf6 $6 (11... Qd6 $1 12. g3 Bxh3 13. Ne5 Bd7 $15) 12. Qc2 Qd6 13. g3 Bd7 14. O-O-O $6 (14. Kf1 $5 O-O-O 15. a4 a5 16. Kg2 Kb8 17. b4 $14) 14... O-O-O 15. Ne5 Qf8 16. Kb1 Kb8 17. Ne2 {Draw} Bc8 18. Nc1 Be7 19. Nb3 f6 20. Nf3 g6 21. f5 $15 1/2-1/2
+

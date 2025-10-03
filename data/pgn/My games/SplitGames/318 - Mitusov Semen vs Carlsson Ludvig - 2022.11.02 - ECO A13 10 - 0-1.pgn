@@ -1,0 +1,20 @@
+﻿[Event "Uppsala Young Champions 2022"]
+[Site "?"]
+[Date "2022.11.02"]
+[Round "8"]
+[White "Carlsson Ludvig"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A13"]
+[WhiteElo "2367"]
+[BlackElo "2413"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "449940777294"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. b3 d4 6. e3 c5 7. exd4 cxd4 8. O-O Nc6 9. d3 O-O 10. Na3 h6 $6 (10... e5 11. Nc2 a5 12. Re1 Bd6 13. a3 h6 14. Rb1 Re8 15. b4 Qc7 $15) 11. Nc2 Re8 12. Rb1 $6 (12. Re1 Bd6 13. b4 $11) 12... e5 $6 (12... a5 13. a3 e5 14. b4 axb4 15. axb4 e4 16. dxe4 Nxe4 $17) 13. b4 Qc7 14. Re1 Bd6 $1 15. Nd2 $6 (15. c5 Bf8 16. a4 Bf5 17. b5 Na5 18. Rxe5 Rxe5 19. Bf4 Ng4 20. Ncxd4 Bg6 21. h3 $13) 15... Bf5 (15... Bg4 16. Bf3 Bxf3 17. Qxf3 Rad8 18. c5 Bf8 19. a4 Nd5 20. Nc4 Nc3 21. Ra1 Re6 $17) 16. c5 Bf8 17. Nc4 Re6 (17... e4 18. Bf4 Qd7 19. dxe4 Bxe4 20. Bxe4 Nxe4 21. b5 Nc3 22. bxc6 Qxc6 23. Qxd4 Nxb1 24. Rxb1 Bxc5 $13) 18. a4 Ne7 $6 (18... Rae8 19. b5 Nd8 20. b6 axb6 21. cxb6 Qd7 22. Rb5 e4 23. Rxf5 exd3 $11) 19. Nd6 $6 (19. N2a3 a6 20. Nd6 $16) 19... Bg4 20. f3 Bh5 21. g4 Bg6 $2 (21... Ned5 22. gxh5 Bxd6 23. cxd6 Qxd6 24. Bd2 Nxh5 25. Kh1 Ndf4 26. Bxf4 Nxf4 $11) 22. f4 exf4 23. Rxe6 fxe6 24. Nxd4 e5 25. Ne6 Qd7 26. Qb3 Kh8 $1 27. Bxb7 Rb8 28. Bf3 Nc6 $6 (28... Ned5 $1 29. Bxd5 (29. Nxf8 $1 Rxf8 30. h3 Nc7 31. Bb2 Ne6 32. Nc4 Ng5 33. Nxe5 Nxf3+ 34. Nxf3 Nxg4 35. Qc3 $16) 29... Bxd6 30. cxd6 Qxd6 31. Bc4 Nxg4 32. h3 Ne3 33. Bxe3 fxe3 34. Re1 Bf5 $11) 29. b5 Nd4 (29... Na5 30. Nxf8 Rxf8 31. Qd1 $18) 30. Nxd4 Bxd6 31. cxd6 exd4 32. Bxf4 Nxg4 33. Bg3 $4 (33. Qc4 $18 Rf8 34. Qxd4 Qf5 35. d7) 33... Rf8 $2 (33... Ne3 $11) 34. Rf1 $2 (34. Bc6 Qf5 35. Qc2 $18) 34... Ne3 35. Rf2 Qh3 36. Qb2 Bxd3 37. a5 (37. Qxd4 Rxf3 38. Qxd3 Qg4 (38... Rxg3+ 39. Kh1 $3 $18) 39. Qe2 Rxg3+ 40. hxg3 Qxg3+ $11) 37... h5 38. b6 axb6 39. axb6 $4 $19 (39. Qxd4 $11) 39... h4 40. Bf4 Rxf4 41. d7 Rxf3 42. d8=Q+ Kh7 43. Rxf3 Qg4+ 0-1
+

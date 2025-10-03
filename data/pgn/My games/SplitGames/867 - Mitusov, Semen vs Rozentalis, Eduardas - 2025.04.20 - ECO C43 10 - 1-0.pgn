@@ -1,0 +1,20 @@
+﻿[Event "Fagernes vår 2025"]
+[Site "Fagernes, Norway"]
+[Date "2025.04.20"]
+[Round "9.9"]
+[White "Mitusov, Semen"]
+[Black "Rozentalis, Eduardas"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C43"]
+[WhiteElo "2459"]
+[BlackElo "2481"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "43"]
+[GameId "2168789478584359"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 Nxe5 7. dxe5 Nxc3 (7... Bb4 8. O-O Nxc3 9. bxc3 Bxc3 10. Rb1 O-O (10... Bxe5 11. Re1 Qe7 12. f4 Bd4+ 13. Kh1 Be6 14. f5 $18) 11. Bxh7+ Kxh7 12. Qd3+ Kg8 13. Qxc3 a5 14. f4 (14. Qd4 Ra6 15. Rb5) 14... d4 15. Qd3 Re8) 8. bxc3 Be7 (8... Bc5 9. O-O O-O 10. Re1 Qh4 11. Be3 Bxe3 12. Rxe3 c5 13. Qd2 Be6 14. f4 f5 15. Qf2 Qxf2+ 16. Kxf2 g6 17. Be2 Rfd8 18. a4 Rac8 19. a5 d4 20. Rg3 dxc3 21. Rxc3 Rd4 22. g3 Bd5 23. Rb1 c4 24. Rd1 Rxd1 25. Bxd1 b5 26. axb6 axb6 27. Ra3 Be4 28. Ra6 b5 29. Rb6 Rd8 30. Ke1 Rd5 31. Be2 Bxc2 32. Rxb5 Rxb5 33. Bxc4+ Kf8 34. Bxb5 Bb3 35. Be2 Be6 36. Kf2 Ke7 37. h3 h6 38. g4 g5 39. gxf5 Bxf5 40. Bg4 Bc2 41. f5 h5 42. f6+ Kf7 43. Bxh5+ Ke6 44. Bg4+ Kf7 45. Ke3 Bb3 46. Kd4 {1-0 Amar,E (2537)-Gong,S (2407) Wch U20 62nd Petrovac 2025 (6)}) 9. O-O O-O 10. f4 (10. Be3 c5 11. f4 f5) 10... Bc5+ (10... f5 11. Be3 c5 12. Be2 Be6 13. Bf3 Qd7 14. a4 Rad8 15. Qe2 Qc7 16. Rfb1 b6 17. Rd1 g5 18. h3 Rd7 19. Rd2 Rfd8 20. Rad1 gxf4 21. Bxf4 d4 22. Qf2 Kh8 23. Kh1 Qc8 24. Kh2 Rg8 25. cxd4 cxd4 26. Rxd4 Rxd4 27. Rxd4 Bc5 28. c3 Bxd4 29. cxd4 Qd7 30. Qd2 Bd5 31. e6 Qxe6 32. Be5+ Rg7 33. Qc3 Bxf3 34. Qxf3 Qe8 35. Qxf5 Kg8 36. Bxg7 Kxg7 37. Qg5+ Kf8 38. Qf4+ Ke7 39. Qe4+ Kf8 40. Qxh7 Qxa4 41. Qf5+ Kg7 42. Qe5+ Kf7 43. h4 {1-0 Carlsen,M (2876)-Shirov,A (2664) FIDE Chess.com Grand Swiss Douglas 2019 (6)}) 11. Kh1 Qe7 12. Qh5 g6 13. Qf3 Bd7 $1 (13... c6 14. f5 Qxe5 15. Bh6 Bd7 16. Rae1 Qxc3 17. Qf4 $18 (17. Bxf8 $6 Rxf8 $16)) 14. Qg3 (14. Bd2 Bc6 15. f5 Qxe5 16. Rae1 Qd6 17. Bh6 d4 18. Qg4) 14... f6 $2 (14... Rae8 15. Bd2 f5 16. a4 Be6 (16... a5 17. Be3 Bxe3 18. Qxe3 b6 $14) 17. a5) 15. e6 $1 Bc6 16. f5 g5 17. h4 Bd6 (17... h6 18. hxg5 hxg5 19. Bxg5 Qg7 20. Bh4 Qxg3 21. Bxg3 Kg7 22. Bf2 Rh8+ 23. Kg1 Bd6 24. Bd4 Rh2 $13) 18. Qg4 h6 19. hxg5 hxg5 20. Rf3 Be8 21. Rh3 Kg7 22. Bxg5 (22. Bxg5 fxg5 23. Rh7+ Kf6 (23... Kxh7 24. f6+ Kh6 25. Qh3+ $1 Bh5 26. fxe7 $1 (26. g4 $2 Qe8 27. Rf1 Bf4 $11) 26... Rf4 27. g3 $18) 24. Qh3 $1 (24. Rxe7 Rh8+ 25. Kg1 Bc5+ 26. Kf1 Bh5 27. Re1 $1 $18) (24. Qd4+ $2 Be5 25. Qxe5+ Kxe5 26. Rxe7 Rh8+ 27. Kg1 Rc8 $11)) 1-0
+

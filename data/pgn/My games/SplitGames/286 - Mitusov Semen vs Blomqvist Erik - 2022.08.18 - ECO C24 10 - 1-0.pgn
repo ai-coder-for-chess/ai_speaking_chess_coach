@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "https://lichess.org/study/pkM"]
+[Date "2022.08.18"]
+[Round "6"]
+[White "Blomqvist Erik"]
+[Black "Mitusov Semen"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C24"]
+[WhiteElo "2522"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "87"]
+[GameId "443123868451"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,87,16,28,38,19,19,5,4,4,16,-45,-61,-52,-5,-16,11,-4,13,-24,-24,4,4,-1,-14,-14,-14,-14,-14,-14,-20,-20,14,2,133,153,130,154,141,144,154,150,166,134,115,117,128,114,115,110,106,74,117,117,136,99,99,112,114,119,115,117,114,117,117,114,117,87,67,71,188,167,238,225,243,234,244,253,253,253,264,302,288,294,345,343,331,341,1756,2367]} 1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. f4 d6 (5... h5 6. h3 (6. Nf3 Ng4 7. Qe2 Nd4 8. Nxd4 exd4 9. Nd1 Qh4+) 6... d5 7. exd5 Nxd5 8. Nxd5 Be6 9. Qf3 Nd4 10. Qe4 Nxc2+ 11. Kd1 Nxa1 12. Nf3 c6) (5... O-O 6. Nf3 Ng4 7. Qe2 Bf2+ 8. Kf1 Nd4 9. Nxd4 Bxd4 10. Qxg4 d5 11. f5 dxc4 12. Nd5 Kh8 13. dxc4 c6 14. Ne3 b5) 6. Nf3 Bg4 (6... h5) 7. Na4 Bxf3 8. Qxf3 Nd4 9. Qd1 b5 10. Bxf7+ Kxf7 11. Nxc5 dxc5 12. fxe5 Nd7 13. O-O+ Kg8 14. c3 Ne6 (14... Nxe5 15. cxd4 (15. Bf4 Ng6 16. cxd4 Qxd4+ 17. Kh1 Nxf4 18. Rxf4 h5 $14) 15... Qxd4+ 16. Kh1 h6 17. Qh5 Kh7 18. Rf5 Rhf8 19. Bxh6 Rxf5 20. Qxf5+ Kxh6 21. Qh3+ $11) 15. d4 cxd4 16. cxd4 Nxe5 (16... h6 17. d5) 17. dxe5 Qxd1 18. Rxd1 Kf7 19. Be3 Rhe8 20. Rac1 a6 21. g4 Re7 22. Kf2 Kg8 23. Ke2 h6 24. Rf1 Rae8 25. h4 Nf8 $6 (25... Nd8 26. Rf5 Nf7 27. Bf4 Nd8 $16) 26. Bc5 Rxe5 27. Rxf8+ (27. Bxf8 $2 Rxe4+ 28. Kd3 Re3+ 29. Kd2 Re2+ 30. Kd1 Rxb2 $11) 27... Rxf8 28. Bxf8 Kxf8 29. Ke3 Re6 30. Rxc7 Rg6 31. Kf4 Rf6+ 32. Ke5 Rg6 33. h5 Rxg4 34. Ra7 g6 $4 (34... Rh4 35. Rxa6 Kf7 36. Ra7+ Kg8 37. Ra8+ Kf7 38. Ra7+ Kg8 39. Kd5 Rxh5+ 40. e5 Rh2 41. e6 Kf8) 35. Kf6 Rf4+ 36. Kxg6 Rxe4 37. Ra8+ Ke7 38. Rxa6 Re2 39. b4 Rg2+ 40. Kxh6 Kf7 41. Ra5 Kg8 42. Rxb5 Rxa2 43. Rg5+ Kh8 44. Ra5 1-0
+

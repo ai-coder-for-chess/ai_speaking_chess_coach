@@ -1,0 +1,21 @@
+﻿[Event "×У до 16 лет"]
+[Site "?"]
+[Date "2021.03.02"]
+[Round "1"]
+[White "Митусов"]
+[Black "Сараев"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B25"]
+[WhiteElo "2296"]
+[BlackElo "1868"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "115"]
+[GameId "396149099376"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,24,19,31,72,49,54,8,29,25,26,26,26,-1,18,5,11,0,11,-10,31,3,27,-5,38,8,-2]} 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 Nf6 7. O-O O-O 8. h3 Nd4 9. f4 Nd7 10. Be3 (10. Nd5 $1 e6 11. Ne3 Rb8 12. a4 b6 13. c3 Nxe2+ 14. Qxe2 Bb7 15. g4 f5 $2 16. gxf5 exf5 17. exf5 Bxg2 18. Qxg2 gxf5 19. Kh2 $16) 10... e6 11. Qd2 (11. Bf2 {[%cal Ge2d4,Gc3e2]} Nxe2+ 12. Qxe2 Rb8 13. a4 a6 14. a5 b5 15. axb6 Rxb6 16. Ra2 $14) 11... f5 $6 (11... Rb8 12. a4 a6 13. Rab1 b5 14. axb5 axb5 15. b4 $13) 12. Nd1 $6 (12. Bf2 $1 {[%cal Ge2d4,Gc3e2]} Nxe2+ 13. Qxe2 Nf6 14. a4 Bd7 15. Nb5 Qe7 16. e5 $16) 12... Rb8 13. Nc1 (13. Nxd4 cxd4 14. Bf2 b5 15. c3 dxc3 16. Nxc3 $11) 13... Nc6 14. a4 Qc7 15. c3 Nf6 16. Bf2 b6 17. Re1 $6 (17. Ne3 Bb7 18. Ne2 Rbe8 19. Rae1 $11) 17... Bb7 18. Rb1 $2 {[%cal Ga7a5,Yd1e3,Ye3c4]} (18. Ne3 fxe4 19. dxe4 Rbd8 20. Ne2) 18... e5 $1 $19 19. Ne3 exf4 20. gxf4 fxe4 21. dxe4 Ne7 $6 (21... Rbe8 22. Nc4 Re6) 22. Ng4 Nh5 23. Be3 $6 (23. Ne2 $1 Ba6 24. Be3) 23... d5 (23... Rbd8 24. c4 Nc6 25. Ne2 Nd4 26. Nc3 $19) 24. exd5 Rbd8 25. c4 Nf5 26. Bf2 Nxf4 27. Nd3 Nxg2 28. Kxg2 {В этот момент у него оставалась 1 минута} Rxd5 $4 (28... Nd4 29. Nde5 Rf5 30. Bg3 Rxd5 $3 31. cxd5 Qd8 $3 32. Kh2 Bxe5) 29. cxd5 Bxd5+ 30. Kg1 Nd4 $2 (30... Ba8 $3 31. Qf4 $1 Qb7 32. Qh2 c4 33. Nde5 h5 34. Nxg6 hxg4 35. Nxf8 g3 36. Bxg3 Nd4 37. Re3 Bh6 38. Rbe1 Bxe3+ 39. Rxe3 Nf3+ 40. Rxf3 Qxf3 41. Bf4 Kxf8 $11) 31. Nde5 Bxe5 32. Nxe5 Qxe5 33. Rxe5 Nf3+ 34. Kg2 Nxd2+ 35. Rxd5 Nxb1 36. Rd1 Rf4 37. a5 Ra4 38. axb6 axb6 39. Rxb1 Kf7 40. Be1 g5 $2 (40... Ke6 41. Bc3 b5 42. Re1+ Kd5 43. Re7 Rh4 44. Re5+ Kc4 45. Kg3) 41. Bc3 Rf4 42. Ra1 b5 43. Ra7+ Kg6 44. Rg7+ Kh6 45. Rc7 Rc4 46. Rc6+ Kh5 47. Kg3 Re4 48. Rxc5 b4 49. Bf6 h6 50. Re5 Rc4 51. Re3 Kg6 52. Be7 Kf5 53. Rb3 Re4 54. Bxb4 h5 55. Bd2 h4+ 56. Kf3 Re5 57. Rb4 Rd5 58. Be3 1-0
+

@@ -1,0 +1,19 @@
+﻿[Event "Nortekk Superlyn mars 2023"]
+[Site "?"]
+[Date "2023.03.07"]
+[Round "8"]
+[White "Botheim, Tor"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C88"]
+[WhiteElo "2030"]
+[BlackElo "2395"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "48"]
+[GameId "461019627825"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nxe5 (11... Nd4 12. Nd2 c5 13. c3 Nxb3 14. Nxb3 Qc7 15. a4 Bd6 16. Nf3 Rae8 $11) 12. Rxe5 Qd6 13. d4 $5 c5 $2 (13... Rad8 $1 14. c3 Bf6 15. Re1 Rfe8 $15) (13... Bf6 14. Bxd5 Bxd5 15. Nc3 Bxe5 16. dxe5 Qxe5 17. Qxd5 Qe1+ 18. Kh2 Qxf2 19. Bg5 Qxc2 $11) 14. c3 $2 (14. Rxd5 Bxd5 15. dxc5 Qe5 16. Bxd5 Rad8 17. c4 bxc4 18. Nc3 Bxc5 $18) 14... Bd8 $4 (14... Bf6 15. Rxd5 Bxd5 16. dxc5 Qe6 17. Bxd5 Rad8 $17) 15. Nd2 $4 (15. Rxd5 Bxd5 16. dxc5 Qxc5 17. Bxd5 $18) 15... c4 16. Bc2 Bc7 17. Nf3 f6 18. Rh5 $2 (18. Re1 Rae8 19. Kf1 $11) 18... g6 19. Rh6 Rae8 20. h4 $4 (20. Kf1 Rf7 $19) 20... Nxc3 21. Qd2 Bxf3 22. g3 Ne2+ 23. Kf1 Nxg3+ 24. fxg3 Qxg3 0-1
+

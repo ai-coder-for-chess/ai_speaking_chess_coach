@@ -1,0 +1,20 @@
+﻿[Event "SS Manhem Chess Week 2022: IM Tournamen"]
+[Site "Schackcentrum, Vegagatan 20, "]
+[Date "2022.08.10"]
+[Round "6"]
+[White "Mitusov Semen"]
+[Black "Olsson William"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B76"]
+[WhiteElo "2415"]
+[BlackElo "2311"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "105"]
+[GameId "442411624043"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,105,28,40,54,69,86,67,68,55,55,41,96,71,71,53,41,38,43,33,76,76,48,68,64,-1,40,27,27,22,52,60,86,50,51,50,89,84,83,12,78,66,38,3,29,-10,-3,0,-12,0,-4,0,15,0,0,0,34,3,28,43,164,164,164,185,162,162,160,167,168,160,160,135,199,190,178,171,171,109,184,171,431,431,431,570,529,529,551,313,313,306,306,306,306,315,315,315,323,200,330,340,379,379,415,331,415,415,428,373]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. exd5 Nxd5 12. Bd4 e5 13. Bc5 Be6 14. Ne4 Re8 15. h4 h6 $6 (15... h5 $1 16. Bc4 $14) 16. c4 $6 (16. h5 $1 g5 17. Bc4 $16) 16... Nb6 $6 (16... Qc7 $1 17. Bd6 Qb6 $14) 17. Qc2 Qc7 18. Bd6 Qc8 19. a4 $6 (19. h5 $1) 19... Bf5 20. a5 Nd7 21. c5 Nf6 22. Nxf6+ (22. Bc4 Nd5 23. Rxd5 cxd5 24. Bxd5 $16) 22... Bxf6 23. Bd3 Bxd3 24. Rxd3 e4 25. Re3 Qd8 26. fxe4 Qxa5 27. e5 Bg7 28. h5 g5 29. Kb1 Qb4 30. Rf1 Rab8 31. Bxb8 Qxb8 32. Qf5 Re7 33. Rfe1 Re6 34. R1e2 a5 35. Ka2 Qb4 36. Rd3 Qxc5 37. Rd7 Bf6 38. Re1 Qc4+ 39. Kb1 Qb4 40. Red1 Be7 41. Rf1 Kh8 42. Qc2 Kg8 43. Rxf7 Kxf7 44. Qf5+ Ke8 45. Qxe6 Qe4+ 46. Kc1 Qe1+ 47. Kc2 Qe4+ 48. Rd3 Qe2+ 49. Kc3 Qe1+ 50. Kb3 Qb4+ 51. Kc2 Qa4+ 52. Kb1 Qe4 53. Qg6+ 1-0
+

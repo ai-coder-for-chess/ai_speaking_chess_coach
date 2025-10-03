@@ -1,0 +1,20 @@
+﻿[Event "NM for klubblag"]
+[Site "?"]
+[Date "2022.05.28"]
+[Round "3"]
+[White "Frode Urkedal Olav Olsen"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "D35"]
+[WhiteElo "2558"]
+[BlackElo "2332"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "119"]
+[GameId "435933508810"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,20,16,28,26,-14,-23,3,10,-12,-18,24,57,42,37,22,38,38,31,16,28,4,25]} 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 Nf6 $6 (5... c6 $5 6. e3 Bf5 7. Nge2 Nd7 8. Ng3 Bg6 9. Be2 Ngf6 10. h4 h5 $13) 6. e3 O-O 7. Bd3 Re8 8. Nf3 Bd6 (8... Nh5 $5 9. Be5 g6 10. h3 c6 $11) 9. Bxd6 Qxd6 10. Qc2 c6 11. O-O Nbd7 12. a3 Nf8 13. Rfe1 Ng6 14. h3 Bd7 15. b4 Re7 16. b5 Rae8 $6 (16... cxb5 $5 17. Nxb5 Bxb5 18. Bxb5 Rc7 19. Qa4 Ne4 $14) 17. bxc6 bxc6 18. Na4 Ne4 19. Nc5 Bc8 20. Rac1 Qf6 21. Qd1 h6 22. Bf1 $1 Ng5 23. Nxg5 hxg5 24. Ba6 Bf5 (24... Bxa6 25. Nxa6 Re4 26. Qc2 Nh4 27. Nc5 R4e7 $16) 25. Qf3 Nh4 26. Qg3 g6 27. Nd3 $2 (27. Rc3 $1 Kg7 28. Rec1 Rh8 29. Be2 $18) 27... Be4 $1 28. Ne5 Bxg2 29. Rxc6 Qf5 (29... Re6 $5 30. Rec1 Be4 31. Be2 Nf5 32. Qg4 Nh6 $11) 30. Rec1 (30. Ng4 $2 Nf3+ 31. Kxg2 Nxe1+ 32. Kf1 Qb1 33. Nf6+ Kg7 34. Nxe8+ Rxe8 $17) 30... Qxh3 31. Qxh3 Bxh3 32. Kh2 Be6 33. Bc8 $1 Kg7 $2 (33... Bxc8 $1 34. Rxc8 Rxc8 35. Rxc8+ Kg7 36. Rd8 Rb7 37. Rxd5 Rb2 $11) 34. Bxe6 Rxe6 35. Rxe6 Rxe6 36. Rc7 Rf6 37. Kg1 a6 $6 (37... Nf3+ 38. Nxf3 Rxf3 39. Rxa7 Rf6 40. a4 Rb6 $14) 38. Rd7 (38. Ra7 $1 {[%cal Ga3a4,Ga4a5,Ge5d7,Gd7c5]}) 38... Rf5 $2 (38... Nf3+ $1 39. Nxf3 Rxf3 40. Rxd5 Rf5 41. Rxf5 gxf5 42. Kf1 Kf6 43. Ke2 Ke6 44. Kd3 Kd5 45. Kc3 a5 $11) 39. Rxd5 $2 (39. Ng4 $3 Nf3+ 40. Kg2 Nh4+ 41. Kf1 a5 42. Ra7 Rf3 43. Ne5 Rf6 44. a4 $18) 39... g4 $6 (39... Nf3+ 40. Kg2 Nxe5 41. dxe5 g4 $11) 40. Rc5 Nf3+ 41. Nxf3 Rxf3 42. Kg2 Rf6 43. d5 $6 (43. a4 Rb6 44. a5 Rd6 $13) 43... Rd6 44. e4 Kf6 45. Rc6 Rxc6 46. dxc6 Ke7 47. Kg3 Kd6 48. Kxg4 f6 49. Kf4 Kxc6 50. e5 fxe5+ 51. Kxe5 Kb5 52. Kf6 Ka4 53. Kxg6 Kxa3 54. f4 a5 55. f5 a4 56. f6 Kb2 57. f7 a3 58. f8=Q a2 59. Qb4+ Kc2 60. Qa3 1/2-1/2
+

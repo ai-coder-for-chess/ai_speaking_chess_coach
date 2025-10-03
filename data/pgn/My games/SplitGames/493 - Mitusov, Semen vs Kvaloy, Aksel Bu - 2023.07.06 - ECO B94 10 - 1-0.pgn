@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2023"]
+[Site "Oslo, Norway"]
+[Date "2023.07.06"]
+[Round "8.5"]
+[White "Kvaloy, Aksel Bu"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B94"]
+[WhiteElo "2347"]
+[BlackElo "2434"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "41"]
+[GameId "471616868079"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qb6 8. Bb3 e6 9. Bxf6 (9. Qd2 Be7 10. O-O-O Nc5 11. Rhe1 h6 12. Bh4 O-O) 9... Nxf6 10. Qd2 Be7 $6 (10... Nd7 $1 11. O-O-O Nc5 12. f4 Bd7 13. Kb1 O-O-O 14. f5 g6 15. fxe6 fxe6 16. Rhf1 Bg7 17. Rf7 Be5 18. Nf3 Bc6) 11. O-O-O Qc5 (11... Bd7 12. f4 O-O-O 13. f5 d5 14. e5 Ne4 $14) 12. f4 O-O 13. g4 Nxg4 14. Rhg1 Nf6 (14... Bf6 15. h3 Nh6 16. Nf3 (16. f5 exf5) 16... g6) 15. f5 Qe5 $4 (15... exf5 16. exf5 Kh8 17. Qg2 g6 18. Rge1 Bd8 19. fxg6 fxg6 20. Ne6 Bxe6 21. Rxe6 Ba5 $16) 16. Nf3 Qc5 (16... Nxe4 17. Qe3 Qc5 18. Qxe4 Qxf5 $18) 17. Qh6 Ne8 18. e5 $1 exf5 19. Nd5 Kh8 (19... dxe5 20. Rxg7+ Nxg7 21. Nxe7+ Qxe7 22. Rg1) 20. Rxg7 Nxg7 21. Nxe7 1-0
+

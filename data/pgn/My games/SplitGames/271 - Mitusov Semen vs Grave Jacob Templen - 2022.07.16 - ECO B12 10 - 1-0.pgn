@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "?"]
+[Date "2022.07.16"]
+[Round "9"]
+[White "Mitusov Semen"]
+[Black "Grave Jacob Templen"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B12"]
+[WhiteElo "2378"]
+[BlackElo "2220"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "440223147553"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,22,16,28,79,69,75,57,54,37,56,45,52,72,95,62,60,41,54,54,40,33,39,25,23]} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ngf3 Nh6 9. O-O Nf5 10. c4 $6 (10. Nb3 Qa6 11. Qd1 c5 12. dxc5 Nd7 13. c3 Bxc5 14. Bg5 Qa4 $14) 10... Be7 11. a4 (11. g3 O-O) 11... O-O 12. g3 Rd8 13. c5 b6 14. Nb3 Qa6 15. Qc3 Nd7 16. Bg5 f6 17. Bf4 Qc4 18. exf6 gxf6 19. Qe1 Kf7 (19... Qxb3 $2 20. Qxe6+ Kh8 21. Ra3 Qc2 22. Re1 $18) 20. Qd1 bxc5 $6 (20... Rh8 21. Re1 bxc5 22. Rc1 Qb4 23. Qc2 $13 {[%cal Ye1e6]}) 21. Nfd2 Qb4 $2 (21... Qd3 22. Qxh5+ Kg7 23. Ra3 Rh8 24. Qg4+ Kf7 25. Nxc5 Nxc5 26. Rxd3 Nxd3 27. Bc7 $18) 22. Qxh5+ Kg7 23. Rfe1 Rh8 $2 (23... Nf8 24. dxc5 $18) 24. Qg4+ Kf7 25. Rxe6 $3 Kxe6 26. Re1+ Kf7 27. Qxf5 Nf8 28. Nf3 Qb7 29. Ne5+ Ke8 30. Nxc5 Qc8 31. Ned7 Nxd7 32. Qg6+ Kf8 33. Ne6# 1-0
+

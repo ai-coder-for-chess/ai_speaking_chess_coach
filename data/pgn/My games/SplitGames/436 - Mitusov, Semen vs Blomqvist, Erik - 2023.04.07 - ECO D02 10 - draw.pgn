@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2023"]
+[Site "Fagernes, Norway"]
+[Date "2023.04.07"]
+[Round "7.6"]
+[White "Blomqvist, Erik"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D02"]
+[WhiteElo "2523"]
+[BlackElo "2412"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "44"]
+[GameId "463641342852"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Nh5 6. dxc5 Nxf4 7. exf4 g6 8. c3 Bg7 9. Bb5 O-O (9... Qc7 10. O-O (10. g3 O-O 11. O-O d4 12. Bxc6 dxc3 13. Be4 cxd2 14. Qc2 Bh3 15. Rfd1 Rac8 $15) (10. Nb3 a6 11. Bxc6+ bxc6 $11) 10... Qxf4) 10. Bxc6 bxc6 11. Qa4 (11. O-O Rb8 12. Qc2 Qc7 13. g3 Bf5) 11... Qc7 12. O-O a5 13. Rfe1 Ba6 14. g3 $6 (14. Ne5 Rfc8 15. Ndf3 $14) 14... Rfb8 15. Nb3 (15. Qc2 Bc8 16. Nd4 Bxd4 17. cxd4 Bf5 18. Qc3 Qb7 19. b3 a4 $11) 15... e6 (15... Bb5 16. Qa3 a4 17. Nbd4 e6 18. Ne5 Bf8 19. h4 Bc4 20. Rab1 $16) 16. Ne5 Rb5 $2 (16... Bb5 17. Qd4 Ba6 18. Qd2 f6 19. Nf3 e5 $17) 17. Re3 Bf8 18. Rae1 Bg7 19. h4 Rbb8 20. h5 Bb5 21. Qd4 Bc4 22. Nd2 $2 (22. Qd1 a4 23. Nd4 Rxb2 24. a3 $18) 22... Bxa2 (22... Bxa2 23. hxg6 hxg6 24. Ndf3 Rxb2 25. f5 (25. Ng5 f6) 25... gxf5 26. Qh4 d4 27. cxd4 f6 28. Nd3 Rb1 29. Nf4 $11) 1/2-1/2
+

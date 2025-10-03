@@ -1,0 +1,19 @@
+﻿[Event "EM i hurtigsjakk 2022"]
+[Site "?"]
+[Date "2022.12.18"]
+[Round "8"]
+[White "Mitusov, Semen"]
+[Black "Grochowski, Krzysztof"]
+[Result "0-1"]
+[Annotator "Semen"]
+[ECO "B12"]
+[WhiteElo "2317"]
+[BlackElo "2013"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "454207942667"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O c5 7. Be3 $6 (7. c4 Ne7 8. Nc3 dxc4 9. Bg5 $18) 7... Ne7 8. c3 Nc6 9. Nbd2 Be7 10. Nb3 O-O 11. Nxc5 Bxc5 12. dxc5 Ndxe5 13. b4 Nc4 14. Bg5 f6 15. Bh4 b5 16. a4 a6 17. axb5 $6 (17. Re1 Nb2 18. Qb3 Nxa4 19. Nd4 Nxd4 20. cxd4 $18) 17... axb5 18. Bg3 Qc8 19. Rxa8 Qxa8 20. Bxc4 dxc4 21. Bd6 Rd8 22. Re1 Kf7 23. Qe2 Re8 24. Qb2 Qb7 25. Nh4 Bd3 26. Qa1 Ra8 27. Qd1 Nd8 28. Qh5+ Bg6 29. Nxg6 hxg6 30. Qh8 Nc6 31. Qh3 Nd8 32. Qg4 Qd5 33. h4 Ra2 34. Rd1 Rd2 35. Ra1 Qb7 36. h5 g5 37. Qh3 $4 (37. h6 $1 g6 38. h7 Kg7 39. Qh3 Kh8 40. Qh6 Nf7 41. Qxg6 $18) 37... Rd3 38. Qh1 Qd5 39. Kh2 g4 40. Ra7+ $4 (40. Kg1 $17) 40... Kg8 41. Qb1 g3+ 42. Bxg3 Qxh5+ 43. Bh4 Qxh4+ 44. Kg1 Qh5 45. f3 Qe5 46. Ra8 Qd5 47. Rb8 Rd1+ 0-1
+

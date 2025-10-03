@@ -1,0 +1,20 @@
+﻿[Event "EYCC 2022"]
+[Site "?"]
+[Date "2022.11.13"]
+[Round "8.16"]
+[White "Anghel Iulian-Mihai"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C45"]
+[WhiteElo "2061"]
+[BlackElo "2413"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "102"]
+[GameId "450835070022"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 (6... Nf6 7. Qe2 O-O 8. Bg5 h6 9. Bh4 a5 10. a4 Nd4 11. Qd3 Nxb3 12. cxb3 c6 13. O-O-O d5 $13) 7. Qe2 a5 8. Be3 a4 9. Bxb6 axb3 10. Be3 bxa2 11. Rxa2 Rxa2 12. Nxa2 Nge7 13. Nc3 O-O 14. Qd2 f5 15. Bd3 Ne5 16. O-O h6 17. Rd1 Qe8 18. f4 $6 (18. f3 Bd7 19. Bf2 Qf7 20. Re1 f4 $11) 18... Nxd3 19. Qxd3 Qf7 20. e5 $6 (20. h3 Nc6 $15) 20... dxe5 21. fxe5 Nc6 22. Qb5 Re8 23. Bd4 f4 24. Qe2 (24. Qd5 Rd8 25. Qxf7+ Kxf7 26. Bf2 Rxd1+ 27. Nxd1 Nxe5 $19) 24... Qg6 25. Qf2 Bg4 26. Rd2 Rf8 $2 (26... f3 $1 27. gxf3 (27. h3 Bxh3 28. Qxf3 Bf5 $19) 27... Bxf3+ 28. Qg3 Qf5 $19) 27. Nd5 Qe4 28. Nc3 Qg6 29. Nd5 f3 30. g3 Qf7 31. Bc3 Nd8 32. Qd4 h5 33. Kf2 $6 (33. Nf4 Ne6 34. Nxe6 Bxe6 35. Kf2 Qf5 36. Bb4 Rc8 37. Qh4 $17) 33... Ne6 34. Qe3 h4 35. Qe4 $2 (35. Bb4 hxg3+ 36. hxg3 Re8 37. Nf4 Ng5 $19) 35... Qh5 36. Kg1 Rf7 (36... hxg3 37. hxg3 Ng5 38. Ne7+ Kf7 39. e6+ Bxe6 40. Qf4+ Ke8 41. Rd8+ Kxd8 42. Qxf8+ Qe8 $19) 37. Ne3 hxg3 38. hxg3 f2+ 39. Rxf2 Ng5 40. Qxg4 Nh3+ 41. Kg2 (41. Kf1 Rxf2+ 42. Ke1 Qxg4 43. Nxg4 Rf3 $19) 41... Rxf2+ 42. Kh1 Qxg4 43. Nxg4 Rxc2 44. Ne3 Re2 45. Nd5 c6 46. Ne7+ Kf8 47. Nf5 c5 48. e6 g6 49. e7+ Kf7 50. Nd6+ Kxe7 51. Nxb7 Nf2+ 0-1
+

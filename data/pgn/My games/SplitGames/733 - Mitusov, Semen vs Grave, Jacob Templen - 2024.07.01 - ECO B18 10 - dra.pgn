@@ -1,0 +1,20 @@
+﻿[Event "NM 2024"]
+[Site "?"]
+[Date "2024.07.01"]
+[Round "4.8"]
+[White "Mitusov, Semen"]
+[Black "Grave, Jacob Templen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B18"]
+[WhiteElo "2478"]
+[BlackElo "2284"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "109"]
+[GameId "2063326440182747"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,109,27,40,73,71,68,41,26,33,51,-25,6,-12,-2,12,23,31,8,9,1,10,0,-7,-10,-10,-9,10,39,37,45,42,37,38,46,47,47,29,40,36,45,40,44,19,31,34,62,38,42,48,47,45,36,48,110,42,42,42,70,45,64,23,11,6,48,70,18,70,88,0,0,0,31,57,68,7,0,0,17,-42,-4,-20,193,96,184,177,185,179,224,208,319,319,314,314,314,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Nc5 e5 6. Nxb7 Qb6 7. Nc5 Bxc5 8. dxc5 Qxc5 9. c3 Nf6 10. Nf3 O-O (10... Ng4 11. Qd2 O-O 12. h3 Nf6 13. Qg5) 11. Be2 Nbd7 12. O-O Qe7 13. Qa4 Be4 14. Be3 Rfe8 15. Nd2 Nb6 16. Qa6 (16. Qa5 Nbd5 17. Nxe4 Nxe4 $11) 16... Bg6 17. c4 Nfd7 18. Qa5 f5 19. f3 f4 20. Bf2 Nf6 21. Rfe1 Nbd7 22. Rad1 Qf7 23. Qc3 $6 (23. c5 $1 Nd5 24. Nc4 $18) (23. Bf1 Bc2 24. Rc1 Qg6 25. c5) 23... e4 24. fxe4 Bxe4 (24... Nxe4 25. Nxe4 Bxe4 $14) 25. Bf3 $6 (25. h3 h6 26. Bf1 Bg6 27. b4 $16) 25... Bxf3 26. Nxf3 (26. Qxf3 Ne5 27. Qxf4 Nd3 28. Rxe8+ Rxe8 29. Qd4 Ng4 30. Bg3 Ne3 $11) 26... Qh5 $6 (26... Ne4 $1 27. Rxe4 $2 (27. Qd3 Nxf2 28. Kxf2 Nf6 29. h3 $11) 27... Rxe4 28. Ng5 Qh5 $19) 27. Qd4 (27. Qd2 Qf5 28. Nd4 $18) 27... Qf5 28. Nh4 Qh5 29. Nf3 Qf5 30. Rxe8+ (30. c5 Nd5 31. Qa4 $18) 30... Rxe8 31. Qxa7 Qc2 32. Re1 Rxe1+ 33. Bxe1 Qxb2 34. a4 (34. Qa8+ Kf7 35. Qxc6 Qxa2 36. Qc7 $16) 34... Ne5 $1 35. a5 (35. Ng5 Nfd7 36. Qa8+ Nb8 37. Qa5 $13) 35... Nxf3+ 36. gxf3 Qe2 37. Qf2 (37. Bf2 Qxf3 38. a6 $11) 37... Qxc4 38. Qf1 Qa2 39. Qh3 Qe2 40. Bf2 h6 $4 (40... Kf7 41. Qf1 $11) 41. Qc8+ Kf7 42. Qc7+ Kg8 43. Qxc6 Qd1+ 44. Kg2 Nd5 45. a6 Ne3+ 46. Bxe3 fxe3 47. Qc8+ $4 (47. a7 Qe2+ 48. Kg3 $1 Qf2+ (48... Qe1+ 49. Kf4 Qb4+ 50. Ke5 Qb2+ 51. Kf5 Qb1+ 52. Qe4 Qb5+ 53. Qe5 Qb1+ 54. Kg4) 49. Kf4 $1 Qxh2+ (49... Qh4+ 50. Ke5 Qxh2+ (50... Qg5+ 51. Kd4) 51. Ke4 Qh4+ 52. Kd3) 50. Ke4 $1 Qh4+ 51. Kd3 Qd8+ 52. Kc4 Qh4+ 53. Kb3 $18) 47... Kh7 48. Qf5+ Kh8 49. Qf8+ Kh7 50. Qf5+ Kh8 51. a7 Qe2+ 52. Kg3 Qf2+ 53. Kh3 Qf1+ 54. Kh4 Qf2+ 55. Kh3 1/2-1/2
+

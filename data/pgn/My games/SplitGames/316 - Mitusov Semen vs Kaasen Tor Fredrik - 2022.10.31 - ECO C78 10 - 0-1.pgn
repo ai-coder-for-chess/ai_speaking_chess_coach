@@ -1,0 +1,20 @@
+﻿[Event "Uppsala Young Champions 2022"]
+[Site "?"]
+[Date "2022.10.31"]
+[Round "6"]
+[White "Mitusov Semen"]
+[Black "Kaasen Tor Fredrik"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C78"]
+[WhiteElo "2415"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "58"]
+[GameId "449694573403"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6 9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. d5 (13. Bc2 Bxf3 14. gxf3 Nh5 15. f4 Nxf4 16. Bxf4 exf4 17. Qg4 Qf6 18. b4 $13) 13... Ne7 14. Bc2 Qd7 15. c4 Ng6 16. h3 Bh5 $2 (16... Bxh3 17. gxh3 Qxh3 18. Ng5 Qg3+ 19. Kh1 Qh4+ 20. Kg2 Nf4+ 21. Bxf4 exf4 22. Nh3 g5 23. Ra3 Ng4 24. Nd4 Bxd4 25. Qxd4 Ne5 26. Bd1 f5 27. Rh1 fxe4 28. Qxe4 $11 Rxb2 29. Rh2 g4 (29... h6 30. Kf1 f3 31. Qxh4 gxh4 32. Rc3 Rb1 33. Ke1 Ra8 34. Ng1 Raa1 35. Nxf3 Rxd1+ 36. Ke2 Ng6 37. Nxh4 Re1+ 38. Kf3 Ne5+ 39. Kf4 Kf7 40. Nf3 Ng6+ 41. Kf5 Ne7+ 42. Kf4 Rac1 43. Rxc1 Rxc1 44. Nd2 Kg6) 30. Kh1 gxh3 31. Raxh3 Qe7 32. Rxh7) 17. Bd3 (17. Qd3 Nxe4 18. Qxe4 f5 19. Qe1 Bxf3 20. gxf3 f4 $18) 17... Nxe4 18. Bxe4 f5 19. Bb1 Nh4 20. Nxe5 (20. g4 fxg4 21. Nxh4 Rxf2 22. Rxf2 Bxf2+ 23. Kh1 Bxh4 24. Qd3 Bg6 25. Qe2 $16) 20... Qe8 21. Ng4 fxg4 22. hxg4 Qe5 (22... Rxf2 23. Rxf2 Bxg4 24. Qxg4 Qe1+ 25. Kh2 Qxf2 26. Kh3 $1 $18) 23. Qd3 $4 (23. Ra3 $1 Rxf2 24. Rxf2 Rf8 25. Be3 Bxe3 26. Rxe3 Qxe3 27. Qd2 Qxd2 28. Rxd2 Bg6 29. Bxg6 Nxg6 30. b3 $18) 23... Nf3+ 24. gxf3 Qg3+ 25. Kh1 Qh3+ 26. Kg1 Bg6 27. Qd1 Rxf3 28. Ra3 Qxg4+ 29. Kh1 Bxb1 0-1
+

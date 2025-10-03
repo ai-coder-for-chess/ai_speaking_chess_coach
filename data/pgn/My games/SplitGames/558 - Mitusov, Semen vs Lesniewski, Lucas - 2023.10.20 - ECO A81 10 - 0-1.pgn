@@ -1,0 +1,19 @@
+﻿[Event "OSS hostturnering 2023"]
+[Site "?"]
+[Date "2023.10.20"]
+[Round "4"]
+[White "Lesniewski, Lucas"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A81"]
+[WhiteElo "1944"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "68"]
+[GameId "481171323346"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 Ne4 (6... d6 7. Bb2 a5 8. c4 a4 9. b4 Ne4 10. a3 c6 11. Nbd2 Be6) 7. Bb2 d6 8. Nfd2 (8. c4 Nc6 9. Nfd2 (9. Nbd2 Nxd2 10. Qxd2 e5 11. dxe5 dxe5 $11) 9... Nxd4 10. Nxe4 Nf3+ 11. exf3 Bxb2) (8. Nbd2 $1 Nc6 9. Ne1 d5 10. Ndf3 a5 $14) 8... d5 9. c4 c6 10. Nf3 (10. cxd5 cxd5 11. Nf3 Nc6 12. Ne5 Be6 13. f4 $2 (13. e3 Qb6 14. Nd2 Rfc8 $13) 13... Rc8 $19) 10... Be6 11. cxd5 Bxd5 12. Ne5 Nd7 13. f3 Nd6 14. Nc3 Nxe5 15. Nxd5 Nxf3+ 16. Bxf3 cxd5 17. Bxd5+ Kh8 18. e3 Qb6 19. Qe2 Rae8 20. Bg2 e5 21. d5 $2 (21. dxe5 Bxe5 22. Rad1 Rf6 23. Kh1 Bxb2 24. Qxb2 Nc4 25. Qd4 Nxe3 $13) 21... f4 $6 (21... e4 22. Rac1 Rf7 23. Rfd1 h5 24. Bxg7+ Kxg7 25. Qb2+ Kh7 $17 26. Qd4 Qxd4 27. Rxd4 Kg7) 22. Kh1 fxg3 23. Ba3 $6 (23. Rxf8+ Rxf8 24. hxg3 Nf5 25. Kh2 Nxe3 26. Re1 Nxg2 27. Kxg2 Qc5 $15) 23... gxh2 24. Bxd6 $6 Qxd6 25. Rxf8+ Rxf8 26. Rf1 Bh6 27. Rxf8+ Qxf8 28. Kxh2 Qc5 29. Qf3 Bg5 30. Bh3 $2 (30. Qf7 Qe7 $17) 30... Kg7 31. e4 Bf4+ 32. Kh1 Qc2 33. Qg2 Qb1+ 34. Qf1 Qxa2 0-1
+

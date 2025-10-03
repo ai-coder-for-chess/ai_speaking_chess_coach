@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.16"]
+[Round "7.11"]
+[White "Mitusov, Semen"]
+[Black "Zhukenov, Aituar"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C02"]
+[WhiteElo "2464"]
+[BlackElo "2235"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "117"]
+[GameId "2137161094746205"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nh6 6. a3 Nf5 7. b4 cxd4 8. cxd4 Qb6 9. Bb2 Bd7 10. Be2 Rc8 11. O-O Be7 12. Qd2 O-O 13. Rd1 f6 14. Nc3 fxe5 15. dxe5 Be8 16. Rac1 Qd8 17. b5 Nb8 18. h3 Bf7 19. Rf1 $6 {Inaccuracy. Bd3 was best.} (19. Bd3) 19... Nd7 20. Bd3 Nh4 21. Nxh4 Bxh4 22. Na4 Rxc1 23. Qxc1 Bg6 24. Bxg6 hxg6 25. Bd4 Bg5 26. Qb1 Rf4 27. Rd1 Qa5 28. g3 Re4 29. Qb4 Bd8 $6 {Inaccuracy. Qxb4 was best.} (29... Qxb4) 30. Nc3 Qxb4 31. axb4 Rxd4 32. Rxd4 Nxe5 33. Rd1 Be7 34. Rb1 Nc4 35. Na4 b6 36. Nc3 Bf6 37. Rc1 Nd6 38. Ne2 $6 {Inaccuracy. h4 was best.} (38. h4 d4 39. Nb1 Nxb5 40. Nd2 Nc3 41. Ra1 Nb5 42. Nc4 Be7 43. Re1 Kf7) 38... Nxb5 39. Nf4 Nc3 40. Kf1 Kf7 41. Ra1 Nb5 42. Re1 Bc3 43. Re3 d4 44. Rxe6 g5 45. Re5 gxf4 46. Rxb5 fxg3 47. fxg3 a5 $4 {Blunder. d3 was best.} (47... d3 48. g4 g6 49. Rd5 Bxb4 50. Rxd3 a5 51. Rf3+ Kg7 52. Rf4 Bc5 53. Rc4) 48. Rxb6 $2 {Mistake. bxa5 was best.} (48. bxa5 bxa5 49. Ke2 Kf6 50. Rc5 Kg6 51. Kf3 a4 52. Rc6+ Kf7 53. Ra6 d3) 48... Bxb4 $4 {Blunder. axb4 was best.} (48... axb4 49. Ke2 g6 50. Kd3 Kg7 51. Rb7+ Kf6 52. Rb5 g5 53. Ke4 Kg6 54. Rb6+) 49. Ke2 Kg8 $6 {Inaccuracy. g6 was best.} (49... g6 50. g4) 50. h4 Kf7 51. h5 Bc3 52. Kd3 Kg8 53. Ra6 Kh7 54. g4 a4 $6 {Inaccuracy. Bb4 was best.} (54... Bb4 55. Kxd4 Bf8 56. Ke4 a4 57. Rxa4 g6 58. Ra7+ Bg7 59. g5 gxh5 60. Kf5) 55. Rxa4 Kh6 56. Ra6+ Kh7 57. Ke4 Bb2 58. Rd6 Bc3 $6 {Inaccuracy. Kg8 was best.} (58... Kg8 59. Kf5 Kf8 60. Ke6 g6 61. Kf6 d3+ 62. Kxg6 Ke7 63. Rxd3 Ke6 64. Rb3) 59. Kf5 1-0
+

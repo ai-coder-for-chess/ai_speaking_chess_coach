@@ -1,0 +1,20 @@
+﻿[Event "SixDays Budapest July 2025 GM A"]
+[Site "Budapest"]
+[Date "2025.07.29"]
+[Round "4.3"]
+[White "Levitan, Caleb Levi"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[WhiteElo "2399"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "103"]
+[GameId "2204860958756864"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "90+30"]
+
+1. e4 {[%eval 18,0] [%emt 0:00:00]} e5 {[%eval 22,0] [%emt 0:00:00]} 2. Nf3 {[%eval 13,0] [%emt 0:00:00]} Nc6 {[%eval 21,0] [%emt 0:00:00]} 3. Bb5 {[%eval 15,0] [%emt 0:00:00]} a6 {[%eval 21,0] [%emt 0:00:00]} 4. Ba4 {[%eval 11,0] [%emt 0:00:00]} Nf6 {[%eval 28,0] [%emt 0:00:00]} 5. O-O {[%eval 13,0] [%emt 0:00:00]} Be7 {[%eval 24,0] [%emt 0:00:00]} 6. d3 {[%eval 15,0] [%emt 0:00:00]} b5 {[%eval 2,0] [%emt 0:00:00]} 7. Bb3 {[%eval 9,0] [%emt 0:00:00]} d6 {[%eval 1,0] [%emt 0:00:00]} 8. a3 {[%eval 17,0] [%emt 0:00:00]} a5 {[%eval 17,0] [%emt 0:00:00]} 9. Nc3 {[%eval 9,0] [%emt 0:00:00]} a4 {[%eval 17,0] [%emt 0:00:00]} 10. Ba2 {[%eval 15,0] [%emt 0:00:00]} Rb8 {[%eval 12,0] [%emt 0:00:00]} 11. h3 {[%eval 12,0] [%emt 0:00:00]} O-O {[%eval 13,0] [%emt 0:00:00]} 12. Nd5 {[%eval 16,0] [%emt 0:00:00]} Nxd5 {[%eval 11,0] [%emt 0:00:00]} 13. exd5 {[%eval 4,0] [%emt 0:00:00]} Na5 $6 {[%eval 22,0] [%emt 0:00:00] Inaccuracy. Nd4 was best.} 14. b4 {[%eval 18,0] [%emt 0:00:00]} axb3 {[%eval 17,0] [%emt 0:00:00]} 15. cxb3 {[%eval 21,0] [%emt 0:00:00]} c5 {[%eval 16,0] [%emt 0:00:00]} 16. b4 {[%eval 16,0] [%emt 0:00:00]} Nb7 {[%eval 51,0] [%emt 0:00:00]} 17. bxc5 {[%eval 4,0] [%emt 0:00:00]} Nxc5 {[%eval 37,0] [%emt 0:00:00]} 18. d4 {[%eval 36,0] [%emt 0:00:00]} Nd7 {[%eval 42,0] [%emt 0:00:00]} 19. Re1 {[%eval 39,0] [%emt 0:00:00]} Bf6 {[%eval 39,0] [%emt 0:00:00]} 20. Bb2 {[%eval 19,0] [%emt 0:00:00]} Re8 {[%eval 72,0] [%emt 0:00:00]} 21. dxe5 $6 {[%eval 13,0] [%emt 0:00:00] Inaccuracy. Qb3 was best.} Nxe5 {[%eval 21,0] [%emt 0:00:00]} 22. Nxe5 {[%eval 29,0] [%emt 0:00:00]} dxe5 {[%eval 37,0] [%emt 0:00:00]} 23. Rc1 {[%eval 29,0] [%emt 0:00:00]} Bd7 {[%eval 32,0] [%emt 0:00:00]} 24. Qb3 {[%eval 12,0] [%emt 0:00:00]} Qb6 {[%eval 19,0] [%emt 0:00:00]} 25. Qg3 {[%eval 0,0] [%emt 0:00:00]} Qd6 {[%eval 0,0] [%emt 0:00:00]} 26. Rc2 {[%eval 2,0] [%emt 0:00:00]} Ra8 {[%eval 4,0] [%emt 0:00:00]} 27. Bb3 {[%eval 0,0] [%emt 0:03:52]} h5 {[%eval 1,0] [%emt 0:00:00]} 28. Rce2 {[%eval 0,0] [%emt 0:05:32]} h4 {[%eval 0,0] [%emt 0:00:00]} 29. Qc3 $6 {[%eval 57,0] [%emt 0:01:24] Inaccuracy. Qe3 was best.} e4 {[%eval 64,0] [%emt 0:00:00]} 30. Qb4 {[%eval 56,0] [%emt 0:00:18]} Qxb4 {[%eval 62,0] [%emt 0:00:00]} 31. axb4 {[%eval 61,0] [%emt 0:00:04]} Bxb2 {[%eval 57,0] [%emt 0:00:00]} 32. Rxb2 {[%eval 55,0] [%emt 0:00:02]} Rac8 {[%eval 1,0] [%emt 0:00:00]} 33. Rbe2 {[%eval 5,0] [%emt 0:03:34]} Rc3 {[%eval 7,0] [%emt 0:00:00]} 34. Re3 {[%eval 8,0] [%emt 0:01:20]} Rec8 {[%eval 1,0] [%emt 0:00:51]} 35. d6 {[%eval 0,0] [%emt 0:01:30]} R8c6 {[%eval 0,0] [%emt 0:06:13]} 36. Rxc3 {[%eval 0,0] [%emt 0:01:13]} Rxc3 {[%eval 0,0] [%emt 0:00:01]} 37. Bd5 {[%eval 0,0] [%emt 0:00:18]} Rd3 {[%eval 0,0] [%emt 0:00:33]} 38. Bxe4 {[%eval 0,0] [%emt 0:00:20]} Rxd6 {[%eval 0,0] [%emt 0:00:25]} 39. Bf3 {[%eval 3,0] [%emt 0:00:50]} f5 {[%eval 0,0] [%emt 0:02:46]} 40. Rd1 {[%eval 0,0] [%emt 0:01:09]} Rxd1+ {[%eval 0,0] [%emt 0:00:08]} 41. Bxd1 {[%eval 0,0] [%emt 0:00:01]} f4 {[%eval 0,0] [%emt 0:04:15]} 42. g3 {[%eval 0,0] [%emt 0:00:48]} Kf7 {[%eval 0,0] [%emt 0:03:42]} 43. Kg2 {[%eval 0,0] [%emt 0:00:30]} fxg3 {[%eval 0,0] [%emt 0:03:17]} 44. fxg3 {[%eval 0,0] [%emt 0:00:03]} hxg3 {[%eval 0,0] [%emt 0:00:16]} 45. Kxg3 {[%eval 0,0] [%emt 0:00:04]} Kf6 {[%eval 0,0] [%emt 0:00:04]} 46. Bg4 {[%eval 0,0] [%emt 0:01:08]} Bc6 {[%eval 0,0] [%emt 0:00:01]} 47. Kf4 {[%eval 0,0] [%emt 0:00:20]} g5+ {[%eval 0,0] [%emt 0:00:03]} 48. Kg3 {[%eval 0,0] [%emt 0:00:04]} Ke5 {[%eval 0,0] [%emt 0:00:25]} 49. h4 {[%eval 0,0] [%emt 0:00:10]} gxh4+ {[%eval 0,0] [%emt 0:00:16]} 50. Kxh4 {[%eval 0,0] [%emt 0:00:05]} Bd5 {[%eval 0,0] [%emt 0:00:09]} 51. Bd7 {[%eval 0,0] [%emt 0:00:05]} Bc4 {[%eval 0,0] [%emt 0:00:02]} 52. Bxb5 {[%eval 0,0] [%emt 0:00:05]} 1/2-1/2
+

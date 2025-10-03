@@ -1,0 +1,20 @@
+﻿[Event "Varturnering 2024"]
+[Site "Chess.com INT"]
+[Date "2024.03.14"]
+[Round "4"]
+[White "Eliseev, Sergey"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B13"]
+[WhiteElo "2131"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "152"]
+[GameId "493986333013"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 g6 6. Nf3 Bg7 7. O-O O-O 8. Re1 Nc6 9. c3 Bf5 10. Ne5 Nxe5 (10... Ne4 11. Nxc6 bxc6 12. Bxe4 $14) 11. Bxf5 gxf5 12. Rxe5 (12. dxe5 Ne4 (12... Nd7 13. Qxd5 Nxe5 14. Qxb7 $11) 13. f3 Nc5 14. Be3 $14) 12... e6 13. Re2 Kh8 (13... Qc7 14. Nd2 Ne4 15. Nf3 f6 16. Ne1) 14. Nd2 Qc7 (14... Rg8 15. Nf3 Ne4 16. Rxe4 fxe4 17. Ng5 Qf6 18. Qh5 h6 19. Nxf7+ Kh7 $11) 15. Nf3 Ne4 16. Ne1 Rg8 (16... f6 $5 17. f3 (17. Nd3 e5 18. dxe5 fxe5 $13 19. f4 Rad8 20. fxe5 d4 21. cxd4 Rxd4 22. Be3 Bxe5 $13) 17... Ng3 18. Rxe6 Qf7 19. Re3 f4 20. Rd3 Bh6 $15) 17. Nd3 Bf8 (17... Bf6 18. Bf4 Qe7 19. f3 Ng3 20. Bxg3 Rxg3 21. Qd2 (21. Nf4 Bh4 22. Nxd5 Qg5) 21... Rag8 22. Nf4 Bg5) 18. Bf4 Bd6 19. Qc1 Rg7 20. Bxd6 Nxd6 21. f3 Nc4 22. Qf4 Rc8 23. Qxc7 Rxc7 24. Nf4 Rg8 25. Kf2 a5 26. g4 Nd6 27. a3 b5 28. Nd3 a4 29. Rg1 Rcc8 (29... h6) 30. Nf4 Rce8 31. Nh5 Rg6 32. Nf4 Rgg8 33. Rg2 (33. g5 h6 34. g6 fxg6 35. h4 $1 $14) 33... h6 34. Re1 Rd8 35. Reg1 Kh7 36. Nh5 Rg6 37. Nf4 Rgg8 38. Re1 Rg7 39. Kf1 Rgg8 40. Kf2 Rg7 41. Kg3 Rdg8 42. Kh2 Kh8 43. Reg1 Kh7 44. Rg3 Kh8 45. R3g2 Kh7 46. Rh1 Kh8 47. Kg1 Nc4 48. Re2 Nd6 49. Kf1 Rc8 50. Ng2 Rg6 (50... b4 $1 51. cxb4 (51. axb4 a3 $13) 51... Nb5 52. Rd2 Rc1+ 53. Ne1 Nd6 54. Ke2 Nc4 55. Rd1 Rxd1 56. Kxd1 Nxb2+ $15) 51. Nf4 Rf6 52. Nh5 Rg6 53. Rhh2 Kg8 54. Rhg2 Kf8 55. Nf4 Rf6 56. Nh5 Rg6 57. Ke1 fxg4 58. Rxg4 $6 (58. hxg4 b4 $1 59. axb4 (59. cxb4 Rc4 60. Rd2 Nb5 61. Nf4) 59... a3 60. bxa3 Rxc3 61. Ra2 Rxf3 62. a4 Ke7 63. a5 Rg8 64. a6 Ra8 $17) 58... Rg5 59. Nf4 Nc4 $6 (59... Rf5 $1 60. Kf2 h5 61. Rh4 Ke7 $19) 60. Kf2 Rf5 61. Nd3 Ke7 62. Rh4 $6 (62. h4 h5 63. Rg2 Nd6 $11) 62... h5 63. Nf4 $2 (63. Rf4 Rg5 64. h4 Rg7 65. Rf5 $1 $13) 63... Kd6 (63... Nd6 $1) 64. Nd3 Rg8 65. f4 Ke7 66. Re1 (66. Ne5 Nd6 67. Kf1 Rh8 68. Rg2 Rf6 $19) 66... Nd2 67. Re5 (67. Nc5 Rf6 68. Rxh5 Ne4+ 69. Nxe4 Rxf4+ $19) 67... Ne4+ 68. Kf1 Rf6 69. Nc1 (69. Nf2 Ng3+ 70. Ke1 Rh6 71. Ng4 Rhh8 72. Ne3 f6 73. Nxd5+ Kf7 $19) 69... Rfg6 70. Ne2 Rg2 71. Rxe4 (71. Rg5 Rf2+ 72. Ke1 Rxe2+ 73. Kxe2 Nxg5 74. fxg5 Rxg5 75. Rf4 Rg2+ $19) 71... dxe4 72. Rxh5 e3 73. Re5 Rf2+ 74. Ke1 Rf3 75. d5 Rxh3 76. Kd1 Rg2 0-1
+

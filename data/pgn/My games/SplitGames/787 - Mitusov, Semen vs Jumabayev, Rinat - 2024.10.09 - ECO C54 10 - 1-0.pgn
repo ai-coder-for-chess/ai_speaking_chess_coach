@@ -1,0 +1,20 @@
+﻿[Event "Fagernes høst 2024"]
+[Site "?"]
+[Date "2024.10.09"]
+[Round "5.1"]
+[White "Jumabayev, Rinat"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C54"]
+[WhiteElo "2577"]
+[BlackElo "2486"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "55"]
+[GameId "2099454425648156"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,55,43,28,17,17,17,15,9,2,7,2,10,16,26,-18,11,3,7,7,7,7,7,-10,1,1,1,0,-11,-21,16,21,95,34,44,0,95,28,45,88,96,96,97,97,94,94,87,87,90,45,80,89,168,168,168,167,187,195]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. O-O d6 7. Bb3 Ba7 8. Re1 h6 (8... Ng4 9. Re2 Qf6 10. Nbd2 (10. h3 Nh6 11. Nbd2 g5) 10... g5 11. Nf1 Nxf2) 9. Be3 (9. Nbd2 g5 10. Nf1 g4 11. N3d2 h5 12. Nc4 h4 13. Be3) 9... Bxe3 10. Rxe3 O-O 11. Nbd2 Re8 (11... d5 $6 12. Re1 dxe4 13. Nxe4 Nxe4 14. Rxe4 Qd6 15. Re3 Bf5 16. Qe2 Rad8 17. Rd1) (11... Nh5 12. g3 Nf6 13. d4 Bh3) 12. d4 Bg4 13. Qb1 Nh5 14. g3 Qf6 $6 (14... Nf6 15. Qd3 b5 16. Bd1 Bh3 17. Nh4 Rb8) 15. Qd3 Ne7 $6 (15... Qd8) 16. Qf1 $6 (16. Qc4 Rac8 (16... Nc6 17. d5 Na5 18. Qxc7 Nxb3 19. axb3 b5 $16) 17. dxe5 dxe5 18. Qxf7+) 16... Nc6 (16... Ng6 17. h3 Be6) 17. Qd3 Ne7 18. Bd1 Ng6 $6 (18... Qe6 19. h3 Bxf3 20. Nxf3 Qxh3 $13) 19. Nxe5 $1 Bxd1 20. Nxg6 Bg4 (20... Ba4 21. Nh4 Nf4 22. gxf4 Qxh4 23. f5 d5 24. e5 Bb5 25. Qc2 c5 $13) 21. Nh4 Nf4 22. gxf4 Qxh4 23. Rg3 $1 d5 $6 (23... Kh8 24. f5 g6 25. fxg6 fxg6 $16) 24. e5 (24. exd5 $2 Bh5 $11) 24... g6 25. Nf1 Qh5 (25... Bf5 26. Qxf5 Qxg3+ 27. hxg3 gxf5 28. Ne3 $18) 26. Ne3 Bf3 27. Qf5 $1 Qh4 28. Qh3 1-0
+

@@ -1,0 +1,20 @@
+﻿[Event "Kvisla Invitational 2"]
+[Site "?"]
+[Date "2022.05.08"]
+[Round "8"]
+[White "Mitusov Semen"]
+[Black "Abdrlauf Elham"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B04"]
+[WhiteElo "2332"]
+[BlackElo "2455"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "76"]
+[GameId "434114871244"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,22,30,16,55,57,45,73,53,39,16,25,51,68,58,55,53,-7,23,29,40,38,55,54,48]} 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Rc1 O-O 9. b3 Nc6 $6 (9... e5 10. dxe5 dxe5 11. Qxd8 Rxd8 12. c5 N6d7 13. Bc4 Nc6 14. Ne4 Na5 15. Bg5 $11) 10. Nf3 $6 (10. d5 $1 Ne5 11. Be2 e6 (11... Re8 12. Nf3 e6 13. Nxe5 Bxe5 14. O-O $16) 12. f4 Ned7 13. dxe6 Nf6 14. exf7+ Rxf7 15. Nf3 Ng4 16. Bd4 Rxf4 17. Bxg7 Ne3 18. Qd2 Nxg2+ 19. Kd1 Kxg7 20. Rg1 Bg4 21. Ne1 Qf6 22. Nd3 $18) 10... Bg4 11. Be2 (11. d5 $1 Ne5 12. Be2 Nxf3+ 13. Bxf3 Bxf3 14. Qxf3 Nd7 15. O-O $16) 11... e5 $6 (11... d5 $1 12. c5 Nc8 13. Ne5 Bxe2 14. Nxc6) 12. dxe5 dxe5 13. c5 Nd7 14. O-O Nf6 15. h3 Be6 16. Ng5 Bd5 17. Bf3 $6 (17. Nxd5 $1 Nxd5 18. Bc4 Nxe3 19. Qxd8 Nxd8 20. fxe3 Bh6 21. h4 Rc8 22. b4 Rc7 23. Rfd1 $16) 17... Bxf3 18. Qxf3 Qa5 $6 (18... Qe7 19. Nd5 Nxd5 20. Qxd5 Rad8 21. Qc4 Nd4 22. Ne4 $14) 19. Rfd1 Nd4 20. Bxd4 exd4 21. Ne2 $6 (21. Nce4 $1 Nd5 22. Nxh7 $1 Kxh7 23. Ng5+ Kg8 24. Qxd5 Rad8 25. Qxb7 $18 Bh6 26. h4) 21... b6 $2 (21... Rae8 $3 22. Rxd4 h6 23. Ne4 Rxe4 24. Rxe4 Nxe4 25. Qxe4 Qxa2 26. b4 $13) 22. Nxd4 Rae8 23. Nc6 $2 $11 (23. b4 $3 Qxb4 24. c6 h6 25. c7 hxg5 26. Nc6 Qa4 27. Nd8 $18) 23... Qxa2 24. cxb6 axb6 25. Qd3 h6 26. Nf3 Ne4 27. Rc2 Qa3 28. b4 Qa4 29. Re1 Nc5 30. bxc5 Rxe1+ 31. Nxe1 Qxc6 32. cxb6 Qxb6 33. Nf3 Qb1+ 34. Kh2 Qb8+ 35. Kg1 Rd8 36. Qf1 Qf4 37. Rc1 g5 38. Rd1 Rc8 1/2-1/2
+

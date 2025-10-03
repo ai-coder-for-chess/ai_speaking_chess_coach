@@ -1,0 +1,20 @@
+﻿[Event "OSS vårturnering 2025"]
+[Site "?"]
+[Date "2025.03.28"]
+[Round "4"]
+[White "Haug, Hеvard"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B22"]
+[WhiteElo "2330"]
+[BlackElo "2459"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "59"]
+[GameId "2194719758903063"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. dxc5 Qxd1+ 7. Kxd1 Nc6 8. b4 a5 9. b5 Ne5 10. Be2 Bxf3 $6 (10... Nxf3 11. gxf3 Bf5 12. Be3 O-O-O+ 13. Nd2 Nd5) 11. gxf3 e6 12. c6 (12. Be3 Rc8 13. c6 bxc6) 12... bxc6 13. Kc2 cxb5 $6 (13... Bc5 14. f4 Ng6 15. Bf3 Nd5) 14. Bxb5+ Ned7 15. Rd1 (15. Rg1 $5 Nd5) 15... Bc5 $6 16. Bg5 $2 (16. Nd2 $1 Ke7 17. Ne4 Rhc8 18. Rb1 Ra7 19. Nxc5 Nxc5 20. Ba3 $16) 16... Ra7 17. Bxf6 (17. Nd2 O-O $1) 17... gxf6 18. Rxd7 (18. Nd2 Ke7 $1 (18... f5 $4 19. Nb3 Bb6 20. Rxd7 $18) 19. Ne4 f5 $15) 18... Rxd7 19. Nd2 Ke7 20. Bxd7 Kxd7 21. Ne4 Be7 22. Rd1+ Kc6 23. Rg1 f5 24. Nd2 Bf6 25. a4 Rc8 26. Rb1 Kd6 27. Rb3 Ke7 $2 (27... Ke5 $1 28. Rb7 Kf4 29. c4 Bh4 30. Rxf7 Bxf2 31. Rxh7 Be1 32. Rh6 e5 33. Rh5 $15) 28. Kd3 Rd8+ 29. Ke2 Rc8 30. Kd3 $11 1/2-1/2
+

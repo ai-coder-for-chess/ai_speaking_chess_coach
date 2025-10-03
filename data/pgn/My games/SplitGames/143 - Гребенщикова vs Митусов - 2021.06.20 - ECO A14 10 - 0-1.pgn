@@ -1,0 +1,21 @@
+﻿[Event "×У до 18 лет"]
+[Site "?"]
+[Date "2021.06.20"]
+[Round "4"]
+[White "Гребенщикова"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "A14"]
+[WhiteElo "2032"]
+[BlackElo "2294"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "80"]
+[GameId "405616946650"]
+[EventType "simul"]
+[EventRounds "18"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,3,16,-12,-17,-18]} 1. c4 e6 2. Nf3 (2. e4 d5 3. exd5 exd5 4. d4 (4. cxd5 Nf6 5. Bb5+ Nbd7 6. Nc3 Be7 (6... a6 7. Be2 Nb6 8. Nf3 h6 9. O-O Bd6 10. d4 O-O 11. Ne5 Nbxd5)) 4... Nf6 5. Nc3 Be7) 2... Nf6 3. b3 b6 4. g3 Bb7 5. Bg2 d5 6. Bb2 Nbd7 7. O-O Be7 8. d3 O-O 9. Nc3 c5 10. e3 Qc8 11. Qe2 Bc6 12. e4 d4 13. Nd1 e5 14. Nd2 Ne8 $6 (14... a5 $1 15. a4 (15. f4 a4 16. f5 axb3 17. axb3 Rxa1 18. Bxa1 Qa6) 15... g6 {[%cal Gf6h5]}) 15. f4 exf4 16. gxf4 f5 17. e5 $6 (17. Nf2 $11) 17... Qb7 18. Nf3 a5 19. a4 Nc7 20. Bc1 Ne6 21. h4 Kf7 {[%cal Gf7e8,Ge8d8,Gd8c7]} 22. Ng5+ Bxg5 23. hxg5 Rh8 24. Ra2 h6 25. Bxc6 $6 (25. g6+ $1 Kxg6 26. Bh3 Rhf8 27. Bxf5+ Rxf5 28. Qg4+ Ng5 29. fxg5 Bf3 $3 $19 30. Qg3 hxg5 31. e6 Ne5) 25... Qxc6 26. Qg2 Qxg2+ 27. Rxg2 hxg5 28. fxg5 Kg6 29. Re1 Rh5 30. Nf2 Rah8 31. Bd2 Nb8 32. Kf1 Nc6 33. Ke2 Rh2 34. Rxh2 Rxh2 35. Kf3 f4 $1 36. Rh1 Rxh1 37. Nxh1 Kf5 38. Nf2 Nxe5+ 39. Kg2 Nxg5 40. Bc1 Ng4 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.10"]
+[Round "1.9"]
+[White "Mitusov, Semen"]
+[Black "Castillo Trujillo, Luis"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B76"]
+[WhiteElo "2464"]
+[BlackElo "1853"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "101"]
+[GameId "2132803171287051"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,101,19,31,72,53,68,67,59,32,42,32,97,55,54,40,40,31,31,29,64,68,74,73,77,-6,30,30,59,59,48,44,99,57,56,55,46,63,97,112,108,109,120,119,154,107,167,169,184,208,795,217,246,251,241,225,218,237,242,242,243,248,248,243,247,239,243,255,259,259,284,165,169,177,197,199,198,223,205,199,211,219,237,231,269,256,350,390,410,432,453,445,536,567,608,629,695,752,864,994,1076,1111,1342,1308]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. O-O-O d5 (9... Bd7 10. g4 Rc8 11. Kb1 Ne5 12. Be2 (12. h4 h5 13. gxh5 Nxh5 14. Be2 Ng3 15. h5 Nxh1 16. Rxh1) 12... Nc4 13. Bxc4 Rxc4 14. h4 h5 (14... Qc7 15. h5 Rxc3 16. Qxc3 Qxc3 17. bxc3) 15. gxh5 Nxh5 16. Rhg1 Kh7 17. Qd3) 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Nxc3 (12... e5 13. Bc5 Re8 14. Ne4 Qc7 15. h4 f5 16. Nd6 Rd8 17. Nxc8 Raxc8 18. h5 Nb6 19. Bxb6 Rxd2 20. Bc4+ Kf8 21. Bxc7 Rxd1+ 22. Rxd1 Rxc7 23. hxg6 Bh6+ (23... hxg6 24. Rd6) 24. Kb1 hxg6 25. Rd6 Kg7 26. b4) (12... Bxd4 13. Qxd4 Qb6 14. Na4) 13. Qxc3 Bxd4 (13... Bh6+ 14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6 17. Qa3 Rad8 18. Bd3 Rd5 19. b3 Rfd8 20. Rde1 Rd4 21. Re5) 14. Rxd4 Qb6 15. h4 h6 (15... Rd8 16. Rxd8+ Qxd8 17. h5 Be6 18. hxg6 fxg6 19. Qe3) 16. Bc4 Ba6 17. h5 g5 18. f4 (18. Re1 Rfd8 19. Rde4) 18... c5 (18... Rad8 19. Re4 Bxc4 20. fxg5 Qc5 21. Qxc4 Qxg5+ 22. Kb1 Qxh5 23. Qf1 $16) 19. Re4 Bxc4 20. Rxc4 gxf4 21. Rxf4 f5 22. Rhf1 Rf6 23. g4 Raf8 24. gxf5 Qa6 25. b3 (25. Qg3+ Kh7 26. Rg1) 25... Qd6 26. Rg4+ Kh7 27. Rg6 Qd4 28. Qxd4 cxd4 29. Re1 Rxf5 30. Rxe7+ R8f7 31. Rxf7+ Rxf7 32. Ra6 Kg7 33. Rg6+ Kh7 34. Rd6 Rf5 35. Rxd4 Rxh5 36. Rd7+ Kg6 37. Rxa7 Rh1+ 38. Kb2 h5 39. Ra8 h4 40. a4 Rf1 41. Rg8+ Kh5 42. a5 Rf6 43. Rh8+ Kg4 44. b4 h3 45. Kb3 Kg3 46. b5 Rf3+ 47. c3 h2 48. a6 Rf1 49. a7 Ra1 50. b6 Rb1+ 51. Ka2 1-0
+

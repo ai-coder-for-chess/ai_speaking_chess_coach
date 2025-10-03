@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2022"]
+[Site "?"]
+[Date "2022.04.12"]
+[Round "3"]
+[White "Mitusov Semen"]
+[Black "Kaasen Tor Fredrik"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C47"]
+[WhiteElo "2274"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "63"]
+[GameId "431791867929"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,33,16,28,38,44,44,10,10,-10,16,-19,-19,-19,8,5,5,24,24,34,-28,-28,-21,-24,-25,-24,11,-24,-52,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 d5 5. Bb5 d4 (5... Nxe4 6. Qe2 Qd6 7. Nxe4 dxe4 8. Qxe4 Bd7 9. d4 f5 10. Qe2 e4 11. Bxc6 Bxc6 12. Ne5 Be7 13. Bg5 Qxd4 14. Qh5+ g6 15. Nxg6 hxg6 16. Qxg6+ Kf8 17. Qxf5+ $11) 6. Ne2 Bd6 7. d3 O-O 8. Bxc6 bxc6 9. Ng3 Ne8 10. O-O g6 11. h3 (11. Bg5 $5 f6 12. Bh6 Ng7 13. Nd2 $14) 11... Ng7 12. Bh6 c5 13. b3 $6 (13. Nh2 $5 $14) 13... Bb7 14. Nh2 Kh8 15. f4 (15. Qd2 f5 16. b4 $13) 15... exf4 16. Bxf4 f5 (16... Bxf4 17. Rxf4 f5 18. Qd2 Qd6 19. Raf1 $11) 17. Qd2 fxe4 (17... Bxf4 18. Qxf4 fxe4 19. Qxf8+ Qxf8 20. Rxf8+ Rxf8 21. Nxe4 Bxe4 22. dxe4 Re8 23. Re1 $11) 18. Nxe4 Bxe4 19. Bxd6 (19. dxe4 Bxf4 20. Rxf4 Rxf4 21. Qxf4 d3 22. c3 Qg8 23. Rf1 Qxb3 24. Ng4 $16) 19... cxd6 20. Rxf8+ Qxf8 21. dxe4 Re8 (21... Qe7 22. Re1 Rf8 23. Nf3 Nh5 24. c3) 22. Rf1 Qe7 23. Nf3 (23. Ng4 Qxe4 24. Nf6 (24. Rf7 Nh5 25. Kh2 Qe6 26. Rxa7 d5 $11) 24... Qe3+ 25. Qxe3 Rxe3 26. Nd5 Re8 27. Rf7 Kg8 28. Rxa7 $11) 23... Nh5 (23... Ne6 24. b4) 24. Re1 Qf6 25. b4 Qf4 (25... Nf4 $5 26. Kh2 g5 27. e5 dxe5 28. bxc5 Qf5 (28... h5 29. c6 $13) 29. Nxd4) 26. Qxf4 Nxf4 27. e5 cxb4 $1 (27... d3 28. cxd3 Nxd3 29. Re3 c4 30. exd6 Rd8 31. Ng5 $18) 28. axb4 d3 29. cxd3 Nxd3 30. Rd1 Nxe5 31. Rxd6 Nxf3+ 32. gxf3 1/2-1/2
+

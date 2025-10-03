@@ -1,0 +1,21 @@
+﻿[Event "Rudar 8 2024"]
+[Site "?"]
+[Date "2024.08.04"]
+[Round "6"]
+[White "Sahithi, Varshini M"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2282"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "126"]
+[GameId "2075051703746571"]
+[EventDate "2024.07.30"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,126,19,31,19,-16,-3,4,10,10,37,25,27,33,30,39,36,41,25,42,43,41,57,26,39,32,14,20,11,3,4,-1,11,10,2,0,-9,-9,-11,-17,-4,-17,-20,-19,0,-12,11,11,18,7,9,8,13,16,11,5,0,4,15,0,0,0,0,0,17,25,27,26,33,37,37,34,27,34,47,42,80,41,28,-12,-27,-45,-45,-45,-21,-44,-46,-42,-38,-33,-42,-60,-60,-60,-60,-60,-50,-123,-50,-44,-13,-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 Nb6 7. Bxc4 Nxc4 8. Qa4+ c6 9. Qxc4 Nd5 10. Bg3 Qb6 11. O-O-O (11. Qe2 Bb4 12. Rc1 Qb5) 11... Qb4 (11... Be7 12. e4 Nxc3 13. Qxc3 O-O) 12. Qxb4 Bxb4 13. Ne4 O-O 14. a3 Be7 15. Bd6 Rd8 (15... Bxd6 16. Nxd6 Rd8 17. Nxc8 Raxc8 18. Kb1 $11) 16. Bxe7 Nxe7 17. Rd2 b6 18. Rhd1 Bb7 19. Nc3 f6 20. Ne1 Kf7 21. e4 Rac8 22. f3 h5 23. Nc2 Ba6 24. b4 g5 25. Kb2 Rc7 26. a4 Rcd7 27. b5 Bb7 28. Ne3 c5 (28... Ng6 29. Nc4 h4) 29. d5 exd5 30. exd5 Nc8 31. Nc4 Nd6 32. Nxd6+ Rxd6 33. Kb3 a5 34. Kc4 Re8 35. Re2 Rxe2 (35... Red8 $16) 36. Nxe2 Rd7 37. Nc3 (37. Ng3 Kg6 38. Nf1 f5 $11) 37... f5 38. Rd2 (38. h4 gxh4 39. Rh1 Re7 40. Rxh4 Kg6 $13) 38... Re7 39. Nd1 Ke8 40. d6 Re6 41. Nc3 Kd7 (41... Kd8 $1 42. d7 h4 43. Nd5 Rd6 $17) 42. Nd5 Bxd5+ 43. Rxd5 Rf6 44. Kb3 (44. g3 $11) 44... Rf8 45. Kc4 Rf6 46. Kc3 h4 47. g3 $6 (47. Kc4 Rf8 48. Kc3 Ke6 49. Kc4 Rd8 50. d7 Rxd7 51. Rxd7 Kxd7 52. Kd5 $11) 47... h3 48. Kb3 $2 (48. Kc4 $11) 48... Rf7 $2 (48... g4 $1 49. fxg4 (49. f4 Rxd6 50. Rxf5 Rd2 51. Rg5 Rxh2 52. Rxg4 Rh1 53. Rh4 h2 54. Ka2 c4 $19) 49... fxg4 50. Rg5 Rf2 51. Rxg4 Rxh2 52. Rh4 Rh1 $19) 49. Kc4 Ke6 50. d7 Rxd7 51. Rxd7 Kxd7 52. Kd5 Ke7 53. Ke5 c4 54. Kd4 Kd6 55. Kxc4 Ke5 56. Kc3 Kd5 57. Kd3 Kc5 58. Kc3 Kd5 59. Kd3 Ke5 60. Kc3 f4 61. g4 Kd5 62. Kd3 Kc5 63. Kc3 Kd5 1/2-1/2
+

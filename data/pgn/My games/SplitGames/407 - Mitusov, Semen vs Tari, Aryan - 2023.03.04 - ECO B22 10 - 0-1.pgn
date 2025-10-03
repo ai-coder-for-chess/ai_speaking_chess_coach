@@ -1,0 +1,20 @@
+﻿[Event "Eliteserien 2022-2023"]
+[Site "https://lichess.org"]
+[Date "2023.03.04"]
+[Round "8"]
+[White "Mitusov, Semen"]
+[Black "Tari, Aryan"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B22"]
+[WhiteElo "2396"]
+[BlackElo "2656"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "152"]
+[GameId "460629663381"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. d4 cxd4 6. cxd4 b6 7. Nc3 Nxc3 8. bxc3 Qc7 9. Bd2 Bb7 10. Bd3 d6 11. O-O Nd7 12. Re1 (12. Ng5 dxe5 13. Qh5 g6 14. Qh3 Be7 15. Rae1 Bd5 16. f4 exd4 17. c4 Bxc4 18. f5 gxf5 19. Qh5 $16) 12... dxe5 13. Nxe5 Nxe5 (13... Bd6 $13) 14. Rxe5 Bd6 15. Bb5+ (15. Rh5 O-O-O (15... g6 16. Bb5+ $14) 16. a4 g6 17. Rh3 g5 $16) 15... Kf8 (15... Bc6 16. Qa4 Rc8 17. Bxc6+ Qxc6 18. Qxc6+ Rxc6 19. Rb5 Kd7 20. Kf1 $11) 16. Rh5 Bf4 17. Rh4 $6 (17. Qc1 Bxd2 18. Qxd2 Rc8 19. Rc1 $14) 17... Bxd2 18. Qxd2 Rc8 19. Rh3 h5 $1 20. Rc1 g6 (20... Rh6 21. Be2 h4 22. c4 Rg6 23. Bf1 Rg4 $11) 21. Be2 Kg7 22. c4 Qe7 23. Bf3 $6 (23. Rd1 Rhd8 24. Qf4 $11) 23... Ba6 24. c5 $2 (24. Be2 Rhd8 25. Rhc3 e5 26. d5 Rc5 $14) 24... Qf6 25. Be2 (25. c6 Rhd8 26. d5 exd5 (26... Rd6 $17) 27. Bxh5 gxh5 28. Rf3 Qd6 29. Qg5+ Qg6 30. Qe5+ $11) 25... Bxe2 26. Qxe2 Qxd4 27. c6 Rhd8 28. Rhc3 Rd5 $2 (28... Qd2 29. Kf1 Qxe2+ 30. Kxe2 Rc7 31. Ra3 Kf6 $19) 29. h3 $6 (29. c7 $1 Rc5 30. Rxc5 bxc5 31. Rd1 Qf6 32. Rd7 $11) 29... Rc7 30. R3c2 Rd6 31. Qb5 Qd5 32. Qa4 e5 33. Rc3 Qd4 34. Qb5 Qd5 35. Qa4 Qd4 36. Qb5 Rf6 37. R3c2 e4 38. Qg5 (38. Qb3 Re6 39. Rc3 $17) 38... Re6 39. Rc3 Qe5 40. Qd2 Rd6 41. Qe2 h4 42. Rc4 f5 43. R4c3 (43. f3 e3 44. f4 Qe6 45. R1c3 $17) 43... Qd4 44. Qc2 Kh7 45. Qb3 Qd5 46. Qa4 Kh6 47. Qc2 Qd2 48. Qa4 Kh7 49. R3c2 Qf4 50. Qb4 Rd3 51. Qe1 Qd6 52. Qe2 b5 53. Rc5 a6 54. R5c2 a5 55. Rc5 b4 56. Qc2 (56. Qe1 $17 Rd2 57. Rxa5) 56... e3 (56... Rd2 57. Qc4 Kh6 $19) 57. Qe2 exf2+ (57... Re7 58. fxe3 Rexe3 59. Qf1 Rd2 60. R5c2 $15) 58. Qxf2 Qg3 59. Qxg3 (59. Qe2 Re3 60. Qf2 Re6 61. Kf1 $15) 59... hxg3 60. Kf1 Rd2 61. Rxa5 $4 (61. R1c2 Rd6 62. Ke2 Kg7 63. Kf3 Rd3+ 64. Ke2 Ra3 65. Rb5 Kf6 66. Rb7 Rc8 67. c7 $11) 61... Re7 62. c7 Rf2+ 63. Kg1 Rc2 64. Rd1 Ree2 65. Ra7 Rxg2+ 66. Kh1 Rh2+ 67. Kg1 Kh6 68. Rb7 Rcg2+ 69. Kf1 Rxa2 70. Kg1 Rag2+ 71. Kf1 Rc2 72. Kg1 Kh5 73. Rxb4 Rxc7 74. Rf4 Rcc2 75. h4 Rcg2+ 76. Kf1 Rf2+ 0-1
+

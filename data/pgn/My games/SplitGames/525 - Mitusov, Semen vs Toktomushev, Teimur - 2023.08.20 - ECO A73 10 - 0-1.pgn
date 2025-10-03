@@ -1,0 +1,19 @@
+﻿[Event "Barselona Open 2023"]
+[Site "?"]
+[Date "2023.08.20"]
+[Round "3.18"]
+[White "Toktomushev, Teimur"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A73"]
+[WhiteElo "2210"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "118"]
+[GameId "475616571662"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,103,16,28,27,-16,-9,-4,45,21,31,61,80,80,127,43,90,74,68,79,53,50,63,52,57,20,78,53,33,7,85,89,96,75,69,55,89,42,92,28,28,35,73,73,82,102,95,102,101,101,81,81,106,85,127,50,66,72,97,5,8,55,20,20,2,16,20,16,-4,-4,58,16,8,-1,40,-16,121,163,297,272,215,48,-14,-24,-27,-28,-27,-27,-27,-36,-36,-40,-38,-38,-53,-40,-39,-49,-58,-55,-49,-98,-93,-86,-86,-105]} 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Na6 (7... Bg7 8. Nc4 O-O 9. Bf4 Nh5 (9... Nbd7 10. Bxd6 Re8 11. e3 Nb6 12. Bxc5 Nfxd5 13. Nxd5 Nxd5 14. Be2 Be6 15. O-O Qg5) 10. Bxd6 Re8 11. a4 Bxc3+ 12. bxc3 b6 13. e3 Ba6 14. Bxb8 Rxb8 15. Nb2 Bxf1 16. Kxf1 Nf6 17. c4 Ne4) 8. e4 (8. Nc4 Nc7 9. a4 b6 10. e4) 8... Nc7 9. Be2 Bg7 10. O-O O-O 11. a4 Re8 12. Re1 Rb8 13. f3 a6 14. a5 Bd7 15. Nc4 Nb5 (15... Bb5 16. Bg5 (16. Nxb5 axb5 17. Na3 Qd7) 16... h6 17. Bh4 Bxc4 18. Bxc4 g5 19. Bf2 Nd7) 16. Bg5 h6 17. Bh4 Qe7 $6 (17... Nxc3 18. bxc3 Bb5 19. Ne3 Qc7 20. Bxb5 axb5 21. Qb3 Nd7) 18. Bf1 g5 19. Bf2 Nh5 20. e5 Nxc3 21. bxc3 dxe5 22. d6 Qe6 23. Nb6 Rbd8 24. Bxc5 $6 (24. Bc4 Qg6 25. Bd3 Qf6 26. Be4 $18) 24... Nf4 25. Bc4 Qg6 26. Nd5 $6 (26. Nxd7 Rxd7 27. Qa4 Red8 28. Bb6 g4 29. fxg4 Qxg4 30. Bd5 $16) 26... Kh8 $2 (26... Bc6 $1 27. Nxf4 gxf4 28. Bd5 Bxd5 29. Qxd5 Bf8 30. Qxb7 Bxd6 31. Bb6 Rb8 $11) 27. Nxf4 $2 (27. Ne7 Qf6 28. Rb1 $18) 27... gxf4 28. Bd5 Bf8 29. Bxb7 Bh3 30. Qe2 Bxd6 31. Bxd6 Rxd6 32. Kh1 Bf5 33. Rad1 Bd3 34. Qf2 Rb8 35. Qa7 Rg8 36. Rg1 Rd7 37. c4 Qg5 $4 (37... e4 $1 38. Qxa6 Qxa6 39. Bxa6 Ra7 40. Bb5 Rxa5 41. Bc6 f5 42. fxe4 fxe4 43. Rge1 $11) 38. c5 Bf1 39. Rdxf1 Rd2 40. Qxa6 $4 (40. c6 Rxg2 41. Bc8 $3 $18) 40... Rxg2 41. Qxh6+ Qxh6 42. Rxg2 Rxg2 43. Kxg2 Qg6+ 44. Kh1 Qd3 45. Rg1 Qb5 46. a6 Qxc5 47. Ra1 Qc3 48. Rd1 Qa5 49. Rg1 (49. Kg2 Kg7 50. Kh3 Kg6) 49... Kh7 50. Be4+ Kh6 51. Bb7 f5 52. Rd1 Kg5 53. Rg1+ Kh4 54. Rf1 (54. Rg7 Qe1+ 55. Kg2 Qe2+ 56. Kg1 e4 $19) 54... Qa2 55. Bc8 Qc4 56. Ra1 Qc3 57. Ra2 Qxf3+ 58. Kg1 Qd1+ 59. Kf2 Qd4+ 0-1
+

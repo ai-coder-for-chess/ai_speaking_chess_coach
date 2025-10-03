@@ -1,0 +1,21 @@
+﻿[Event "×У до 16 лет"]
+[Site "?"]
+[Date "2021.03.10"]
+[Round "9"]
+[White "Самуненков"]
+[Black "Митусов"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "E06"]
+[WhiteElo "2206"]
+[BlackElo "2296"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "127"]
+[GameId "396586785494"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,13,16,28,26,-14,-23,0,4,-31,-14,10,14,-56,-12,-16]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. Qc2 a6 $6 (6... c5 7. O-O (7. dxc5 Qa5+ 8. Nc3 dxc4 9. O-O Nc6 10. Bg5 Qxc5 11. Bxf6 Bxf6 12. Ne4 Qe7 13. Nfd2 Rd8) 7... cxd4 8. Nxd4 Na6 9. cxd5 Nb4 10. Qb3 e5 11. Nb5 Nbxd5 12. N1c3 Be6 13. Nxd5 Bxd5 14. Bxd5 Qxd5 15. Bg5 Qxb3 16. axb3 a6 17. Nc3 h6 18. Bxf6 Bxf6 19. Nd5 Rac8 20. Rac1) 7. Bf4 b6 $6 (7... dxc4 8. Qxc4 Nd5 9. O-O Nxf4 10. gxf4 Bd7 11. Nc3 Bc6 $11) 8. cxd5 Nxd5 9. Nc3 Nxf4 10. gxf4 Ra7 (10... Bb7 11. Ng5 Bxg5 12. Bxb7 Ra7 13. fxg5 Rxb7 14. Qe4 c6 15. h4 Qd6 $16) 11. O-O-O Bb7 12. h4 $1 f5 13. e4 $6 (13. d5 $1 exd5 14. Ng5 $18) 13... Bd6 $6 (13... fxe4 14. Nxe4 Bd5 15. Ne5 Rf5 $16) 14. Ne5 $6 (14. e5 $1 Bb4 15. d5 exd5 16. Ng5 $18) 14... Qe7 15. h5 Bxe5 16. dxe5 h6 17. exf5 Bxg2 18. f6 Qb4 19. Rh4 $1 c6 (19... c5 20. a3 Qc4 21. b3 $18) 20. Rg1 Bf3 21. Qd3 Bd5 22. Rhg4 Rff7 23. Qg6 $4 (23. f5 Qf8 24. Nxd5 exd5 25. fxg7 Rxg7 26. f6 $18) 23... Bf3 $3 24. f5 Bxg4 25. Rxg4 Qc5 26. fxe6 Qxe5 27. exf7+ Rxf7 28. Ne4 $11 Nd7 29. f4 Qd4 $4 (29... Qe6 $3 30. fxg7 Qxg6 31. hxg6 (31. Rxg6 Rxf4 $11) 31... Re7 32. Nd6 Nf6 33. Rh4 h5 $11) 30. fxg7 Rxg7 31. Qe6+ Kh7 32. Rxg7+ Kxg7 33. Qe7+ Kh8 34. Qe8+ Kg7 35. Qe7+ Kg8 36. Qe6+ Kf8 37. Qxh6+ Ke7 38. Qxc6 Qe3+ 39. Kc2 Qe2+ 40. Kb3 Qf3+ 41. Kb4 a5+ 42. Kb5 Qxh5+ 43. Ka4 Qd1+ $2 (43... Qe2 44. Nc3 Qc2+ 45. Ka3 Qd3 46. b3 Qd6+ 47. Qxd6+ Kxd6 48. b4 axb4+ 49. Kxb4 Kc6 $18) 44. b3 Qa1 45. a3 Qf1 46. Qd6+ Ke8 47. Nf6+ Nxf6 48. Qxf6 Qf2 49. Qe5+ Kd7 50. Kb5 Qa2 51. Qd5+ Ke7 52. Kxb6 a4 53. Qe4+ Kd8 54. Qxa4 Qf2+ 55. Kb5 Qe2+ 56. Qc4 Qe8+ 57. Ka5 Qh5+ 58. Qb5 Qf3 59. Qb8+ Ke7 60. a4 Qd5+ 61. Ka6 Qd3+ 62. Qb5 Qd6+ 63. Kb7 Qxf4 64. Qc5+ 1-0
+

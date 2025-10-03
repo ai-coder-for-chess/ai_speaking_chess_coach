@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2023"]
+[Site "Fagernes, Norway"]
+[Date "2023.04.05"]
+[Round "4.20"]
+[White "Mitusov, Semen"]
+[Black "Ermitch, Magnus"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B48"]
+[WhiteElo "2412"]
+[BlackElo "2277"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "85"]
+[GameId "463449604252"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,85,30,8,39,79,48,39,34,36,36,36,71,88,72,63,91,55,51,-28,-24,-17,5,-10,1,-11,-17,-15,-10,-10,-29,-27,24,4,-12,-15,8,7,-15,-26,-8,-19,-4,-6,47,7,90,87,164,117,123,91,103,92,95,114,102,55,63,57,107,123,116,123,127,127,132,161,189,111,152,175,173,176,186,219,221,383,617,596,589,772,1097,1145,1421,1828,29981,29984]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. g4 b5 8. Nxc6 Qxc6 9. Qd2 b4 10. Ne2 Qxe4 11. Rg1 Qc4 12. Nf4 (12. Ng3 Qc7 13. O-O-O Bb7 (13... Nf6) 14. Bb6 Qc6 15. Kb1) 12... Qc7 13. O-O-O Bb7 (13... Nf6 14. Nh5 Bb7 15. Bb6 Qc6 16. Bg2 Qc8 17. Bxb7 Qxb7 18. Nxf6+ gxf6 19. Kb1 d5 20. Be3 $14) 14. Bb6 Qc6 (14... Qc8 15. Nh5 Nf6 16. Nxf6+ gxf6 17. Bd4 $16) 15. Bg2 Qc8 (15... d5 16. Bd4 Nf6 17. Nh5 Nxh5 18. gxh5 f6 19. h6 e5 20. hxg7 Bxg7 21. Bxd5) 16. Nh5 Bxg2 17. Rxg2 Ne7 (17... Qc6 18. f4 Nf6) 18. Bd4 Rg8 19. Qd3 Qc6 20. f3 Rc8 21. Kb1 a5 22. Re2 (22. Qxh7 Qxf3 23. Rgg1 (23. Bxg7) 23... a4 24. Rdf1 $16) 22... Qc4 $6 (22... a4 23. f4 a3 24. f5 $18) 23. Bxg7 Nd5 $2 (23... Qxd3 24. Nf6+ Kd8 25. Rxd3 Nd5 26. Rxd5 exd5 27. Re8+ Kc7 28. Rxc8+ Kxc8 29. Nxg8 Bxg7 30. Ne7+ Kc7 31. h3 $1 $18 d4 32. Nf5 Be5 33. Kc1) 24. Qxc4 Rxc4 25. Rxd5 Bxg7 26. Rxa5 Ke7 27. Rg5 Kf8 28. Rxg7 Rxg7 29. Nxg7 Kxg7 30. Re4 Rxe4 31. fxe4 Kf6 32. c3 bxc3 (32... Ke5 33. cxb4 Kxe4 34. b5 Kd5 35. g5 $18) 33. a4 Ke7 34. bxc3 (34. a5 Kd8 35. bxc3) 34... Kd6 35. Kc2 Kc5 36. Kb3 f6 37. c4 d6 38. a5 h6 39. h4 Kc6 40. Kb4 Kb7 41. Kb5 e5 42. a6+ Ka7 43. h5 1-0
+

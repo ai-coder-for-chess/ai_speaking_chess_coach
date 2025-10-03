@@ -1,0 +1,21 @@
+﻿[Event "Синицина"]
+[Site "?"]
+[Date "2021.07.06"]
+[Round "4"]
+[White "Горошков"]
+[Black "Митусов"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "E04"]
+[WhiteElo "2297"]
+[BlackElo "2426"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "49"]
+[GameId "407025097427"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Bd7 6. Ne5 Bc6 7. Nxc6 Nxc6 8. Bxc6+ bxc6 9. O-O c5 10. Be3 Nd5 11. Qa4+ Qd7 12. Qxd7+ Kxd7 13. dxc5 Nxe3 14. fxe3 f5 (14... Bxc5 $1 15. Rxf7+ Kc6 16. Na3 $3 c3 17. Nc4 cxb2 18. Nxb2 Bxe3+ $13) 15. Rd1+ $1 Kc6 16. Nd2 c3 17. Nb3 $1 Bxc5 18. Nxc5 cxb2 19. Rab1 Kxc5 20. Rxb2 c6 21. Rd7 g6 22. Rc2+ Kb6 23. Rb2+ Kc5 24. Rc2+ Kb6 25. Rb2+ 1/2-1/2
+

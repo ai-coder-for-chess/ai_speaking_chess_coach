@@ -1,0 +1,21 @@
+﻿[Event "×У"]
+[Site "?"]
+[Date "2021.05.11"]
+[Round "6"]
+[White "Митусов"]
+[Black "Мосесов"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B03"]
+[WhiteElo "2288"]
+[BlackElo "2435"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "31"]
+[GameId "402073843738"]
+[EventType "simul"]
+[EventRounds "15"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,10,16,28,54,71,72,49,45,27,27,27,13]} 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 (5... exd6) 6. Nc3 g6 7. Be3 Bg7 8. Rc1 O-O 9. b3 e5 10. Nf3 (10. dxe5 dxe5 11. Qxd8 Rxd8 12. c5 N6d7 13. Bc4 Nc6 14. Nf3 h6 15. Ne4 Na5 16. Bb5 f5 17. Nd6 e4 18. Nd2 Ne5 $13) 10... Nc6 11. Be2 Bg4 12. d5 $6 (12. dxe5 dxe5 13. O-O Qe7 $2 14. Nxe5) 12... Bxf3 13. Bxf3 Nd4 14. O-O Nd7 15. g3 $6 (15. Bg4 $5 f5 16. Bh3 g5 17. g3 $14 f4 $2 18. Bxd4 exd4 19. Nb5) 15... a6 $6 (15... Nxf3+ 16. Qxf3 f5 17. Qe2 a6 $13) 16. Bg2 1/2-1/2
+

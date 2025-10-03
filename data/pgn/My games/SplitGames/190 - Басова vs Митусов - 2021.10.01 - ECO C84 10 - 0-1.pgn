@@ -1,0 +1,20 @@
+﻿[Event "ПУ рапид"]
+[Site "?"]
+[Date "2021.10.01"]
+[Round "1"]
+[White "Басова"]
+[Black "Митусов"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "1654"]
+[BlackElo "2185"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "50"]
+[GameId "414707851881"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. d3 d6 8. O-O Na5 9. Be3 O-O 10. Qd2 Bb7 11. Nd5 Nxb3 12. Nxe7+ Qxe7 13. axb3 Nd7 14. Rae1 f5 15. Bg5 Qf7 16. Bh4 h6 17. h3 Qg6 18. exf5 Rxf5 19. Bg3 Bxf3 20. gxf3 Raf8 21. Re4 Nf6 22. Re3 Nh5 23. Kh2 Rxf3 24. Rxf3 Rxf3 25. Rg1 Qf5 0-1
+

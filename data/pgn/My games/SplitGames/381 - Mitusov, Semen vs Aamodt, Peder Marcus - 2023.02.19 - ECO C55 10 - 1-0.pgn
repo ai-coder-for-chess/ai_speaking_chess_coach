@@ -1,0 +1,19 @@
+﻿[Event "LangOffer februar NGP 2023"]
+[Site "?"]
+[Date "2023.02.19"]
+[Round "6"]
+[White "Mitusov, Semen"]
+[Black "Aamodt, Peder Marcus"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C55"]
+[WhiteElo "2397"]
+[BlackElo "2011"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "459516025236"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Kh8 8. c3 (8. a5 a6 9. h3 Ng8 10. Nc3 f5 11. Nd5 fxe4 12. dxe4 Nf6 13. c3 Be6 14. Ba2 Bg8 15. b4 $14) 8... Ng8 9. d4 f5 10. dxe5 Nxe5 $6 (10... fxe4 11. Rxe4 Rxf3 12. gxf3 Nxe5 13. Bf4 Nxc4 14. Rxc4 Be6 15. Re4 Bf5 16. Re1) 11. Nxe5 dxe5 12. Qxd8 Rxd8 13. exf5 Bxf5 14. Nd2 Bf6 15. h3 Ne7 16. Nf3 Nc6 17. Ng5 Bxg5 (17... Bg6 18. Ne6 Rdc8 19. Nc5 b6 20. Na6 $18) 18. Bxg5 Rd6 19. Bh4 (19. a5 Rg6 20. Bh4 Bxh3 21. Bg3 Bf5 22. b4 a6 23. Bxe5 $18) 19... h6 20. Bg3 Re8 21. Re3 Rd2 22. b4 e4 23. Rae1 a5 $2 (23... Re7 24. f4 $1 $18 (24. R3e2 Rxe2 25. Rxe2 $18)) (23... Kh7 24. R3e2) 24. b5 Ne5 25. Rxe4 Bxe4 26. Rxe4 Nxc4 27. Rxe8+ Kh7 28. Bxc7 Ra2 29. Rb8 Nd2 30. f3 Rxa4 31. Rxb7 Nc4 32. b6 Ra2 33. Ra7 1-0
+

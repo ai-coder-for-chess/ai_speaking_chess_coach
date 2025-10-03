@@ -1,0 +1,20 @@
+﻿[Event "SixDays Budapest July 2025 GM A"]
+[Site "Budapest"]
+[Date "2025.07.27"]
+[Round "1.5"]
+[White "Mitusov, Semen"]
+[Black "Popovic, Dusan"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2478"]
+[BlackElo "2474"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "56"]
+[GameId "2204226872238080"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "90+30"]
+
+1. e4 {[%eval 18,0] [%emt 0:00:00]} g6 {[%eval 5,0] [%emt 0:00:00]} 2. d4 {[%eval 48,0] [%emt 0:00:00]} Bg7 {[%eval 48,0] [%emt 0:00:00]} 3. Nc3 {[%eval 51,0] [%emt 0:00:00]} c6 {[%eval 63,0] [%emt 0:00:00]} 4. h3 {[%eval 6,0] [%emt 0:00:00]} d6 {[%eval 63,0] [%emt 0:00:00]} 5. Nf3 {[%eval 56,0] [%emt 0:00:00]} b5 {[%eval 85,0] [%emt 0:00:00]} 6. Bd3 {[%eval 81,0] [%emt 0:00:00]} Nd7 {[%eval 85,0] [%emt 0:00:00]} 7. O-O {[%eval 83,0] [%emt 0:00:00]} Qc7 {[%eval 84,0] [%emt 0:00:00]} 8. Ne2 {[%eval 73,0] [%emt 0:00:00]} Rb8 {[%eval 96,0] [%emt 0:00:00]} 9. c3 {[%eval 86,0] [%emt 0:00:00]} e5 {[%eval 97,0] [%emt 0:00:00]} 10. Ng3 {[%eval 9,0] [%emt 0:00:00]} Ngf6 {[%eval 92,0] [%emt 0:00:00]} 11. Be3 {[%eval 69,0] [%emt 0:00:00]} O-O {[%eval 81,0] [%emt 0:00:00]} 12. Qd2 {[%eval 81,0] [%emt 0:00:00]} Re8 {[%eval 82,0] [%emt 0:00:00]} 13. Rad1 {[%eval 54,0] [%emt 0:00:00]} c5 {[%eval 62,0] [%emt 0:00:00]} 14. d5 {[%eval 34,0] [%emt 0:00:00]} c4 {[%eval 31,0] [%emt 0:00:00]} 15. Bc2 {[%eval 27,0] [%emt 0:00:00]} Nc5 {[%eval 5,0] [%emt 0:00:00]} 16. Nh2 $6 {[%eval 21,0] [%emt 0:00:00] Inaccuracy. b4 was best.} a5 {[%eval 17,0] [%emt 0:00:00]} 17. a3 {[%eval 9,0] [%emt 0:00:00]} b4 $2 {[%eval 105,0] [%emt 0:00:00] Mistake. h5 was best.} 18. axb4 {[%eval 105,0] [%emt 0:00:00]} axb4 {[%eval 115,0] [%emt 0:00:00]} 19. cxb4 {[%eval 101,0] [%emt 0:00:00]} Na6 {[%eval 101,0] [%emt 0:00:00]} 20. Ra1 {[%eval 104,0] [%emt 0:00:00]} Nxb4 {[%eval 96,0] [%emt 0:00:00]} 21. Ra7 {[%eval 103,0] [%emt 0:00:00]} Qd8 {[%eval 100,0] [%emt 0:00:00]} 22. Rfa1 {[%eval 95,0] [%emt 0:00:00]} Re7 {[%eval 100,0] [%emt 0:00:00]} 23. Nf3 {[%eval 107,0] [%emt 0:00:00]} Rxa7 {[%eval 98,0] [%emt 0:01:27]} 24. Rxa7 {[%eval 92,0] [%emt 0:00:00]} Bd7 {[%eval 83,0] [%emt 0:00:13]} 25. Bd1 {[%eval 44,0] [%emt 0:00:00]} Qc8 {[%eval 49,0] [%emt 0:02:34]} 26. Ne1 {[%eval 31,0] [%emt 0:00:00]} h5 {[%eval 25,0] [%emt 0:01:08]} 27. Nf3 {[%eval 3,0] [%emt 0:00:00]} Nd3 {[%eval 2,0] [%emt 0:00:29]} 28. b3 {[%eval 0,0] [%emt 0:00:00]} Nc5 {[%eval 33,0] [%emt 0:00:15]} 1/2-1/2
+

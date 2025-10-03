@@ -1,0 +1,20 @@
+﻿[Event "Riga Open 2023"]
+[Site "lichess.org"]
+[Date "2023.08.11"]
+[Round "7"]
+[White "Mitusov, Semen"]
+[Black "Stremavicius, Paulius"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2445"]
+[BlackElo "2378"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "69"]
+[GameId "474788914557"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,69,39,18,58,67,66,66,60,44,32,22,22,18,42,37,27,20,75,6,-4,3,23,-12,22,-17,-25,-35,-28,-7,-13,-35,-29,-38,-38,-18,-5,-26,24,-38,-9,-41,-29,-35,-26,-39,-9,-37,-38,-7,-5,-13,0,-49,-18,-4,-4,10,112,193,150,150,439,491,470,499,590,641,988,1061,1349,1577]} 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Bd3 Nd7 6. Nf3 Nxc5 7. Be2 Ne7 8. O-O Ng6 9. Nbd2 $6 (9. c4 dxc4 10. Qxd8+ Kxd8 11. Na3 c3 12. Rd1+ Bd7 13. bxc3 $16) 9... Be7 10. Nb3 b6 11. Nbd4 Qc7 12. Re1 O-O 13. Bd3 Nxd3 14. Qxd3 a5 15. Bg5 Ba6 $2 (15... Bc5) 16. Qe3 Bc5 17. h4 Ne7 (17... h5 18. c3 b5 19. Rac1 b4 20. g4 hxg4 21. cxb4 axb4 22. Nh2 $16) 18. Qf4 Rfc8 19. Bxe7 $2 (19. h5 $1 Nc6 (19... Bxd4 20. Nxd4 Nc6 21. Rad1 Nxd4 22. Rxd4 Qxc2 23. Bf6 $18) 20. Nxc6 Qxc6 21. Qg4 Bf8 22. Nd4) 19... Bxe7 20. h5 h6 21. Qg4 (21. g4 $16) 21... Bf8 22. Re3 Qd7 23. Nh2 Rc4 24. Rg3 Qc7 25. Re1 Kh8 26. c3 Rc8 27. Qf4 Qe7 (27... f5 28. Rg6 Re8 29. g4 $18) 28. Ng4 Rxd4 29. cxd4 Qb4 30. Rb1 Qc4 31. Nxh6 Qc2 32. Nxf7+ Kg8 33. Re1 Bb4 34. Qf6 Qh7 35. Qxe6 1-0
+

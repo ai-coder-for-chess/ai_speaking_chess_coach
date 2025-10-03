@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.29"]
+[Round "9.2"]
+[White "Mitusov, Semen"]
+[Black "Beerdsen, Thomas"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C54"]
+[WhiteElo "2465"]
+[BlackElo "2502"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "55"]
+[GameId "2128602815017083"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 {[%eval 18,0]} e5 {[%eval 21,0]} 2. Nf3 {[%eval 13,0]} Nc6 {[%eval 17,0]} 3. Bc4 {[%eval 12,0]} Nf6 {[%eval 14,0]} 4. d3 {[%eval 9,0]} Bc5 {[%eval 1,0]} 5. c3 {[%eval 11,0]} O-O {[%eval 13,0]} 6. Bg5 {[%eval 13,0]} Be7 {[%eval 3,0]} 7. Nbd2 {[%eval 0,0]} d6 {[%eval 7,0]} 8. a4 {[%eval 0,0]} h6 {[%eval 12,0]} 9. Bxf6 {[%eval 11,0]} Bxf6 {[%eval 9,0]} 10. a5 {[%eval 6,0]} a6 {[%eval 19,0]} 11. Nf1 {[%eval 2,0]} Ne7 {[%eval 19,0]} 12. Ne3 {[%eval 28,0]} c6 {[%eval 24,0]} 13. Qb3 {[%eval 24,0]} Rb8 {[%eval 23,0]} 14. O-O {[%eval 24,0]} Qc7 {[%eval 34,0]} 15. Rfd1 {[%eval 23,0]} Ng6 {[%eval 16,0]} 16. d4 {[%eval 15,0]} Re8 {[%eval 58,0]} 17. Qc2 {[%eval 18,0]} Qe7 $6 {[%eval 87,0] Inaccuracy. Nh4 was best.} (17... Nh4) 18. d5 {[%eval 98,0]} c5 {[%eval 137,0]} 19. b4 {[%eval 95,0]} cxb4 {[%eval 109,0]} 20. cxb4 {[%eval 87,0]} Bd7 {[%eval 89,0]} 21. Rdc1 $6 {[%eval 3,0] Inaccuracy. Bf1 was best.} (21. Bf1 Rbc8 22. Qb3 Rc7 23. Nc4 Bb5 24. Nb6 Bxf1 25. Kxf1 Bg5 26. g3 Rf8) 21... Nh4 {[%eval 3,0]} 22. Nxh4 {[%eval 5,0]} Bxh4 {[%eval 8,0]} 23. Qe2 {[%eval 9,0]} Bg5 {[%eval 0,0]} 24. g3 {[%eval 0,0]} Rec8 {[%eval 1,0]} 25. h4 {[%eval 3,0]} Bxe3 {[%eval 3,0]} 26. Qxe3 {[%eval 2,0]} Rc7 {[%eval 0,0]} 27. Bf1 {[%eval 5,0]} Rbc8 {[%eval 2,0]} 28. Rxc7 {[%eval 0,0]} 1/2-1/2
+

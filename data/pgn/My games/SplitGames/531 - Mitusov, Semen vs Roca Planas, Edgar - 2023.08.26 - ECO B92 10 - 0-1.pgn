@@ -1,0 +1,19 @@
+﻿[Event "Barselona Open 2023"]
+[Site "?"]
+[Date "2023.08.26"]
+[Round "9.12"]
+[White "Roca Planas, Edgar"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B92"]
+[WhiteElo "2170"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "72"]
+[GameId "476144366720"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3 Be6 9. O-O O-O 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 (12... Ng4 13. Bxg4 Bxg4 14. Nc1 Be6 15. f3) 13. Rfd1 Rfd8 (13... Rfe8 14. Nc1 h6 15. h3 Nc5 16. f3) 14. h3 h6 15. Bf3 (15. Bxh6 gxh6 16. Qxh6 Nh7 $19) 15... Bf8 $6 (15... b5 16. axb6 Nxb6 17. Na5 (17. Rxa6 Nc4 18. Qc1 Nxb2 19. Qxb2 Qxc3 $15) 17... d5 18. Bxb6 Qxb6 19. exd5 e4 20. Nxe4 Nxd5 $11) 16. Nc1 $6 (16. Qe1 $14) 16... b5 17. axb6 Nxb6 18. N1e2 Nc4 19. Qc1 Qb7 20. b3 Nxe3 21. Qxe3 Rc6 22. Qd3 (22. Ra2 Rdc8 23. Rd2 g6 24. Nd5 Bxd5 25. exd5 R6c7 26. c4 Rb8 $15) 22... Rdc8 23. Ra4 $6 (23. Rdb1 $3 Qc7 24. Rxa6 Rxc3 25. Nxc3 Qxc3 26. Qxc3 Rxc3 27. b4 Rc8 $13) 23... Qc7 24. Nd5 Bxd5 25. exd5 Rxc2 26. Rxa6 Qc5 (26... Qe7 27. Ra4 g6) 27. Ra4 Qb6 28. Ra6 Qc5 29. Kf1 Qb4 30. Ra4 Qb7 (30... Qb8) 31. Rb1 g6 32. g4 Bg7 33. Bg2 Nd7 34. Qa6 $6 (34. h4 R2c7 35. Rc4 Qa6 36. h5 $15) 34... Qb8 35. Ra2 Qb4 36. Ng3 $4 (36. Qa5 R2c4 (36... Qxa5 37. Rxa5 Rd2 38. Ra6 Rcc2 39. Be4 Rxe2 40. Bxc2 Rxc2 41. Rxd6 $11) 37. Qxb4 Rxb4 $17) 36... Rc1+ 0-1
+

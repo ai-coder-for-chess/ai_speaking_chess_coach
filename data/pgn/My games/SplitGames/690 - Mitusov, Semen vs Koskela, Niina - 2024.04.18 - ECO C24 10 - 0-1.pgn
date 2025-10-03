@@ -1,0 +1,20 @@
+﻿[Event "OSS vårturnering 2024"]
+[Site "Chess.com INT"]
+[Date "2024.04.18"]
+[Round "2"]
+[White "Koskela, Niina"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C24"]
+[WhiteElo "2188"]
+[BlackElo "2488"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "2194719758894854"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 (3. d4 exd4 4. e5 d5 5. Bb5+ Nfd7 6. Nf3 c6 7. Bd3) 3... c6 4. Nf3 d5 5. Bb3 a5 6. a3 (6. a4 Bb4+ 7. c3 Bd6 8. O-O O-O 9. Re1 dxe4 10. dxe4 Qe7 11. Nbd2 Na6 12. Nc4 Bc7 13. Bg5 h6 14. Bh4 Rd8 15. Qe2 Nc5 16. Bc2 b6) 6... a4 7. Ba2 Bd6 8. Nc3 Ra5 $6 (8... O-O $5 9. exd5 (9. O-O Be6 10. Ng5 (10. Bg5 d4 11. Ne2 (11. Bxe6 dxc3 12. Bh3 cxb2 13. Ra2 h6 14. Be3 b5 $15) 11... Bxa2 12. Rxa2 h6 13. Bh4 (13. Bd2 c5 14. Ng3 Re8 $15) 13... Nbd7) 10... Bg4 11. f3 Bc8 12. Kh1 h6 13. Nh3 Be6 14. f4 d4) 9... cxd5 10. Bxd5 Nxd5 11. Nxd5 Nc6 12. O-O Bg4 13. h3 Bh5 14. Re1 f5 $15) 9. O-O O-O 10. Bg5 Be6 11. Re1 Nbd7 12. d4 $1 exd4 13. Nxd4 (13. exd5 Bg4 14. Qxd4 Bxf3 15. gxf3 Qc7 $13) 13... Qc7 14. exd5 (14. h3 Nxe4 15. Nxe4 dxe4 16. Nxe6 fxe6 17. Bxe6+ Kh8 $11) 14... Bxd5 (14... Bxh2+ 15. Kh1 Bxd5 16. Nxd5 Nxd5 17. Bd2 Rc5 18. Nf5 (18. g3 $2 Bxg3 19. fxg3 Qxg3 $19) 18... N5f6 19. Qf3 $13) 15. Nxd5 Nxd5 16. Bd2 $1 Rc5 $6 (16... Bxh2+ 17. Kf1 Rc5 18. g3 Bxg3 19. fxg3 Qxg3 20. Qe2 $16) 17. b4 $2 (17. g3 Be5 18. c3 $16 (18. Nf5 Bxb2)) 17... axb3 18. cxb3 $2 (18. Bxb3 Bxh2+ 19. Kf1 Bf4 $15) 18... Bxh2+ 19. Kf1 Be5 20. b4 Bxd4 21. bxc5 Bxa1 (21... Qh2 $2 22. Qg4 Bxa1 23. Qxd7 Nf6 24. Qh3 $11) 22. Qxa1 Nxc5 23. Kg1 Ne6 24. Qc1 Qd6 25. Bb1 Ra8 26. Qc2 Nf8 27. Bc1 Qd7 28. Qc4 Re8 29. Rf1 Ng6 30. a4 Qd6 31. a5 Qe5 (31... Ngf4 32. Be4 Qb4 33. Qxb4 Ne2+ 34. Kh2 Nxb4 $19) 32. Bxg6 (32. a6 Nc3 33. Bd3 bxa6 34. Qxc6 Ne2+ 35. Bxe2 Qxe2 $19) 32... hxg6 33. a6 bxa6 34. Qxa6 c5 35. Bd2 Qd4 36. Qc6 Re5 37. Qd6 Kh7 38. Re1 Rh5 39. Be3 Qh4 40. Kf1 Qh1+ 41. Ke2 Nc3+ 42. Kf3 Rf5+ 43. Bf4 Qxe1 0-1
+

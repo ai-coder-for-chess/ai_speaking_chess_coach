@@ -1,0 +1,22 @@
+﻿[Event "Eliteserien 24 25"]
+[Site "Oslo"]
+[Date "2024.??.??"]
+[Round "3"]
+[White "Mitusov, Semen"]
+[Black "Lund, Gunnar"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C42"]
+[WhiteElo "2486"]
+[BlackElo "2328"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "77"]
+[GameId "2107247259556963"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+[WhiteTeam "OSS"]
+[BlackTeam "Alta"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Be2 (5. Bc4 Qe7 6. Nf3) 5... Re8 6. Nd3 Bxc3 7. dxc3 Nxe4 8. O-O d6 9. Nf4 Nd7 10. Be3 (10. f3 Nec5 11. c4 Nf6 12. b3 Qe7 13. Rf2 Qe5 14. Rb1 a5 15. Qd2 h6 16. Bb2 Qg5 17. Bf1 Ne6 18. Nd5 Nxd5 19. cxd5 Nf4 20. Kh1 {1-0 Carlsen,M (2863)-Bu,X (2705) FIDE Steinitz Memorial chess24.com INT blitz 2020 (7)}) 10... Ndf6 11. h3 b6 (11... Ng3) 12. Bf3 Bb7 13. c4 Qd7 14. Re1 Rad8 15. Qd4 Qf5 16. Rad1 Nc5 $6 (16... Re5) 17. Bxb7 Nxb7 18. Nd5 Nxd5 19. cxd5 Re4 $2 (19... a5 $14) 20. Qc3 Qd7 21. Bd4 Rxe1+ 22. Rxe1 f6 23. b4 Rf8 24. Qg3 Rf7 25. Re3 Nd8 26. c4 Kf8 27. b5 Re7 (27... Nb7 28. Ra3 Na5 29. Qd3 $16) 28. Ra3 Qf5 29. Rxa7 Nf7 $4 (29... Qe4 30. Qc3 h5 $16) 30. Ra8+ Re8 31. Rxe8+ Kxe8 32. Qxg7 Ke7 33. a3 Qf4 34. Qg4 Qc1+ 35. Kh2 h5 36. Qe6+ Kf8 37. g3 Qxc4 38. Bxf6 Qxb5 39. Be7+ 1-0
+

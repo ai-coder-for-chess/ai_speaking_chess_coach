@@ -1,0 +1,17 @@
+﻿[Event "Vennlynpartier"]
+[Site "?"]
+[Date "2023.03.01"]
+[Round "6"]
+[White "Mitusov, Semen"]
+[Black "Hansen Westrum, Kim Roger"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C47"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "460370802617"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. Bd2 O-O 9. O-O Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Qh5 Qd5 13. Qh4 Qf5 $6 (13... Bf5 14. Rad1 Qe6 15. Rfe1 f6 16. Qf4 Rf7 17. Rd4 $11) 14. Rfe1 Be6 (14... Re8 15. Qg3 Qg6 16. Re3 Qxg3 17. Rxg3 g6 18. Bd2 $14) 15. Rxe4 Bd5 $2 16. Rg4 $2 (16. Rf4 $1 Qxc2 17. Bxg7 Kxg7 18. Rg4+ Qg6 $18) 16... f6 17. Qg3 Rf7 18. Re1 Rd8 19. h4 Ra8 20. Kh2 a5 21. f3 Bxa2 22. b3 a4 23. bxa4 Bd5 24. a5 Kh8 25. a6 Qxc2 26. Ba1 Qf5 27. a7 h5 $2 (27... c5 $14) 28. Rf4 Qc8 29. Bd4 Qd7 30. Bc5 Qc8 31. Rb4 Kh7 32. Reb1 Qd7 33. Rb8 1-0
+

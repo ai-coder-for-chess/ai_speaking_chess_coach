@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "3"]
+[White "Zerebiec, Maurycy"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "Semen"]
+[ECO "C01"]
+[WhiteElo "1962"]
+[BlackElo "2315"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "52"]
+[GameId "453748443136"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,52,27,-6,-3,-28,-28,-33,-33,-38,-37,-36,-1,-13,13,-2,19,6,28,-28,-10,-2,-8,-8,-10,-11,15,22,19,43,50,-26,12,-172,-36,-51,-24,-103,-119,-213,-143,-161,-49,-52,-86,-224,-217,-215,-221,-603,15,-221,-220,-604,-599]} 1. c4 e6 2. e4 d5 3. exd5 exd5 4. d4 (4. cxd5 Nf6 5. Bb5+ Nbd7 6. Nc3 Be7) 4... Nf6 5. Nf3 Be7 (5... Bb4+ 6. Nc3 O-O 7. Be2 dxc4 8. Bxc4 Bg4 9. O-O Nc6 10. Be3 Qd6) 6. Nc3 O-O 7. Be2 h6 8. O-O Be6 9. Ne5 dxc4 10. Bxc4 Bxc4 11. Nxc4 Nc6 12. Be3 Nd5 $6 (12... Bb4) 13. Qf3 $1 Nb6 14. Ne5 Nxd4 15. Qg4 Ne6 16. Bxh6 $2 (16. Rad1 Bd6 17. Bxb6 axb6 18. Nc4 $11) 16... f5 17. Qg3 Bh4 18. Qh3 gxh6 19. g3 Be7 20. Qxh6 Rf6 21. Ng6 Bd6 22. Qh8+ Kf7 23. Qh7+ Ng7 24. Nh8+ Kf8 25. Ng6+ Kf7 26. Nh8+ Qxh8 0-1
+

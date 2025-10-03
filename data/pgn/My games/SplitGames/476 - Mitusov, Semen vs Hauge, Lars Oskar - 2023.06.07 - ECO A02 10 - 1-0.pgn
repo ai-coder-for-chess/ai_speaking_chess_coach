@@ -1,0 +1,19 @@
+﻿[Event "Nortekk Superlyn juni 2023"]
+[Site "?"]
+[Date "2023.06.07"]
+[Round "9"]
+[White "Hauge, Lars Oskar"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "A02"]
+[WhiteElo "2431"]
+[BlackElo "2330"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "469032661687"]
+[SourceVersionDate "2019.06.17"]
+
+1. f4 e5 (1... Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c5 6. d3 d5 7. c3 Nc6 8. Qe1 d4 9. Na3 Nd5 (9... Rb8 10. Bd2 Be6 11. Nc2 Qb6 12. Qc1 Rfd8)) 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 (4... Nf6) 5. g3 g4 6. Nh4 Ne7 7. Nc3 (7. d4 Ng6 8. Nxg6 hxg6 9. Qd3 Nc6 10. c3 Bf5 11. e4 Qe7 12. Bg2 O-O-O 13. Be3 Bd7 14. Kd1) 7... Ng6 8. Nxg6 hxg6 9. Ne4 Be5 (9... f5 10. Nxd6+ Qxd6 11. d3 Bd7 12. Bf4 (12. Bg2 Bc6 13. e4 Rxh2) 12... Qb4+) 10. c3 (10. Bg2 f5 11. Nf2 Nc6 12. c3 f4 13. d4 fxg3 14. hxg3 Rxh1+ 15. Nxh1 Bd6 16. Qd3 Qf6 17. e4 Bd7 18. Be3 O-O-O 19. O-O-O Be6 20. Kb1 Qf7 21. d5 Be5 22. Qe2 Qd7 23. Rd2 Bf7 24. dxc6 Qxc6 25. Qxg4+ Be6 26. Rxd8+ Kxd8 27. Qg5+ Kd7 28. Qxe5 Qa6 29. Qd4+ Ke8 30. b3 Qe2 31. Qd2 Qh5 32. Nf2 Qe5 33. Bf4 Qa5 34. Kb2 b5 35. Nd3 Qb6 36. Be3 Qc6 37. Bd4 a5 38. e5 Qd7 39. Nc5 Qe7 40. Nxe6 Qxe6 41. Qd3 c6 42. Be4 g5 43. Bg6+ Kf8 44. Bf5 Qd5 45. e6 Ke7 46. g4 c5 47. Be3 Qg2+ 48. Qd2 Qc6 49. Bxg5+ Kf8 50. Qd8+ Kg7 51. Qf6+ Kg8 52. Qf7+ Kh8 53. Qh7# {1-0 (53) Hauge,L (2483)-Ganguly,S (2658) chess24.com INT 2019}) 10... f5 11. Nf2 Qd5 $4 (11... c5 12. Bg2 Nc6 13. d3 Be6 $14) 12. e4 fxe4 13. Bg2 Bf5 14. Bxe4 $2 (14. d4 $18) 14... Bxe4 15. Qa4+ Nc6 16. Qxe4 Qd6 17. d4 O-O-O 18. Bg5 Rde8 19. Qxg4+ Kb8 20. O-O-O Bg7 21. Nd3 Qd5 22. Kb1 Re4 23. Bf4 Qf7 24. h4 Rhe8 25. Rhf1 b6 26. Qf3 Qd5 27. g4 Qe6 28. d5 Qxd5 29. Nf2 Qc4 30. Nxe4 Rxe4 31. Bc1 Ne5 32. Qg2 Rxg4 33. Rd8# 1-0
+

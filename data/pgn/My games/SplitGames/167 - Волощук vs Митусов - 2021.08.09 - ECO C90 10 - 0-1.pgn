@@ -1,0 +1,21 @@
+﻿[Event "Кубок Львова"]
+[Site "?"]
+[Date "2021.08.09"]
+[Round "1"]
+[White "Волощук"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C90"]
+[WhiteElo "1501"]
+[BlackElo "2305"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "150"]
+[GameId "410049139154"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,30,16,28,38,44,44,-1,8,-27,-27,-37,-17,13,26,16,20,-39,-5,-48,-5,5,-5,-3,-10,-16,-7,-8,8,-2,32,26,57]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d3 O-O 8. c3 d6 9. h3 Na5 10. Bc2 c5 11. Re1 Nc6 12. Nbd2 Re8 13. Nf1 h6 14. Ng3 Bf8 15. d4 Qc7 (15... cxd4 16. cxd4 exd4 17. Nxd4 Nxd4 18. Qxd4 Bb7 19. Bf4 Rc8 20. Bb3 d5 21. exd5 Bc5 22. Rxe8+ Qxe8 23. Qd3 Rd8 24. Nf5 Qe4 25. Qxe4 Nxe4 26. Be3 Bf8 27. Bb6 Rd7 28. Ne3 Nc5 29. Bd1 Bxd5 30. Nxd5 Rxd5 31. Bf3 Rd2 32. Rc1 Na4) 16. dxe5 dxe5 17. Qe2 Be6 18. Nh4 g6 19. Bb3 c4 (19... Bxb3 20. axb3 Na5 21. Qc2 c4 22. bxc4 bxc4) 20. Bc2 Kh7 21. Be3 Rad8 22. Rad1 b4 23. Ba4 Rxd1 24. Rxd1 Rc8 25. Nf3 Qa5 $2 (25... bxc3 $1 26. bxc3 Nb8 {[%cal Gb8d7,Gc7a5]}) 26. Bxc6 $1 Rxc6 27. cxb4 Bxb4 28. a3 Bf8 29. Bd2 Qc7 30. Bc3 Nd7 31. Nf1 Rd6 32. Ne3 Rxd1+ 33. Qxd1 Bg7 34. Nd2 Nc5 35. Nexc4 Nxe4 36. Nxe4 Qxc4 37. Nd2 Qc6 38. Qf3 Bd5 39. Qg3 f5 40. f3 Qc7 41. Qe1 h5 42. Nf1 Bb7 43. Qe3 Bd5 44. Kh1 Bc4 45. Nd2 Bh6 46. Qf2 Bb5 47. Qe1 Bf4 48. Nb3 Bc6 49. Nd2 (49. g3 Bxf3+ 50. Kh2 Bg5 51. Qxe5 Qxe5 52. Bxe5 h4) 49... Bb7 50. Qe2 h4 51. Nc4 e4 52. fxe4 Bxe4 53. Nd2 Bb7 $4 54. Nf3 $4 (54. Qe8 $18) 54... Qd8 55. Qe1 Bg3 56. Qd2 Qxd2 57. Bxd2 Kg7 58. Bc3+ Kf7 59. Ne5+ Kf6 60. Nd3+ Kg5 61. Kg1 Bd6 62. Be5 Be7 63. Kf2 Be4 64. Bf4+ Kf6 65. Ne1 g5 66. Be3 Bd6 67. Nf3 Bg3+ 68. Ke2 g4 69. hxg4 fxg4 70. Bd4+ Kf5 71. Ne1 Bxe1 72. Kxe1 Bxg2 73. Kf2 Bd5 74. Ba7 g3+ 75. Kf1 h3 0-1
+

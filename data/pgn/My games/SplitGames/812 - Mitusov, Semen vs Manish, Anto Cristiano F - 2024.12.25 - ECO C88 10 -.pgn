@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.25"]
+[Round "5.6"]
+[White "Manish, Anto Cristiano F"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C88"]
+[WhiteElo "2296"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "108"]
+[GameId "2128602185715733"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. d4 cxd4 13. cxd4 b4 14. Nbd2 Nd7 15. b3 exd4 16. Nxd4 Bf6 17. Bb2 Qb6 18. Nf1 Rfe8 $6 {Inaccuracy. Nc6 was best.} (18... Nc6) 19. Ne3 g6 $6 {Inaccuracy. Bxe4 was best.} (19... Bxe4) 20. Qd2 Bg7 21. Ng4 d5 $4 {Blunder. Nc6 was best.} (21... Nc6 22. Rad1 Rac8 23. Ne3 Qc5 24. Bb1 Bxd4 25. Bxd4 Qxd4 26. Qxd4 Nxd4 27. Rxd4) 22. Nh6+ Kf8 23. Qf4 $2 {Mistake. exd5 was best.} (23. exd5) 23... Ne5 24. Nf3 Qf6 25. Bxe5 Qxf4 $4 {Blunder. Rxe5 was best.} (25... Rxe5) 26. Bxf4 Bxa1 27. Rxa1 dxe4 28. Ne1 Re6 $6 {Inaccuracy. Bc8 was best.} (28... Bc8 29. f3) 29. Ng4 Rc8 30. Rd1 Ke7 31. Bg5+ f6 32. Nxf6 $2 {Mistake. Bd2 was best.} (32. Bd2 Nc6 33. f3 exf3 34. Nxf3 Rd8 35. Kf2 a5 36. Bf4 Ba6 37. Ne3 g5) 32... Rxf6 33. Rd4 h6 34. Bxf6+ Kxf6 35. Rxb4 Ke5 36. Kf1 g5 37. Ke2 Bd5 38. Rb6 Nc6 39. b4 h5 40. Bd1 Nd4+ 41. Kd2 Rf8 42. f3 exf3 43. gxf3 Bxf3 44. Nxf3+ Nxf3+ 45. Ke3 Nxh2 46. Bxh5 Nf1+ 47. Kd3 Rf4 48. a5 g4 49. Rg6 Rxb4 50. Bxg4 Ra4 51. Bc8 Ra3+ 52. Ke2 Ng3+ 53. Kd1 Ne4 54. Rxa6 Nd6 1/2-1/2
+

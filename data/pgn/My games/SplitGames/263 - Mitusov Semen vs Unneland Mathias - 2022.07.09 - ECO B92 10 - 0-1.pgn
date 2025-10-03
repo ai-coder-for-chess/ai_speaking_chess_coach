@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "Kongsvinger, Norway"]
+[Date "2022.07.09"]
+[Round "1.21"]
+[White "Mitusov Semen"]
+[Black "Unneland Mathias"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "B92"]
+[WhiteElo "2378"]
+[BlackElo "2251"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "112"]
+[GameId "439586523415"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,112,26,23,53,66,80,88,82,60,60,28,62,45,45,45,39,30,35,40,35,16,26,23,31,31,54,2,27,17,18,7,12,11,16,10,10,6,8,0,6,6,-9,-9,5,0,5,-21,-33,-24,-17,-28,-28,-82,-77,-84,-87,-189,-201,-212,-208,-214,-221,-220,-220,-225,-192,-201,-201,-200,-198,-198,-205,-195,-197,-209,-208,-221,-220,-237,-234,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-237,-166,-277,-166,-279,-282,-334,-334,-347,-358,-361,-362,-454,-472,-566,-556,-566,0]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O O-O 9. Be3 Be6 10. Qd2 b5 11. a4 b4 12. Nd5 Nxe4 13. Nxe7+ Qxe7 14. Qxb4 Nf6 (14... f5 15. Na5 Rc8 (15... Qc7 16. f3 Nf6 17. Qb7 Qxb7 18. Nxb7 $16) 16. Bf3 Nd7 17. Bxe4 fxe4 18. Rfd1 Nc5 19. Bxc5 Rxc5 20. Qxe4 Rac8 21. c3 $11) 15. Bg5 $6 (15. Na5 $1 Nd5 16. Qd2 Nxe3 17. Qxe3 Qc7 18. b4 d5 19. c4 d4 20. Qd2 Nc6 21. Nxc6 Qxc6 22. Rfe1 $16) 15... Nc6 16. Bxf6 gxf6 (16... Qxf6 $2 17. Qxd6 Bxb3 18. Qxf6 gxf6 19. cxb3 Nd4 20. Bc4 Rfb8 21. Rad1 Rb4 22. f4 Nxb3 23. Bd5 Ra7 24. fxe5 fxe5 25. Rf5 $16) 17. Qb6 Qd7 18. Bf3 $6 (18. Rad1 $1 Rfb8 19. Qe3 Bxb3 20. cxb3 Nd4 21. Bd3 $14) 18... Rfc8 19. Rad1 Rab8 20. Qxa6 Nb4 21. Qxd6 Qxd6 22. Rxd6 Rxc2 23. Na5 Rxb2 24. Nb7 Nc2 25. Nc5 Nd4 26. Be4 $2 (26. Nxe6 Nxf3+ 27. gxf3 fxe6 28. Rxe6 Kf7 $11) 26... Bc4 $6 (26... f5 $1 27. Bd3 Rd2 $19) 27. Re1 $6 (27. Ra1 $15) 27... f5 $1 28. Bd3 (28. Bb7 R8xb7 29. Nxb7 Rxb7 30. h3 Ne2+ 31. Kh2 Rb2 $19) 28... Bxd3 29. Nxd3 Rd2 $3 30. Nxe5 Ne2+ 31. Kf1 Rxd6 32. Kxe2 Re8 33. Kf1 Ra6 34. Nd3 Rxe1+ 35. Kxe1 Rxa4 36. g3 Ra2 37. Kf1 Kg7 38. Kg2 Ra3 39. Nf4 Kf6 40. Nh5+ Ke5 41. h4 $4 $19 (41. Nf4 Ke4 42. Nh5 Ke5 43. Nf4 Ra4 44. Nd3+ Kd5 45. Nf4+ $2 $19 (45. Kf1 f4 46. Nxf4+ Rxf4 47. gxf4 Ke4 48. f5 Kxf5 49. f3 Kf4 50. Ke2 $11) 45... Rxf4 46. gxf4 Ke4 47. Kg3 f6 48. h3 h6 49. h4 h5 50. f3+ Ke3 51. Kg2 Ke2 $19) 41... h6 42. Nf4 Ke4 43. Nh5 Ke5 44. Nf4 Ra4 45. Nd3+ Kd4 46. Nf4 Ke5 47. Nd3+ Kd5 48. Kf1 f4 49. Kg2 Rd4 50. Ne1 (50. Nxf4+ Rxf4 51. gxf4 Ke4 $19) 50... Ke4 51. g4 Rd1 52. Nf3 Rd3 53. Ng1 f6 54. Kh2 Rd1 55. Kg2 Rxg1+ 56. Kxg1 Kf3 0-1
+

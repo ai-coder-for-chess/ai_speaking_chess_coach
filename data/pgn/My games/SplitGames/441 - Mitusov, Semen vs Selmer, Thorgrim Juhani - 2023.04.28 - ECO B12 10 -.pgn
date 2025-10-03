@@ -1,0 +1,19 @@
+﻿[Event "LangOffer april NGP 2023"]
+[Site "?"]
+[Date "2023.04.28"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Selmer, Thorgrim Juhani"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2412"]
+[BlackElo "1561"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "27"]
+[GameId "465532392515"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 Nd7 5. Nh4 Bg6 (5... Be4 6. e6 fxe6 7. Nd2 Ngf6 8. f3 Bf5 9. g4 Bg6 10. Nxg6 hxg6 $16) 6. Nxg6 hxg6 7. e6 Ndf6 (7... fxe6 8. Bd3 Qa5+ 9. Bd2 Qb6 10. Bxg6+ Kd8 11. Bc3 $16) 8. exf7+ Kxf7 9. Bf4 $2 (9. Nd2 e6 10. Nf3 $18) 9... Nh6 $6 (9... Qb6 10. Bd3 Qxb2 11. Nd2 Qxd4 12. g3 $16) 10. Bd3 Nf5 11. c3 Qd7 12. Nd2 Re8 13. Nf3 Nh4 14. Ne5+ 1-0
+

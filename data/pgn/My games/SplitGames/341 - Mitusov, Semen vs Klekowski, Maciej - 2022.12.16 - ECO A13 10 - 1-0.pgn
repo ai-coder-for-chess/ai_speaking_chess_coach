@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "11"]
+[White "Klekowski, Maciej"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "Semen"]
+[ECO "A13"]
+[WhiteElo "2515"]
+[BlackElo "2315"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "53"]
+[GameId "453748873962"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,53,20,-3,-3,-3,4,-20,-4,-4,-1,-24,-14,-10,-11,-11,0,-25,-25,-25,-18,-44,13,-10,0,0,2,2,-6,-36,-21,-31,-24,-17,-32,-50,-30,-74,-44,-30,-28,-21,96,105,106,107,104,104,392,401,403,418,444,417,29991,29992]} 1. c4 e6 2. Nf3 Nf6 3. b3 d5 4. Bb2 Be7 5. g3 O-O 6. Bg2 c5 7. e3 Nc6 8. cxd5 Nxd5 9. O-O b6 10. d4 Bb7 (10... Ba6 11. Re1 Ndb4 12. Bf1 Bxf1 13. Rxf1 cxd4 14. a3 Nd5 15. Nxd4 Nxd4 16. Bxd4) 11. Nbd2 cxd4 12. Nxd4 Nxd4 13. Bxd4 Bf6 14. Ne4 Bxd4 15. Qxd4 Qe7 16. Rfd1 Rfd8 17. Qe5 Rac8 18. h4 h6 19. Rac1 Rxc1 20. Rxc1 Nb4 21. Rc7 Rd7 22. Rxd7 Qxd7 23. Qb8+ Bc8 24. Nd6 Kh7 25. Nxc8 Qd1+ 26. Kh2 Qc2 27. Ne7 1-0
+

@@ -1,0 +1,21 @@
+﻿[Event "×У до 18 лет"]
+[Site "?"]
+[Date "2022.02.14"]
+[Round "7"]
+[White "Дегтярёв"]
+[Black "Митусов"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C84"]
+[WhiteElo "2093"]
+[BlackElo "2304"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "87"]
+[GameId "426779055720"]
+[EventType "simul"]
+[EventRounds "18"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 (5... Nxe4 6. dxe5 d5 7. Nd4) 6. O-O Be7 7. e5 Ne4 8. Nxd4 Nc5 9. Nf5 Rg8 (9... O-O 10. Qg4 g6 11. Nxe7+ (11. Nc3 d5 12. Nxe7+ Qxe7 13. Qg3) 11... Qxe7 12. Bxc6 dxc6 13. Qg3 Re8 14. Re1 Bf5 15. Bh6 Bxc2 16. Nd2 Bf5 17. Nf1) 10. Qh5 h6 11. Bxc6 bxc6 (11... dxc6 12. Rd1 Qxd1+ 13. Qxd1 Bxf5) 12. Re1 Ne6 13. Qg4 Bg5 14. f4 g6 15. Ng3 h5 16. Qf3 Bh4 17. Nc3 Bb7 18. Rf1 Qe7 19. Nge4 d5 (19... O-O-O 20. g3 f5) 20. exd6 cxd6 21. g3 d5 (21... f5 22. Nxd6+ Qxd6 23. Rd1 Qc7 24. gxh4 Kf7 25. Be3 Rad8) 22. Ng5 Bxg5 23. fxg5 Rd8 24. Bf4 c5 25. Rae1 Rd7 26. Re5 Qd8 27. Qf2 d4 28. Na4 Rd5 29. Rfe1 Kd7 30. Qg2 Ke8 31. Qf2 Qa5 32. Rxd5 Bxd5 33. b3 Qb5 34. Bd6 Qd7 35. Bxc5 Bb7 36. Qf6 Bc8 37. Nb6 Qc7 38. b4 Qd8 39. Nxc8 Qxf6 40. gxf6 Kd7 41. Nb6+ Ke8 42. a4 g5 43. a5 Rg6 44. b5 1-0
+

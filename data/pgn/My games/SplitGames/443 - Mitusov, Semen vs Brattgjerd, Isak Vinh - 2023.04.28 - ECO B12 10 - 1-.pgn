@@ -1,0 +1,19 @@
+﻿[Event "LangOffer april NGP 2023"]
+[Site "?"]
+[Date "2023.04.28"]
+[Round "3"]
+[White "Mitusov, Semen"]
+[Black "Brattgjerd, Isak Vinh"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2412"]
+[BlackElo "1987"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "53"]
+[GameId "465533491616"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Qg4 Ne7 7. Bd3 Nbc6 8. Nf3 Ng6 9. O-O O-O 10. Qh5 Nce7 11. Nbd2 Nf5 12. Nb3 Bb6 13. Bg5 Qc7 14. Rae1 a5 15. c3 a4 16. Nbd4 h6 17. Nxf5 exf5 18. Bxh6 gxh6 19. Qxh6 Re8 20. Ng5 $2 (20. g4 Rxe5 21. Nxe5 Nxe5 22. gxf5 $18) 20... Nf8 21. Kh1 $2 (21. Qh5 Be6 22. g4 $18) 21... Rxe5 $4 (21... Qc6 22. Qh4 Bd8 23. f4 Re6 24. Bxf5 Rh6 25. Qg4 Bxf5 26. Qxf5 Qd7 $17) 22. Rxe5 Qxe5 23. Qxb6 Be6 24. Nf3 Qf4 25. Nd4 Nd7 $2 26. Nxe6 Qb8 27. Qe3 1-0
+

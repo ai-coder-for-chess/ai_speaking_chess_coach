@@ -1,0 +1,20 @@
+﻿[Event "VM for junior 2025"]
+[Site "lichess.org"]
+[Date "2025.03.02"]
+[Round "6.25"]
+[White "Pasti, Aron"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "A08"]
+[WhiteElo "2357"]
+[BlackElo "2467"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "166"]
+[GameId "2156479923761174"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,166,23,25,35,-7,39,13,21,21,27,9,13,-2,-3,-3,-3,-11,-8,-8,-8,2,2,-3,13,-49,-48,-53,-39,-68,-60,-60,-38,-33,0,-12,-10,-41,-31,-31,-35,-19,-33,-35,-17,-33,-22,-22,-25,-20,-16,-12,-21,-22,-30,-32,-28,-28,-22,-28,-27,-38,-16,-14,-24,-79,-51,-51,-62,-51,-43,-56,-35,-48,-44,-81,-57,-57,-58,-54,-43,-52,-52,-52,-42,-43,-42,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-44,-36,-29,-37,-49,-40,-38,-34,-32,-33,-33,-33,-31,-33,-31,-32,-33,-33,-32,-32,-32,-32,-33,-33,-33,-33,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-32,-31,-31,-31,-31,-13,-13,-13,-13,-13,-13,-13,-13,-13,-13,-13,-13,-13,-13,0,0,0,0,0]} 1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. Nbd2 c5 7. e4 Be7 8. Qe2 (8. exd5 Nxd5) (8. Re1 Nc6 9. h4 Qc7 10. Nf1 h6 11. e5 Nd7 12. Qe2 (12. Bf4 O-O-O) 12... g5 13. hxg5 hxg5 14. N1h2 Rh5) 8... Nc6 9. b3 O-O 10. Bb2 Qc7 11. exd5 exd5 12. Rfe1 Rae8 13. Qd1 d4 14. c3 dxc3 15. Bxc3 Rd8 (15... Nd5 $1 16. Bb2 Ndb4 17. Nc4 Rd8 $17) 16. Ne5 Nd4 (16... Nd5 17. Nxc6 Bxc6 18. Be5 Qb7) 17. Bxb7 Qxb7 18. Ndf3 (18. Bxd4 Rxd4 19. Qf3 $11) 18... Nxf3+ $6 (18... Ne6 19. Qe2 Nd5 20. Bb2 Bf6 $15) 19. Qxf3 Qxf3 20. Nxf3 Nd5 21. Bb2 Rfe8 22. d4 Nb4 23. Rad1 Nxa2 24. Ra1 (24. dxc5 Rxd1 25. Rxd1 Bxc5 26. Ra1 Re2 27. Rxa2 Rxf2 $19) 24... Nb4 25. Rxa7 Bf6 26. Rxe8+ Rxe8 27. Rb7 Nd3 28. Bc3 Nc1 29. Bb2 Nxb3 30. Rxb6 Nxd4 31. Nxd4 cxd4 32. Rd6 Re1+ 33. Kg2 Rd1 34. Kf3 Rd2 35. Bc1 Rc2 36. Bf4 Kf8 37. g4 h6 38. Bg3 Ke7 39. Rd5 Rc6 40. Ke4 Re6+ 41. Kd3 g5 42. Bb8 Re1 43. Bg3 Kf8 44. Rd7 Kg7 45. Rd6 Kg6 46. Rd5 Kg7 47. Rd6 Re8 48. Rd5 Re6 49. Bd6 Re1 50. Bg3 Kf8 51. Bd6+ Ke8 52. Bc5 Rh1 53. Bxd4 Bxd4 54. Rxd4 Rxh2 55. f4 Ke7 56. fxg5 hxg5 57. Ke3 Ke6 58. Ra4 f6 59. Ra6+ Kf7 60. Kf3 Rd2 61. Ra7+ Ke6 62. Ra6+ Ke5 63. Ra3 Rd6 64. Ra5+ Ke6 65. Ra3 Rb6 66. Re3+ Kd5 67. Rd3+ Kc4 68. Ra3 Rb1 69. Ra6 Kd5 70. Ra5+ Kd4 71. Ra4+ Kd3 72. Ra6 Rf1+ 73. Kg2 Rf4 74. Kg3 Ke2 75. Ra2+ Kf1 76. Ra1+ Ke2 77. Ra2+ Ke3 78. Ra3+ Ke4 79. Ra4+ Ke3 80. Ra3+ Kd4 81. Ra4+ Ke5 82. Rxf4 gxf4+ 83. Kf3 Ke6 1/2-1/2
+

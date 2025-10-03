@@ -1,0 +1,21 @@
+﻿[Event "×О рапид"]
+[Site "?"]
+[Date "2021.08.23"]
+[Round "5"]
+[White "Коза~~енко"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C45"]
+[WhiteElo "2150"]
+[BlackElo "2432"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "84"]
+[GameId "411260000957"]
+[EventType "simul"]
+[EventRounds "5"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Qe2 a5 8. Nd5 a4 9. Nxb6 cxb6 10. Nd2 Nf6 11. f3 O-O 12. b3 a3 $2 (12... d5 $1 13. Bb2 a3 $19) 13. Qf2 Nb4 14. Bd3 Qc7 15. Nc4 b5 16. Nb6 $2 (16. Qb6 $1 $16) 16... Qc3+ 17. Qd2 Qxa1 18. Nxa8 Be6 19. Nc7 Nxd3+ 20. cxd3 Rc8 21. O-O Rxc7 22. Bxa3 Qd4+ 23. Kh1 Qc3 24. Qe3 Qc6 25. d4 d5 26. e5 Ne8 27. Rc1 Qd7 28. Rxc7 Qxc7 29. Qc1 Qxc1+ 30. Bxc1 f6 31. f4 h5 32. Kg1 Kf7 33. Kf2 Nc7 34. Ke3 Na6 35. Bd2 Nb8 36. a3 Nc6 37. Bc3 Bf5 38. Kd2 Ke6 39. g3 Be4 40. Ke3 Bc2 41. b4 Kf5 42. h3 Ne7 {[%cal Ge7c8,Gc8b6,Gb6c4]} 0-1
+

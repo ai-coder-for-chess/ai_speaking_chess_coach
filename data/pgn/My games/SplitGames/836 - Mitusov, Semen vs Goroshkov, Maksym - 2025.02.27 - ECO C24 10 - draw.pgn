@@ -1,0 +1,20 @@
+﻿[Event "VM for junior 2025"]
+[Site "lichess.org"]
+[Date "2025.02.27"]
+[Round "3.6"]
+[White "Mitusov, Semen"]
+[Black "Goroshkov, Maksym"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C24"]
+[WhiteElo "2469"]
+[BlackElo "2349"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "22"]
+[GameId "2150177945288716"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 (4... Be7 5. O-O d5 6. exd5 Nxd5 7. Re1 f6 8. h3 Be6 9. Bb3 O-O 10. d4 Bf7 11. dxe5 Nxe5 12. Nxe5 fxe5 13. Rxe5 c6 14. Nd2) 5. exd5 Nxd5 6. O-O Nb6 7. Bb5 (7. Bb3 Bg4 8. h3 Bh5 9. Re1 Qe7 10. a4 a5 11. Nc3 O-O-O 12. Be3 f6 13. Qe2 Kb8) 7... Bd6 8. Re1 (8. Bxc6+ bxc6 9. Nxe5 Bxe5 10. Re1 Qe7 11. Kh1 (11. f4 Bd4+ 12. Kh1 Be6 13. f5 O-O 14. Nd2 Nd5 15. Nf3 Qf6 16. Nxd4 Qxd4 17. c3 Qf2 18. fxe6 fxe6 19. Bd2 Rab8 20. b3 Rf6 21. Rf1 Qxf1+ 22. Qxf1 Rxf1+ 23. Rxf1 $11) 11... Bb7 12. f4 O-O-O 13. Rxe5 Qh4 14. Nc3 c5 15. Qe2 Nd7 16. Rh5 Qf6) 8... f6 9. a4 a5 10. d4 (10. h3 O-O 11. Nbd2 Na7 $11) 10... O-O 11. c3 (11. dxe5 Nxe5 (11... fxe5 12. Bg5 Qe8 13. Nbd2 $14) 12. Nxe5 fxe5 13. Nc3) (11. Bxc6 bxc6 12. Nc3 Bg4 13. dxe5 fxe5 14. Re3 Qf6 15. h3 Bh5 16. Ne4 Qg6 17. Qe2 Nd5 18. Rd3 Nf4 19. Bxf4 Rxf4 20. Re1 Raf8 21. Kh2 Qf7 22. c3 Rxe4 23. Qxe4 Bg6 24. Ng5 Bxe4 25. Nxe4 {0-1 Elmi,S (2383)-Palczert,M (2341) EU-ch U18 rapid Prague 2024 (7)}) 11... Kh8 1/2-1/2
+

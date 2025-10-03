@@ -1,0 +1,20 @@
+﻿[Event "Kvibergspilen 2022"]
+[Site "?"]
+[Date "2022.10.02"]
+[Round "5"]
+[White "Fritz Anton"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "E04"]
+[WhiteElo "2234"]
+[BlackElo "2418"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "66"]
+[GameId "447008582146"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,66,26,37,21,-8,-16,-16,-16,-31,-12,-26,-15,-2,17,-32,-14,-41,-7,13,2,2,-6,7,0,-26,-23,-32,-32,-46,-39,-18,-15,-40,-42,-28,-19,-127,-142,-137,-122,-137,-151,-137,-143,-123,-139,-171,-158,-147,-92,-165,-121,-146,-121,-120,-127,-127,-219,-373,-509,-525,-490,-534,-562,-623,-751,-766,-787]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Nc6 (5... a6 $5) 6. O-O a6 7. a4 Rb8 8. Bg5 Be7 9. e3 b5 10. axb5 axb5 11. b3 cxb3 12. Qxb3 O-O 13. Rc1 Bb7 14. Nc3 b4 (14... Nb4 15. Bxf6 gxf6) 15. Bxf6 gxf6 16. Ne4 Ra8 17. Ne1 Na5 (17... Rxa1 18. Rxa1 Nxd4 19. exd4 Bxe4 20. Bxe4 Qxd4 21. Qb1 f5 22. Bg2 b3 $17) 18. Rxa5 $4 Rxa5 19. Nxf6+ Bxf6 20. Bxb7 Qe7 21. Be4 Rb8 22. Nd3 Ra3 23. Qc4 b3 24. Rb1 Rb6 25. Kg2 Bg7 26. Rb2 Qd7 27. Nc1 Ra4 28. Qd3 c5 29. dxc5 Qxd3 30. Nxd3 Rb8 31. Bc6 Ra6 32. Bd7 Bxb2 33. Nxb2 Ra2 0-1
+

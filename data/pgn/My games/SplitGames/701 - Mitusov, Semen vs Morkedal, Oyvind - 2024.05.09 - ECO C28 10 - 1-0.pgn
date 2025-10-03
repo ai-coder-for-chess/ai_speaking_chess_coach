@@ -1,0 +1,20 @@
+﻿[Event "NM for lag 2024"]
+[Site "Chess.com INT"]
+[Date "2024.05.09"]
+[Round "1"]
+[White "Mitusov, Semen"]
+[Black "Morkedal, Oyvind"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C28"]
+[WhiteElo "2477"]
+[BlackElo "1736"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "41"]
+[GameId "498876657004"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,41,19,31,34,25,25,16,17,-5,22,21,15,21,1,20,59,62,78,75,150,119,145,121,124,165,236,226,218,207,196,186,250,210,209,377,383,272,29995,29996,29997,29998,29999,29999]} 1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 d6 5. f4 (5. a3 g6) 5... Bg4 6. Nf3 $6 (6. Nge2 Nd4 7. h3 Nxe2 8. hxg4 Nxc1 9. g5) 6... Nd4 7. Be3 Nxf3+ $2 (7... Bxf3 8. gxf3 Nh5 9. fxe5 dxe5 10. O-O $13) 8. gxf3 Bd7 9. d4 exd4 10. Qxd4 c5 11. Qd2 Bc6 12. O-O-O Be7 13. Rhg1 g6 14. Nb5 Bxb5 15. Bxb5+ Kf8 16. f5 a6 17. Bh6+ Kg8 18. Bc4 b5 19. fxg6 bxc4 20. gxh7+ Kxh7 21. Rg7# 1-0
+

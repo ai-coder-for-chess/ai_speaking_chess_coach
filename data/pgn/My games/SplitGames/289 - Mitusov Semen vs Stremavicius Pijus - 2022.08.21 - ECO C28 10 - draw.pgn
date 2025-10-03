@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "?"]
+[Date "2022.08.21"]
+[Round "9"]
+[White "Stremavicius Pijus"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C28"]
+[WhiteElo "2367"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "134"]
+[GameId "443586707367"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,11,18,36,28,20,8,8,13,2,-10,0,9,-56]} 1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Na5 5. Bb3 Nxb3 6. axb3 Bc5 $6 (6... d5 $5 7. exd5 Nxd5 8. Qh5 Nb4 9. Qxe5+ Be7 10. Qe2 O-O) (6... Bb4 7. Nf3 d6 8. O-O O-O $11) 7. Nf3 d6 8. Na4 Nd7 (8... Bd4 9. c3 Bxf2+ 10. Kxf2 b5 11. Rf1 bxa4 12. Rxa4 O-O 13. Kg1 h6 14. b4 Bd7 15. Ra1 c6 $11) 9. O-O a6 (9... O-O 10. d4 exd4 11. Nxd4 Bxd4 12. Qxd4 Ne5 $14) 10. Nxc5 Nxc5 11. b4 Ne6 12. d4 exd4 13. Nxd4 d5 14. e5 Nxd4 15. Qxd4 O-O 16. c3 (16. Ra3 $5 Bf5 17. Rg3 Qe7 $14) 16... Re8 17. h3 b6 18. Re1 Bf5 19. Bf4 Qd7 $6 (19... a5 $11) 20. Re3 a5 21. Rg3 Bg6 22. h4 h5 $6 (22... axb4 23. Rxa8 Rxa8 24. h5 c5 25. Qd1 bxc3 26. bxc3 Bf5 $11) 23. c4 c6 24. b5 Rad8 (24... c5 25. Qxd5 Rad8 26. Rxg6 Qxd5 27. cxd5 fxg6 28. d6 Kf7 29. Ra4 Ke6 30. Bg3 $14) 25. Qxb6 (25. bxc6 $1 Qxc6 26. Bg5 Rd7 27. Rd1 $18) 25... cxb5 26. cxb5 d4 27. Rd1 $6 (27. Qxa5 d3 28. b6 Qd4 29. Be3 Qxb2 30. Rg5 $13) 27... a4 28. Bg5 Rb8 29. Qd6 Qxb5 30. f4 $4 (30. Rxd4 Qxe5 31. Qxe5 Rxe5 32. Rxa4 Rxb2 $11) 30... d3 31. Rf1 Re6 32. Qd4 Bf5 33. Rf2 Qb4 34. Rxd3 Bxd3 35. Qxd3 a3 $4 (35... Qc5 36. Qd2 Reb6 $19) 36. bxa3 Qb1+ 37. Qxb1 Rxb1+ 38. Kh2 Ra1 39. Rf3 Re8 $6 (39... Kh7 40. Bd8 Rc6 41. Be7 Ra2) 40. Rd3 Rf1 41. Kg3 Re6 42. Rd8+ Kh7 43. Rd7 Kg8 44. Rd8+ Kh7 45. Rd7 Kg6 46. Be7 Kf5 47. Bd8 Rg6+ 48. Kh2 f6 49. exf6 gxf6 50. Rd5+ Ke4 51. Rxh5 Rf2 52. Rb5 Rfxg2+ 53. Kh1 R2g4 (53... Rg1+ 54. Kh2 R6g2+ 55. Kh3 Rg3+ 56. Kh2 R1g2+ 57. Kh1 Kf3 58. Rb3+ Kg4 59. Rxg3+ Kxg3 60. f5 Rc2 61. Bb6 Kxh4 $19) 54. Rb4+ Kd5 $4 (54... Kf3 55. Rb3+ Kxf4 56. Bc7+ Kf5 57. Rb5+ Ke6 58. h5 Rh4+ 59. Bh2 Rgg4 $19) 55. f5 $1 Rxb4 56. axb4 Rh6 57. Kg2 Ke5 58. Kg3 $4 (58. b5 Rxh4 59. b6 $11) 58... Kxf5 $4 (58... Rh7 $3 59. Kf3 Kxf5 $19) 59. b5 Rg6+ 60. Kf3 Rg8 61. Bc7 Rg1 62. b6 Rb1 63. Ke3 Kg4 64. Kd4 f5 65. Kc5 f4 66. Bxf4 Kxf4 67. Kc6 Rc1+ 1/2-1/2
+

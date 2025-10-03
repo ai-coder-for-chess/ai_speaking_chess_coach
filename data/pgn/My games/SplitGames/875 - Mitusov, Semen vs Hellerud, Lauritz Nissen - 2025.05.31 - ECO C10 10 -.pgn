@@ -1,0 +1,22 @@
+﻿[Event "NM for lag 2025"]
+[Site "Scandic Ambassadeur, Drammen, "]
+[Date "2025.05.31"]
+[Round "2.2"]
+[White "Mitusov, Semen"]
+[Black "Hellerud, Lauritz Nissen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C10"]
+[WhiteElo "2468"]
+[BlackElo "1849"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "63"]
+[GameId "2183521626411008"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[WhiteTeam "Oslo Schakselskap 1"]
+[BlackTeam "SK 1911 - G"]
+
+{[%evp 0,63,31,22,25,22,26,28,41,41,41,45,45,45,45,45,49,14,28,31,25,4,52,69,72,70,86,51,61,62,62,66,63,37,43,42,60,56,42,50,44,63,215,180,282,72,73,67,64,45,126,96,137,137,134,146,452,493,480,386,394,410,668,762,978,775]} 1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 (7. O-O Ngf6 8. Ng3 Be7 9. Qe2 (9. b3 O-O 10. Bb2 Bxf3 11. Qxf3 c6 12. c4 Re8 13. Rfe1 Qc7 14. Rad1 Rad8 15. Bc2 a5 16. h4) 9... Bxf3 (9... b6 10. Ne5) (9... O-O 10. Ne5) 10. Qxf3 c6 11. Re1 O-O 12. c3 Re8 13. a4 a5 14. Bc2 Qc7) 7... Ngf6 8. Ned2 Be7 9. O-O O-O 10. Rd1 Bxf3 (10... b6 11. Ne5 Bb7 12. Ndf3) 11. Nxf3 c6 (11... c5 12. dxc5 Bxc5 13. a3 a5 14. Bf4 Qb6 15. Rab1) 12. Bf4 Re8 (12... Nh5 13. Be5 (13. Bd2)) 13. h4 Qb6 14. a4 a5 15. c3 Rad8 (15... c5 16. Bb5 cxd4 17. Rxd4 e5 18. Rxd7) 16. Ng5 h6 17. Nf3 Bf8 18. Ne5 (18. Rd2) 18... Nxe5 19. dxe5 Nd5 (19... Nd7 20. Bc2 Nc5 21. Be3 $16) 20. Bg3 (20. Qe4 g6 21. h5 (21. Bc1) 21... Nxf4 22. Qxf4 g5 23. Qe4 Bg7 $15) 20... Be7 $2 (20... g6 21. h5 g5 $13) 21. Qe4 Bc5 22. h5 f5 23. exf6 Nxf6 24. Qe2 e5 25. Bg6 Rxd1+ 26. Rxd1 Re7 (26... Rd8 27. Bxe5) 27. Bh4 Rd7 28. Bxf6 Bxf2+ 29. Kf1 Rxd1+ 30. Qxd1 gxf6 31. Qd7 Qa6+ 32. Kxf2 1-0
+

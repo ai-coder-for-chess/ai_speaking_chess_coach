@@ -1,0 +1,20 @@
+﻿[Event "Fagernes høst 2024"]
+[Site "?"]
+[Date "2024.10.13"]
+[Round "9.8"]
+[White "Carlsson, Ludvig"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "D11"]
+[WhiteElo "2334"]
+[BlackElo "2486"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "67"]
+[GameId "2104972351953478"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,67,20,22,22,27,21,-3,1,-15,30,24,21,15,81,81,60,63,85,85,78,78,78,76,76,52,52,53,58,30,20,38,53,38,229,244,244,242,242,242,314,198,223,237,237,300,319,344,346,358,350,241,216,237,224,228,233,230,323,344,392,397,575,596,597,601,659,824,950,1011]} 1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 c6 5. Qb3 Qb6 6. c5 Qc7 (6... Qxb3 7. axb3 Nd7 8. b4 a6 9. b5 cxb5 10. Nxb5 Rc8 11. Nc3 Ne7 12. Bf4 Nc6 13. e3 e5 14. Bg3 Be6) 7. Bf4 Qc8 8. Nh4 Be7 (8... Bg6 9. Nxg6 hxg6 10. e4 Nf6 11. exd5 $16) 9. Nxf5 exf5 10. e3 Nf6 11. Bd3 O-O 12. h4 (12. Qc2 g6 13. h4 Nh5) 12... g6 (12... Nh5 13. Bg5 Re8 14. O-O-O) 13. h5 Nbd7 14. g4 fxg4 $1 (14... Nxg4 15. hxg6 fxg6 16. f3 Ngf6 17. O-O-O $16) 15. hxg6 fxg6 $1 (15... hxg6 16. O-O-O Nh5 17. Rxh5 gxh5 18. Rh1 Nf6 19. Be5 $18) 16. e4 Nxe4 $2 (16... Rf7 17. exd5 Bxc5 18. dxc5 Nxc5 19. Qc2 Nxd5) (16... Bxc5 17. exd5 Rf7 $1) 17. Nxd5 $1 cxd5 18. Qxd5+ Kh8 19. Qxe4 Qc6 20. Bg3 (20. Rxh7+ Kxh7 21. Qxe7+ Kh8 22. Qh4+ Kg7 23. Qh6+ Kf7 24. O-O-O $18) 20... Rf6 21. O-O-O Bf8 22. Qxg4 Re8 23. Kb1 Bg7 24. d5 Qxd5 25. Bxg6 (25. Rxh7+ Kxh7 26. Qh4+ Bh6 27. Bxg6+ Kxg6 28. Rxd5 Re1+ 29. Kc2 Rc1+ $13) 25... Rxg6 26. Qxg6 Qxd1+ 27. Rxd1 hxg6 28. Rxd7 Rc8 29. b4 b6 30. Rxa7 bxc5 31. b5 c4 32. b6 c3 33. Rxg7 c2+ 34. Kc1 1-0
+

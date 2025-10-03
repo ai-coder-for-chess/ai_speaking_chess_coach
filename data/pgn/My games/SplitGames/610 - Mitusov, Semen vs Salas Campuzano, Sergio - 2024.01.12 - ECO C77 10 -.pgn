@@ -1,0 +1,20 @@
+﻿[Event "Sevilla Open 2024"]
+[Site "lichess.org"]
+[Date "2024.01.12"]
+[Round "1.5"]
+[White "Mitusov, Semen"]
+[Black "Salas Campuzano, Sergio "]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C77"]
+[WhiteElo "2479"]
+[BlackElo "1746"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "71"]
+[GameId "488433780491"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bb4 (5... b5 6. Bb3 Bc5 7. Nd5 Nxe4 8. d4 Be7) 6. Nd5 (6. O-O Bxc3 7. bxc3 O-O 8. Bxc6 bxc6 9. Nxe5 Nxe4 10. Re1 Nd6 11. Ba3) 6... Bc5 (6... Nxd5 7. exd5 Nd4 8. Nxd4 (8. c3 Nxf3+ 9. Qxf3 Be7) 8... exd4 9. O-O O-O 10. d3) 7. d3 (7. c3 Nxe4 8. d4 exd4 9. cxd4 Be7 10. Bf4) 7... h6 8. c3 b5 9. Bb3 d6 10. h3 Ba7 (10... O-O $4 11. Nxf6+ Qxf6 12. Bd5 Bb7 13. g4 Kh7 14. g5 Qe7 15. h4) (10... Be6) 11. a4 Bd7 12. O-O (12. Nxf6+ Qxf6 13. Bd5 O-O 14. g4 $18) 12... O-O 13. Bd2 Na5 14. Bc2 Nxd5 15. exd5 bxa4 (15... Nb7 16. d4 exd4 17. cxd4) 16. Bxa4 Bxa4 17. Qxa4 Nb7 18. b4 (18. d4) 18... a5 19. Qb5 (19. Qc6 Qc8 20. Be3 Bxe3 21. fxe3 axb4 22. cxb4 Rxa1 23. Rxa1 Nd8 24. Qb5) 19... Qb8 20. bxa5 Nc5 21. Qc4 Qb3 22. Be3 Qxc4 23. dxc4 Ne4 24. Rfb1 (24. Nd2 Nxc3 25. Rfe1 Bd4 26. Ra3 Rfb8 27. Bxd4 exd4 28. Rb3) 24... Bxe3 25. fxe3 Ra7 26. Ra3 Rfa8 27. Rb5 Kf8 $2 (27... f6 28. Kf1 Kf7 29. Ke2 Kg6 30. Nd2 Nc5 31. Kd1 f5 32. Kc2 Kg5 33. Nb3 Ne4 34. c5 Kh4 $132) 28. c5 Nxc5 (28... g5 29. c6) 29. Nxe5 Re8 (29... dxe5 30. Rxc5 Rb8 31. c4) 30. Nc6 Raa8 31. c4 Re4 32. Kf2 Nd7 33. Rb7 Rxc4 34. a6 Nb6 35. a7 f5 36. Rb3 1-0
+

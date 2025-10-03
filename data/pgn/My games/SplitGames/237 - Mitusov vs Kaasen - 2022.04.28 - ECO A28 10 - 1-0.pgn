@@ -1,0 +1,18 @@
+﻿[Event "Friendly blitz"]
+[Site "?"]
+[Date "2022.04.28"]
+[Round "5"]
+[White "Kaasen"]
+[Black "Mitusov"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "A28"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "29"]
+[GameId "433219825530"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,12,26,-4,-27,-12,-5,-5,-16,-12,22,-21,45,46,36]} 1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e4 h6 5. d4 Bb4 6. d5 Ne7 7. Bd3 Bxc3+ 8. bxc3 d6 9. O-O Ng6 10. a4 a5 11. Re1 O-O 12. Nd2 Nf4 13. Bc2 N6h5 14. c5 Qg5 15. g3 1-0
+

@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.29"]
+[Round "9"]
+[White "Aamodt, Peder Marcus"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "E04"]
+[WhiteElo "2075"]
+[BlackElo "2428"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "80"]
+[GameId "468342662798"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,80,36,20,27,-21,-11,-8,-17,-23,-22,0,17,-19,-9,-9,-3,-11,-6,-6,-17,-18,-20,-5,-10,-2,-2,-18,-24,10,-14,-31,-19,-8,-18,-59,28,-49,-3,-1,-26,-45,-41,-41,-46,-134,-151,-378,-401,-421,-427,-433,-383,-396,-341,-351,-326,-395,-412,-428,-440,-461,-513,-529,-529,-529,-562,-558,-558,-563,-585,-612,-601,-620,-606,-715,-625,-727,-521,-664,-619,-649,-673]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 (4... Bb4+ 5. Bd2 Be7 6. Bg2) 5. Bg2 Bb4+ 6. Nbd2 (6. Bd2 Be7 7. O-O c6 8. Qc2 b5 9. a4 Bb7) 6... c6 $6 (6... b5 7. Ne5 (7. O-O O-O 8. a4 c6 9. Ne1 Nd5 10. e4 Nb6) 7... Nd5 8. O-O O-O 9. a4 c6 10. e4 Nb6) 7. Qc2 b5 8. O-O Bb7 9. b3 cxb3 10. Nxb3 Nbd7 11. Rd1 Qb6 12. Bb2 $6 (12. Ne5 Nxe5 (12... Rc8 13. Be3 $16) 13. dxe5 Ng4 14. Rd4 $18) 12... O-O 13. Rac1 Be7 14. Nc5 Rac8 15. Ng5 Rfd8 16. Bh3 Nf8 17. Nge4 h6 18. e3 $2 (18. Nd2 $11) 18... N8d7 19. Bg2 Nxe4 20. Bxe4 Nxc5 21. dxc5 Rxd1+ 22. Qxd1 $2 (22. Rxd1 Qxc5 23. Rd7 Ba8 24. Qb1 a5 $15) 22... Bxc5 23. Qd7 Rd8 24. Qxd8+ (24. Bh7+ Kf8) 24... Qxd8 25. Rxc5 f6 26. Kg2 e5 27. Rc3 Kf7 28. Rd3 Qc7 29. Bf5 c5+ 30. Kg1 Qc6 31. Rd7+ Ke8 32. e4 g6 33. Rxb7 Qxb7 34. Bxg6+ Ke7 35. Bc1 c4 36. Bxh6 c3 37. Bc1 c2 38. h4 Qd7 39. Ba3+ Kd8 40. h5 Qd1+ 0-1
+

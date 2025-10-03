@@ -1,0 +1,20 @@
+﻿[Event "Gran Hotel Bali 2024"]
+[Site "Benidorm, Spain"]
+[Date "2024.12.01"]
+[Round "4.2"]
+[White "Mitusov, Semen"]
+[Black "Davtyan, David Arm."]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B15"]
+[WhiteElo "2465"]
+[BlackElo "2293"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "59"]
+[GameId "2118839386177559"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bf5 7. Bd3 Bd6 8. Ne2 Na6 9. a3 O-O 10. O-O Bg6 (10... Bxd3 11. Qxd3 Nc7 12. c4 Qd7 13. Rfd1 b5 14. Rac1 Rac8 15. Nc3 Rfd8 16. h3 bxc4 17. Qxc4 {1-0 Agdestein,S (2564)-Svane,R (2633) Titled Tuesday intern op 16th Jul Early Chess.com INT blitz 2024 (4)}) 11. c4 Re8 12. b4 Nc7 13. Nc3 Bxd3 14. Qxd3 a5 15. Rab1 Qd7 16. Rfd1 axb4 17. axb4 Qg4 (17... Ra3 18. Bc1 Raa8 19. b5) 18. h3 Qh5 19. d5 (19. c5 Bf8 20. d5 cxd5 21. Bf4 Ne6 22. Nxd5 Rad8 23. Bg3) 19... Qe5 20. dxc6 (20. g3 cxd5 21. c5 Bf8 22. Bf4 Qe7 23. Nxd5 Nxd5 24. Qxd5) 20... Qh2+ 21. Kf1 Rad8 22. cxb7 Ne6 23. Nd5 Bb8 24. Qe4 $3 (24. Qf5 $2 Rxd5 $15) 24... f5 25. Ne7+ Kf8 26. Nxf5 Nd4 27. Rxd4 Rxd4 28. Qxd4 Qh1+ 29. Ke2 Rxe3+ 30. Qxe3 1-0
+

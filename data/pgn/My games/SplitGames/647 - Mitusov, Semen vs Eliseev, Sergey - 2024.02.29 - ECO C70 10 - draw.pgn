@@ -1,0 +1,20 @@
+﻿[Event "Baerums lynet #7"]
+[Site "Chess.com INT"]
+[Date "2024.02.29"]
+[Round "4.1"]
+[White "Eliseev, Sergey"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C70"]
+[WhiteElo "2147"]
+[BlackElo "2406"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "124"]
+[GameId "492743487131"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,124,19,31,34,13,1,18,11,-19,-1,-1,80,71,63,63,68,74,57,-50,-59,-66,-51,-82,-58,-58,-65,-126,-103,-104,-105,-105,-95,-126,-147,-164,-131,-180,-155,-184,-197,-240,-251,-269,-240,-299,-234,-388,-325,-325,-296,-273,-219,-240,-251,-314,-262,-244,-247,-244,-241,-359,-211,-256,-25,-25,45,58,72,84,91,21,22,3,46,42,65,86,104,117,141,196,178,62,132,145,145,153,306,-177,-221,-291,197,191,256,287,446,299,333,208,220,170,183,149,196,231,220,228,722,123,124,123,127,80,80,71,49,45,53,49,49,28,28,28,28,28,28]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. d4 exd4 7. Qxd4 Ne7 8. Nc3 d6 9. Bg5 c5 10. Bxe7 Qxe7 11. Qd2 c4 12. Nd5 Qd8 13. Nd4 $2 (13. a4 cxb3 14. axb5 axb5 15. O-O Be7 16. Qc3) 13... Bb7 14. O-O cxb3 15. axb3 Nc6 16. Nf5 f6 17. Rad1 Kf7 18. f4 g6 19. Ng3 Bg7 20. Qe3 Re8 21. Rfe1 Kg8 22. Rd2 Rc8 23. Qd3 Ne7 24. Nc3 Qd7 25. Red1 Nc6 26. Nd5 Qf7 27. Re2 Rcd8 28. Red2 Bc8 29. Qf3 Be6 30. Qd3 (30. Qf2 Rd7 31. Qf1 Rdd8 32. Qf3 Rd7 33. Ne3) 30... Rd7 31. Ne3 Ne7 32. f5 gxf5 33. exf5 Nxf5 34. Ngxf5 d5 35. Ng3 Bf8 36. Nef5 Bc5+ 37. Kh1 Qg6 38. Re2 Kf7 39. Rde1 h5 40. Qf3 Qg5 41. Nxh5 Rdd8 42. Nhg7 Bxf5 43. Nxe8 Be4 44. Qh3 Rxe8 45. c4 Bxg2+ (45... Kg7 46. cxd5 Rh8 47. Qd7+ Kg6 48. Rxe4) 46. Qxg2 Rxe2 47. Qxe2 bxc4 48. bxc4 dxc4 49. Qe6+ Kg7 50. Qd7+ Kh6 51. Qc6 Bd4 52. Qxc4 Qf4 53. Qd3 Bxb2 54. Qe4 Qxe4+ 55. Rxe4 a5 56. Re6 a4 57. Ra6 a3 58. Kg2 Kg5 59. Kf3 f5 60. h3 Kh4 61. Kg2 Kg5 62. Kf3 Kh4 1/2-1/2
+

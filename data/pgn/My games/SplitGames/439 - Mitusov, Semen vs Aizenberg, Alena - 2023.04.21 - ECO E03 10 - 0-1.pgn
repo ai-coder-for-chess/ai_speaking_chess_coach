@@ -1,0 +1,19 @@
+﻿[Event "OSS vеrturnering 2023"]
+[Site "?"]
+[Date "2023.04.21"]
+[Round "5"]
+[White "Aizenberg, Alena"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "E03"]
+[WhiteElo "2004"]
+[BlackElo "2396"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "160"]
+[GameId "464866044236"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Qa4+ Nbd7 6. Qxc4 (6. Bg2 a6 7. Nc3 Rb8 8. Qxc4 b5 9. Qd3 Bb7) 6... a6 7. Bg2 b5 8. Qc2 (8. Qc6 Ra7 9. Bf4 Bb7 10. Qc1 c5) 8... Bb7 9. Bg5 Rc8 (9... c5 10. dxc5 Bxc5 11. Bxf6 Qxf6) 10. Nc3 $2 (10. Bxf6 Nxf6 11. O-O) 10... c5 11. dxc5 Bxc5 12. Bxf6 Nxf6 13. Qd1 Bb4 $6 (13... Qxd1+ 14. Nxd1 Bb4+ 15. Kf1 Ke7 16. Ne3 Rhd8) (13... Qb6 14. e3 Ng4 15. O-O Bxe3) 14. Qxd8+ Kxd8 15. O-O $1 (15. Rc1 Ke7 16. O-O Bxc3 17. bxc3 Rc7) 15... Ke7 $2 (15... Bxc3 16. bxc3 Rxc3 (16... Bxf3 17. Bxf3 Rxc3 18. Rfb1) 17. Ne5 (17. Rfc1 Rxc1+ 18. Rxc1 Bxf3 19. Bxf3 Kd7 20. Rd1+ Ke7 21. Rc1 Kd7 22. Rd1+ Kc7 23. Rc1+ Kb6 24. Rc6+ Ka5 25. Rc7 Rd8 26. Rxf7 Rd7) 17... Bxg2 18. Rfc1 Rxc1+ 19. Rxc1 Bd5 20. Nxf7+ Ke7 21. Nxh8 b4 $17) 16. a4 Bxc3 17. bxc3 bxa4 18. Ne5 $6 (18. Rxa4 Rxc3 19. Ne5 Bxg2 20. Kxg2 $11) 18... Bxg2 19. Kxg2 Rc5 20. f4 (20. Nd3 Rc4 21. Rfb1) 20... Nd5 21. Rfb1 Rhc8 22. Rxa4 Nxc3 23. Rb7+ R8c7 24. Rxc7+ Rxc7 25. Rxa6 Nxe2 26. Nc6+ Kf6 27. Kf2 Nc3 28. g4 g5 (28... h6 29. h4 g6 30. g5+ Kg7 31. Ne5) 29. f5 Ne4+ (29... exf5 30. Nd4+ Ke5 31. Nxf5 Kf4 $15) 30. Ke3 Nc5 31. Rb6 Rb7 (31... Rd7 32. fxe6 Nxe6 33. Rb5) 32. Rxb7 Nxb7 33. fxe6 Kxe6 34. Nd4+ Kf6 35. Nf3 h6 36. Nd4 Nd6 37. Kf3 Nc4 38. Kg3 Ne5 39. h4 Ng6 40. hxg5+ hxg5 41. Kf3 Ne5+ 42. Kg3 Ke7 43. Nb5 Ke6 44. Nc3 f6 45. Ne4 Nd7 46. Kf3 Ke5 47. Nc3 Nb6 48. Ne4 Nc4 49. Nc5 Kd5 50. Nb3 Ne5+ 51. Kg3 Ke4 52. Nc5+ Ke3 53. Ne6 Nd3 54. Ng7 Nc5 55. Nf5+ Ke2 56. Nd4+ Kd3 57. Nf5 Ne4+ 58. Kf3 Nd2+ 59. Kg3 Ke4 60. Nd6+ Ke5 61. Nf5 Nb3 62. Nh6 Nd4 63. Nf7+ Ke4 64. Nd6+ Kd5 65. Nf7 Ke6 66. Nh6 Ke7 67. Kf2 Kf8 68. Ke3 (68. Nf5 Nxf5 69. gxf5 Ke7 70. Ke3 Kd6 71. Kd4) 68... Nc6 69. Nf5 (69. Ke4 Ne7 70. Nf5 Nxf5 71. Kxf5 (71. gxf5 Kg7 72. Kf3) 71... Kf7 72. Ke4 Ke6 73. Kd4 f5 74. gxf5+ Kxf5 75. Ke3 Kg4 76. Kf2 Kh3 77. Kg1) 69... Ne5 70. Nh6 Kg7 71. Nf5+ Kh7 72. Ke4 Nxg4 73. Ne7 Nh6 74. Nd5 Kg6 75. Ne7+ Kf7 76. Nd5 Ng8 77. Nc7 Ne7 78. Nb5 Kg6 79. Nd4 Kh5 80. Ne6 Kg4 0-1
+

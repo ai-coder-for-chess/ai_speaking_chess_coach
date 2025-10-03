@@ -1,0 +1,20 @@
+﻿[Event "Fagernes International Autum | GM"]
+[Site "chess24.com"]
+[Date "2022.10.16"]
+[Round "9.8"]
+[White "Arkell Keith C"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "A13"]
+[WhiteElo "2413"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "150"]
+[GameId "448317886119"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,150,16,-14,4,4,14,6,23,-9,-9,-9,5,6,18,-6,14,24,67,61,61,45,43,45,42,38,41,22,14,-2,-19,-14,-16,-19,17,-25,25,-9,-11,-11,-11,-15,-15,-38,-26,-19,4,-14,-6,0,-8,-9,47,-9,20,-12,0,18,-8,-22,27,17,-11,16,19,14,0,0,0,-34,-34,-36,-30,-33,-31,-51,-43,-102,-109,-109,-108,-94,-56,-58,-45,-47,-56,-40,-40,-28,-34,-175,-173,-155,-162,-166,-169,-169,-178,-213,-125,-137,-138,-165,-198,-213,-214,-218,-207,-315,-228,-209,-186,-363,-363,-363,-268,-288,-322,-340,-335,-367,-381,-352,-369,-369,-272,-429,-364,-441,-281,-329,-387,-432,-488,-561,-613,-636,-934,-1012,-1013,-1059,-992,-992,-1002,-1002,-1012,-1012,-1012,-1012,-1022,-1022,-1012]} 1. c4 e6 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 exd5 5. d4 c6 6. Qc2 Be7 7. Bg5 Nbd7 8. e3 Nh5 9. Bxe7 Qxe7 10. Be2 g6 11. O-O O-O 12. Rac1 Nb6 13. Ne5 Ng7 14. Na4 Bf5 15. Qb3 Nxa4 16. Qxa4 a5 (16... Rfc8 17. b4 a6 18. Qb3 Ne8 19. a4 Nd6 20. b5 cxb5 21. axb5 $11) 17. Rc5 Qd8 18. Rc3 f6 19. Nd3 Bxd3 20. Bxd3 f5 21. Ra3 $6 Qe7 $6 (21... f4 $1 22. e4 f3 23. g3 Ne6 24. Re1 b5 25. Qd1 b4 26. Ra4 Ng5 $17) 22. g3 h5 23. Rb1 Qb4 $6 (23... h4 24. b4 $11) 24. Qc2 a4 25. Qc3 Qd6 (25... Qxc3 26. Rxc3 Ne8 27. b4 axb3 28. axb3 Ra3 29. Rbc1 Nd6 30. b4 Rfa8 $17) 26. Qc2 Qb4 27. Rc1 Ne8 28. Qc5 Qxc5 29. dxc5 Ng7 30. Bc2 Ne6 31. Bd1 Ra6 32. Be2 Raa8 33. Bd1 Kg7 34. Rac3 $2 (34. Rcc3 $11) 34... Ra5 35. Be2 Rfa8 36. h4 Kf6 37. Kf1 Rd8 38. Bd1 d4 39. exd4 Rxd4 40. b3 a3 $2 (40... Rxc5 41. Rxc5 Nxc5 42. bxa4 Nxa4 43. Bb3 Nb6 $19) 41. Ke1 Re4+ 42. Kf1 Rb5 43. Be2 Rbb4 44. Bc4 Nxc5 45. Bd5 $4 (45. Rd1 Re7 46. Rd6+ Kg7 47. Rd8 Ne4 48. Rc2 $15) 45... cxd5 46. Rxc5 Rbd4 47. R1c2 Rd1+ 48. Kg2 d4 49. Rd5 Re7 $6 (49... d3 50. Rc3 Re2 51. Rcxd3 Rxd3 52. Rxd3 Rxa2 53. Rd7 Re2 54. Rxb7 Re7 $3 $19) 50. b4 Ke6 51. Rd8 (51. Ra5 d3 52. Rc3 Rd7 $19) 51... Rd7 52. Rxd7 Kxd7 53. Kf3 Ke6 54. Kf4 Ra1 55. f3 b6 56. Rc6+ Kd5 57. Rxg6 b5 58. Rb6 Kc4 59. Rc6+ Kxb4 60. Kxf5 d3 61. Rd6 Rxa2 62. Rxd3 Rb2 63. Rd8 a2 64. Ra8 Kb3 65. g4 hxg4 66. fxg4 Rh2 67. h5 Kb2 68. Kf4 a1=Q 69. Rxa1 Kxa1 70. Kg3 Rc2 71. h6 b4 72. h7 Rc8 73. g5 b3 74. g6 b2 75. g7 b1=Q 0-1
+

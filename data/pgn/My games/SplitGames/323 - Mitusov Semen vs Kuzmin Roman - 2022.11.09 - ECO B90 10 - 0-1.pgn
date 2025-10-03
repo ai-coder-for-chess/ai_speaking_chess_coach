@@ -1,0 +1,20 @@
+﻿[Event "EYCC 2022"]
+[Site "?"]
+[Date "2022.11.09"]
+[Round "4.6"]
+[White "Kuzmin Roman"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2248"]
+[BlackElo "2413"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "450479746978"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 (7... Qc7 8. a4 Be7 9. a5 O-O 10. Be2 Nbd7 (10... Nc6 11. Bb6 Qd7 12. Nd2 d5 13. exd5 Nxd5 14. Nxd5 Qxd5 15. O-O Be6) 11. O-O Nc5 12. Nd5 Nxd5 13. exd5 $13) 8. Bc4 O-O 9. O-O Bg4 $6 (9... Nc6 10. Re1 Be6 11. Nd5 Bxd5 12. exd5 b5 13. Bf1 Nb4 14. c4 bxc4 15. Bxc4 Qc7 16. Rc1 Qb7 17. Qb3 Rab8 $11) 10. h3 Bh5 (10... Be6 11. Bxe6 fxe6) 11. g4 Bg6 (11... Qc8 12. Nd5 Nxd5 13. Bxd5 Bg6 $16) 12. Nh4 Nbd7 13. Nf5 $6 (13. Nxg6 hxg6 14. g5 Nh5 15. h4 Rc8 16. Bd5 b5 $16) 13... b5 $6 (13... Rc8 14. Bb3 (14. Bd5 b5 $14) 14... Rxc3 15. bxc3 Nxe4 16. Nxe7+ Qxe7 $11) 14. Bb3 Nc5 15. Nxe7+ (15. Nd5 Bxf5 16. exf5 Nxd5 17. Bxd5 Rc8 18. Qd2 h6 19. Rad1 $14) 15... Qxe7 16. Nd5 $6 (16. Bxc5 dxc5 17. Nd5 Nxd5 18. Bxd5 Rad8 19. Qe2 $14) 16... Nxd5 17. Bxd5 Bxe4 18. Bxa8 Bxa8 19. Bxc5 dxc5 20. Qe2 e4 (20... f5 21. f3 f4 22. a4 c4 23. axb5 axb5 24. b3 Bd5 $11) 21. f4 $4 (21. Qe3 $1 f5 (21... Qc7 22. Rad1 f5 23. gxf5 Rxf5 24. Qg3 Qe7 25. Qd6 $18) 22. f4 fxg4 23. hxg4 Qh4 24. g5 $16) 21... e3 22. Rad1 Re8 23. Kh2 (23. g5 Qe4 24. Kh2 Bd5 25. b3 b4 $19) 23... g5 $3 24. Kg3 (24. Rd3 Bc6 (24... Qe4 25. Kg3) 25. Kg3 b4 $19) 24... Qc7 25. h4 h6 26. hxg5 hxg5 27. a4 Re4 28. Qd3 gxf4+ 29. Kh3 e2 30. Qd8+ Qxd8 31. Rxd8+ Kg7 32. Rc1 Re3+ 33. Kh4 (33. Kh2 Rf3 34. Kg1 Rg3+ 35. Kf2 Rg2+ 36. Ke1 Bf3 $19) 33... e1=Q+ 34. Rxe1 Rxe1 35. Rxa8 Rh1+ 36. Kg5 f3 37. axb5 f2 0-1
+

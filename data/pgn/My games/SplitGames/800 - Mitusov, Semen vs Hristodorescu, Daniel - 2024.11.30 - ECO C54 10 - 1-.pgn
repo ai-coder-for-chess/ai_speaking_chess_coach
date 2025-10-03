@@ -1,0 +1,20 @@
+﻿[Event "Gran Hotel Bali 2024"]
+[Site "Benidorm, Spain"]
+[Date "2024.11.30"]
+[Round "2.7"]
+[White "Mitusov, Semen"]
+[Black "Hristodorescu, Daniel"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C54"]
+[WhiteElo "2465"]
+[BlackElo "2158"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "75"]
+[GameId "2117939826901049"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,75,24,24,24,40,13,6,6,6,6,11,-3,4,4,-2,-9,-9,6,5,14,10,22,13,22,32,32,16,26,25,34,28,28,33,25,5,37,22,116,27,72,68,68,72,90,80,87,91,112,115,133,124,129,145,145,145,139,153,206,193,212,223,229,198,272,324,341,298,364,356,390,444,423,390,723,729,854,899]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4 Bb4+ (8... Bb6 9. Nc3 O-O 10. Be3 Bg4 11. h3 Bh5 12. Qc2 Bg6 13. Qb3 Ne7 14. O-O c6 15. Bd3) 9. Bd2 Nxd2 10. Nbxd2 O-O 11. O-O Bg4 (11... Ne7 12. Bd3 Bf5 13. Nb3 Bxd3 14. Qxd3) 12. Bxc6 (12. h3 Bh5 13. Qa4 Rb8 14. a3 Bxd2 15. Nxd2 Ne7 16. f4 $16) (12. Qa4) 12... bxc6 13. Qa4 (13. Qc2 Rb8 14. h3 Bh5 15. a3 Bxd2 16. Nxd2 $16) 13... Rb8 14. Qxc6 Bxd2 15. Nxd2 Rxb2 16. Qc3 (16. Nb3 Bf5 17. Qc1 Rc2 18. Qf4 Bg6 19. Rfc1) 16... Rb6 17. Rfc1 $6 (17. Rac1 Ra6 18. Qb2 Qg5 19. f4 $14) 17... Qg5 18. Nf1 f5 $5 (18... Rc8 19. Qg3) 19. h3 (19. Qxc7 $2 f4 $15) (19. Rab1 Rg6 20. Qxc7 f4 21. Rb8 $18) 19... Bh5 $2 (19... Be2 $1 20. Qe3 $4 (20. Qg3 Qe7 21. Qe3 Bxf1 22. Rxf1 $16 f4 23. Qf3) 20... f4 21. Qxe2 f3 $19) 20. Qg3 Qe7 21. f4 h6 22. Rc5 c6 23. Rac1 Be8 24. Nd2 Rb2 25. Nb3 $1 Qb7 (25... Rxa2 26. Na5 Kh8 27. Nxc6 Bxc6 28. Rxc6 Rg8 29. Kh2 Ra4 30. Rd6 Rxd4 31. Rcc6 $18) 26. R5c2 Rxc2 27. Rxc2 Kh7 28. Qc3 g5 29. Rb2 Rg8 (29... Qb5 30. Nc5 Qc4 31. Qd2 $18 (31. Qxc4 $6 dxc4)) 30. Nc5 Qc8 31. fxg5 (31. Rb7+ Rg7 32. Rxg7+ Kxg7 33. Qa3 $18 Qb8 34. fxg5) 31... f4 (31... hxg5) 32. Rb7+ Kh8 33. gxh6 Rg3 34. Qc2 Bg6 35. Qb2 Qf5 36. Rg7 Be8 37. Qb8 Qh5 38. Ne6 1-0
+

@@ -1,0 +1,19 @@
+﻿[Event "OSS hostturnering 2023"]
+[Site "?"]
+[Date "2023.10.06"]
+[Round "5"]
+[White "Mitusov, Semen"]
+[Black "Ayzenberg, Alena"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C10"]
+[WhiteElo "2451"]
+[BlackElo "2005"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "81"]
+[GameId "479932568179"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8. Bd3 c5 9. dxc5 (9. Be3 Nd5 (9... Qc7 10. Qe2 Nd5 (10... Be7 11. O-O-O O-O 12. dxc5 Bxc5 13. Bxc5 Qxc5 14. Ne5 b6 15. g4 Bb7 16. g5 Nd5 17. Qe4 f5 18. gxf6 Nxf6 19. Qxb7 Qxe5 20. Rhe1) 11. O-O Be7 12. Bb5+ Bd7 13. Bxd7+ Qxd7 14. Ne5 Qc7 15. Qb5+) 10. O-O Be7 11. dxc5 Nxe3 12. fxe3 Bxc5 13. Ne5) 9... Bxc5 10. Qe2 Qc7 11. a3 (11. Bd2 O-O 12. O-O-O b6 13. Ne5 Bb7 14. Rhe1 Rac8 15. Kb1 Rfd8 16. f4 Nd5 17. Qh5) 11... a5 12. O-O $6 O-O 13. Ne5 Bd6 14. Bf4 b6 15. Rfe1 Bb7 16. Rad1 Rfd8 17. Bg3 Rac8 18. Kh1 (18. f4 g6) 18... b5 19. Bxb5 Ne4 20. Bd3 Nxg3+ 21. hxg3 Bxe5 $2 (21... Rb8 $11) 22. Qxe5 Qb6 23. Kg1 Rd5 24. Qe3 Qd8 $2 (24... Qxe3 25. Rxe3 $16) 25. Be2 Rxc2 $6 26. Bf3 Rxb2 27. Qe5 (27. Qc3 Rbb5 28. Bxd5 Bxd5 29. Rb1 Rxb1 30. Rxb1 h6 31. Rb5 a4 32. Qb4 Qc7 33. Qxa4) 27... Rbb5 28. Bxd5 Bxd5 29. a4 Rb8 30. Rb1 Rc8 31. Rec1 Rxc1+ 32. Rxc1 h6 33. Qf4 f5 34. Qd4 Qg5 35. Rc7 Kh7 36. Ra7 h5 37. Kh2 Be4 38. Rxa5 Qg6 39. Qd8 f4 40. Qg5 fxg3+ 41. Kxg3 1-0
+

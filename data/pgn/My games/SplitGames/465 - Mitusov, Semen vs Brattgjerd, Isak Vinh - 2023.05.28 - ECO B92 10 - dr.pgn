@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.28"]
+[Round "7"]
+[White "Brattgjerd, Isak Vinh"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B92"]
+[WhiteElo "2098"]
+[BlackElo "2428"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "468323896102"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,86,36,36,37,33,71,58,60,26,30,30,56,33,32,36,17,31,31,26,58,36,38,43,64,-3,-3,-5,-5,-17,-17,-15,-18,-18,0,-30,-22,-37,-18,-27,-4,-33,-30,-24,-17,-13,-38,14,47,56,83,100,143,148,158,166,168,168,195,218,224,120,183,23,0,0,0,0,146,0,75,0,14,14,-96,-39,0,-62,-79,-79,-79,-79,-79,-272,-400,-400,-400,-400,-382]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3 Be6 9. Nd5 Nbd7 10. Qd3 Bxd5 11. exd5 Rc8 12. a4 $6 (12. c4 O-O 13. O-O a5 14. Rac1 b6) 12... Nb6 (12... e4 13. Qd2 Nb6 14. Bxb6 Qxb6 15. a5 Qc7 16. c4 O-O 17. O-O Rfe8 $15) 13. Bxb6 Qxb6 14. O-O O-O 15. a5 Qc7 16. c4 g6 17. Rfd1 Nd7 (17... Rfe8 18. Nd2 h5 19. b4 e4) 18. Rac1 Rcd8 (18... Rfd8 19. Bg4 f5 20. Bxf5 gxf5 21. Qxf5 Kh8) 19. Qc3 Rc8 20. Nd2 f5 $6 21. b4 Bg5 (21... b6 22. axb6 Qxb6 $14) 22. Rc2 b5 $6 (22... b6 23. Ra1 e4 24. axb6 Qxb6) 23. Nf3 (23. axb6 Qxb6) 23... Bf6 24. Qd2 bxc4 $6 (24... e4 25. Nd4 Bxd4 26. Qxd4 Ne5 27. c5 Qg7 28. c6 g5 $14) 25. Rxc4 Qb7 26. Rc6 Nb8 27. Rxd6 e4 28. Rb6 Qd7 29. Ng5 Bd8 30. Re6 Qa4 31. d6 Qb3 $2 (31... Bxg5 32. Qxg5 Qa2 $11) 32. Re7 Bxe7 (32... Rc2 33. Qd4 Bxe7 34. dxe7 Re8 35. Qd8 Rc8 36. Qd6) 33. dxe7 Rfe8 34. Qd6 (34. Rc1 Rxc1+ 35. Qxc1 Qxb4 36. Bc4+ Kg7 37. Qa1+ Kh6 38. Nf7+ Kh5 39. Qd1+) 34... e3 35. f3 $4 (35. Bf3 $18) 35... Nc6 36. Rd3 Qb1+ 37. Rd1 Qb3 38. Rd3 (38. Bxa6 Rxe7 39. Bxc8 e2 40. Re1 Qe3+ 41. Kh1 Qf2 42. Be6+ Kg7) 38... Qb1+ 39. Rd1 Qa2 40. Bxa6 Rxe7 41. Bxc8 Qf2+ 42. Kh1 e2 43. Be6+ Kg7 1/2-1/2
+

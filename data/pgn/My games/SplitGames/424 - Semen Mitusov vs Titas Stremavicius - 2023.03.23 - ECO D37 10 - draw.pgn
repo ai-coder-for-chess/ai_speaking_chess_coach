@@ -1,0 +1,20 @@
+﻿[Event "Kvisla Invitational vol. 3"]
+[Site "Bogstadveien 30, Oslo"]
+[Date "2023.03.23"]
+[Round "4.4"]
+[White "Titas Stremavicius"]
+[Black "Semen Mitusov"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2544"]
+[BlackElo "2407"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "101"]
+[GameId "462326086363"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 c6 7. e3 Bf5 8. Nh4 Bg4 9. Qc2 Nh5 10. h3 Be6 11. Nf3 g6 $6 (11... Nxf4 12. exf4 Bd6 13. f5 (13. g3 Qf6 14. Bd3 g6 15. O-O-O Nd7 16. Ne5 Nb6 17. Kb1 O-O-O 18. Nb5 Kb8 19. Nxd6 Rxd6 20. b3 Nc8 21. h4 Rdd8 22. Rc1 Nd6 23. Rhe1 Rc8 24. Qd2 Rhd8 25. f3 Bf5 26. Bxf5 Qxf5+ 27. Ka1 Rc7 {1-0 (62) Gukesh,D (2718)-Nepomniachtchi,I (2793) Dusseldorf 2023}) 13... Bc8 14. Bd3 O-O 15. O-O Nd7 $11) 12. Be5 $6 (12. Bh6 Bf6 13. g4 Bg7 14. Bg5 Nf6 15. O-O-O O-O 16. Kb1 Nbd7 17. Ne5 Qa5 18. f4 Ne4 {0-1 (45) Peralta,F (2586)-Krysa,L (2531) Barbera del Valles 2020}) 12... f6 (12... O-O 13. Bd3 Nd7 14. Bh2 Ng7 15. g4 f5) 13. Bh2 Bd6 14. Bd3 Bxh2 15. Rxh2 $6 (15. Nxh2 Nd7 16. O-O $16) 15... Nd7 16. O-O-O Qa5 $6 (16... Qe7 17. Rhh1 O-O-O $14) 17. g4 Ng7 18. Rg1 $1 O-O-O 19. h4 c5 20. dxc5 Nxc5 21. Nd4 Kb8 22. h5 Bf7 23. Rgh1 Rhe8 24. Kb1 Ne4 25. Bxe4 dxe4 26. hxg6 Bxg6 27. Qb3 Qc7 $2 (27... Qa6 28. Ncb5 Qb6 29. a4 a6 30. a5 Qxa5 31. Nc6+ bxc6 32. Nd6+ Kc7 $19) 28. Nd5 $1 Qd6 29. Nf4 Re7 (29... Rc8 30. Rh6 Qd7 31. Nxg6 hxg6 32. Rxg6 Ne6 33. Nxe6 Rxe6 34. Rg7 Re7 35. Rxe7 Qxe7 $18) 30. Nxg6 hxg6 31. Rh8 Ne8 (31... Ree8 32. Rxe8 Nxe8 33. Rc1 $18) 32. Rc1 Ka8 33. Rg8 a6 34. Rxg6 Qh2 35. Qb6 Red7 36. Ne6 $2 (36. Rg8 Qh7 37. Rf8 $18) 36... Rd6 $6 (36... Rb8 37. Rg8 Qxf2 38. Nc5 Rd6 39. Qb3 Rdd8 $18) 37. Qb3 Rb8 38. Nc5 $2 (38. Rg8 Ka7 39. Qc4 $18) 38... Rc6 39. Rg8 Ka7 (39... Qc7 40. Qb4 Qh7 41. Rf8 Qe7 42. Rh8 Rbc8 $16) 40. Qb4 Qc7 $2 (40... Qh7 41. Rf8 Qe7 42. Rh8 Rbc8 $16) 41. Rc3 Rc8 $6 (41... Qf7 42. Rh8 Qg7 43. Rh1 Qxg4 $18) 42. Qd4 (42. Ne6 Qd7 43. Qd4+ $18) 42... Ka8 43. Na4 (43. Qd7 $18) 43... Kb8 44. Qxe4 Qd7 45. Qf4+ $4 (45. a3 $1 $18) 45... Ka8 46. Kc1 Rd8 47. Qd4 Qc7 48. Qe4 Qd7 49. Qd4 Qc7 50. Qe4 Qd7 51. Qd4 $2 (51. Qc2 Qd5 (51... Rd6 52. Rd3 $18) 52. Rh8 Qxa2 53. Rxc6 Qa1+ 54. Qb1 Rd1+ 55. Kxd1 Qxb1+ 56. Rc1 Qg6 $18) 1/2-1/2
+

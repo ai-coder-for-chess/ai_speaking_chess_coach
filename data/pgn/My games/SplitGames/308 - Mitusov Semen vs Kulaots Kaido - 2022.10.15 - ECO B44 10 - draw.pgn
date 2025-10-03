@@ -1,0 +1,20 @@
+﻿[Event "Fagerness Autumn 2022"]
+[Site "?"]
+[Date "2022.10.15"]
+[Round "8.7"]
+[White "Mitusov Semen"]
+[Black "Kulaots Kaido"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B44"]
+[WhiteElo "2415"]
+[BlackElo "2517"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "93"]
+[GameId "448268978334"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. c4 (5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qe1) 5... Nf6 6. Nc3 Bb4 7. Nxc6 bxc6 8. Bd3 (8. e5 Ne4 9. Qd4 Qa5 $17) 8... e5 9. Bd2 $6 (9. O-O O-O 10. Qc2 Bc5 11. Na4 Bd4 12. Be3 Bxe3 13. fxe3 d6 14. c5 d5 15. exd5 cxd5 16. Be2 $11) 9... O-O 10. O-O Bc5 11. Qf3 d6 12. h3 Rb8 13. b3 Nd7 14. Ne2 Re8 15. Bc2 Nf8 16. b4 $2 (16. Rad1 Ne6 17. Qd3 Qh4 $11) 16... Rxb4 $2 (16... Bxb4 17. Rab1 Bg4 $1 18. Qxg4 Bxd2 19. Rxb8 Qxb8 $19) 17. Bxb4 Bxb4 18. Ba4 Qc7 19. Rab1 (19. Nc1 Ne6 20. Nb3 Nf4 21. a3 $1 Bc3 22. Ra2 Re6 23. Qxc3 Rg6 24. g3 $13) 19... Bc5 20. Qb3 Nd7 21. Qc2 Bb6 22. Kh1 Nc5 23. Rbd1 Bd7 24. Ng3 g6 25. Ne2 f5 26. Bb3 f4 27. Nc1 (27. f3 Kg7 28. Qd2 Re6 29. g3 g5 30. Rg1 Rh6 $19) 27... Kg7 28. Rd2 Ba5 29. Rdd1 f3 30. gxf3 Rf8 31. Rg1 Rxf3 32. Rg3 Rxg3 33. fxg3 Bxh3 34. Kh2 Bg4 35. Rf1 Qe7 36. Kg2 Qd7 37. Kh2 Qe7 38. Kg2 Bb6 $2 (38... Qe6 39. Kh2 Bh3 40. Rd1 Bb6 41. Nd3 Nxe4 $19) 39. Nd3 Qd7 40. Kh2 Bh3 41. Nxc5 Bxc5 42. Re1 Bg4 43. Rf1 Qe7 44. Qd2 h5 45. Bd1 Bd7 46. Qg2 Qe6 47. Be2 $17 1/2-1/2
+

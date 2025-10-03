@@ -1,0 +1,19 @@
+﻿[Event "Barselona Open 2023"]
+[Site "?"]
+[Date "2023.08.19"]
+[Round "2.20"]
+[White "Mitusov, Semen"]
+[Black "Matsumura, Cocoro"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B45"]
+[WhiteElo "2445"]
+[BlackElo "2153"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "79"]
+[GameId "475523314298"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Ndb5 Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O Bg4 12. f3 Bh5 13. Bg5 Qb6+ 14. Kh1 Ne4 15. Nxe4 dxe4 16. Bxe4 Qxb2 17. Qb1 Qb6 18. Qxb6 axb6 19. Be3 (19. Rfb1 Bg6 20. Bxg6 hxg6 21. Rxb6 Nd4 22. c3 Nc2 23. Rc1 Nxa3 24. Rxb7 f6 25. Be3 Nc4 26. Bd4 g5 27. Kg1) 19... Bg6 20. Bxg6 hxg6 21. Bxb6 Rfc8 22. Rfb1 Na5 23. Bxa5 (23. Ra2 Nc4 24. a4 Ra6 25. Bg1 Rca8 26. Rxb7 Rxa4 27. Rxa4 Rxa4 28. Ra7 Rb4 29. Rc7) 23... Rxa5 24. Ra2 Rd8 25. c4 Rd4 26. h3 Rxc4 27. Rxb7 Rc3 28. Rd2 Rcxa3 (28... Rf5 29. Ra7 Rc1+ 30. Kh2 g5 31. a4 Ra1) 29. Rd8+ Kh7 30. Rxf7 Ra1+ 31. Kh2 R1a2 $4 (31... Ra7 32. Rff8 g5 33. Rh8+ Kg6 34. Rd6+ Kf7 35. Kg3 Ra8 $11) 32. Rff8 g5 33. Rh8+ Kg6 34. Rd6+ Kf7 35. Rd7+ Kf6 36. Rf8+ Kg6 37. Rg8 Rc5 38. Rdxg7+ Kh6 39. Rg6+ Kh5 40. Rd6 1-0
+

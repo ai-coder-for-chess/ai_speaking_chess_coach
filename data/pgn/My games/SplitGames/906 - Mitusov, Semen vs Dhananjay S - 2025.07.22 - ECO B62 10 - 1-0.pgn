@@ -1,0 +1,20 @@
+﻿[Event "SixDays Budapest July 2025 GM A"]
+[Site "Budapest"]
+[Date "2025.07.22"]
+[Round "9.1"]
+[White "Mitusov, Semen"]
+[Black "Dhananjay S"]
+[Result "1-0"]
+[ECO "B62"]
+[WhiteElo "2470"]
+[BlackElo "2308"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "67"]
+[GameId "2202495648169984"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "90+30"]
+
+1. e4 {[%eval 18,0] [%emt 0:00:00]} c5 {[%eval 25,0] [%emt 0:00:00]} 2. Nf3 {[%eval 2,0] [%emt 0:00:00]} d6 {[%eval 31,0] [%emt 0:00:00]} 3. d4 {[%eval 22,0] [%emt 0:00:00]} cxd4 {[%eval 19,0] [%emt 0:00:00]} 4. Nxd4 {[%eval 18,0] [%emt 0:00:00]} Nf6 {[%eval 31,0] [%emt 0:00:00]} 5. Nc3 {[%eval 32,0] [%emt 0:00:00]} Nc6 {[%eval 3,0] [%emt 0:00:00]} 6. Bg5 {[%eval 25,0] [%emt 0:00:00]} e6 {[%eval 39,0] [%emt 0:00:00]} 7. Qd3 {[%eval 28,0] [%emt 0:00:00]} Be7 {[%eval 35,0] [%emt 0:00:00]} 8. O-O-O {[%eval 42,0] [%emt 0:00:00]} O-O {[%eval 44,0] [%emt 0:00:00]} 9. f4 {[%eval 55,0] [%emt 0:00:00]} Qb6 {[%eval 4,0] [%emt 0:00:00]} 10. e5 {[%eval 39,0] [%emt 0:00:00]} dxe5 {[%eval 45,0] [%emt 0:00:00]} 11. Nxc6 {[%eval 45,0] [%emt 0:00:00]} bxc6 {[%eval 48,0] [%emt 0:00:00]} 12. fxe5 {[%eval 49,0] [%emt 0:00:00]} Rd8 {[%eval 51,0] [%emt 0:00:00]} 13. Qf3 {[%eval 48,0] [%emt 0:00:00]} Rxd1+ {[%eval 42,0] [%emt 0:00:00]} 14. Nxd1 {[%eval 45,0] [%emt 0:00:00]} Nd5 {[%eval 4,0] [%emt 0:00:00]} 15. h4 {[%eval 31,0] [%emt 0:00:00]} Ba6 {[%eval 44,0] [%emt 0:00:00]} 16. c4 {[%eval 12,0] [%emt 0:00:00]} Qc5 {[%eval 34,0] [%emt 0:00:00]} 17. Kb1 {[%eval 0,0] [%emt 0:00:00]} Bxg5 {[%eval 5,0] [%emt 0:00:00]} 18. hxg5 {[%eval 0,0] [%emt 0:00:00]} Bxc4 {[%eval 0,0] [%emt 0:00:00]} 19. Qe4 {[%eval 7,0] [%emt 0:00:00]} Nb6 {[%eval 0,0] [%emt 0:00:00]} 20. Qxh7+ {[%eval 0,0] [%emt 0:00:00]} Kf8 {[%eval 7,0] [%emt 0:00:00]} 21. Nc3 {[%eval 39,0] [%emt 0:00:00]} Bxf1 {[%eval 36,0] [%emt 0:00:00]} 22. Rxf1 {[%eval 33,0] [%emt 0:00:00]} Qxe5 {[%eval 47,0] [%emt 0:00:00]} 23. Qg6 {[%eval 37,0] [%emt 0:00:00]} Qc7 $4 {[%eval 353,0] [%emt 0:00:00] Blunder. Qe1+ was best.} 24. Qxe6 $4 {[%eval 9,0] [%emt 0:00:00] Blunder. Qh5 was best.} Qd7 {[%eval 2,0] [%emt 0:00:00]} 25. Qe4 {[%eval 12,0] [%emt 0:00:00]} Rd8 $6 {[%eval 94,0] [%emt 0:00:00] Inaccuracy. Re8 was best.} 26. g6 {[%eval 101,0] [%emt 0:00:00]} f6 {[%eval 105,0] [%emt 0:00:00]} 27. Rh1 $6 {[%eval 0,0] [%emt 0:00:00] Inaccuracy. Rd1 was best.} Qd3+ {[%eval 5,0] [%emt 0:00:00]} 28. Qxd3 {[%eval 3,0] [%emt 0:00:00]} Rxd3 {[%eval 3,0] [%emt 0:00:00]} 29. Rh8+ {[%eval 1,0] [%emt 0:00:00]} Ke7 {[%eval 23,0] [%emt 0:00:00]} 30. Rg8 {[%eval 21,0] [%emt 0:00:00]} Rg3 $4 {[%eval 193,0] [%emt 0:00:00] Blunder. Rd7 was best.} 31. Rxg7+ {[%eval 214,0] [%emt 0:00:00]} Ke6 {[%eval 242,0] [%emt 0:00:00]} 32. Ne2 {[%eval 212,0] [%emt 0:00:00]} Re3 $2 {[%eval 306,0] [%emt 0:00:00] Mistake. Rg4 was best.} 33. Rg8 {[%eval 305,0] [%emt 0:00:00]} Kd7 {[%eval 385,0] [%emt 0:00:00]} 34. g7 $6 {[%eval 303,0] [%emt 0:00:00] Inaccuracy. Nf4 was best.} 1-0
+

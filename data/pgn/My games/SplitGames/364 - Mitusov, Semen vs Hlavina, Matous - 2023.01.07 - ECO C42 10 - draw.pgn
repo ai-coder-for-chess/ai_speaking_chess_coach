@@ -1,0 +1,19 @@
+﻿[Event "Prague Open"]
+[Site "?"]
+[Date "2023.01.07"]
+[Round "2.3"]
+[White "Mitusov, Semen"]
+[Black "Hlavina, Matous"]
+[Result "1/2-1/2"]
+[Annotator "Semen"]
+[ECO "C42"]
+[WhiteElo "2397"]
+[BlackElo "2102"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "88"]
+[GameId "455682575067"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. c4 c6 (7... Bb4+ 8. Nbd2 Bf5 9. O-O Nxd2 10. Bxf5 Nxf1 11. Kxf1 O-O 12. c5 Ba5 13. Qb3 $16) 8. Nc3 Nf6 $6 (8... Nxc3 9. bxc3 O-O 10. O-O dxc4 11. Bxc4 Bg4 12. Qd3 Nd7 13. Ng5 Nf6 14. h3 Bh5 15. f4 h6 16. g4 hxg5 17. fxg5 b5 18. Bb3 Nxg4 19. hxg4 Qd7 20. Qh3 (20. gxh5) 20... Qxg4+ 21. Qxg4 Bxg4 22. Rxf7 Rxf7 23. g6 $11) 9. O-O O-O 10. c5 Be7 (10... Bc7 11. h3 b6 12. b4 a5 13. b5 $16) 11. b4 (11. h3 b6 12. Be3 $16) 11... Bg4 12. Bf4 $6 (12. h3 Bh5 13. Bf4 $16) 12... Nbd7 13. b5 Qa5 14. Rc1 (14. Bd2 Qc7 15. a4 Rfe8 16. a5 a6 17. bxa6 bxa6 $16) 14... Rfe8 15. bxc6 bxc6 16. h3 Bh5 $6 (16... Bxf3 17. Qxf3 Nf8 $14) 17. Re1 Qb4 $2 (17... Bxf3 18. Qxf3 Nf8 $14) 18. g4 Bg6 19. Bxg6 hxg6 20. Qa4 $2 (20. g5 $1 Nh5 21. Bh2 Nf8 22. Qd3 Qb7 (22... Ne6 23. Rxe6 fxe6 24. Qxg6 Qb2 25. Rc2 Qa1+ 26. Kg2 $18) 23. Re3 Qd7 24. Rce1 $18) 20... Qxa4 21. Nxa4 Ne4 22. Rb1 (22. Nc3 f5 23. g5 Bd8 24. Red1 $16) 22... g5 23. Bh2 $6 (23. Be3 Rab8 24. Rb2 Bf6 25. Reb1 Rxb2 26. Rxb2 Nexc5 27. dxc5 Bxb2 28. Nxb2 Ne5 $11) 23... Bf6 24. Red1 (24. Bd6 Re6 25. Re3 $14) 24... Nf8 25. Ne5 $6 (25. Rb7 Ne6 26. Kg2 $11 Nf4+) 25... Bxe5 26. Bxe5 Ng6 27. Bh2 $6 (27. f3 Nf6 28. Bg3 Re2 $15) 27... Nh4 $1 28. Rb2 Re6 29. Rb8+ $6 (29. Be5 f6 30. Bd6 $17) 29... Rxb8 30. Bxb8 Nf3+ (30... Rf6 31. Bg3 Rf3 32. Bxh4 gxh4 $19) 31. Kf1 Ned2+ 32. Kg2 Nh4+ 33. Kg1 Nhf3+ 34. Kg2 Nh4+ 35. Kg1 Re4 (35... Re2 36. Nc3 Ndf3+ 37. Kf1 Rc2 38. Rd3 Nd2+ 39. Ke1 Ne4 $19) 36. Bxa7 Rxd4 37. Nb2 Rb4 38. Nd3 Ra4 39. Bb8 $6 (39. Bb6 $19) 39... Rxa2 $4 (39... Rd4 $1 40. Nb2 Rb4 $19) 40. Nb4 Rb2 41. Nxc6 Nhf3+ 42. Kg2 Nh4+ 43. Kg1 (43. Kh2 Ne4 44. Bg3) 43... Nhf3+ 44. Kg2 Nh4+ $11 1/2-1/2
+

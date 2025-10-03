@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Autumn 2023"]
+[Site "Fagernes, Norway"]
+[Date "2023.10.14"]
+[Round "8.7"]
+[White "Wallace, John-Paul"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A05"]
+[WhiteElo "2365"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "54"]
+[GameId "480448528638"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,54,30,30,18,-5,-12,-7,28,23,21,6,29,29,28,22,39,23,30,17,29,45,92,76,99,4,-19,-24,-29,-216,-207,-282,-256,-254,-251,-238,-236,-301,-307,-285,-292,-353,-349,-349,-336,-339,-338,-338,-325,-328,-325,-319,-333,-335,-322,-346,-349]} 1. Nf3 d5 2. g3 Nf6 3. Bg2 Nbd7 4. d4 (4. c4) 4... e6 (4... b5 5. O-O e6 6. a4 b4 7. c4 bxc3 8. Nxc3 Ba6 9. Bf4 c6) 5. c4 $1 b6 (5... dxc4 6. O-O Rb8 7. a4 a6 8. a5 Bd6 9. Nbd2 b5 10. axb6 Nxb6 11. Ne5 Bxe5 12. dxe5 Nfd7) 6. O-O Bb7 7. cxd5 Nxd5 8. Re1 $1 (8. e4 N5f6 9. e5 Nd5 10. Nc3 Be7 11. Re1 c5) 8... N5f6 9. Nc3 c5 $2 (9... Bb4 10. Qc2 (10. a3 Bxc3 11. bxc3 c5 12. Qd3 Be4) 10... c5) 10. e4 cxd4 11. Nxd4 Bc5 12. e5 $2 (12. Nb3 O-O 13. e5 Bxg2 14. Kxg2 Ne8 15. Bf4 $16) 12... Bxg2 13. Kxg2 $6 (13. exf6 Qxf6 14. Kxg2 Bxd4 15. Ne4 Qe5 16. Bf4 Qd5 17. Qa4 f6 $13) 13... Nxe5 14. Nxe6 $4 (14. Qa4+ Ned7 $17) 14... Qxd1 15. Nxd1 Nd3 16. Nxg7+ Kf8 17. Ne6+ Ke7 18. Nxc5+ Nxe1+ 19. Kf1 Nc2 20. Nb3 Nxa1 21. Nxa1 Rac8 22. Nb3 Nd5 23. Bh6 Rhd8 24. Nd4 f6 25. Ne3 Nxe3+ 26. Bxe3 Rc4 27. Nf5+ Ke6 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "12"]
+[White "Mitusov, Semen"]
+[Black "Klekowski, Maciej"]
+[Result "0-1"]
+[Annotator "Semen"]
+[ECO "B40"]
+[WhiteElo "2315"]
+[BlackElo "2515"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "108"]
+[GameId "453748943741"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,108,20,14,37,46,76,17,40,35,35,29,46,46,45,13,7,7,7,18,37,32,9,3,0,-5,6,-4,3,-12,-19,-12,-27,-26,31,18,124,109,174,94,201,201,338,348,333,341,326,-42,-56,-71,-15,-17,-22,-92,-99,-79,-24,-81,-47,-65,-51,-141,-162,-171,-165,-183,-171,-228,-170,-195,-168,-160,19,-255,-241,-257,-271,-449,-452,-449,-462,-502,-510,-519,-522,-522,-535,-521,-524,-515,-547,-547,-566,-582,-547,-644,-684,-948,-790,-945,-1092,-2276,-2104,-2293,-1775,-2300,-1552,-1775,-2293,-29999,-30000]} 1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. a3 Nc6 8. Bd3 dxe5 9. dxe5 g6 10. O-O Bg7 11. Re1 O-O 12. Nc3 Nxc3 13. bxc3 Qa5 14. Qe2 Rd8 15. Bg5 Rd7 16. Bb5 h6 17. Bf6 Rd5 18. c4 Nd4 19. Qe4 Nxf3+ 20. Qxf3 Rd2 21. Bxg7 Kxg7 22. Qf6+ Kg8 23. Rad1 (23. Red1 Bd7 24. Bxd7) 23... Bd7 24. a4 (24. Bxd7 Rxd7 25. Rxd7 Qxe1#) 24... Bxb5 25. axb5 Rad8 26. Rxd2 Qxd2 27. Rf1 b6 28. h4 h5 29. Ra1 Rd7 30. Kh2 Qc3 31. Ra4 Qb3 32. Ra1 Qxc4 33. Re1 Qc3 34. Re3 Qc5 35. Rg3 Qxb5 36. Qg5 (36. Rc3 Qa6 37. g4 $16) 36... Qe2 37. Qf6 Qc4 38. Rxg6+ fxg6 39. Qxg6+ Kf8 40. Qf6+ Rf7 41. Qd8+ Kg7 42. Qg5+ Kh7 43. Qxh5+ Kg8 44. Qg6+ Kf8 45. Qh6+ Ke8 46. Qh8+ Ke7 47. Qh5 Qf4+ 48. Kh1 Qxf2 49. Qg5+ Kd7 50. Qg8 Qe1+ 51. Kh2 Qxe5+ 52. Kh3 Qf5+ 53. Kh2 Qe5+ 54. Kh1 Rf1# 0-1
+

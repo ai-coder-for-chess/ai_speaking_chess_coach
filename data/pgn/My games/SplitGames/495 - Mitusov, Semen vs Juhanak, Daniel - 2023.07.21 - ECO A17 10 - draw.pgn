@@ -1,0 +1,19 @@
+﻿[Event "Pardubice Open 2023"]
+[Site "?"]
+[Date "2023.07.21"]
+[Round "1.22"]
+[White "Juhanak, Daniel"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "A17"]
+[WhiteElo "2137"]
+[BlackElo "2455"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "85"]
+[GameId "472959589986"]
+[SourceVersionDate "2019.06.17"]
+
+1. c4 e6 2. Nf3 d5 3. e3 Nf6 4. Nc3 Bd6 5. b3 b6 6. cxd5 exd5 7. Bb2 a6 8. d4 O-O 9. Bd3 Re8 10. O-O Bg4 11. Rc1 Nbd7 12. Qc2 g6 (12... Bxf3 13. gxf3 Nh5 14. Bxh7+ (14. Ne2 Qh4 15. Ng3 Re6 16. f4 Ndf6) 14... Kh8 15. Bf5 Qh4 16. h3 Ndf6 17. Kg2 $11) 13. Ne2 (13. Nd2 c5) 13... c5 $6 (13... Bxf3 14. gxf3 Nh5 15. Ng3 Qh4 16. Kg2 f5 17. f4 Ndf6 $17) 14. Rfd1 Nh5 15. Ng3 Bxf3 16. gxf3 Qh4 17. Bf1 Nhf6 18. Qd2 Qg5 $6 (18... h5) 19. Bg2 Qh4 20. Rc2 Rad8 21. Rdc1 $2 (21. dxc5 bxc5 22. Qa5) 21... h5 $6 (21... Nf8) 22. a4 a5 23. Qd3 (23. dxc5 bxc5 24. Qxa5 Rb8 (24... Qg5 25. f4 Qg4)) 23... Bf8 24. Kh1 Bd6 25. Rg1 Nf8 26. Bf1 Ne6 27. dxc5 bxc5 28. f4 Ng4 29. f3 $1 Nxe3 30. Qxe3 Nxf4 31. Qf2 Kf8 $2 (31... Nh3 32. Bxh3 Qxh3 33. Qg2 Qxg2+ 34. Rcxg2 $18) 32. Bg7+ $2 (32. Rxc5 $18) 32... Kg8 33. Bc3 Rb8 34. Nf5 $4 (34. Ne4 Qxf2 35. Nf6+ Kf8 36. Rxf2 Re7 37. Bd2 $18) 34... Qxf2 35. Rxf2 Bc7 36. Rb2 Kh7 37. Bb5 gxf5 $6 (37... d4) 38. Bxe8 Rxe8 39. Rg7+ Kh6 40. Rxf7 Be5 41. Bxe5 Rxe5 42. Rb1 $2 (42. h4 d4 43. Ra7 d3 44. Kg1 $16) 42... d4 $2 (42... Kg5 $1 43. Rg1+ Kh4 $17) 43. Rg1 $11 1/2-1/2
+

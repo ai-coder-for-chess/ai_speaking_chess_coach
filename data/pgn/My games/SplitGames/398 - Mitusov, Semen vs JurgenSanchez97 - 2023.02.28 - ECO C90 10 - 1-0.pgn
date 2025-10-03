@@ -1,0 +1,22 @@
+﻿[Event "Lichess"]
+[Site "lichess.org"]
+[Date "2023.02.28"]
+[Round "?"]
+[White "JurgenSanchez97"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C90"]
+[WhiteElo "2726"]
+[BlackElo "2669"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "103"]
+[GameId "460318323770"]
+[EventDate "2023.??.??"]
+[EventType "blitz"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "180"]
+
+{[%evp 0,103,25,25,25,25,25,12,1,-3,11,16,12,4,36,9,26,-12,-14,-28,1,-6,-10,-10,-6,-10,2,-1,16,25,31,4,53,13,10,-2,-1,0,-9,-3,0,0,0,0,22,-10,16,10,-26,-51,-45,-28,-32,-32,-48,-35,-24,-37,-38,-129,-59,-271,-177,-207,-209,-215,-213,-211,-135,-168,-31,-66,69,-182,-49,-49,-6,-28,-37,-61,-85,-88,-62,-78,-53,-74,-30,-196,-73,-161,-6,-27,-1,-18,618,594,705,705,958,609,29983,29984,29985,29986,29997,29998]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8. c3 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 Re8 13. Ng3 Bf8 14. h3 g6 15. d4 Bg7 $6 (15... cxd4 16. cxd4 exd4 17. Nxd4 Nxd4 18. Qxd4 Bg7 $11) 16. dxe5 (16. d5 Ne7 17. a4 $16) 16... dxe5 17. Bg5 Be6 18. Qe2 h6 19. Be3 Qe7 20. b3 Red8 21. Rad1 Kh7 22. Nh4 c4 23. b4 a5 24. Bc5 Qe8 25. a3 axb4 26. axb4 Ra2 27. Rxd8 Qxd8 28. Rd1 Qa8 29. Rd6 Nd8 (29... Ne8 $19) 30. Nhf5 Nb7 31. Nxg7 Kxg7 32. Rd2 Nxc5 33. bxc5 Qc6 34. Qe3 Ra8 $2 (34... Nd7 $19) 35. Rd6 Qc7 36. Rb6 Nd7 37. Rxb5 Rc8 38. Bd1 Nxc5 39. Bg4 Bxg4 40. hxg4 Ne6 41. Ne2 Qd6 42. Rd5 Qb8 43. g3 Rh8 (43... Qb1+ 44. Kg2 Ra8 $19) 44. f4 exf4 45. gxf4 Rd8 46. f5 Ng5 $4 47. Qd4+ f6 48. Rxd8 Qb1+ 49. Kg2 Qc2 50. Rd7+ Nf7 51. Qxc4 h5 52. Qxf7+ {Normal} 1-0
+

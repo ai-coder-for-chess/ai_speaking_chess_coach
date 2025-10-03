@@ -1,0 +1,20 @@
+﻿[Event "Prague Open"]
+[Site "-"]
+[Date "2023.01.10"]
+[Round "6.3"]
+[White "Mitusov, Semen"]
+[Black "Zvolensky, David"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C44"]
+[WhiteElo "2397"]
+[BlackElo "2204"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "64"]
+[GameId "455960380617"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8. Be3 O-O 9. Nxc6 bxc6 10. Bxc5 Nxc5 11. Bxc6 Rb8 12. Qxd5 Qe7 13. O-O Rxb2 (13... Rd8 14. Qf3 Rxb2) 14. Qd4 (14. Nc3 Rxc2 15. Qd4 Ne6 16. Qd3 Rb2 17. Nd5 $11) 14... Rb6 (14... Rxc2 15. Nc3 Rd8 16. Nd5 Qf8 17. Rad1 $14) 15. Bf3 Rd8 16. Qc3 Re6 (16... Ne6 $13) 17. Re1 Re8 18. Nd2 Rxe5 19. Rxe5 Qxe5 20. Qxe5 Rxe5 21. Rb1 Re8 22. h3 g6 23. Rb5 (23. Rb4 Kg7 24. Rc4 Re5 $11) 23... Nd7 24. Ra5 Re1+ 25. Kh2 a6 26. Nb3 (26. Nc4 Rc1 (26... Kg7 27. Ne3 $14) 27. Ne3 Nb6 28. Be2) 26... Re5 27. Ra4 $6 (27. Rxe5 Nxe5 28. Kg3) 27... Nb6 28. Rd4 a5 29. a3 Kg7 30. Nd2 Be6 31. Be4 Rc5 (31... Rb5 32. Rd3 f5 $17) 32. Bd3 Rd5 1/2-1/2
+

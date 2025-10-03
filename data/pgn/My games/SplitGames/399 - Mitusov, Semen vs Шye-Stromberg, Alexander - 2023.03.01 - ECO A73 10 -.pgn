@@ -1,0 +1,17 @@
+﻿[Event "Vennlynpartier"]
+[Site "?"]
+[Date "2023.03.01"]
+[Round "1"]
+[White "Шye-Stromberg, Alexander"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A73"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "76"]
+[GameId "460365876509"]
+[SourceVersionDate "2019.06.17"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Nd2 Bg7 8. e4 O-O 9. Be2 Na6 10. O-O Nc7 11. a4 b6 12. Nc4 Rb8 (12... Ba6 13. Bg5 Qd7 14. f3 Nh5 15. g4 Bd4+ 16. Kh1 Ng7) 13. Bf4 Nfe8 14. f3 $2 (14. e5 dxe5 15. Nxe5 Bb7 16. Nc6 Bxc6 17. dxc6 Qf6 18. Nd5 $18) 14... a6 15. Qd2 b5 16. axb5 axb5 17. Na5 Bd7 18. Rfd1 $2 (18. Bg5 Nf6 19. Rfc1 $16) 18... b4 19. Na4 Nb5 20. Nc4 $2 (20. Bxb5 Bxb5 21. Nc6 Bxc6 22. dxc6 Bd4+ 23. Be3 Bxe3+ 24. Qxe3 Rc8 $15) 20... Nd4 21. Qe3 Bb5 $6 (21... Nc2 22. Qd2 Bd4+ 23. Kh1 Nxa1 24. Rxa1 Ra8 25. Bd1 Bb5 26. Bb3 Bxc4 27. Bxc4 f5 $19) 22. Rdc1 Qd7 $2 (22... Ra8 23. Nab6 Nxe2+ 24. Qxe2 Rxa1 25. Rxa1 Qxb6 $19) 23. Nxc5 $6 (23. Bd1 $19) 23... dxc5 $4 (23... Nxe2+ 24. Qxe2 Bd4+ 25. Be3 Bxc5 $19) 24. Bxb8 Nc2 25. Qd2 Nxa1 26. Rxa1 Bd4+ 27. Kh1 Ng7 (27... Nc7 $18) 28. Bg3 f5 29. Nb6 Qe8 30. d6 fxe4 31. fxe4 Ne6 32. Ra8 Qc6 33. Rxf8+ Nxf8 34. d7 $4 (34. Nd5 $18) 34... Nxd7 35. Nxd7 Qxd7 36. Bxb5 Qxb5 37. Bf2 Qf1+ 38. Bg1 Qxg1# 0-1
+

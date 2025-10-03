@@ -1,0 +1,20 @@
+﻿[Event "Kvibergspilen 2022"]
+[Site "?"]
+[Date "2022.10.01"]
+[Round "4"]
+[White "Mitusov Semen"]
+[Black "Jakenberg Jussi"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C53"]
+[WhiteElo "2418"]
+[BlackElo "2114"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "59"]
+[GameId "447009821171"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,59,25,19,43,31,21,11,24,-9,28,-12,5,5,50,50,26,-5,7,19,57,38,42,7,34,3,1,-9,22,16,-1,-41,-19,-30,-30,-47,-23,-42,-16,-28,-31,-52,13,29,11,10,10,0,-1,-43,26,15,25,71,51,41,93,105,104,68,258,128]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5 8. Re1 Bg4 9. h3 Bh5 10. Nbd2 Nb6 11. Bb5 (11. b4 Be7 12. Qe2 Nxc4 13. Nxc4 f6 14. b5 Nb8 15. d4 a6 16. bxa6 Rxa6 17. dxe5 Rc6 18. Bb2) 11... f6 12. Bxc6 $6 bxc6 13. Ne4 Bd6 14. Ng3 Bf7 15. Nf5 Qd7 16. N3h4 Be6 17. Qf3 Rae8 18. Be3 a6 $2 19. Nxd6 Qxd6 20. d4 Nd5 21. Rad1 Nxe3 22. Rxe3 exd4 23. Rxd4 Bd5 24. Qd1 Rxe3 25. Nf5 Qe6 26. Nxe3 Bxa2 27. Rd7 Bd5 (27... Rf7 28. Rxc7 Qe8 $16) 28. Rxc7 Re8 29. Qd4 Qd6 30. Qa7 $18 1-0
+

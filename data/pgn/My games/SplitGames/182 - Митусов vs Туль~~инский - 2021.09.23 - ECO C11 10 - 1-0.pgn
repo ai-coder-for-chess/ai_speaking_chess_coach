@@ -1,0 +1,21 @@
+﻿[Event "ПУ"]
+[Site "?"]
+[Date "2021.09.23"]
+[Round "2"]
+[White "Митусов"]
+[Black "Туль~~инский"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "C11"]
+[WhiteElo "2297"]
+[BlackElo "2024"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "81"]
+[GameId "414025490091"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 Be7 9. a3 b5 10. Bd3 O-O 11. O-O Qb6 12. Qf2 cxd4 13. Nxd4 Nxd4 14. Bxd4 Qxd4 15. Qxd4 Bc5 16. Ne2 Bxd4+ 17. Nxd4 Bb7 18. Rae1 Nb8 19. b4 $6 (19. f5 Nc6 20. Nxc6 Bxc6 21. f6 $18) 19... Nc6 20. Nb3 Rae8 21. Nc5 Bc8 22. Rf3 (22. c3 f6 23. exf6 gxf6 24. a4 bxa4 25. b5 $18) 22... f6 23. Rh3 h6 24. Rhe3 fxe5 25. fxe5 g5 $5 26. c3 Rd8 (26... Re7 $1) 27. Be2 d4 28. cxd4 Nxd4 29. Bd3 Rf7 30. Bg6 $1 Rc7 31. Be4 Kf7 32. h4 $2 (32. Rd3 Ke7 33. Red1 Ne2+ 34. Kf2 Rxd3 35. Rxd3 Nf4 36. Rd6 $18) 32... Rg8 $2 (32... Nf5 33. Rf1 gxh4 34. Rf4 $13) 33. Rd3 Rd8 34. Kh2 Nc6 35. Rd6 Ke7 36. Rxc6 Rxc6 37. Bxc6 gxh4 38. Re4 Rd2 39. Rxh4 Ra2 40. Rxh6 Rxa3 41. Rh8 1-0
+

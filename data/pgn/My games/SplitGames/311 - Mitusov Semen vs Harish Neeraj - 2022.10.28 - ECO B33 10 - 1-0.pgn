@@ -1,0 +1,20 @@
+﻿[Event "Uppsala Young Champions 2022"]
+[Site "?"]
+[Date "2022.10.28"]
+[Round "1"]
+[White "Mitusov Semen"]
+[Black "Harish Neeraj"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2415"]
+[BlackElo "1915"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "73"]
+[GameId "449427532818"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxf6+ gxf6 13. Be2 (13. Nc2 Bb7 14. Bd3 f5 (14... d5 15. exd5 Qxd5 16. Ne3 Qe6 17. a4 Rd8 18. Qe2 $14) 15. exf5 Bxg2 16. Rg1 Bb7 17. a4 $16) 13... Bb7 14. Bf3 d5 15. exd5 Bxd5 16. O-O e4 17. Be2 Bb7 $2 (17... Rg8 18. Nc2 f5 19. a4 bxa4 20. Rxa4 f4 21. Bc4 $16) 18. Nc2 Rg8 19. a4 bxa4 20. Rxa4 Qc7 21. Rc4 Qe5 22. Ne3 f5 23. Qa4+ (23. Rd4 f4 24. Nc4 Qg5 25. Nd6+ Kf8 26. g3 Bc6 27. Bc4 $18) 23... Kf8 24. Qb4 Bc8 25. f4 $1 exf3 26. Rxf3 Rb8 27. Qa3 Bb7 28. Rc5 Qd6 (28... Rxg2+ 29. Kf1 Qxh2 30. Nxg2 Bxf3 31. Bxf3 Qh1+ 32. Kf2 Qc1 33. Be2 Rxb2 34. Rc8+ $18) 29. Rf2 f4 30. Nc4 Qg6 31. Rc7 Qg5 32. Qb4 f3 33. Bxf3 Bxf3 34. Qxb8+ Kg7 35. Qa7 Kh8 36. Qd4+ f6 37. Qe3 1-0
+

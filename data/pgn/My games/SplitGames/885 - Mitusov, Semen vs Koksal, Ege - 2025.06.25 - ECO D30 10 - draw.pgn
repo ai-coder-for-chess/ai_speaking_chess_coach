@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open 2025"]
+[Site "?"]
+[Date "2025.06.25"]
+[Round "4.6"]
+[White "Koksal, Ege"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D30"]
+[WhiteElo "2292"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "79"]
+[GameId "2192640005201920"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 Nf6 (4... f6 5. Bd2 Nc6 6. Qb3 b5 7. cxb5 axb5 8. Qxb5 Bd7 9. Qb3 Bd6 10. Nc3 Nge7 11. e3 O-O) 5. e3 Nbd7 (5... dxc4 6. Bxc4 c5 7. O-O cxd4 8. exd4 Be7 9. Nc3 O-O 10. Re1 Nc6 11. a4 h6 12. Bh4 Bd7 13. Qe2 Nh5 14. Bxe7 Nxe7 15. Ne5 Nf6 16. Red1 Qe8 17. Qf3 Bc6 18. Nxc6 bxc6 19. a5 Qb8 20. Qe2 Rd8 21. Bxa6 Nf5 22. Ra4 Ra7 23. Bd3 Nxd4 24. Qe3 Ng4 25. Qg3 Qxb2 26. Qxg4 Qxc3 27. Rc4 Qb3 {0-1 Jumabayev,R (2585)-Abdusattorov,N (2716) Asian Games Hangzhou rapid 2023 (2)}) 6. Nc3 dxc4 7. Bxc4 b5 8. Bd3 Bb7 9. a4 b4 10. Ne4 c5 11. Bxf6 Nxf6 (11... gxf6 12. dxc5 Bxc5 13. Rc1 Be7 14. O-O f5 15. Ng3 h5) 12. Nxc5 Bxc5 13. dxc5 Qa5 $6 (13... Rc8 14. Rc1 Nd7) 14. Rc1 Rc8 15. O-O Nd7 16. Nd2 Nxc5 17. Nb3 Nxb3 18. Rxc8+ Bxc8 19. Qxb3 Bb7 20. Rc1 O-O 21. Rc4 Qg5 22. Be4 Bxe4 23. Rxe4 a5 24. Qc2 Rd8 25. g3 g6 26. Rc4 Kg7 27. Kg2 h5 28. h4 Qe5 29. b3 Qa1 30. Qc1 Qa3 31. Qc2 Qa1 32. Qc1 Qxc1 33. Rxc1 Rd3 34. Rc5 Rxb3 35. Rxa5 Ra3 36. Ra8 Kf6 37. a5 b3 38. Rb8 e5 39. a6 Rxa6 40. Rxb3 1/2-1/2
+

@@ -1,0 +1,20 @@
+﻿[Event "Reguengos de Monsaraz 2023"]
+[Site "lichess.org"]
+[Date "2023.11.22"]
+[Round "4.4"]
+[White "Mitusov, Semen"]
+[Black "Zanan, Evgeny"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C11"]
+[WhiteElo "2484"]
+[BlackElo "2486"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "83"]
+[GameId "483938196852"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,83,30,29,47,50,30,47,57,42,32,20,20,20,28,0,33,28,29,40,34,23,21,29,23,24,17,16,16,7,9,10,6,6,5,5,16,7,14,5,8,-4,1,1,31,-14,-17,-19,-23,-14,0,-6,5,0,4,1,8,10,14,3,13,25,14,16,25,25,25,25,25,57,57,34,99,93,101,109,109,110,137,147,206,209,383,379,387,379]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Be2 O-O 9. O-O a6 10. Qd2 b5 11. a3 Qb6 12. Rad1 cxd4 13. Nxd4 Bc5 14. Rf3 Nxd4 15. Bxd4 Bxd4+ 16. Qxd4 Qxd4+ 17. Rxd4 Nb8 18. Rd1 Nc6 19. Bf1 Bd7 20. Ne2 Rac8 21. c3 f6 22. Nd4 fxe5 23. Nxc6 Bxc6 24. fxe5 Rf5 25. Re3 Rcf8 26. Bd3 Rf2 27. Rf1 Rxf1+ 28. Bxf1 Rf4 29. g3 Ra4 30. Kf2 a5 31. Rd3 Re4 32. Re3 Ra4 33. Rd3 Re4 34. Re3 Ra4 35. Be2 d4 36. Rd3 dxc3 37. Rxc3 Bd5 38. Bxb5 Rd4 39. Bd3 Bb7 40. Ke3 Rd5 41. Rc7 Rxe5+ 42. Kd4 1-0
+

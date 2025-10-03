@@ -1,0 +1,20 @@
+﻿[Event "Nordstrand GP Langsjakk 2022"]
+[Site "?"]
+[Date "2022.04.24"]
+[Round "4"]
+[White "Sjoberg Isak"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C45"]
+[WhiteElo "2315"]
+[BlackElo "2274"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "108"]
+[GameId "432867487420"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,32,16,28,38,44,44,44,44,-3,49,5,7,7,-20,-31,79,79,184,184,276,47,30,49,49,-8,-8,-90,-50,-57,-79,-63,-21,-73,-72]} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 (6... Nf6 7. Qe2 a5 (7... d6 8. Be3 Be6 9. O-O-O Qe7 10. f3 O-O-O 11. Bxb6 axb6 12. Nd4 Kb8) 8. e5 O-O 9. exf6 a4 10. Nd5 Re8 11. Be3 axb3 12. Qg4 g6 13. Bc4 Nb4 14. Nxb4 d5 15. Qf4 dxc4 16. O-O bxc2) 7. a4 a6 8. Nd5 Ba7 9. Be3 (9. Qf3 Nge7 10. Qg3 (10. Bg5 Be6 11. O-O-O h6 12. Be3 Ne5 13. Qg3 (13. Qe2 Bxe3+ 14. Nxe3 Qd7 $15) 13... Bxd5) 10... Nxd5 11. exd5 Ne7) 9... Bxe3 10. Nxe3 Nf6 11. Bd3 O-O 12. O-O Re8 13. f3 Be6 14. c4 Qb8 $5 (14... a5 15. Qd2 Nd7 16. f4 f6 $11) 15. Kh1 Qa7 16. Nd5 Bxd5 17. cxd5 Nd4 $6 (17... Ne5 $5 18. Rc1 c6 19. dxc6 bxc6 20. Na5 Qb6 $13) 18. Na5 $6 (18. a5 $1 Nd7 19. Nxd4 Qxd4 20. Qa4 Qxa4 21. Rxa4 $14) 18... c6 $1 19. dxc6 bxc6 20. b4 d5 21. exd5 cxd5 (21... Nxd5 $5 22. Qd2 Qb6 23. Rab1 Rab8 24. Nc4 Qc7 $13) 22. Bxa6 Nxf3 $4 (22... Nf5 23. Bb5 (23. Qd3 Ng3+ 24. hxg3 Re6 $11) 23... Ne3 24. Nc6 Qd7) (22... Qb6 $1 23. Bb7 Rab8 24. Rb1 Nh5 25. Re1 (25. Qd2 Re5) 25... Ng3+ 26. hxg3 Qh6+ 27. Kg1 Qb6 $11) 23. Bb7 Ne5 $4 (23... Nxh2 $1 24. Rxf6 gxf6 25. Bxa8 Qf2 $11) 24. Bxa8 Qxa8 25. Qd4 Ne4 26. Nb3 Ng4 27. Rf4 h5 28. Nd2 Qb8 (28... Ng5 $5) 29. Raf1 $1 Nef6 30. h3 Ne3 31. Re1 Nc2 32. Rxe8+ Nxe8 33. Qf2 Nxb4 34. Rxf7 Nf6 35. Rxf6 (35. Qa7 $18) 35... gxf6 36. Qxf6 Qe8 37. Nf3 Qxa4 38. Ng5 Qe8 39. Ne6 Qd7 40. Qg6+ Kh8 41. Qxh5+ Kg8 42. Qg4+ Kh8 43. Qh5+ Kg8 44. Qg6+ Kh8 45. Qf6+ Kg8 46. h4 Nc6 47. Qg6+ Kh8 48. Ng5 Nd8 49. Qf6+ Kg8 50. h5 $4 (50. Kh2 $18) 50... Qe8 $3 51. Qf3 Kg7 52. Qg4 Kh6 53. Nh3 Qxh5 54. Qxh5+ Kxh5 1/2-1/2
+

@@ -1,0 +1,19 @@
+﻿[Event "Barselona Open 2023"]
+[Site "?"]
+[Date "2023.08.18"]
+[Round "1.24"]
+[White "Parramon Ros, Francesc"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D00"]
+[WhiteElo "2003"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "475433649998"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 Bf5 6. Ngf3 Qb6 7. Qb3 c4 8. Qxb6 axb6 9. Be2 b5 10. O-O b4 (10... e6 11. a3 Be7 12. Nh4) 11. cxb4 Nxb4 12. a3 $6 (12. Ne5 e6 13. g4 Bg6 14. h4 $14) 12... Nd3 13. Bxd3 Bxd3 14. Rfc1 e6 15. Ne5 (15. b3 b5 16. a4 bxa4 17. bxc4 Bb4 18. c5 a3 $15) 15... Bf5 16. f3 $6 (16. b3 b5 (16... c3) 17. a4 $14) 16... b5 $6 (16... Nh5 17. g4 Nxf4 18. exf4 Bg6 $17) 17. g4 Bg6 18. e4 Nd7 19. Nxg6 hxg6 20. exd5 exd5 21. Nf1 Nb6 22. Ne3 Kd7 23. b4 $2 Be7 (23... cxb3 $2 24. Rc7+ Kd8 25. Rb1 $11) 24. Kg2 Ra6 25. Nc2 Na4 26. Ne3 Kc6 27. Rab1 Bf6 28. Be5 Bxe5 29. dxe5 Rd8 30. f4 Nb6 31. Ra1 d4 32. Rd1 Rd7 33. Nc2 d3 34. Ne1 Rd4 35. Kg3 Nd5 36. Nc2 Rxf4 37. Ne3 Nxe3 0-1
+

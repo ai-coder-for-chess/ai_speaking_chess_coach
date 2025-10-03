@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open 2025"]
+[Site "?"]
+[Date "2025.06.24"]
+[Round "2.8"]
+[White "Manish, Anto Cristiano F"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C88"]
+[WhiteElo "2365"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "224"]
+[GameId "2192171324887040"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 Re8 13. d4 (13. Nf1 b4 14. Bd2 Qb6 15. Ng3 b3 16. Bb1 g6 17. d4 c4 18. dxe5 dxe5) 13... cxd4 14. cxd4 exd4 15. Nxd4 (15. axb5 axb5 16. Nxd4 Qb6 17. Nf5 (17. N2f3 Bf8 18. Nf5 Bxe4) 17... Bf8 18. b4 Nc4 19. Nxc4 bxc4 20. Bb2 Rxa1 21. Qxa1 Nxe4 22. Bxe4 Rxe4 23. Bxg7 Rxe1+ 24. Qxe1 Bxg7 25. Qe8+ Bf8) 15... b4 16. Nf1 (16. N2f3 h6 17. Nf5 (17. b3 Bf8) 17... Bf8 18. Ng3 Nc4 19. b3 Ne5 20. Nd4 Rc8 21. f4 Ned7) 16... Rc8 17. Ng3 Bf8 18. b3 $1 (18. Bf4 g6 19. b3 Qb6) 18... Nc6 $6 (18... g6 19. Bb2 Bg7 20. Qd2 d5 21. Ngf5 gxf5 22. Nxf5 Nh5 23. Nh6+ Bxh6 24. Qxh6 Rxc2) (18... d5 19. e5 Ne4 20. f3 Nxg3 21. hxg3 Bc5 22. Bb2 Nc4) 19. Nxc6 Rxc6 20. Bb2 g6 21. Qd2 Bg7 $6 (21... d5 22. e5 Nd7) 22. Bd3 Qa5 $6 (22... h5 23. Qxb4 Rb6) 23. Bc4 Re7 (23... Rc7 24. Qxd6) (23... Rcc8 24. Qxd6) 24. Rad1 Ne8 25. Bxg7 Kxg7 26. Bd5 Rcc7 (26... Rc8 27. Nf5+ gxf5 28. Qg5+ Kf8 29. Qh6+ Kg8 30. Rd3) 27. Qg5 Kh8 28. Qh6 Kg8 29. Nf5 gxf5 30. Re3 Rc3 31. Rxc3 bxc3 32. Rd3 f4 $4 (32... Rxe4 33. Bxe4 Qe5 $1 34. Rg3+ (34. f4 Qe7) 34... Ng7 35. Bd3 c2 36. Qxg7+ Qxg7 37. Rxg7+ Kxg7 38. Bxc2 Kf6) 33. Rh3 Rc7 34. Rh5 $2 (34. Rh4 Bc8 35. Rh5 Qxd5 36. Rxd5 f6 37. Rd1 $18) 34... Qxd5 35. exd5 f6 36. Qxf4 c2 37. Qc1 Ng7 38. Rh3 Bxd5 39. Rd3 Be6 40. b4 Bf5 41. Rd2 (41. Rxd6 Rc4 (41... Rc3 42. Rd2)) 41... Ne6 42. b5 axb5 43. axb5 Rc4 44. b6 Nc5 45. f3 Kf7 (45... h5) 46. g4 Bg6 47. Kg2 Ke7 48. Kg3 Kd7 49. h4 Rc3 50. Rxc2 Rxc2 51. Qa3 Be4 52. Qe3 (52. Qa1 $1) 52... Rb2 53. Qh6 Rb3 54. Qg7+ Ke6 55. Qg8+ Ke5 56. Qe8+ Kd4 57. Qd8 Rxf3+ 58. Kh2 Nb7 59. Qe7 Ke3 60. h5 Rf1 61. Kg3 Rg1+ 62. Kh4 f5 63. Qxh7 Rxg4+ 64. Kh3 Rg1 65. Kh4 Rg4+ 66. Kh3 Kf2 67. Qe7 Bg2+ $2 (67... Kg1) 68. Kh2 Bf3 69. h6 {[#]} Rg2+ $4 (69... Nc5 70. h7 Nd3) 70. Kh3 Rg3+ 71. Kh2 Rg2+ 72. Kh3 Rg1 73. Qh4+ Ke3 74. Qe7+ (74. h7 f4 75. Qe7+ Kd3) 74... Be4 75. Kh4 $4 (75. Qf6 $1 Kf4 76. Qh4+ Kf3 77. Kh2 $11) 75... f4 (75... Kf4 76. Kh5 Bf3+) 76. Qf6 f3 77. Qc3+ Bd3 78. h7 Rh1+ 79. Kg3 Rxh7 80. Qc1+ Kd4 81. Qb2+ Kc4 82. Qa2+ Kd4 83. Qb2+ Ke3 84. Qf2+ Ke4 85. Qxf3+ Kd4 86. Qf2+ Kd5 87. Qa2+ Bc4 88. Qa8 Kc5 89. Qc8+ Kb4 90. Qf5 Rg7+ 91. Kh4 Rf7 92. Qh5 Nc5 93. Qg6 Rd7 94. Qb1+ Bb3 95. Kg5 Kb5 96. Kf4 Kxb6 97. Ke3 Re7+ 98. Kd2 Re4 99. Qf1 Rd4+ 100. Kc3 Rc4+ 101. Kd2 Rd4+ 102. Kc3 Rd3+ 103. Kb2 Rd2+ 104. Kc3 Rc2+ 105. Kd4 Ba4 106. Qf6 Kc7 107. Qf7+ Bd7 108. Qh7 Ra2 109. Qh5 Ra3 110. Qf7 Kb6 111. Qe7 Rd3+ 112. Kc4 Bb5+ 0-1
+

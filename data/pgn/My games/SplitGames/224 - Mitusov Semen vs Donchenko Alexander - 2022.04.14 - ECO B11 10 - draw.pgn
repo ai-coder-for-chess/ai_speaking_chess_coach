@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2022"]
+[Site "?"]
+[Date "2022.04.14"]
+[Round "6"]
+[White "Mitusov Semen"]
+[Black "Donchenko Alexander"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B11"]
+[WhiteElo "2274"]
+[BlackElo "2619"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "114"]
+[GameId "431991209200"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,25,16,28,79,75,71,40,108,62,45,39,71,59,65,34,20,43,44,30,40,35,40,35,51,3,32,-6]} 1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. Be2 (6. d4 dxe4 7. Qxe4 Nf6 8. Qd3 Nbd7 9. g3 Bd6 10. Bg2 O-O 11. O-O Qc7 12. Ne2 Rad8 13. c4 $14) 6... Bc5 7. O-O Ne7 8. Na4 Bd6 9. d4 dxe4 10. Qxe4 Nd7 11. Nc3 (11. Rd1 $1 O-O 12. Qf3 Qa5 13. Nc3 Nf6 14. Ne4 Nxe4 15. Qxe4 Rad8 16. a4 Rd7 17. c3 Rfd8 $14) 11... Nf5 12. Rd1 Bc7 13. Qd3 (13. Bf4 Nf6 14. Qf3 Bxf4 15. Qxf4 $11) 13... Bb6 $6 (13... O-O 14. Ne4 h6 15. c3 Qe7 16. a4 Rad8 17. b3 Qh4 18. Bf1 $14) 14. Ne4 Nxd4 15. Nd6+ Kf8 16. Nc4 Qe7 17. Nxb6 (17. Bf1 $1 e5 18. c3 Nc5 19. Qb1 Nde6 20. b4 Nd7 21. a4 $18) 17... Nxe2+ 18. Qxe2 axb6 19. Bf4 e5 20. Be3 h6 $1 21. Rd2 Kg8 (21... b5 $5 22. c4 bxc4 23. Qxc4 Kg8 $11) 22. Rad1 Nf6 23. Bxb6 (23. c4 $1 Rxa2 24. Bxb6 $14) 23... Kh7 (23... Nd5 $5 24. Be3 Rxa2 25. c4 Nxe3 26. Qxe3 Qe6 $14) 24. c4 Rhe8 25. b3 Kg8 26. a4 e4 $6 (26... Qe6 27. Qd3) 27. Qe3 Rac8 28. Bc5 $6 (28. Qc5 $3 Qxc5 29. Bxc5 Ra8 30. Bb6 $18) 28... Qe6 29. Rd6 $6 (29. Qf4 $1 Nh5 30. Qd6 $18) 29... Qe5 30. Bb4 Re6 31. Rxe6 Qxe6 32. Bc3 Re8 33. Bxf6 $2 (33. a5 Nh5 34. g4 Nf6 35. Qf4 $16) 33... Qxf6 34. Rd7 b5 35. axb5 cxb5 36. cxb5 $6 (36. c5 $1 Qa1+ 37. Kh2 Qe5+ 38. g3 b4 39. Qd4 $16) 36... Qa1+ 37. Kh2 Qe5+ 38. Kg1 Qa1+ 39. Kh2 Qe5+ 40. Kg1 Qxb5 41. Rd4 Qe5 42. b4 Kh7 43. Rd1 Qb2 (43... f5 44. f3) 44. Qd2 Qb3 45. Qd5 Qxd5 46. Rxd5 e3 47. fxe3 Rxe3 48. b5 Rb3 49. Kf2 g5 50. Ke2 Rb2+ 51. Kf3 (51. Kd3 Rxg2 52. Kc3 Rg1 53. Kc2 Re1 54. b6 Re8 55. b7 Rb8 56. Rb5 Kg6 57. Kd3 f5 58. Ke3 Kh5 59. Kf3 Kh4 60. Kg2 h5 61. Rb4+ f4 62. Rb1 g4 63. hxg4 hxg4 64. Rb3 f3+ 65. Kf2 Kh3 66. Rb5 g3+ 67. Kxf3 Rf8+ 68. Ke4 g2 69. b8=Q $11) 51... Kg7 52. g3 Rb3+ 53. Kf2 f6 54. h4 g4 55. Rc5 Kg6 (55... Kf7 56. Rh5 Rb2+ 57. Kg1 Ke6 58. Rxh6 Rxb5 59. Rg6 Kf5 60. Rg8) 56. Rc4 Rb2+ 57. Kg1 h5 1/2-1/2
+

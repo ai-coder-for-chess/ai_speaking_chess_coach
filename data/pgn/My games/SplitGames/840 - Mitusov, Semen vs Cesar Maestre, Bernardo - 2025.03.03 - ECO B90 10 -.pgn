@@ -1,0 +1,20 @@
+﻿[Event "VM for funior 2025"]
+[Site "lichess.org"]
+[Date "2025.03.03"]
+[Round "7.25"]
+[White "Mitusov, Semen"]
+[Black "Cesar Maestre, Bernardo"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2467"]
+[BlackElo "2361"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "183"]
+[GameId "2156480055562298"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 g6 7. h3 (7. f3 Nc6 8. Be3 Nxd4 9. Bxd4 e5 10. Be3 Be6) 7... Nbd7 8. Be3 Nc5 9. g4 (9. O-O Bg7) 9... Bg7 10. g5 Nfd7 (10... Nxd3+ 11. Qxd3 Nd7 12. O-O-O Nc5 13. Qe2 b5 14. h4 Bb7 15. f3) 11. Be2 b5 12. a3 Bb7 13. f3 Nb6 14. Qd2 O-O 15. O-O-O Rc8 16. Kb1 Qc7 17. h4 Rfd8 18. h5 d5 19. h6 $2 (19. hxg6 hxg6 20. e5 Qxe5 21. f4 Qc7 22. f5 Ne4 23. Nxe4 dxe4 24. fxg6 fxg6 25. Bg4) 19... Bh8 20. exd5 Nxd5 21. Nxd5 Bxd5 22. Qb4 e5 23. Nxb5 axb5 24. Qxc5 Qxc5 25. Bxc5 Rxc5 26. Rd3 Rc7 27. Rh4 Kf8 28. Rb4 Ke7 29. Rxb5 Rcd7 30. a4 f5 31. gxf6+ Bxf6 32. a5 Ba8 33. Rxd7+ Rxd7 (33... Kxd7) 34. a6 Ra7 35. Rb8 Bg5 36. b4 Kd6 37. b5 Kc7 38. Re8 Be3 39. Rxe5 Bd4 40. Re8 Kb6 41. c4 Bc5 42. Rb8+ Ka5 43. Kc2 Bb6 44. Rf8 Bc5 45. Rc8 Kb6 46. Kd1 Bf2 47. Kc2 Bc5 48. Kd2 Bf2 49. Bd3 Bc5 50. Be2 (50. Be4 $1 Bxe4 51. fxe4 Rd7+ 52. Kc3 Bd6 53. Re8 $18) 50... Bf2 51. Rd8 Kc7 52. Rg8 Kb6 53. Kc3 Bc5 54. Bd1 Be3 55. Rb8+ Ka5 56. Be2 Bc5 57. Rc8 Kb6 58. Bd1 Be3 59. Kb4 Bd2+ 60. Ka4 Be3 61. Be2 Bc5 62. Bd1 Bf2 63. Rf8 Be3 64. Rd8 Bf2 65. Rb8+ Kc5 66. Kb3 Be3 67. Be2 Bf2 68. Kc2 Be3 69. Re8 Bf2 70. Rb8 Be3 71. Kb3 Bf2 72. Kc3 Be1+ 73. Kc2 Bf2 74. Kb3 Be3 75. Re8 Bf2 76. Re5+ Kd6 77. Re8 Kc5 78. Kc2 Kb6 79. Re6+ Kc5 80. Bd3 Bd4 81. Be2 Bf2 82. Re5+ Kd6 83. Re8 Kc5 84. Kb3 Kb6 85. Bd1 Kc5 86. Rc8+ Kb6 87. Be2 Be3 88. Kc3 Bf2 89. Re8 Be1+ 90. Kd4 Bf2+ 91. Ke5 Bg3+ 92. Ke6 1/2-1/2
+

@@ -1,0 +1,20 @@
+﻿[Event "NM 2025"]
+[Site "?"]
+[Date "2025.07.10"]
+[Round "7"]
+[White "Mitusov, Semen"]
+[Black "Elsness, Frode"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B94"]
+[WhiteElo "2478"]
+[BlackElo "2412"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "89"]
+[GameId "2201670475780176"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,89,28,13,50,50,83,54,54,37,39,21,68,39,70,23,66,34,57,30,54,29,53,22,22,-1,-11,-4,5,-6,-7,0,12,10,24,-17,60,93,111,90,85,146,146,134,207,180,180,193,240,240,241,220,287,237,237,309,298,260,260,252,308,332,352,258,370,370,363,305,1759,2006,2129,2451,29981,2239,29979,281,265,273,276,264,407,365,436,448,442,456,838,849,1079,1493,29977,1016]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 Qa5 8. Bd2 h5 9. f4 g6 (9... e5 10. Nb3 Qc7 11. O-O-O b5 12. a3 (12. Nd5 Nxd5 13. exd5 g6 14. Kb1 Bg7 15. h3 Bb7 16. Ba5) 12... Bb7 13. Kb1 Rc8 14. Bc1 Be7 15. g3 O-O 16. Bh3) 10. g3 e5 11. Nb3 Qc7 12. h3 b5 13. a3 Bb7 14. O-O-O Bg7 15. Bg2 Rc8 16. Kb1 (16. g4 exf4 17. Bxf4 Ne5 18. Bxe5 dxe5 19. g5 Nd7 20. Nd5 Bxd5 21. exd5 Qd6 22. Nd2) 16... O-O (16... exf4 17. Bxf4 Ne5 18. g4) 17. f5 Rfe8 $2 (17... a5 $1 18. Qxb5 gxf5 19. Qxa5 Nb6) 18. g4 d5 19. exd5 e4 20. Be3 (20. Bc1 Qe5) 20... Qd6 21. Bd4 Nb6 (21... Nxd5 22. Nxe4 Qc7 23. Bxg7 Kxg7 24. Qf2) 22. fxg6 fxg6 23. gxh5 Nbxd5 (23... gxh5 24. Rhg1) 24. Nxd5 Bxd5 25. hxg6 b4 (25... Rc7 26. h4 Rec8 27. Rd2) 26. axb4 Bxb3 27. cxb3 Qxb4 28. Rhf1 Re6 29. Bxf6 Bxf6 30. Qh5 Qe7 31. Bxe4 Rxe4 32. Rxf6 Re5 (32... Qxf6 33. Qh7+ Kf8 34. g7+ Qxg7 35. Rf1+) 33. Qf3 Re2 34. Qd5+ Kh8 35. Qh5+ Kg8 36. Qd5+ (36. Rf7) 36... Kh8 37. Rf7 Qe4+ 38. Qxe4 Rxe4 39. Rdd7 Re6 40. Rh7+ Kg8 41. Rhg7+ Kh8 42. h4 a5 43. h5 a4 44. Rh7+ Kg8 45. bxa4 1-0
+

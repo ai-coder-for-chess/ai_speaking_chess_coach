@@ -1,0 +1,20 @@
+﻿[Event "Riga Open 2023"]
+[Site "lichess.org"]
+[Date "2023.08.09"]
+[Round "4.3"]
+[White "Mitusov, Semen"]
+[Black "Keinanen, Toivo"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "C11"]
+[WhiteElo "2445"]
+[BlackElo "2513"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "106"]
+[GameId "474611135306"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,100,16,11,38,32,40,16,35,13,20,20,20,0,30,30,29,-2,-6,-41,1,-6,1,-6,-6,1,8,-12,8,8,0,-14,-19,-26,-35,-124,-95,-109,-114,-156,-159,-150,-81,-143,-137,-147,-111,-111,-111,-219,-222,-382,-155,-215,-212,-212,-201,-201,-203,-224,-235,-301,-281,-281,-244,-290,-327,-370,-326,-330,-262,-262,-281,-281,-281,-293,-291,-299,-300,-300,-300,-300,-300,-351,-368,-388,-331,-331,-365,-374,-374,-346,-341,-418,-375,-441,-444,-453,-486,-487,-508,-546,-517]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Be7 7. Be3 O-O (7... b6 8. Qd2 O-O 9. h4) 8. h4 Nc6 9. Qd2 b6 (9... f6 10. exf6 Nxf6 11. dxc5 Qa5 12. h5 Ng4 13. Bg1 Qb4 14. h6) 10. h5 (10. Bd3 $1 f6 11. O-O-O fxe5 12. dxe5 d4 13. Ng5 Bxg5 14. hxg5 g6 15. Ne4 $18) 10... cxd4 11. Nxd4 Nxd4 12. Bxd4 Bh4+ 13. Kd1 (13. Bf2 Bxf2+ 14. Qxf2 f6 15. exf6 Qxf6 16. g3 Bb7 17. Bg2) 13... Be7 14. h6 g6 15. Bd3 $6 (15. Bb5 f6 16. Bxd7 Bxd7 17. Ne2 fxe5 18. Bxe5 Bf6 19. Qe3) 15... f6 16. exf6 Bxf6 17. Ne2 $2 (17. Be2 e5 18. Bg1 d4 19. Nd5 $13) (17. Bxf6 Qxf6 18. g3 Bb7 19. Re1) 17... e5 18. fxe5 Nxe5 19. Bxe5 Bxe5 20. c3 Be6 21. Kc2 d4 22. Raf1 dxc3 23. Rxf8+ Qxf8 24. Qe3 $4 (24. Nxc3 Bxc3 25. bxc3 Qa3 26. Ra1) 24... Re8 25. Bxg6 $2 (25. Nd4 Qb4 26. bxc3 Qa4+) 25... Bf5+ 26. Bxf5 Qxf5+ 27. Qd3 Qxd3+ 28. Kxd3 cxb2 29. g4 Kf7 30. Re1 Rc8 31. Ke4 Rc5 32. g5 Kg6 33. Rg1 Rb5 34. Rb1 Kxg5 35. Nd4 Bxd4 36. Kxd4 Kxh6 37. Kc4 Rc5+ 38. Kd3 Rd5+ 39. Kc3 Kg5 40. Rxb2 h5 41. Rg2+ Kf4 42. Rg7 Ra5 43. Rf7+ Kg4 44. Rg7+ Kh3 45. Kb3 h4 46. a3 Kh2 47. Kb4 h3 48. a4 Kh1 49. Rg6 h2 50. Rg7 Rf5 51. Rxa7 Rf4+ 52. Kb5 Kg2 53. Rg7+ Kh3 0-1
+

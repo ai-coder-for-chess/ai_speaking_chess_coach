@@ -1,0 +1,21 @@
+﻿[Event "Кубок Львова"]
+[Site "?"]
+[Date "2021.08.11"]
+[Round "5"]
+[White "Мосесов"]
+[Black "Митусов"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "A14"]
+[WhiteElo "2409"]
+[BlackElo "2305"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "104"]
+[GameId "410229271074"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 b6 (6... d4 $5 7. e3 c5 8. Ne5 (8. d3) (8. exd4 cxd4 9. d3 Nc6 10. Bb2 (10. Re1 Bb4 11. Re2 a5) 10... e5) 8... Qc7 9. f4 Nbd7) 7. Bb2 Bb7 8. e3 c5 9. Nc3 Nc6 (9... dxc4 10. bxc4 Ne4 11. Qe2 Nxc3 12. Bxc3 Nd7 13. d4 (13. a4 Bf6 14. Bxf6 Nxf6 15. a5 Qc7 16. d3 Nd7) 13... cxd4 14. exd4 Rc8) 10. cxd5 exd5 11. d4 Re8 12. Rc1 Bf8 13. Ne2 Ne4 14. dxc5 Nxc5 $2 (14... bxc5 $1 15. Nf4 Qa5 16. Nxd5 Rad8 17. Ne5 Nxe5 18. Bxe4 Qxa2 $13) 15. Nf4 Ba6 16. Re1 Nb4 17. Ne5 Rxe5 (17... Bd6 18. Nxf7 $18) 18. Bxe5 Ncd3 19. a3 $5 (19. Nxd3 $1 Nxd3 20. Bf1 Nxc1 21. Bxa6 Qe7 22. Bxg7 Bxg7 23. Qxc1 $18) 19... Nxe1 20. Qxe1 Nd3 21. Nxd3 Bxd3 22. Rd1 Bc2 23. Rxd5 Qe8 24. b4 Rc8 25. Bb2 Ba4 26. e4 Qe6 27. Qe3 Bc6 28. Rd1 Re8 29. Re1 Rd8 30. h4 Qd7 31. Rc1 Bb7 32. Qf4 Rc8 33. Rxc8 Qxc8 34. Qe3 Qc2 35. Qd4 h6 36. Kh2 Bc6 37. h5 a5 38. Bc3 a4 $2 (38... Qc1 $1 39. bxa5 bxa5 40. Bxa5 Qxa3 $11) 39. Bb2 $2 (39. Qe3 b5 40. Bd4 {[%cal Ge3c3]}) 39... b5 40. e5 Bxg2 41. Kxg2 Qc6+ 42. f3 Qc2+ 43. Qf2 Qd3 44. g4 Be7 45. Bc1 Bg5 46. f4 Qe4+ 47. Kh2 Bh4 48. Qxh4 Qe2+ 49. Kh3 Qf1+ 50. Kh2 Qxc1 51. Qd8+ Kh7 52. Qd3+ Kg8 1/2-1/2
+

@@ -1,0 +1,20 @@
+﻿[Event "Fagerness Autumn 2022"]
+[Site "?"]
+[Date "2022.10.09"]
+[Round "1.15"]
+[White "Mitusov Semen"]
+[Black "Krivenko Dion"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B06"]
+[WhiteElo "2415"]
+[BlackElo "2107"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "87"]
+[GameId "447787939953"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. h4 h5 (5... h6 6. h5 (6. f4 h5 7. Nf3 Nh6 8. Qd2 $14) 6... g5 7. Qd2 Nf6 8. f4 gxf4 9. Bxf4 b5 10. O-O-O Bb7 11. Re1 b4 12. Nd1 $14) 6. Nh3 b5 (6... Bxh3 7. Rxh3 Nd7 8. Qe2 Ngf6 9. O-O-O Qb8 10. Bg5 $16) (6... Nf6 7. f3) 7. Ng5 Bb7 (7... Nf6 8. f3 Bb7 (8... O-O 9. Qd2 Nbd7 10. O-O-O Bb7 11. Kb1 c5 12. dxc5 Nxc5 13. g4 hxg4 14. h5 $16) 9. e5 dxe5 10. dxe5 Qxd1+ 11. Rxd1 Nh7 12. f4 e6 $16) 8. g4 Nf6 (8... hxg4 9. Qxg4 Nf6 10. Qg1 b4 11. Ne2 Nxe4 12. Qg2 d5 (12... Nc5 13. f3 Na4 14. h5 Rxh5 15. Rxh5 gxh5 16. Nh7 Bh8 17. Qg8+ Kd7 18. Bh3+ e6 19. Qxf7+ Kc8 20. Bxe6+ Nd7 21. Bg5) 13. Ne6 fxe6 14. Qxg6+ Kd7 15. Qxg7) 9. gxh5 Rxh5 (9... Nxh5 10. Qf3 Nf6 11. Qg2 Nbd7 12. Be2 b4 13. Na4 e6 14. O-O-O Qe7 15. f4 Bc6 16. b3) 10. Be2 Rh8 11. Bf3 Nbd7 (11... Nc6 12. h5 gxh5 13. Bxh5 Nxh5 14. Rxh5 Qd7 15. Rxh8+ Bxh8 16. Qh5 O-O-O 17. O-O-O $16) 12. e5 Bxf3 13. Qxf3 (13. Nxf3 dxe5 14. dxe5 Ng4 15. e6 fxe6 $11) 13... dxe5 14. O-O-O e4 (14... Qb8 15. Nce4 Kf8 16. h5 $18) 15. Ncxe4 Nb6 16. d5 Nc4 17. Bd4 $6 (17. h5 $1 Ne5 18. Qg2 Nxh5 19. Ne6 fxe6 20. dxe6 Qc8 21. Nc5) (17. Ne6 fxe6 18. dxe6 Nd6 19. Qg2) 17... Nd6 18. Nc5 $6 (18. Bxf6 exf6 19. Rhe1 Kf8 20. Ne6+ fxe6 21. dxe6 Qe7 (21... Ke7 22. Nxd6 cxd6 23. Qb7+) 22. Nxd6 c6) 18... Qc8 19. Kb1 Qf5 20. Qe2 Kf8 21. Rh3 $2 (21. Nge6+ fxe6 22. Nxe6+ Kf7 23. Nxg7 Kxg7 24. Qxe7+ Nf7 25. h5 g5 26. f4 g4 27. Rh4 $18) 21... Kg8 22. Be5 Qg4 $6 (22... Nde4 $1 23. Ncxe4 Qxe5 24. f4 Qf5 $17) 23. Qe1 Qc4 $4 (23... Re8 24. Nxa6 Qc8 25. Nb4 $16) 24. Nce6 fxe6 25. Bxd6 e5 26. Bxe5 Rxh4 27. b3 Qg4 28. Rd4 Qxg5 29. Rdxh4 Rd8 30. Rd4 (30. Bc3 $18) 30... Qf5 31. Rhd3 Rd7 32. Rf4 Qg5 33. Rg3 Qh5 34. Bxf6 exf6 35. Qe8+ Kh7 36. Rh4 Qxh4 37. Qxg6+ Kg8 38. Qe8+ Kh7 39. Qxd7 Qh1+ 40. Kb2 Qh6 41. Qxc7 f5+ 42. Rxg7+ Qxg7+ 43. Qxg7+ Kxg7 44. c4 1-0
+

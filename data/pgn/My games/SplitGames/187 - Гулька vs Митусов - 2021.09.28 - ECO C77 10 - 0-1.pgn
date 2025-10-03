@@ -1,0 +1,21 @@
+﻿[Event "ПУ"]
+[Site "?"]
+[Date "2021.09.28"]
+[Round "7"]
+[White "Гулька"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C77"]
+[WhiteElo "2187"]
+[BlackElo "2297"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "148"]
+[GameId "414470504943"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,24,16,28,38,44,44,-1,8,-27,2,-3,4,-22,12,-39,9,1,31,32,44,17,78,3,-1,-4,1]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 (5... Be7 6. O-O b5 7. Bb3 d6 8. a4 b4 9. Nd5 Na5) 6. Bb3 Be7 7. a4 b4 8. Nd5 O-O 9. d3 (9. Nxf6+ Bxf6 10. Bd5 Bb7) 9... Na5 10. Ba2 Rb8 (10... Nxd5 $1 11. exd5 (11. Bxd5 c6 12. Ba2 d6 13. O-O Rb8 14. d4 exd4 15. Nxd4 Bf6) 11... d6 12. Bd2 Rb8 13. O-O Bg4 $17) 11. O-O d6 (11... Nxd5 12. exd5 d6 13. h3 f5 14. Re1 Bf6 $17) 12. Bd2 c5 (12... Nxd5 13. Bxd5 c6 14. Ba2 c5) 13. Nxf6+ Bxf6 14. Bd5 Bd7 15. Be3 h6 16. Nd2 Kh7 17. Qe2 (17. Qh5 $1 Be6 $14) 17... Qe7 18. Nc4 Nxc4 19. Bxc4 a5 20. Qh5 Be6 21. b3 Rh8 22. Bd2 Kg8 23. Bxe6 Qxe6 24. Rae1 g6 25. Qe2 Kh7 26. f4 exf4 27. Rxf4 Rhf8 28. Ref1 Bg7 29. Qf3 Kg8 30. Kh1 Rbd8 (30... Rbe8 $5) 31. Rh4 $6 (31. Qf2 $11) 31... f5 32. Qd1 $6 (32. exf5 Rxf5 33. Rf4 Re5 (33... Rdf8 $2 34. Qd1 $11) 34. Rf7 Re8 $17) 32... g5 33. exf5 Rxf5 34. Re4 Be5 $2 (34... Rdf8 $3 35. Rxf5 Qxf5 36. g4 $1 Qf2 37. Be3 $1 Qf7 38. Bg1 $1 d5 39. Re1 c4 $17) 35. Rxf5 Qxf5 36. Qf3 $2 (36. g4 $1 Qf7 (36... Qf2 37. Qe2 Rf8 38. Be1 $1 $11) 37. Kg2 Rf8 38. Qe2 $11) 36... Rf8 37. Qxf5 Rxf5 38. Kg1 Bd4+ 39. Be3 d5 40. Re7 Kf8 41. Bxd4 Kxe7 42. Bxc5+ Kd7 43. Bb6 d4 (43... Re5 44. Bxa5 Re1+ 45. Kf2 Rc1 46. Bxb4 Rxc2+ 47. Kg3 h5 48. h4 g4 49. d4 Ke6 50. Bc5 Ra2 51. Bb6 Kf5 52. a5 Rb2 53. Kh2 Rxb3 54. Bc5 Rb1 55. a6 Ra1 56. a7 Kf4 57. Bd6+ Ke3 58. Bc5 Kf2 59. g3 Ra2 $19) 44. Bxd4 Rd5 45. Be3 $2 (45. c3 $1 g4 46. Kf2 bxc3 47. Bxc3 Rxd3 48. Bxa5 Rxb3 49. Bd2 h5 50. a5 Rb2 51. Ke2 Ra2 52. h3 g3 53. a6 Ke6 54. a7 Rxa7 55. Kf3 Ra3+ $13) 45... Rd6 46. Bc5 Rc6 47. d4 Rf6 48. d5 Rf5 49. Bd4 Rxd5 50. c3 Rf5 51. cxb4 axb4 52. Bf2 Kc6 53. Kf1 Re5 54. Be1 Re4 55. Kf2 Kb6 56. Bd2 Ka5 57. Kf3 Re6 58. Be3 Rc6 59. Bd4 Rc1 60. Bg7 h5 61. g4 Rf1+ 62. Kg2 Rf7 63. gxh5 Rxg7 64. Kg3 Rd7 65. Kg4 Rd2 66. h3 Rg2+ 67. Kf3 Rb2 68. h6 Rxb3+ 69. Kg4 Rc3 70. h7 Rc8 71. Kxg5 b3 72. Kg6 b2 73. Kg7 b1=Q 74. h8=Q Qb2+ 0-1
+

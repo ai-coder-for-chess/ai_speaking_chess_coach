@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.27"]
+[Round "3"]
+[White "Mitusov, Semen"]
+[Black "Ramirez, Manuel"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2428"]
+[BlackElo "2076"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "111"]
+[GameId "468093253417"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. g3 O-O 12. Bg2 Be6 13. O-O Rc8 14. c3 f5 15. exf5 Bxf5 16. Nc2 a5 $6 (16... Be6 17. a4 f5 18. axb5 axb5 19. Qh5 Kh8 (19... f4 20. Be4) 20. Rfd1) 17. f4 $6 (17. a4 b4 18. cxb4 Bxc2 19. Qxc2 Nxb4 20. Qxc8 Qxc8 21. Ne7+ $18) 17... exf4 18. Rxf4 Bg6 19. Nce3 b4 20. Kh1 $6 (20. h4 bxc3 21. bxc3 h5 22. Nf5 $16) 20... bxc3 21. bxc3 Ne7 22. c4 $2 (22. Nf6+ Kh8 23. Qd2 Bh6 24. Qd4 Bg7 25. Qd2 $11) 22... Nxd5 23. Nxd5 Qg5 $2 (23... Be5 24. Rf2 Rxc4 25. Rc1 $17) 24. Rc1 Qe5 25. Qf1 Rfe8 26. Qf2 $6 (26. Rf2 $11) 26... Qe2 27. h4 Qxf2 28. Rxf2 Be4 29. Bxe4 Rxe4 30. Rcf1 f6 $6 (30... Rcxc4 31. Rxf7 Rc2 $11) 31. Rxf6 Rcxc4 32. Rf7 (32. Rxd6 $16) 32... Rc2 33. Rd7 h5 34. Nf4 Be5 35. Rb1 Rb2 36. Rc1 Rb8 37. Nxh5 Re2 38. a4 Rf8 39. Ra7 Ra2 40. Re7 Rxa4 41. Kg2 Ra2+ 42. Kh3 Ra3 43. Ra7 Bd4 44. Rb7 (44. Ra6 Be5 45. Rc7 $14) 44... Be5 45. Rc6 Ra8 46. Rc4 a4 47. Rg4+ Kf8 $4 (47... Kh8 48. Rf7 Rb3 49. Rf5 Rb7 50. Nf4 $11) 48. Rh7 $4 (48. Nf4 $1 Bxf4 49. Rxf4+ Kg8 50. Rff7 Ra5 51. Rg7+ Kf8 52. Rbf7+ (52. Rh7 Kg8 53. Rbg7+ Kf8 54. h5) 52... Ke8 53. Rh7 $18) 48... Rd8 $4 (48... Rf3 49. Nf4 Rxf4 50. gxf4 Bb2 $11) (48... Ra6 49. Nf4 Bxf4 50. Rxf4+ Kg8 51. Rff7 Rb3 52. Rfg7+ Kf8 53. Rc7 Kg8 54. h5 $18) 49. Ra7 $2 (49. Nf4 Bxf4 50. Rxf4+ Kg8 51. Rff7 Re3 52. Rfg7+ Kf8 53. h5 $18) 49... d5 50. Rg5 $4 (50. Nf4 Bxf4 51. Rxf4+ Kg8 52. Rg4+ Kf8 53. Rgg7 $18) 50... Re3 51. Rf5+ Kg8 52. Rxa4 d4 53. Kg2 d3 (53... Re4) 54. Rg4+ Kh8 55. Nf6 $4 (55. Nf4 Bg7 56. Rf7 Bf8 57. Ng6+ Kg8 58. Ne5+ Kh8 59. Rxf8+ Rxf8 60. Ng6+ Kg8 61. Nxf8+ Kxf8 62. Rd4 $18) 55... Bxf6 $4 (55... Rxg3+ 56. Rxg3 Bxg3 $11) 56. Rh5# 1-0
+

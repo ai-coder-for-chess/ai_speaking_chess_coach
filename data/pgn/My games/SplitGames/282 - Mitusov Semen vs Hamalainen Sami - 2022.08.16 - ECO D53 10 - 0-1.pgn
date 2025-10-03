@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "?"]
+[Date "2022.08.16"]
+[Round "2"]
+[White "Hamalainen Sami"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D53"]
+[WhiteElo "2160"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "84"]
+[GameId "442939584951"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,12,16,28,26,-14,-3,-11,-12,-16,-1,10,20,17,40]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Bd3 c6 $6 (6... dxc4 7. Bxc4 a6) 7. Nge2 a6 8. O-O dxc4 9. Bxc4 b5 10. Bb3 Bb7 11. Rc1 (11. e4 b4 12. e5 bxc3 13. exf6 gxf6 14. Bc1 cxb2 15. Bxb2 $14) 11... Rc8 12. a3 c5 13. dxc5 Rxc5 14. Bh4 (14. Bxf6 Bxf6 15. Ng3 Bxc3 16. Rxc3 Rxc3 17. bxc3 $17) 14... O-O (14... g5 $1 15. Bg3 h5 16. f3 g4 17. fxg4 Nxg4 $19) 15. Nd4 Ne5 16. Bxe6 $2 (16. Bxf6 Bxf6 17. Ne4 Rxc1 18. Nxf6+ Qxf6 19. Qxc1 Rc8 20. Qd2 h6 $15) 16... fxe6 17. Nxe6 Qb6 18. Nxf8 Bxf8 19. f3 Nc4 $6 (19... Nd5 $1 20. Nxd5 Rxd5 21. Qe2 Rd3 22. Bf2 Bxf3 23. gxf3 Rd2 $19) 20. Bf2 Rc8 $2 (20... Qe6 $1 21. Qe2 Nh5 $19) 21. Qe2 Re8 22. e4 Bc5 $2 (22... Qe6 $11) 23. Bxc5 Qxc5+ 24. Qf2 Nd7 25. Rfd1 Qe7 26. Nd5 $2 (26. a4 $1 Bc6 27. axb5 axb5 28. Nd5 $18) 26... Bxd5 27. Rxd5 Nde5 28. Rcd1 Qf8 29. Qd4 Nc6 30. Qc3 Qf4 31. Rd7 N4e5 32. Rc7 $4 (32. R7d6 $18) 32... Nxf3+ 33. gxf3 Qxc7 34. Rc1 Re6 35. Kh1 Qf7 36. Rd1 h6 37. Kg2 Ne5 38. Rd5 Qf4 39. Qc8+ Kf7 40. Qc7+ Kg6 41. Qc3 Kh7 42. Rd1 Rg6+ 0-1
+

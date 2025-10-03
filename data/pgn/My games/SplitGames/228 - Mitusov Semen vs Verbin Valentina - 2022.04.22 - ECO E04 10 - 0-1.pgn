@@ -1,0 +1,20 @@
+﻿[Event "Nordstrand GP Langsjakk 2022"]
+[Site "?"]
+[Date "2022.04.22"]
+[Round "1"]
+[White "Verbin Valentina"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "E04"]
+[WhiteElo "2037"]
+[BlackElo "2274"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "88"]
+[GameId "432783578915"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,26,16,28,26,-14,-23,-18,0,-32,-12,-21,-11,-58,-34,-46,-25,-65,-21,-16,14,22,28,30,55,23,23,18,67]} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Bd7 6. Ne5 Bc6 7. Nxc6 Nxc6 8. e3 Qd7 9. O-O O-O-O 10. Qa4 Nd5 11. Qxc4 h5 12. Nc3 h4 13. Bd2 f5 14. Rac1 g5 15. Nxd5 exd5 16. Qa4 hxg3 17. fxg3 Bd6 18. Be1 f4 $1 19. exf4 gxf4 20. gxf4 Qe6 21. Rc3 Bxf4 22. Bg3 Be3+ $2 (22... Bxg3 $1 23. Rxg3 Rh4 $19) 23. Kh1 Rdg8 24. Rxc6 Qxc6 $6 (24... bxc6 $5 25. Qxa7 Rh7 26. Rf3 Rxg3 27. Rxg3 Bxd4 28. Qa6+ Kd8 $19) 25. Qxa7 b5 $2 (25... b6 $5 $11) 26. Be5 $6 (26. Bxc7 $1 Qb7 27. Qxb7+ Kxb7 28. Be5 $16) 26... Rh6 27. Qa3 Bg5 28. Rf7 $2 (28. Qb3 $1 $11) 28... Bd8 29. Qf3 Rhg6 30. Bg3 Qc1+ 31. Bf1 Qc6 32. Bg2 Rg5 33. Rf5 Kb8 34. Bf1 Rxf5 35. Qxf5 Be7 36. Qd3 b4 37. Kg2 Bd6 38. Qh7 Qe8 39. Bd3 Bxg3 40. hxg3 Rg4 41. Qf5 Rxd4 42. g4 Qe3 43. Ba6 Rd2+ 44. Kf1 Rd1+ 0-1
+

@@ -1,0 +1,21 @@
+﻿[Event "Rudar 8 2024"]
+[Site "?"]
+[Date "2024.07.31"]
+[Round "2"]
+[White "Mitusov, Semen"]
+[Black "Sukovic, Andrej"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C18"]
+[WhiteElo "2478"]
+[BlackElo "2350"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "64"]
+[GameId "2073676599611403"]
+[EventDate "2024.07.30"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,64,19,31,41,46,51,32,46,43,33,25,50,29,25,3,-3,-14,-3,-6,0,0,4,-25,-24,-20,-13,-6,5,-2,0,0,1,-20,-14,-16,-11,-16,-24,-25,-41,-68,-50,-47,-44,-61,-51,-47,-44,-39,-54,-52,-43,-69,-9,-22,-47,-85,-50,-50,-35,-52,-50,-55,-54,-62,-71]} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 (7. Qg4 Ne7 8. bxa5 dxc3 9. Qxg7 Rg8 10. Qxh7 Nbc6 11. Nf3 Qc7 12. Bf4 Bd7 13. a6 b6 14. Bd3 O-O-O 15. Bg3 Rh8 16. Qg7 Rdg8 17. Qf6 $18) 7... Bc7 8. f4 Bd7 9. Nf3 (9. Nxc7+ Qxc7 10. Nf3 Ba4 11. Bd3 Ne7 12. O-O a6 (12... Nbc6 $6 13. b5 Na5 14. Qe1 $16) 13. Nxd4 Nbc6 14. Be3 Nxd4 15. Bxd4 Bb5 16. a4 Bxd3 17. cxd3 Rc8 18. a5 O-O 19. Bc5 $14) 9... Bxb5 10. Bxb5+ Nc6 11. O-O Nge7 12. Kh1 Bb6 13. Nxd4 $2 (13. Bd3 $1 a6 14. Qe2 g6 (14... Nf5 15. Bd2 Ne3 (15... Nce7 16. a4 h5 17. a5 Ba7 18. b5 axb5 19. Rfb1) 16. Rfb1) 15. Bd2 h5 16. Rfb1 Nf5 17. Bxf5 gxf5 18. b5 Na5 19. bxa6 bxa6 20. h3 Nc4 21. Be1 $16) 13... Bxd4 14. Qxd4 a6 15. Bxc6+ Nxc6 16. Qf2 O-O 17. Rd1 (17. Be3 d4 $1 $17) 17... f6 18. exf6 Qxf6 19. Rb1 $6 (19. Be3 Ne5 (19... Rad8 20. Qe2 d4 21. Bg1 Rd5 $11) 20. Bd4 Ng4 21. Qe2 Qxf4 22. Qxe6+ $11) 19... Ne5 20. Rb3 (20. Qb6 Nc4 21. Qxb7 Qf5 22. Rd3 $13) 20... Nc4 21. Qe2 Rae8 (21... Rac8 $1 22. Re1 Rc6 23. Kg1 $15) 22. Rf3 Qf5 23. Re1 Rf7 24. Qd3 Nd6 25. Bb2 Rc8 26. Be5 Nc4 (26... Ne4 27. Kg1 g5 28. Ref1 g4 29. Re3 h5 30. c3 h4 31. h3 $11) 27. h3 (27. g3 Qxd3 28. Rxd3 Nxe5 29. Rxe5 Rxc2 30. Rxe6 Rfc7 31. Rxd5 Ra2 32. Rd1 Rcc2 33. f5 $11 h5 34. Rg6) 27... Qxd3 28. Rxd3 Rc6 (28... Rf5 29. Bd4 Kf7 30. g3 g5) 29. Rf3 Nd2 30. Rc3 Nc4 31. Rf3 Nd2 (31... Rf5 $1 32. Bb8 g5 (32... Nd2 33. Rd3 Ne4 34. Re2 $17)) 32. Rc3 Nc4 1/2-1/2
+

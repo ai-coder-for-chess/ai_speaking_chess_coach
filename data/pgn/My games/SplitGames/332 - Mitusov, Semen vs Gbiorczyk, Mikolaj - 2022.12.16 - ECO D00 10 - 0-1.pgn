@@ -1,0 +1,20 @@
+﻿[Event "EM i lynsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.16"]
+[Round "2"]
+[White "Gbiorczyk, Mikolaj"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "Semen"]
+[ECO "D00"]
+[WhiteElo "1663"]
+[BlackElo "2315"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "76"]
+[GameId "453748277576"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,76,27,27,23,-27,19,3,9,-28,8,-25,9,8,19,-54,1,1,1,1,13,15,15,15,15,-364,-9,-17,-17,-8,-15,-18,21,7,7,7,28,6,10,-8,-16,-67,-22,-38,80,-224,-230,-219,-224,-236,-240,-303,-311,-324,-193,-385,-307,-310,-269,-349,-334,-342,-334,-334,-321,-368,-371,-712,-753,-862,-952,-1005,-1005,-1103,-1117,-1117,-2119,-29987,-29988]} 1. d4 d5 2. Bg5 Nd7 3. e3 Ngf6 4. Nd2 h6 5. Bh4 e6 (5... e5 6. dxe5 Nxe5 7. Ngf3 Nxf3+ 8. Nxf3 g6) 6. Bd3 Be7 7. f4 b6 8. Ngf3 Bb7 9. Ne5 Ne4 10. Bxe7 Qxe7 11. Bb5 Nef6 12. Ndf3 $4 O-O (12... Qb4+ $19) 13. O-O Rac8 14. c3 c6 15. Bd3 Ne4 16. Nxd7 Qxd7 17. Ne5 Qe7 18. Qc2 c5 19. Bxe4 dxe4 20. a4 Qe8 21. a5 h5 22. Qa4 $4 (22. axb6 axb6 23. Ra7 Rc7 24. dxc5 bxc5 $16) 22... b5 23. Qa2 f6 24. a6 Ba8 25. f5 fxe5 26. fxe6 Qe7 27. h3 c4 28. Qa5 Bc6 29. Rf7 Rxf7 30. exf7+ Qxf7 31. Rf1 Qe7 32. Qa1 exd4 33. exd4 e3 34. Qe1 e2 35. Rf2 Re8 36. Kh2 Qe3 37. Kg1 h4 38. Kh1 Qxf2 0-1
+

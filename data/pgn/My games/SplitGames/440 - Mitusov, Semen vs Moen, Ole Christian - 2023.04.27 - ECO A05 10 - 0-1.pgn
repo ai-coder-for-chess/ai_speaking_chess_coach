@@ -1,0 +1,19 @@
+﻿[Event "OSS vеrturnering 2023"]
+[Site "?"]
+[Date "2023.04.27"]
+[Round "7"]
+[White "Moen, Ole Christian"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A05"]
+[WhiteElo "2114"]
+[BlackElo "2396"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "64"]
+[GameId "465479055915"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,64,19,28,40,50,82,24,20,20,26,14,8,21,16,-15,-3,-25,-12,-21,-9,-8,13,-38,-16,-73,-54,-44,-53,-81,-71,-139,-153,-132,-171,-171,-117,-114,-135,-152,-151,-179,-30,-101,-111,-118,-67,-164,-171,-193,-205,-211,-218,-218,-200,-211,-189,-265,-232,-229,-256,-281,-233,-217,-217,-782,-840]} 1. e4 c5 2. Nf3 d6 3. g3 Nf6 4. d3 Nc6 5. Bg2 g6 6. O-O Bg7 7. Nbd2 (7. Re1 O-O 8. c3 e5 9. a3 b5 10. b4 a5) 7... O-O 8. c3 Bd7 9. a3 (9. Re1 e5) 9... Qc8 10. Re1 Bh3 11. Bh1 (11. d4 Bxg2 12. Kxg2 cxd4 13. cxd4 Nd7 $11) 11... h6 12. b4 Nh5 (12... Ng4 13. Qb3 Nce5 14. Nxe5 Nxe5 15. Re3 Be6 16. Qb2 Ng4 $19) 13. Qb3 Nf4 14. Re3 b5 (14... Be6 15. Qb2 Nh3+ 16. Kf1) 15. Ne1 $2 (15. Bb2 Be6 16. Qc2 Nh3+ 17. Kf1 cxb4 18. cxb4 Ne5) 15... Be6 16. Qb2 Nh3+ 17. Kf1 a5 (17... cxb4 18. axb4 a5 19. d4 axb4 20. e5 Ra4 $19) 18. bxc5 dxc5 19. f4 Rb8 20. e5 b4 (20... g5 21. Ne4 gxf4 22. gxf4 Nxf4 23. Rg3 Nh5 $19) 21. axb4 axb4 22. Ne4 c4 23. cxb4 (23. d4 bxc3 24. Qxc3 Rd8 25. Nc2 Rb3 26. Qd2 Rd3 $19) 23... Nxb4 24. d4 Nd5 25. Qc2 Nxe3+ 26. Bxe3 Rb3 27. Nc3 Qb8 (27... Bf5 28. Qd2 f6) 28. Bc1 Qb6 29. Qd2 Rd8 30. Nc2 g5 $6 (30... Bf5 31. Nd5 Rxd5 32. Bxd5 e6 33. Bxc4 Qc6 $19) 31. Na4 (31. Be4 $1 Bg4 $19) 31... Qb5 32. Nc5 $2 (32. Nc3 Qd7 33. d5 Rxc3 34. Qxc3 Bxd5 35. Bxd5 Qxd5 $19) 32... c3+ 0-1
+

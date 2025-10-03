@@ -1,0 +1,22 @@
+﻿[Event "Kyiv Chess Open6"]
+[Site "Kyiv"]
+[Date "2021.07.20"]
+[Round "1.2"]
+[White "Mitusov, Semen"]
+[Black "Mahlyovanyi, Nikita"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/ODSL"]
+[ECO "B23"]
+[WhiteElo "2193"]
+[BlackElo "1487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "69"]
+[GameId "408241197940"]
+[EventDate "2021.??.??"]
+[EventType "game"]
+[EventCountry "POL"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. Nge2 e6 6. O-O Be7 7. f4 O-O 8. d3 a6 9. h3 Qc7 10. g4 Nd7 11. g5 b5 12. Ng3 b4 13. Nce2 Bb7 14. f5 Nce5 15. h4 Qb6 16. Nf4 exf5 17. Nxf5 Rfe8 18. Ne3 Nf8 19. Nfd5 Bxd5 20. Nxd5 Qb7 21. Bf4 Ne6 22. Bg3 Rad8 23. Qh5 Bf8 24. Rf2 Nc7 25. Ne3 g6 26. Qe2 Bg7 27. Raf1 Re7 28. Qd2 a5 29. c3 Rde8 30. d4 Nc6 31. e5 dxe5 32. d5 Rd7 33. dxc6 Rxd2 34. cxb7 Rxf2 35. Rxf2 1-0
+

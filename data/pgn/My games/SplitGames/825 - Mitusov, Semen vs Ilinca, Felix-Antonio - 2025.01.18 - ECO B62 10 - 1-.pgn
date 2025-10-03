@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.18"]
+[Round "9.6"]
+[White "Mitusov, Semen"]
+[Black "Ilinca, Felix-Antonio"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B62"]
+[WhiteElo "2464"]
+[BlackElo "2440"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "141"]
+[GameId "2137161722745013"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3 Bd7 8. Ndb5 Nb4 9. Qd1 Qb8 10. Bf4 e5 11. Bg5 a6 12. Bxf6 gxf6 13. Na3 b5 (13... b6) 14. Nab1 Bg7 15. a3 Nc6 16. Nd5 f5 17. Bd3 fxe4 18. Bxe4 O-O 19. Nb4 Nxb4 20. axb4 Ra7 21. O-O f5 22. Bd5+ Kh8 23. c3 Qb6 24. Nd2 e4 25. Nb3 Bc8 26. Qd2 Re7 27. Rae1 Be5 $6 {Inaccuracy. Re5 was best.} (27... Re5) 28. Kh1 Rg7 29. f3 exf3 30. Rxf3 Qd8 31. Nd4 Bd7 32. Ne6 Bxe6 33. Bxe6 Qh4 34. Rh3 Qf6 35. Bd5 Rg4 36. Rf1 Rh4 37. Qd3 Rxh3 38. Qxh3 Qg5 39. Qd3 Rf6 40. Bb7 Qh4 41. h3 f4 42. Bf3 Rf8 43. Qe4 Qd8 44. Qb7 a5 45. Qxb5 axb4 46. Qxb4 Qb8 $6 {Inaccuracy. Qc7 was best.} (46... Qc7 47. Qe4 Rb8 48. Rf2 Re8 49. Re2 Kg7 50. Qf5 Rb8 51. Qg4+ Kh8 52. Qe6) 47. Qa3 $6 {Inaccuracy. Qxb8 was best.} (47. Qxb8 Rxb8 48. Rf2 Bf6 49. Kg1 Bh4 50. Rd2 Re8 51. Rd1 Re3 52. Kf1 Kg7) 47... Qb6 48. Rb1 $6 {Inaccuracy. Re1 was best.} (48. Re1 Kg7 49. Qa2 Qf2 50. Qa1 Qb6 51. Re2 Re8 52. Qb1 Qc7 53. Qe4 Re7) 48... Rb8 49. b4 Rc8 $4 {Blunder. Qe3 was best.} (49... Qe3) 50. b5 Rxc3 $6 {Inaccuracy. Bxc3 was best.} (50... Bxc3 51. Qc1 Kg7 52. Qxf4 Rf8 53. Qg5+ Kh8 54. Be4 Rf7 55. Qd5 Qf2 56. Qxd6) 51. Qa8+ Kg7 52. Bd5 Qe3 53. Qg8+ Kh6 54. Qf8+ Bg7 55. Qxd6+ Kg5 56. Bf3 $4 {Blunder. Qd8+ was best.} (56. Qd8+) 56... Rc1+ 57. Rxc1 Qxc1+ 58. Kh2 Qe1 59. Qd5+ Kf6 $6 {Inaccuracy. Be5 was best.} (59... Be5 60. Qd8+ Kf5 61. Qf8+ Ke6 62. Qc8+ Kf6 63. Qc5 h5 64. Qg1 Qxg1+ 65. Kxg1) 60. Qd4+ Kg6 61. Be4+ Kf7 $4 {Blunder. Kh6 was best.} (61... Kh6) 62. Qd7+ Kf6 63. Qd8+ Kf7 64. Qc7+ Kf6 65. Qxf4+ Ke7 66. Qc7+ Kf8 $4 {Checkmate is now unavoidable. Kf6 was best.} (66... Kf6 67. Qd8+ Kf7 68. Qd7+ Kf6 69. Qd4+ Ke6 70. Qxg7 Qxe4 71. b6 Qf4+ 72. Qg3) 67. Qd6+ Ke8 68. Bc6+ Kf7 69. Bd5+ Ke8 70. Qb8+ Ke7 71. Qc7+ 1-0
+

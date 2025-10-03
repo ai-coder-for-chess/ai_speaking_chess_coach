@@ -1,0 +1,21 @@
+﻿[Event "Rudar 8 2024"]
+[Site "?"]
+[Date "2024.08.02"]
+[Round "4"]
+[White "Ahmadzada, Ahmad"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C84"]
+[WhiteElo "2481"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "46"]
+[GameId "2074374572085259"]
+[EventDate "2024.07.30"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4 (8. a3 Na5 9. Ba2 c5 10. Nc3 Be6 11. Bg5 (11. Nd5 Nxd5 12. Bxd5 Bxd5 13. exd5 O-O 14. b4 Nb7 15. c4 f5 16. Nd2 h6) 11... c4) 8... Bd7 (8... Na5 9. Ba2 b4 10. Nbd2 O-O 11. Nc4 c5 12. c3 Nc6 13. Bg5 Rb8 14. Ne3 Be6 {1-0 Tari,A (2584)-Dubov,D (2660) Wch Rapid Doha 2016 (1)}) 9. c3 O-O 10. Ba2 (10. Bc2 h6 11. h3 Re8 12. Re1 Bf8 13. Nbd2 Rb8 14. axb5 axb5 15. Nf1 Ra8) 10... h6 11. h3 Re8 12. Be3 Bf8 13. Nbd2 Ne7 (13... Rb8 14. axb5 axb5 15. g4) 14. axb5 (14. g4 g5 (14... Ng6 15. g5 Nh7 16. h4 Bg4 17. h5 Bxh5 (17... Nf4) 18. Nxe5 $1)) 14... axb5 15. Nh4 g5 (15... d5 16. Qf3 Be6 17. Bb3 $11) 16. Nhf3 (16. Qf3 Bg7 17. Nf5 Bxf5 18. exf5 d5 $15) 16... Ng6 17. d4 $6 (17. b4 $11) 17... c5 18. Nh2 $2 Bc6 $2 (18... exd4 19. cxd4 c4 20. Qc2 Qc8 $1 $19 (20... Nxe4 21. Nxe4 Bf5 22. Bxc4 $1 Bxe4 23. Bd3)) (18... c4 19. b3 d5 $17) 19. dxe5 $6 (19. d5 Bd7) 19... dxe5 (19... Nxe5 20. f4 gxf4 21. Bxf4 c4 $19) 20. Ng4 Nxg4 (20... Nd7 21. Qc2 $11) 21. hxg4 c4 22. g3 Nf4 23. b3 b4 $19 1/2-1/2
+

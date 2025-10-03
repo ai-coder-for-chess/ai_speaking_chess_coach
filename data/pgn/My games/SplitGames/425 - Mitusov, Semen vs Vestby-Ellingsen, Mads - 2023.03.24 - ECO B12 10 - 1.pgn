@@ -1,0 +1,20 @@
+﻿[Event "Kvisla Invitational vol. 3"]
+[Site "Bogstadveien 30, Oslo"]
+[Date "2023.03.24"]
+[Round "5.2"]
+[White "Mitusov, Semen"]
+[Black "Vestby-Ellingsen, Mads "]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2407"]
+[BlackElo "2369"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "133"]
+[GameId "462414826688"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Bd3 (5. Nf3 Bxc5 6. Bd3) 5... Bxc5 (5... Nd7 6. Nf3 Nxc5 7. Be2 $14) 6. Nf3 (6. Qg4 Ne7 7. Nf3 Nbc6 8. Qxg7 (8. O-O Ng6) 8... Rg8 9. Qxh7 Qc7 10. Bf4) 6... f6 7. O-O Nc6 8. Qe2 fxe5 9. Nxe5 Nxe5 10. Qxe5 Nf6 11. Nd2 (11. Bb5+ Kf7 12. Bf4 Rf8 13. Nd2 Kg8 14. Bg3 Qb6 15. Bd3 $14) 11... O-O 12. Nf3 Bd6 13. Qe2 Qe8 $6 (13... Qc7 14. Re1 e5 15. Nxe5 Re8 16. Bf4 Bg4 (16... Ng4 17. Bxh7+) 17. Qe3 $11) 14. Re1 Qh5 15. h3 Re8 (15... Bd7 16. Ne5 (16. Bd2 Rae8 17. Ne5 Qh4 $14) 16... Qxe2 17. Rxe2 Be8 18. Nf3 Bf7 19. Bd2 $16) 16. Ne5 Qxe2 17. Rxe2 Nd7 18. Bf4 (18. Bb5 Bxe5 19. Bxd7 (19. Rxe5 Nxe5 20. Bxe8 Bd7 21. Bh5 Rc8 $11) 19... Bxb2 $11) 18... Nc5 19. Rae1 Bxe5 20. Bxe5 Nxd3 21. cxd3 Bd7 22. Rc2 (22. Re3 Rac8 23. Rg3 Re7 24. Bc3 $16) 22... Rac8 23. Rxc8 $6 (23. Rce2) 23... Rxc8 24. Bc3 Re8 25. Re3 Bb5 26. Be5 a6 $6 (26... Rc8 27. Bc3 Re8 28. d4 $14) 27. Rg3 Re7 $6 (27... g6 28. h4 d4 29. h5 Kf7 $14) 28. d4 Rf7 29. h4 Kf8 30. Rc3 Bc6 31. Kf1 g6 32. Ke1 Ke7 33. Rh3 Kd7 34. Ke2 $6 (34. h5 gxh5 35. Rxh5 $18) 34... Bb5+ 35. Ke3 $6 Bc4 $6 (35... Bf1 36. Rh2 a5 37. f3 a4 38. g4 Bc4 39. b3 axb3 40. axb3 Bxb3 41. Rb2 Bd1 42. Rxb7+ Ke8 $11) 36. b3 Bf1 37. Rh2 Bb5 $2 (37... a5 38. f3 Kc6 39. g3 a4 $16) 38. f3 a5 39. h5 gxh5 40. Rxh5 a4 41. g4 axb3 42. axb3 Ba6 43. Rh6 b6 44. f4 Bc8 45. Rh1 Bb7 (45... Kc6 46. Rc1+ Kb7) 46. Rc1 Bc6 47. Kf3 Rf8 48. Rh1 Rf7 49. Kg3 Kc8 50. Rh6 Bd7 51. Kh4 Kb7 52. Kg5 Ka6 53. Rh3 $6 (53. Rf6 Rg7+ 54. Kh4 Kb5 55. Rf8 Rg6 56. Rd8 Bc6 57. f5 $18) 53... Kb5 54. Re3 Bc8 (54... Be8 55. Kh6) 55. Kh6 Bd7 56. Rf3 Bc8 57. Rc3 Bd7 $6 (57... Ba6) 58. Rf3 Bc8 59. Re3 Bd7 60. g5 Bc8 61. Rc3 Bd7 62. Rc7 Ka6 63. Bd6 Kb5 64. g6 Rf6 65. Kxh7 Be8 66. g7 Bg6+ 67. Kh8 1-0
+

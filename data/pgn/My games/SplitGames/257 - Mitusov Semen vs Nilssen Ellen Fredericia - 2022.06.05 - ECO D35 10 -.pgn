@@ -1,0 +1,20 @@
+﻿[Event "Norway Chess Open 2022"]
+[Site "?"]
+[Date "2022.06.05"]
+[Round "4"]
+[White "Nilssen Ellen Fredericia"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D35"]
+[WhiteElo "2147"]
+[BlackElo "2369"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "102"]
+[GameId "436598552279"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,16,16,28,26,-1,-16,-23,0,-23,-16,-45,-12,13,11,30,33,-9,40]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. h3 Nf8 10. Nf3 g6 (10... c6 11. O-O Be6 12. Rab1 a5 13. a3 N6d7 14. Bf4 Nb6 $13) (10... Ne6 $5 11. Bxf6 Bxf6 12. Bxh7+ Kh8 13. O-O-O g6 14. Bxg6 fxg6 15. Qxg6 Nf8 16. Qh5+ Kg8 17. Nxd5 Bg7 18. Nf4) 11. O-O Ne6 12. Bh6 Ng7 (12... c6 13. Ne5 Ng7 14. g4 Nd7 15. f4 Nxe5 16. fxe5 Bg5 17. Bxg5 Qxg5 18. Qf2 Be6 19. Qf4 $18) 13. g4 Bf8 (13... Ne6 $5 14. Ne5 c5 15. Bb5 Bd6 16. Bxe8 Nxe8 $14) 14. Ne5 Nd7 15. f4 c6 $6 (15... Qh4 $1 16. Bxg7 Bxg7 17. Nxd5 Nxe5 18. fxe5 Be6 $11) 16. Rae1 Qh4 17. Bg5 Qg3+ 18. Qg2 Qxg2+ 19. Kxg2 Ne6 20. Bh4 Bh6 21. f5 Ng5 22. Bg3 gxf5 23. gxf5 f6 24. Ng4 Bg7 25. e4 h5 26. Nf2 Nb6 27. exd5 (27. e5 $1 fxe5 28. dxe5 Nd7 $18) 27... Bd7 28. h4 Nf7 29. dxc6 $6 (29. d6 $1 Nh6 30. Nfd1 $18) 29... Bxc6+ 30. Be4 Red8 31. Bxc6 bxc6 32. Re6 Rxd4 33. Nfe4 Nh6 34. Nxf6+ Bxf6 35. Rxf6 Ng4 36. Rg6+ Kf7 37. Re1 Nc4 38. Rge6 (38. Ne4 $1 Nce3+ 39. Rxe3 Nxe3+ 40. Kf3 $18) 38... Rg8 39. Re7+ Kf6 40. R7e2 $6 (40. R7e6+ Kxf5 41. Rxc6) 40... Rd3 41. Ne4+ Kxf5 42. Rf1+ Kg6 43. Rc1 Nce3+ 44. Kg1 Rf8 45. Ng5 Rf6 46. Ne4 Rf3 47. Rxc6+ $4 (47. Bc7 $11) 47... Kf5 48. Rxe3 Nxe3 49. Nd6+ Kg4 50. Ne4 Rxg3+ 51. Nxg3 Kxg3 0-1
+

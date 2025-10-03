@@ -1,0 +1,20 @@
+﻿[Event "Fagernes var 2024"]
+[Site "Fagernes, Norway"]
+[Date "2024.03.24"]
+[Round "1.15"]
+[White "Akshit Kumar J"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B92"]
+[WhiteElo "2172"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "495065066438"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,74,41,25,41,34,72,57,60,38,38,27,65,49,49,40,36,43,44,41,41,16,12,4,-2,10,10,10,6,0,31,14,24,26,32,28,28,27,49,38,50,42,38,39,46,46,46,21,37,34,40,37,50,50,45,18,18,-3,-12,-5,10,7,23,25,68,47,47,37,68,53,52,57,61,57,47,42,47]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O O-O 9. Be3 Be6 10. Re1 Nbd7 11. a4 Rc8 12. a5 Qc7 (12... Rxc3 13. bxc3 Nxe4 14. Qd3 f5 15. c4 Qc7 16. Rab1) 13. Bf3 Rfd8 (13... Rfe8 14. Nd2 h6) 14. Nd2 Nc5 $6 (14... h6 15. Nf1 Re8) 15. Nf1 b5 16. axb6 Qxb6 17. Qd2 Qb7 18. Ng3 Bf8 19. Bg5 Ncd7 20. b3 Qc6 21. Re3 h6 22. Bxf6 Nxf6 23. Qe2 Ra8 24. Nh5 Be7 25. Nxf6+ Bxf6 26. Bg4 Rdc8 27. Nd5 Bg5 28. Rc3 Qb7 29. Rxc8+ Rxc8 30. Bf3 g6 31. g3 Rc6 32. h4 Bd8 33. Qd2 h5 34. Nb4 Rb6 35. Nd5 Rc6 36. Nb4 Rb6 37. Nd5 Rc6 1/2-1/2
+

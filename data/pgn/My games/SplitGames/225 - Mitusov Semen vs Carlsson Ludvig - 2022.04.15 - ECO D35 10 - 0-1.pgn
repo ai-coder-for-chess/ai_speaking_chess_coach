@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2022"]
+[Site "?"]
+[Date "2022.04.15"]
+[Round "7"]
+[White "Carlsson Ludvig"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D35"]
+[WhiteElo "2411"]
+[BlackElo "2274"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "68"]
+[GameId "432069511494"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,19,16,28,26,-14,-3,-16,-14,-25,-29,-51,4,9,4,4,38,35,44,24,59,38]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Nge2 Re8 9. Qc2 Nf8 10. O-O a6 $6 (10... c6 11. Rad1 g6 12. f3 Ne6 13. Bh4 b5 14. Bf2 Bd7) 11. Rad1 Nh5 12. Bxe7 Rxe7 13. Rb1 $6 (13. Qd2 $1 $14 {[%cal Gf2f3,Ge3e4]}) 13... Re6 $5 14. Bf5 Rd6 15. Rfc1 $6 (15. Bxc8 Rxc8 16. b4 $13) 15... Qg5 16. Bxc8 Rxc8 17. Qb3 b6 18. Rc2 Rcd8 19. Qa3 Rg6 20. Ng3 Nxg3 21. hxg3 Ne6 22. Qxa6 h5 23. Ne2 $6 (23. Qe2 $1 h4 24. f4 Qf5 25. gxh4 Rg4 26. Rf1 c5 $44) 23... h4 24. Qd3 Rh6 25. gxh4 $4 (25. b4 Re8 26. Rd1 Qh5 27. Nf4 Nxf4 28. gxf4 h3 29. Qe2 Qg6 30. g4 $13) 25... Qxh4 26. Ng3 g6 $6 (26... Nf4 $1 27. exf4 Re8 28. Nh5 Qxh5 29. Qh3 Qg6 30. f5 Qh7 $19) 27. b4 $2 (27. Kf1 $1 c5 $17) 27... Kg7 $2 (27... Re8 $1 $19) 28. Rbc1 $2 (28. Kf1 $1 $17) 28... Re8 $3 29. Rc6 Qh2+ 30. Kf1 Nf4 31. Rxg6+ fxg6 32. Rxc7+ Kh8 33. Qxg6 Qh1+ 34. Nxh1 Rxh1# 0-1
+

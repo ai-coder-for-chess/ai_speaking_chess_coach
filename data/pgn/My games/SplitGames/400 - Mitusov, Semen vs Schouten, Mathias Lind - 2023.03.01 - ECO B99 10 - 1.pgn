@@ -1,0 +1,17 @@
+﻿[Event "Vennlynpartier"]
+[Site "?"]
+[Date "2023.03.01"]
+[Round "2"]
+[White "Mitusov, Semen"]
+[Black "Schouten, Mathias Lind"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B99"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "51"]
+[GameId "460366462388"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Kb1 (10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 14. f6 gxf6 15. gxf6 Bf8 16. Rg1) 10... b5 11. a3 Bb7 (11... Rb8 $17) 12. g4 Rc8 13. h4 Nb6 14. Bxf6 gxf6 (14... Bxf6 15. g5 Bxd4 16. Rxd4) 15. f5 $2 (15. g5 $18) 15... e5 16. Nb3 Nc4 $4 (16... Na4 17. Rh3 Nxc3+ 18. bxc3) 17. Rd3 Qb6 18. Nd5 Bxd5 19. Rxd5 Ne3 20. Rd2 d5 21. exd5 Nxf1 22. Rxf1 O-O 23. g5 Kh8 24. Qh5 Rg8 25. Qxf7 Rc7 26. d6 1-0
+

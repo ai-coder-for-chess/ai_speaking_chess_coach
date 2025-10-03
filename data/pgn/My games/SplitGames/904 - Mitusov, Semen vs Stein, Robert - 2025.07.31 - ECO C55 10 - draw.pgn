@@ -1,0 +1,20 @@
+﻿[Event "SixDays Budapest July 2025 GM A"]
+[Site "Budapest"]
+[Date "2025.07.31"]
+[Round "7.2"]
+[White "Mitusov, Semen"]
+[Black "Stein, Robert"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2478"]
+[BlackElo "2404"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "65"]
+[GameId "2205600917897216"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "90+30"]
+
+1. e4 {[%eval 18,0] [%emt 0:00:00]} e5 {[%eval 22,0] [%emt 0:00:00]} 2. Nf3 {[%eval 13,0] [%emt 0:00:00]} Nc6 {[%eval 21,0] [%emt 0:00:00]} 3. Bc4 {[%eval 12,0] [%emt 0:00:00]} Nf6 {[%eval 1,0] [%emt 0:00:00]} 4. d3 {[%eval 9,0] [%emt 0:00:00]} Be7 {[%eval 25,0] [%emt 0:00:00]} 5. O-O {[%eval 21,0] [%emt 0:00:00]} O-O {[%eval 19,0] [%emt 0:00:00]} 6. Re1 {[%eval 21,0] [%emt 0:00:00]} d6 {[%eval 19,0] [%emt 0:00:00]} 7. a4 {[%eval 24,0] [%emt 0:00:00]} Be6 {[%eval 24,0] [%emt 0:00:00]} 8. Nbd2 {[%eval 6,0] [%emt 0:00:00]} Bxc4 {[%eval 18,0] [%emt 0:00:00]} 9. Nxc4 {[%eval 14,0] [%emt 0:00:00]} Re8 {[%eval 24,0] [%emt 0:00:00]} 10. c3 {[%eval 12,0] [%emt 0:00:00]} h6 {[%eval 8,0] [%emt 0:00:00]} 11. Qb3 {[%eval 17,0] [%emt 0:00:00]} Rb8 {[%eval 23,0] [%emt 0:00:00]} 12. h3 {[%eval 13,0] [%emt 0:00:00]} Bf8 {[%eval 24,0] [%emt 0:00:00]} 13. Ne3 {[%eval 27,0] [%emt 0:00:00]} Ne7 {[%eval 28,0] [%emt 0:00:00]} 14. Nh4 {[%eval 9,0] [%emt 0:00:00]} d5 {[%eval 45,0] [%emt 0:00:00]} 15. Nef5 $6 {[%eval 23,0] [%emt 0:00:00] Inaccuracy. Nf3 was best.} Nxf5 {[%eval 12,0] [%emt 0:00:00]} 16. Nxf5 {[%eval 21,0] [%emt 0:00:00]} Qd7 {[%eval 19,0] [%emt 0:00:00]} 17. Ng3 {[%eval 22,0] [%emt 0:00:00]} c6 {[%eval 11,0] [%emt 0:00:00]} 18. a5 {[%eval 11,0] [%emt 0:00:00]} b5 {[%eval 11,0] [%emt 0:00:00]} 19. axb6 {[%eval 1,0] [%emt 0:00:00]} axb6 {[%eval 4,0] [%emt 0:00:00]} 20. Be3 {[%eval 9,0] [%emt 0:00:00]} c5 {[%eval 5,0] [%emt 0:00:00]} 21. Ra6 {[%eval 2,0] [%emt 0:00:00]} Qc6 {[%eval 7,0] [%emt 0:00:00]} 22. Rea1 {[%eval 5,0] [%emt 0:00:00]} dxe4 {[%eval 14,0] [%emt 0:00:00]} 23. dxe4 {[%eval 12,0] [%emt 0:00:00]} Nxe4 {[%eval 1,0] [%emt 0:00:00]} 24. Nxe4 {[%eval 0,0] [%emt 0:00:00]} Qxe4 {[%eval 4,0] [%emt 0:00:00]} 25. Rxb6 {[%eval 9,0] [%emt 0:00:00]} Rxb6 {[%eval 19,0] [%emt 0:00:00]} 26. Qxb6 {[%eval 0,0] [%emt 0:00:00]} Qd5 {[%eval 9,0] [%emt 0:00:00]} 27. Qb5 {[%eval 3,0] [%emt 0:00:00]} Rd8 {[%eval 8,0] [%emt 0:00:00]} 28. c4 {[%eval 0,0] [%emt 0:00:00]} Qd6 {[%eval 0,0] [%emt 0:03:54]} 29. Qa6 {[%eval 6,0] [%emt 0:01:42]} Qxa6 {[%eval 0,0] [%emt 0:00:26]} 30. Rxa6 {[%eval 0,0] [%emt 0:00:01]} Rb8 {[%eval 4,0] [%emt 0:00:20]} 31. Rc6 {[%eval 0,0] [%emt 0:00:25]} f6 {[%eval 4,0] [%emt 0:00:17]} 32. Bxc5 {[%eval 0,0] [%emt 0:00:42]} Bxc5 {[%eval 1,0] [%emt 0:00:05]} 33. Rxc5 {[%eval 0,0] [%emt 0:00:04]} 1/2-1/2
+

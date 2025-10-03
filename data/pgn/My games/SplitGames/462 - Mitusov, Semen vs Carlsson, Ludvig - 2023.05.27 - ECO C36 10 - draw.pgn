@@ -1,0 +1,19 @@
+﻿[Event "9-runder LangOffer NGP"]
+[Site "?"]
+[Date "2023.05.27"]
+[Round "4"]
+[White "Carlsson, Ludvig"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C36"]
+[WhiteElo "2358"]
+[BlackElo "2428"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "43"]
+[GameId "468095011054"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. c4 (5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8. d5 (8. O-O O-O 9. Nbd2 Bc7 10. c3 Bg4 11. Bd3 Re8 12. Qc2 Nd5) 8... Nxd5) 5... c6 6. d4 (6. dxc6 Nxc6 7. d4 Bb4+ 8. Nc3 O-O 9. Be2 Ne4 10. Bd2 Nxd2 11. Qxd2 Bg4 12. O-O-O) 6... Bb4+ 7. Nc3 cxd5 8. Be2 (8. Bxf4 O-O) 8... Nc6 9. O-O (9. Bxf4 O-O 10. O-O dxc4 11. Bxc4 Bg4 12. a3 Ba5 13. Kh1 Bxf3 14. Rxf3 Qxd4) 9... Be6 10. Ng5 dxc4 11. Nxe6 fxe6 12. Rxf4 e5 $6 (12... Qe7 13. Bh5+ g6 14. Bf3 O-O 15. Bxc6 bxc6 16. Qe2 Nd5 $15) 13. dxe5 Qxd1+ 14. Nxd1 Nxe5 15. Bxc4 Bc5+ (15... O-O-O 16. Be3 Kb8) 16. Be3 Bxe3+ 17. Nxe3 Nxc4 18. Rxc4 O-O 19. Rc7 Rf7 20. Rxf7 Kxf7 21. Rc1 Rd8 22. Rc7+ 1/2-1/2
+

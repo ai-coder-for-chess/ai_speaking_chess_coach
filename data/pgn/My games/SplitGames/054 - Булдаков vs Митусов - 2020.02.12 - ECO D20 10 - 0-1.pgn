@@ -1,0 +1,20 @@
+﻿[Event "×У до 20 лет"]
+[Site "?"]
+[Date "2020.02.12"]
+[Round "1"]
+[White "Булдаков"]
+[Black "Митусов"]
+[Result "0-1"]
+[ECO "D20"]
+[BlackElo "2292"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "52"]
+[GameId "447373813483"]
+[EventDate "2017.??.??"]
+[EventType "simul"]
+[EventRounds "3"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nf6 4. e3 e6 5. Bxc4 a6 6. a4 b6 7. Nf3 Bb7 8. O-O Nbd7 9. Re1 Bd6 10. e4 e5 11. d5 h6 12. Rb1 Qe7 13. Bd2 Nf8 14. Nh4 g6 15. Qc1 Bc8 16. Nf3 g5 17. Kf1 Ng6 18. Na2 Bd7 19. Qc2 Nh5 20. Nc1 g4 21. Ng1 Qh4 22. Be2 Qxh2 23. Nd3 Nh4 24. Bf3 gxf3 25. gxf3 Ng3+ 26. fxg3 Qg2# 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "Fagernes høst 2024"]
+[Site "?"]
+[Date "2024.10.11"]
+[Round "7.9"]
+[White "Oye-Stromberg, Alexander"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B55"]
+[WhiteElo "2248"]
+[BlackElo "2486"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "113"]
+[GameId "2104968717660181"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,113,19,36,56,41,83,70,66,30,37,34,55,13,23,20,28,13,13,13,13,-31,4,-6,18,20,31,47,45,48,39,40,39,45,71,35,35,43,35,35,67,35,52,43,43,29,15,21,44,42,66,70,62,57,74,34,71,71,86,73,64,70,83,94,70,85,149,87,95,81,65,66,86,-33,90,90,118,90,99,76,97,91,114,88,149,89,140,148,163,124,134,71,114,86,79,54,72,69,60,48,71,1,1,0,1,1,0,-38,46,-5,23,24,46,0,-5,42]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bb5+ Nbd7 (5... Bd7 6. Bxd7+ Nbxd7 7. Qe2 g6 8. O-O Bg7 9. c4) 6. O-O a6 7. Bd3 g6 (7... e6 8. c4 Be7 9. Nc3 O-O 10. Be3) 8. c4 Bg7 9. Nc3 O-O 10. Re1 Re8 11. Bf1 b6 12. Bg5 h6 13. Be3 Bb7 14. f3 Kh7 15. Qd2 Rc8 16. Rac1 e6 17. Nb3 Qc7 18. Red1 Bf8 19. Qd4 Ng8 20. Qd2 Red8 21. Qf2 Bg7 22. Bd4 Ngf6 23. Nd2 Ba8 24. b4 Qb8 25. Nb3 Ne8 26. a3 Bxd4 27. Rxd4 Bc6 28. Rcd1 Nf8 29. f4 Kg7 30. Qh4 Rd7 31. R4d3 Nf6 32. Rh3 Ng8 33. f5 g5 34. Qf2 e5 35. Rg3 Nf6 36. Be2 N8h7 (36... Bxe4 37. h4 N8h7 38. hxg5 hxg5 39. Nd2 Bc6 40. Qe3 $14) 37. Qe3 Rh8 38. Rc1 Qa8 39. Bd3 Rb8 (39... Nh5 40. Rf3 Qa7) 40. a4 Rdd8 41. b5 Bd7 (41... Bb7 42. Nd5 Bxd5 43. cxd5 axb5 44. Bxb5 Rdc8 45. Rc6 Rxc6 46. dxc6 Rc8 47. Qxb6 Nxe4) 42. Be2 Kh8 43. a5 bxa5 44. Ra1 axb5 45. cxb5 Rb7 46. Rxa5 Qb8 47. Ra6 $6 (47. Nd2 Rc8 48. h3) 47... Bxb5 $1 48. Nxb5 Rxb5 49. Bxb5 Qxb5 50. Rb6 (50. Ra1 Nh5 51. Rf3 Nf4 $15) 50... Qa4 51. Nd2 Qd1+ (51... Ng4 52. Qc3 Nhf6 53. Qc4 $11) (51... d5 $1) 52. Nf1 Qa4 53. Rb7 Kg7 (53... Nxe4 54. Rh3 Kg7 55. Qa7 Qxa7+ 56. Rxa7 Nhf6 $17) 54. Nd2 Qd1+ 55. Nf1 Qa4 56. Nd2 Qd1+ (56... Rc8) 57. Nf1 1/2-1/2
+

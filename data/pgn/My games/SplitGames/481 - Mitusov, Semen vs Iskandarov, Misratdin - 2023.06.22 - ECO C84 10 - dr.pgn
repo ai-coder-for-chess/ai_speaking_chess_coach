@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open izmir"]
+[Site "izmir"]
+[Date "2023.06.22"]
+[Round "5.2"]
+[White "Iskandarov, Misratdin"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C84"]
+[WhiteElo "2563"]
+[BlackElo "2434"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "98"]
+[GameId "470354795353"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,98,22,22,22,22,21,18,34,-6,-2,-2,11,4,11,11,14,-4,16,18,17,19,27,24,54,50,64,60,65,44,81,63,67,52,46,67,58,62,60,66,75,6,2,18,21,22,16,15,16,6,14,19,12,-6,13,11,16,26,36,0,0,0,-19,0,0,-19,-12,-12,-10,-5,-14,-10,0,-14,-10,-10,-15,-16,0,0,0,-1,0,-18,0,0,0,-13,0,-21,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O 9. Nc3 h6 10. Nd5 Re8 11. Be3 Bf8 $6 (11... Na5 12. Ba2 Nxd5 13. exd5 c5 14. Nd2 Bf5 15. Qf3 Bg6) 12. a4 $6 (12. Nxf6+ Qxf6 13. Bd5 Bd7 14. Nd2 g5 $16) 12... Rb8 (12... Na5 13. axb5 Nxb3 14. Nxf6+ Qxf6 15. cxb3 d5 16. exd5 Bb7 17. bxa6 Rxa6 18. Rxa6 Qxa6) 13. axb5 axb5 14. Nd2 (14. c3 Nxd5 15. Bxd5 Ne7) 14... Nd4 $6 (14... Nxd5 15. Bxd5 Nb4 16. Ba7 Nxd5 17. Bxb8 Nf4 18. Ba7 c5 $11) 15. Bxd4 exd4 16. Ra7 Bb7 17. Nxf6+ Qxf6 18. Qg4 Re7 19. Rfa1 c5 20. Bd5 $2 (20. h4 Bc8 21. Qf3 Qxf3 22. Nxf3 $16) 20... Bxd5 21. exd5 Re5 22. Ne4 Qf5 23. Qxf5 Rxf5 24. Ra8 Rxa8 25. Rxa8 Rxd5 26. f4 c4 27. Rb8 f5 28. Nd2 Rc5 29. Kf1 cxd3 30. cxd3 Rc2 31. Nb3 Rxb2 32. Rxb5 Be7 33. Nxd4 Rxb5 34. Nxb5 Kf7 35. Ke2 Ke6 36. Nd4+ Kf6 37. Nc6 Bf8 38. Ke3 g6 39. Kd4 Ke6 40. Kc4 d5+ 41. Kb5 Bg7 42. Kc5 Bf8+ 43. Kb5 Bg7 44. h4 Kd6 45. d4 Bf6 46. g3 g5 47. hxg5 hxg5 48. Ne5 gxf4 49. gxf4 Bh4 1/2-1/2
+

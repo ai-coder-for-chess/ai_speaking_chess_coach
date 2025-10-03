@@ -1,0 +1,21 @@
+﻿[Event "Синицина"]
+[Site "?"]
+[Date "2021.07.05"]
+[Round "2"]
+[White "o/oрков"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D02"]
+[WhiteElo "2126"]
+[BlackElo "2426"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "72"]
+[GameId "406942895609"]
+[EventType "simul"]
+[EventRounds "8"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Bd6 4. Bg5 Nf6 5. e3 c5 6. c3 h6 7. Bh4 Nbd7 8. Nbd2 Qc7 (8... O-O $1 9. Bd3 e5 (9... b6 10. e4 dxe4 11. Nxe4 Be7) 10. dxe5 Nxe5 11. Nxe5 Bxe5 12. Nf3 Bc7 13. O-O Re8) 9. Bd3 b6 (9... c4 $1 10. Bc2 b5 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 Rb8 14. O-O f5) 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bb7 13. Bxb7 Qxb7 14. O-O g5 15. dxc5 Bxh2+ 16. Nxh2 gxh4 17. cxb6 axb6 18. Qf3 Qxf3 19. Nxf3 Ra4 20. Rfd1 Rg8 21. Rd4 Rxd4 22. cxd4 Ke7 23. Rc1 Kd6 24. Nxh4 Nb8 25. Nf3 Nc6 26. a3 Kd5 27. Kf1 f6 28. b4 Ra8 29. b5 Ne7 30. Rc7 Nf5 31. g4 Nd6 32. Rc6 Rxa3 33. Nd2 Ra2 34. Ke1 Ra1+ 35. Ke2 Nxb5 36. Rxb6 Nxd4+ 0-1
+

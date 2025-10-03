@@ -1,0 +1,20 @@
+﻿[Event "Riga Open 2023"]
+[Site "lichess.org"]
+[Date "2023.08.07"]
+[Round "1.16"]
+[White "Mitusov, Semen"]
+[Black "Adamovics, Aleksejs"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B36"]
+[WhiteElo "2445"]
+[BlackElo "2024"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "121"]
+[GameId "474448166483"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,121,12,25,44,42,41,11,11,11,73,26,26,26,24,24,6,8,8,8,2,14,54,55,64,55,36,22,25,2,15,2,2,6,21,20,14,0,0,0,0,-11,-2,-9,-9,-42,-64,-46,12,7,6,6,54,42,53,42,39,39,40,36,69,54,47,49,51,37,74,70,68,68,62,69,62,69,67,67,106,107,103,103,103,103,103,103,104,104,104,104,104,104,106,104,106,103,104,104,104,100,100,93,100,100,97,93,97,93,120,99,99,99,185,178,224,303,312,317,355,373,386,409,427,438,438,446]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8. Qxd4 Bg7 9. Be3 (9. Bg5 O-O 10. O-O Be6 11. Qd2) 9... O-O 10. Qd2 (10. Qd3 Be6 (10... a5 11. O-O a4 12. Bd4 Qa5 13. f4 Be6 (13... e5 14. fxe5 dxe5 15. Be3 Be6 $13) 14. Rad1 Rfc8 15. b3 axb3 16. axb3 Qb4 17. f5 Bd7 18. Bxf6 $18) 11. O-O a5 12. b3 Nd7 13. Rad1) 10... a5 11. O-O a4 12. f3 $6 (12. Bd4 Qa5 13. Rad1 Be6 14. f4 Rfc8 15. b3 axb3 16. axb3 Qb4 17. f5 Bd7 18. Bxf6 Bxf6 19. Nd5 Qxd2 20. Nxf6+ exf6 21. Rxd2 Bc6 22. fxg6 hxg6 23. Rxf6 Bxe4 24. Rfxd6 $16) 12... Qa5 13. Rab1 Be6 14. Rfc1 (14. Rfd1 Rfc8 15. b4 axb3 16. axb3 Ng4 17. Bd4 Bxd4+ 18. Qxd4) 14... Rfc8 15. b4 axb3 16. axb3 Qb4 17. Rc2 Nd7 18. Nb5 Qxd2 19. Rxd2 Nc5 20. Nd4 $6 (20. Kf2 f5) (20. b4 Nd7 21. Na7 Rc7 22. Nb5 $11) 20... Bd7 $6 (20... Ra3 21. Nxe6 fxe6 22. Bd1 Rca8 $17) 21. b4 Ne6 22. Nxe6 $6 (22. c5 $11) 22... Bxe6 23. c5 Ba2 $6 (23... Bc3 24. Rc2 Ba2 25. Rbc1 Bxb4 26. cxd6 Rxc2 27. Rxc2 Bxd6 28. Rb2 $15) 24. Rc1 Be6 25. Kf2 Bd7 $6 (25... Kf8 $11) 26. Rb1 Bf8 27. Bf4 Be6 28. cxd6 exd6 29. b5 Rd8 30. b6 Rdc8 31. Bb5 h5 32. h4 Be7 33. Kg3 Kf8 34. Rbb2 Rc5 35. Bxd6 Bxd6+ 36. Rxd6 Ke7 37. Rd1 Ra2 38. Rxa2 Bxa2 39. Rd7+ Ke6 40. Ba4 Rc4 41. Rxb7 Rxa4 42. Ra7 Rb4 43. Rxa2 Rxb6 44. Kf4 Kf6 45. Ra3 Rc6 46. g3 Rb6 47. Ke3 Rc6 48. f4 Rb6 49. Rd3 Ra6 50. Kd4 Ra4+ 51. Kd5 Ra5+ 52. Kd6 Ra6+ 53. Kd7 Ra7+ 54. Ke8 Re7+ $4 (54... Kg7 $3 55. e5 Ra8+ 56. Rd8 Ra3 57. Rd7 Ra8+ 58. Ke7 Ra6 59. Rb7 Re6+ 60. Kd7 Ra6 $11) (54... Ra8+ $4 55. Rd8 Ra7 56. Kf8 $18) 55. Kf8 Rxe4 56. Rd6+ Re6 57. Rd7 Kf5 58. Kxf7 Ra6 59. Rd5+ Kg4 60. Rg5+ Kf3 61. Rxg6 1-0
+

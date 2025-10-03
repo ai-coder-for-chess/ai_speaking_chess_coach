@@ -1,0 +1,20 @@
+﻿[Event "Norway Chess Open 2022"]
+[Site "?"]
+[Date "2022.06.04"]
+[Round "2"]
+[White "Praggnanandhaa R"]
+[Black "Mitusov Semen"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "D35"]
+[WhiteElo "2642"]
+[BlackElo "2369"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "45"]
+[GameId "436490641892"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,22,28,28,28,-1,-16,-18,24,-16,15,10,54,60,80,59,58,58,49,59,62,28,28,33,33]} 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bd6 7. Bxd6 Qxd6 8. Bd3 Nf6 (8... Ne7 9. Qc2 g6 10. f3 Be6 11. Nge2 Nd7) 9. h3 O-O 10. Nf3 Re8 11. Qc2 Nbd7 12. O-O Nf8 13. a3 Ng6 14. b4 Bd7 15. Rfc1 Re7 16. b5 Rae8 17. bxc6 bxc6 18. Bf5 Bxf5 19. Qxf5 Ne4 20. h4 Re6 21. Nxe4 dxe4 22. Ng5 Nxh4 23. Qxf7+ (23. Qg4 Rh6 24. Nxe4 Qd8 25. Ng3 Qd5 26. e4 Qxd4) 1-0
+

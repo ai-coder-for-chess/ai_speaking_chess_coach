@@ -1,0 +1,21 @@
+﻿[Event "×У до 18 лет"]
+[Site "?"]
+[Date "2021.06.24"]
+[Round "8"]
+[White "Сидорика"]
+[Black "Митусов"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C68"]
+[WhiteElo "2326"]
+[BlackElo "2294"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "87"]
+[GameId "405969711325"]
+[EventType "simul"]
+[EventRounds "18"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,9,16,28,38,44,44,-1,8,28,28,8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. Nxe5 Bxf2+ 7. Kxf2 Qd4+ 8. Ke1 Qxe5 9. d3 Ne7 10. Qf3 Ng6 11. Rf1 O-O 12. Bf4 Qe7 13. Qg3 Nxf4 14. Rxf4 Be6 15. Kd2 Rad8 16. Re1 f6 17. Kc1 c5 18. Qe3 b6 19. h3 Qd6 20. e5 fxe5 21. Rxf8+ Rxf8 22. Qxe5 Rf1 23. Qxd6 Rxe1+ 24. Kd2 cxd6 25. Kxe1 Kf7 26. Kd2 Kf6 27. Ke3 Ke5 28. Ne2 g5 (28... Bd5 29. g3 Be6 30. h4 Bxa2 31. b3 d5 32. d4+ cxd4+ 33. Nxd4) 29. d4+ cxd4+ 30. Nxd4 Bd7 31. c3 h6 32. Nf3+ Kf5 33. Nd4+ Ke5 34. Nf3+ Kf5 35. g3 h5 36. a3 Be8 37. Nd4+ Ke5 38. Nf3+ Kf5 39. Nd2 Bc6 40. Nc4 b5 41. Nxd6+ Ke5 42. Nf7+ Kf6 43. Nd6 Ke5 44. Nf7+ 1/2-1/2
+

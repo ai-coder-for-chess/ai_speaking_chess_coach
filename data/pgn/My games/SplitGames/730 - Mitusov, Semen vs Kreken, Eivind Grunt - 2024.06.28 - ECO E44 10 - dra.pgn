@@ -1,0 +1,20 @@
+﻿[Event "NM 2024"]
+[Site "?"]
+[Date "2024.06.28"]
+[Round "1.6"]
+[White "Kreken, Eivind Grunt"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "E44"]
+[WhiteElo "2325"]
+[BlackElo "2475"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "114"]
+[GameId "2061566489133067"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,114,19,31,14,-14,-11,4,33,33,34,18,8,9,41,37,37,13,10,17,29,30,21,5,8,-13,0,-26,-7,9,9,52,5,27,34,13,32,35,18,6,16,22,16,-40,-48,-31,-45,-36,-10,-17,-17,-8,-4,1,3,-36,-25,-7,0,-6,-3,0,0,0,0,0,0,0,0,-60,-39,-61,-50,-66,-18,-22,58,37,58,37,12,0,0,0,0,0,0,0,0,0,64,70,77,77,77,77,71,0,11,20,20,-9,0,0,0,-29,-29,-28,-69,-68,-67,-31,-35,-99,-190,-462,-462]} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Bxc3+ 7. Nxc3 d5 8. Be2 dxc4 9. Bxc4 Nbd7 10. O-O O-O 11. b4 c5 12. dxc5 bxc5 13. Bb2 Qe7 14. Qb3 Ne5 15. Na4 Nfd7 16. f4 Nxc4 17. Qxc4 cxb4 18. Qxb4 Qxb4 19. axb4 Rfc8 20. Rfc1 f6 21. Nc5 Nxc5 22. bxc5 a5 23. Ba3 Bd5 24. Rab1 Kf7 25. Rb6 Rc7 26. Kf2 h5 27. h4 a4 28. g3 Kg6 29. Rd1 Kf5 30. Rd4 Bc6 31. Rbb4 Kg4 32. Rd6 Kf5 33. Rdd4 e5 34. e4+ Kg4 35. fxe5 fxe5 36. Rd6 Kh3 (36... Rf8+ 37. Kg2 Rf6 (37... g5 38. Rg6 Bxe4+ 39. Rxe4+ Kf5)) 37. Ke3 Rf8 38. Bb2 Be8 39. Rc4 Bb5 40. Rc1 Rcf7 41. Bxe5 Rf3+ 42. Kd2 Re8 (42... Rf2+ 43. Kc3 R8f3+ 44. Kb4 Rb3+ 45. Ka5 Rf8 46. Rc3 Rb1) 43. Rc3 Rf2+ 44. Ke3 Kg2 45. Bxg7 Rf3+ 46. Kd4 Rxc3 47. Kxc3 Rxe4 48. Rd4 Re3+ 49. Kb4 Be8 50. Rc4 Rxg3 51. Rc2+ Kh3 52. Rc3 Kxh4 53. Bf6+ Kg4 54. Rxg3+ Kxg3 55. c6 Bxc6 56. Ka3 h4 57. Bxh4+ Kxh4 1/2-1/2
+

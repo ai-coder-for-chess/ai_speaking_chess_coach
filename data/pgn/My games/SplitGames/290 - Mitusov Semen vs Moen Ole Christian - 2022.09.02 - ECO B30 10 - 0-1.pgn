@@ -1,0 +1,20 @@
+﻿[Event "OSS Klubbmesterskap 2022"]
+[Site "?"]
+[Date "2022.09.02"]
+[Round "1"]
+[White "Moen Ole Christian"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "B30"]
+[WhiteElo "2147"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "82"]
+[GameId "444464760913"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,21,16,28,97,58,62,46,103,76,76,50,86,38,33,12,20,20,11,-29,52,49,60,50]} 1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 (3... e5 4. Bc4 d6 5. d3 Be7 6. O-O Nf6 7. Ng5 O-O 8. f4 Bg4 9. Qe1 exf4 10. Bxf4 Nd4 11. Qd2) 4. Bb5 (4. d4 cxd4 5. Nxd4 Nf6 6. Bg5) 4... e5 5. h3 Nf6 6. d3 h6 7. Nd5 $2 g6 $2 (7... Nxd5 8. exd5 Qa5+ 9. Nd2 Qxb5 $19) 8. c3 Bg7 9. O-O O-O 10. Ne3 a6 $1 11. Bxc6 bxc6 12. Nc4 Be6 13. Qa4 Qc7 14. Re1 Nd7 (14... a5 $1 15. d4 cxd4 16. cxd4 Nxe4 17. dxe5 d5 18. Ncd2 Nc5 19. Qc2 Nd7 $19) 15. Qa5 Qb8 16. Qa4 Nb6 17. Nxb6 Qxb6 18. c4 f5 19. Nh4 fxe4 $6 (19... Qd8 20. Nxg6 Rf7 $19) 20. Nxg6 $6 (20. dxe4 Kh7 21. Be3 Qd8 22. g3 Bxh3 23. Qxc6 $17) 20... Rf6 21. Qxc6 Qxc6 22. Ne7+ Kh7 23. Nxc6 exd3 24. b3 Rf7 25. Rb1 a5 26. Bd2 Bf5 27. Nxa5 Rfa7 28. Nc6 Rc7 29. Na5 Rca7 30. Nc6 Rxa2 31. Red1 Bf6 32. b4 Be4 33. b5 Rg8 34. g3 Bf3 35. Be3 Bxd1 36. Rxd1 e4 37. Rb1 Rga8 38. Kg2 Ra1 39. Rb3 R8a3 40. Rxa3 Rxa3 41. Bd2 Ra2 0-1
+

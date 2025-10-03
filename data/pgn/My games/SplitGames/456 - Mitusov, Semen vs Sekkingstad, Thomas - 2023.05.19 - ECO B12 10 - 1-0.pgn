@@ -1,0 +1,19 @@
+﻿[Event "NM for klubblag 2023"]
+[Site "?"]
+[Date "2023.05.19"]
+[Round "2"]
+[White "Mitusov, Semen"]
+[Black "Sekkingstad, Thomas"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B12"]
+[WhiteElo "2428"]
+[BlackElo "1780"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "47"]
+[GameId "467462643760"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O (6. Be3 cxd4 (6... Qb6 7. Nc3 Qxb2 8. Qb1 Qxc3+ (8... Qb4 9. a3 Qa5 10. dxc5) (8... Qxb1+ 9. Rxb1 c4 (9... b6)) 9. Bd2 Qxc2 10. Qxb7) 7. Nxd4 Ne7 8. Nd2 Nbc6 9. N2f3 Be4 10. O-O Ng6 11. Bb5 Qc7 12. Ng5) 6... Nc6 7. Be3 Qb6 8. Nc3 c4 (8... Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Rb1 Qxc3 13. Rxb4) 9. Bxc4 $6 (9. Rb1 Qa5 10. a3 Be7) (9. Qc1 $1 Nb4 (9... Bb4 10. Nd1) 10. Nh4) 9... dxc4 $4 (9... Qxb2 10. Nb5 (10. Nxd5 exd5 11. Bxd5 Qxc2 12. Qxc2 Bxc2 13. Rfc1 Ba4 14. Rab1) 10... dxc4 11. Nc7+ Kd8 12. Nxa8 Qxc2 $17) 10. d5 Qxb2 11. dxc6 bxc6 12. Qd4 Qb4 (12... Qb7 13. Qxc4 Ne7 14. Nd4 $18) 13. Rfd1 Qb7 14. Rab1 $6 (14. Qxc4 Bxc2 (14... Ne7 15. Rab1 Qc8 16. Rd6 $18) 15. Rd2 Bf5 16. Rad1) 14... Qc8 15. Ne4 Bxe4 16. Qxe4 Ne7 17. Qxc4 Nd5 18. Bc5 Be7 19. Bd6 O-O 20. Qc5 Bxd6 21. exd6 Nf6 22. Nd4 Ne4 23. Qe5 (23. Qxc6 Qxc6 24. Nxc6 Nc3 25. d7 $18) 23... Nc3 24. d7 1-0
+

@@ -1,0 +1,20 @@
+﻿[Event "EM i hurtigsjakk 2022"]
+[Site "ø"]
+[Date "2022.12.18"]
+[Round "10"]
+[White "Mitusov, Semen"]
+[Black "Martinkus, Rolandas"]
+[Result "1-0"]
+[Annotator "Semen"]
+[ECO "C82"]
+[WhiteElo "2317"]
+[BlackElo "2049"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "88"]
+[GameId "453916790961"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,85,31,45,31,4,43,25,28,0,5,-6,23,10,12,7,7,8,-14,-13,3,3,10,38,40,40,47,47,30,45,71,71,70,46,39,49,100,63,53,79,60,46,55,-10,-21,-9,249,48,75,97,97,56,85,60,75,62,92,76,24,27,30,77,76,68,68,18,3,6,12,0,5,0,10,16,12,0,0,13,15,0,0,4,17,16,17,8,35,22]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxf2 12. Rxf2 f6 13. exf6 Qxf6 $6 (13... Bxf2+ 14. Kxf2 Qxf6 15. Nf1 Ne5 16. Be3 Rae8 17. Bc5 Nxf3 (17... Rf7 18. N1d2) 18. gxf3 Rf7 19. Kg2 $11) 14. Qf1 $1 Bxf2+ 15. Qxf2 Rae8 16. Qg3 Bf5 17. Bb3 Kh8 18. Nf1 Be4 19. Bg5 Qg6 20. N1d2 Na5 21. Rf1 $6 (21. Nh4 Qb6+ 22. Be3 c5 23. Nxe4 Nxb3 24. axb3 Rxe4 25. b4 $18) 21... Nxb3 22. axb3 Bd3 $4 (22... Qb6+ 23. Qf2 Qxf2+ 24. Rxf2 $16) 23. Re1 $4 (23. Ne5 $1 Rxf1+ 24. Nxf1 Qb6+ 25. Be3 $18) 23... Qb6+ 24. Kh1 Rxe1+ 25. Qxe1 Qg6 26. h3 Be4 27. Bh4 (27. b4 $18) 27... h6 28. Nxe4 $2 (28. b4 $18) 28... dxe4 29. Nd2 Re8 30. Bf2 e3 31. Bxe3 Qc2 32. Qg3 (32. b4 Qxb2 33. Nf1 $11) 32... Qd3 33. Bf4 Qxg3 34. Bxg3 Re2 35. Nf3 c5 36. b4 cxb4 37. cxb4 Rxb2 38. Bd6 Ra2 39. Bc7 Kg8 40. Ne5 Kf8 41. Nd7+ Ke7 42. Nb8 Rc2 43. Ba5 $16 Kd6 44. Nxa6 Ra2 1-0
+

@@ -1,0 +1,20 @@
+﻿[Event "Sevilla Open 2024"]
+[Site "lichess.org"]
+[Date "2024.01.19"]
+[Round "8.1"]
+[White "Basso, Pier Luigi"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D37"]
+[WhiteElo "2482"]
+[BlackElo "2479"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "61"]
+[GameId "489052593211"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8. cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be5 (11. Be2 Bf6) 11... Bf5 12. Be2 (12. Rc1 Rc8 13. Be2 Bf6 14. Bxf6 Qxf6 15. Nd4 Ne6) 12... Bf6 13. Bxf6 (13. O-O Bxe5 14. Nxe5 Qf6 15. b4 Qxe5 16. bxc5 Rfc8) 13... Qxf6 14. Nd4 (14. Qd4 Qd6 15. Rd1 Bc2 16. Qxd5 Qb6 17. Rd4 Rfd8 18. Qc4 Qxb2 19. Qxc5 b6 20. Qc4 Qb1+) 14... Be4 (14... Ne6 15. Nxf5 Qxf5 16. O-O Qe5 17. Qd2 d4 18. exd4 Nxd4) 15. O-O Ne6 16. Qd2 Rac8 17. Rac1 Nxd4 18. Qxd4 Qxd4 19. exd4 Bf5 20. f3 Bc2 21. Kf2 Rc7 22. Ke3 Rfc8 23. Kd2 Kf8 24. Rfe1 f6 25. Bf1 Bf5 26. Rxc7 Rxc7 27. Rc1 Rxc1 28. Kxc1 Ke7 29. Kd2 g5 30. g3 Kd6 31. Be2 1/2-1/2
+

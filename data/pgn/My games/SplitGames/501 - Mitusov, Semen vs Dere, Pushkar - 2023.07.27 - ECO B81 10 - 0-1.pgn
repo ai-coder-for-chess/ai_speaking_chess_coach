@@ -1,0 +1,19 @@
+﻿[Event "Pardubice Open 2023"]
+[Site "?"]
+[Date "2023.07.27"]
+[Round "7.35"]
+[White "Dere, Pushkar"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B81"]
+[WhiteElo "2192"]
+[BlackElo "2455"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "112"]
+[GameId "473491080562"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2 Be7 9. O-O (9. Be3 Nc6 10. f4 (10. Nxc6 bxc6 11. e5 Nd5 12. exd6 Qxd6 13. Qd2) 10... Nd7 11. O-O Rb8) 9... Nfd7 (9... O-O 10. Be3 Nc6 11. f4 Nxd4 12. Qxd4 Nd7) 10. Re1 $6 (10. f4) 10... Nc6 11. Kh1 $6 (11. Be3 Nxd4 12. Qxd4 O-O $11) 11... Nxd4 12. Qxd4 O-O 13. a4 b6 14. Be3 Bb7 15. Rad1 Qc7 (15... Bc6 16. f4 b5 17. axb5 axb5 18. e5 (18. Qd2 b4 19. Ne2 Nc5 20. Ng3 Qb8 21. g5 hxg5 22. fxg5 b3 23. c3 Nd7) 18... dxe5 19. fxe5 Qc7 $19) (15... Rc8 16. f4 Rc7 17. Qd2 Qa8 $17) 16. f4 Rfd8 17. Qd2 Rac8 18. Qf2 Qc6 19. Rd2 (19. Rg1 b5) 19... Bf8 $6 (19... b5 20. axb5 axb5 21. Ne2 Nc5 22. Ng3 Bh4 $17) 20. h4 Nc5 21. g5 h5 $6 (21... b5 22. gxh6 b4 23. hxg7 Bxg7 $17) 22. f5 Qe8 23. Bd4 $6 (23. Qe2 g6 24. Bd4 $16) 23... b5 24. axb5 axb5 25. Qe2 (25. b4 Na4 26. Nd5 $16) 25... b4 26. Qxh5 $6 (26. Nd5 Bxd5 27. exd5 exf5 28. Qd1 $11) 26... exf5 27. Bh3 Nxe4 28. Nxe4 Bxe4+ 29. Kg1 (29. Kh2 Rc5 30. Bxc5 Qe5+ $19) 29... Qe6 30. Rf2 Bf3 31. Rxe6 (31. Qxf3 Qxe1+ 32. Kh2 g6 33. Bxf5 gxf5 34. g6 Qe6 35. Re2 Qxg6 36. Rg2 $11) 31... Bxh5 32. Re1 g6 33. Bg2 Re8 34. Ra1 $2 (34. Rxe8 Rxe8 35. Rd2 $11) 34... Bg7 35. Bxg7 Kxg7 36. Bd5 Rc7 37. Rd2 Re3 38. Bb3 $4 (38. Ra4 Rg3+ 39. Rg2 Rxg2+ 40. Bxg2 Rxc2 41. Rxb4 $13) 38... Re4 39. Rxd6 Rxh4 40. Rda6 Rg4+ 41. Kf2 Rxg5 (41... Rf4+ 42. Kg1 Be2 43. Ra7 Rxa7 44. Rxa7 Rg4+ 45. Kf2 Bc4 $19) 42. Ra7 Rxa7 43. Rxa7 Rg4 44. Rxf7+ Kh6 45. Rc7 Rh4 46. Rc4 $2 Rxc4 47. Bxc4 g5 48. c3 bxc3 49. bxc3 Kg6 50. Bd3 (50. Ke3 Kf6 51. Kd4 Bf3 $19) 50... Kf6 51. Kg2 Ke5 52. Kg3 Be8 53. Bc2 Bd7 54. Bd3 f4+ 55. Kf2 g4 56. Bf1 Bc6 0-1
+

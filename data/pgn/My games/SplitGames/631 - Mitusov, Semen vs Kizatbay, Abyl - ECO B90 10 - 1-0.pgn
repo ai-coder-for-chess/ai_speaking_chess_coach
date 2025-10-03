@@ -1,0 +1,20 @@
+﻿[Event "Eliteserien 2023 24"]
+[Site "Oslo"]
+[Date "2024.??.??"]
+[Round "5.14"]
+[White "Mitusov, Semen"]
+[Black "Kizatbay, Abyl"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2468"]
+[BlackElo "2176"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "63"]
+[GameId "490882786637"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,63,31,18,46,56,78,70,69,37,26,33,43,27,27,11,45,25,35,35,22,19,15,5,18,30,33,33,19,35,27,31,31,31,78,75,74,90,82,110,84,91,100,100,94,122,112,120,260,170,245,262,278,333,290,335,327,281,374,466,466,326,478,359,516,506]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 (6... g6 7. g3 (7. Be2 Bg7 8. Be3 O-O 9. O-O Nc6 10. Qd2 Bd7 11. Rfd1 Rc8 12. Nxc6 Rxc6 13. h3 Qc7 14. Bd3) 7... Bg7 8. Bg2 O-O 9. O-O Nc6 10. Nde2 Rb8 11. Nd5 b5 12. axb5 axb5 13. Bg5) 7. Nf3 Qc7 $6 (7... h6 8. g3 Be7 9. Bg2 O-O 10. O-O Be6 11. Re1 Nc6 12. Nd5 Rc8 13. a5 Bxd5 14. exd5 Nxa5 15. b3 b6 16. Bf1) 8. Bg5 Nbd7 9. Nd2 h6 10. Be3 Nc5 11. Nc4 Be6 (11... Be7 12. f3 Be6 13. a5 Ncxe4 14. Nxe4 Bxc4 15. Bb6 Qc8 16. Nxd6+ Bxd6 17. Qxd6) 12. Nd5 Nxd5 13. exd5 Bf5 14. a5 Be7 15. Nb6 Rd8 16. b4 Ne4 $2 (16... Nd7 17. c4 Bg5 18. Nxd7 Qxd7 19. Bb6 Rc8 20. Be2 O-O 21. O-O Bd8 22. Rc1 $18) 17. c4 Bg5 18. Bd3 Bxe3 19. fxe3 Bh7 20. Qa4+ Ke7 21. Qc2 Nf6 22. Bxh7 Rxh7 23. O-O g6 24. Rac1 Nd7 25. c5 Nxb6 26. axb6 Qb8 27. e4 Kf8 28. Rf6 Kg7 29. Qf2 Kg8 30. h3 h5 31. Rc2 h4 32. c6 1-0
+

@@ -1,0 +1,17 @@
+﻿[Event "Teori"]
+[Site "?"]
+[Date "2023.08.27"]
+[Round "?"]
+[White "Partier i hollandsk"]
+[Black "?"]
+[Result "*"]
+[Annotator "semen"]
+[ECO "A88"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "46"]
+[GameId "476545653338"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 d6 6. Nc3 O-O 7. O-O c6 (7... Nc6 8. d5 Ne5 9. Qb3 (9. Nxe5 dxe5 10. Qb3 Kh8 11. c5 (11. Rd1 h6 12. c5 g5 13. Bd2 e4 14. Rac1 e6 15. d6 c6 16. f3 e5 17. fxe4 f4 18. Rf1 Qe8 19. e3 fxg3 20. hxg3 Be6 21. Qxb7 Qh5 22. Bf3 Ng4 23. Bxg4 Qxg4 24. Be1 Rxf1+ 25. Kxf1 Qf3+ 26. Kg1 Rf8) 11... e6) 9... Nxf3+ 10. exf3 e5 11. dxe6 Bxe6 12. Qxb7 Bxc4 13. Re1 Bf7 (13... c5 14. f4 (14. b3) 14... d5) 14. f4 d5 15. Be3 Ne4 16. Rad1 Nxc3 17. bxc3 Bxc3 18. Bxd5 Bxe1 19. Bxf7+ Rxf7 20. Rxd8+ Rxd8 21. Qxa7 Bd2 22. Bd4 Bb4 23. Be5 Bd6 24. Bb2 Bf8 25. a4 Rd2 (25... Bg7 26. Be5 h5 27. h4) (25... Bg7) 26. Bc3 Rd1+ 27. Kg2 Bg7 28. Qb8+ Rf8 29. Qb3+) 8. d5 e5 9. dxe6 Bxe6 10. b3 Na6 (10... Ne4 11. Nxe4 fxe4 12. Nd4 Bf7 (12... Qd7 13. Nxe6 Qxe6 14. Rb1 Nd7 (14... d5) 15. Ba3 d5) 13. Bxe4 (13. Be3 d5 14. cxd5 Qxd5 $11) 13... d5 14. cxd5 Re8 (14... Bxd5 15. Bxd5+ Qxd5 16. Be3 (16. Ba3 Bxd4)) (14... cxd5) 15. Bf3 (15. Bg2 Bxd5 (15... c5 16. Nc2)) 15... Bxd5 16. Bxd5+ (16. Rb1 Na6 17. Bb2 Bxf3 18. exf3 Qa5) (16. Be3 Bxf3 17. exf3 c5 18. Nb5 Bxa1 19. Qxa1 Qd7 20. Rd1 Qxb5 21. Bh6 Re7 22. Rd8+ Kf7 23. Qg7+ Ke6 24. Qg8+ Rf7 25. Re8+ Kd6 26. Bf4+ Kc6 27. Re6+) 16... Qxd5 17. Bb2 Na6 18. e3) 11. Bb2 Qe7 12. Ng5 (12. Qd2 Nc5 (12... Rae8) (12... Rfe8) 13. Rad1 Rad8 (13... Rae8) 14. Nd4 Bf7 15. Rfe1 Nfe4 16. Nxe4 Nxe4 17. Qc2 d5 18. cxd5 Bxd5 19. Nf3 Bxb2 20. Qxb2 Qc5 21. Rd4 Nxf2 22. e3 Ng4 23. Qd2 Qb6 24. Rd1 Rde8 25. Re1 Re7 26. h3 Nf6 27. Nh4 Rfe8 28. Bxd5+ Nxd5 29. Ng2 Qc7 30. Qf2 Nf6 31. Qf3 Ne4 32. h4 Qxg3 33. Qxg3 Nxg3 34. Kf2 Ne4+ 35. Kf3 Nf6 36. Nf4 Re4 37. Rd6 Ng4 38. Ng2 R4e6 39. Rd4 Ne5+ 40. Kf2 Ng4+ 41. Kf3 R8e7 42. Rd8+ Kg7 43. Rd4 Re4 44. Rd6 R7e6 45. Rd7+ Kh6 46. Rxb7 Ne5+ 47. Ke2 f4 48. Nxf4 Rxf4 49. exf4 Nc4+ 50. Kf2) 12... Bd7 13. Re1 (13. e4) (13. Qc2 Rae8 14. Rad1 Bc8 15. e3 Ng4) 13... h6 (13... Rae8 14. e4 h6 15. Nh3 Nc5) 14. Nf3 Rae8 15. Nh4 Kh7 16. Qc2 Nc5 17. b4 Nce4 18. Nxe4 Nxe4 19. Bxg7 Qxg7 20. Nf3 f4 21. Nd2 Nxf2 22. Ne4 Nxe4 23. Bxe4 Qd4+ *
+

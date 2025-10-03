@@ -1,0 +1,23 @@
+﻿[Event "Fagernes International 2024"]
+[Site "Fagernes, Norway"]
+[Date "2024.03.28"]
+[Round "6.13"]
+[White "Mitusov, Semen"]
+[Black "Carlsson, Ludvig"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/xSpaceX"]
+[ECO "B33"]
+[WhiteElo "2487"]
+[BlackElo "2350"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "49"]
+[GameId "495646916627"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+[TimeControl "100/40+40:0"]
+[WhiteClock "0:54:07"]
+[BlackClock "1:20:32"]
+
+1. e4 {[%eval 13,0] [%emt 0:00:00]} c5 {[%eval 17,0] [%emt 0:00:00]} 2. Nf3 {[%eval 22,0] [%emt 0:00:00]} Nc6 {[%eval 31,0] [%emt 0:00:00]} 3. d4 {[%eval 33,0] [%emt 0:00:00]} cxd4 {[%eval 38,0] [%emt 0:00:00]} 4. Nxd4 {[%eval 0,0] [%emt 0:00:00]} Nf6 {[%eval 36,0] [%emt 0:00:00]} 5. Nc3 {[%eval 3,0] [%emt 0:00:00]} e5 {[%eval 13,0] [%emt 0:00:00]} 6. Ndb5 {[%eval 38,0] [%emt 0:00:00]} d6 {[%eval 21,0] [%emt 0:00:00]} 7. Bg5 {[%eval 0,0] [%emt 0:00:00]} a6 {[%eval 25,0] [%emt 0:00:00]} 8. Na3 {[%eval 32,0] [%emt 0:00:00]} b5 {[%eval 35,0] [%emt 0:00:00]} 9. Nd5 {[%eval 3,0] [%emt 0:00:00]} Be7 {[%eval 2,0] [%emt 0:00:00]} 10. Bxf6 {[%eval 27,0] [%emt 0:00:00]} Bxf6 {[%eval 27,0] [%emt 0:00:00]} 11. c4 {[%eval 25,0] [%emt 0:00:00]} b4 {[%eval 2,0] [%emt 0:00:00]} 12. Nc2 {[%eval 9,0] [%emt 0:00:00]} O-O {[%eval 23,0] [%emt 0:00:00]} 13. b3 {[%eval 6,0] [%emt 0:00:00]} a5 {[%eval 3,0] [%emt 0:00:00]} 14. h4 {[%eval 8,0] [%emt 0:00:00]} Be6 {[%eval 4,0] [%emt 0:00:00]} 15. Nxf6+ {[%eval 38,0] [%emt 0:00:00]} Qxf6 {[%eval 34,0] [%emt 0:00:00]} 16. g3 {[%eval 52,0] [%emt 0:00:00]} a4 {[%eval 4,0] [%emt 0:00:00]} 17. Bg2 {[%eval 33,0] [%emt 0:00:00]} Qd8 {[%eval 21,0] [%emt 0:00:00]} 18. O-O {[%eval 15,0] [%emt 0:00:00]} Qb6 {[%eval 5,0] [%emt 0:00:00]} 19. Kh2 {[%eval 21,0] [%emt 0:00:00]} axb3 {[%eval 32,0] [%emt 0:00:00]} 20. axb3 {[%eval 27,0] [%emt 0:00:00]} Rxa1 {[%eval 25,0] [%emt 0:00:00]} 21. Qxa1 {[%eval 29,0] [%emt 0:00:00]} Qa5 {[%eval 1,0] [%emt 0:00:00]} 22. Rd1 {[%eval 22,0] [%emt 0:00:00]} Ra8 $2 {[%eval 185,0] [%emt 0:00:00] Mistake. Qc5 was best.} (22... Qc5 23. Rd2) 23. Qxa5 {[%eval 189,0] [%emt 0:00:00]} Rxa5 $4 {[%eval 451,0] [%emt 0:00:00] Blunder. Nxa5 was best.} (23... Nxa5 24. Ra1 Kf8 25. Bh3 h6 26. Bxe6 fxe6 27. Kg2 Ra7 28. Ra4 Ke8 29. Nxb4 Rb7 30. Rxa5) 24. Rxd6 {[%eval 427,0] [%emt 0:00:00]} Rc5 {[%emt 0:00:00]} 25. Nxb4 {[%emt 0:00:00]} 1-0
+

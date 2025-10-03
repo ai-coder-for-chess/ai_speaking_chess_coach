@@ -1,0 +1,17 @@
+﻿[Event "Vennlynpartier"]
+[Site "?"]
+[Date "2023.03.01"]
+[Round "5"]
+[White "Abdrlauf, Elham"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B50"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "101"]
+[GameId "460368727208"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,101,19,31,72,53,86,77,112,24,58,25,39,-31,-8,26,26,4,18,45,45,44,77,70,60,20,55,-26,-42,-117,-118,-15,110,84,265,-1,2,-3,-3,-5,-1,1,1,-4,0,0,-5,-2,-5,-23,-16,-17,-2,-2,3,3,16,14,5,7,4,5,4,12,10,11,12,17,14,20,17,20,15,16,16,15,16,15,15,12,133,528,783,932,992,1002,1002,1022,1032,1032,1460,1904,2352,2354,29959,1002,29947,29950,29951,29952,29953,29962,29963,29960]} 1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 a6 6. g3 Qc7 $6 (6... Qd6 7. Nf3 b5 8. Bg2 Bb7 9. O-O e6 10. d3 Nbd7 11. Bf4 Qb6 12. Re1 Bd6 $13) 7. d4 cxd4 8. Qxd4 Nc6 9. Nxc6 Qxc6 10. Bg5 e6 $2 (10... Bg4 11. Bxf6 h5 $3 12. Bxg7 (12. Nd5 exf6 13. Bg2 Bc5 14. Qe4+ Kf8 15. O-O Re8 16. Qf4 Bd6 $11) (12. Bg5 Qxh1 13. Qa4+ Bd7 $17) 12... Bxg7 13. Qxg7 O-O-O 14. Rg1 Qe6+ 15. Be2 f6 $17) 11. O-O-O Be7 12. Bd3 $2 (12. Ne4 Qxe4 13. Bxf6 Qxd4 14. Bxd4 $16) 12... h6 13. Qh4 Bd7 14. Ne4 Nxe4 $2 (14... O-O-O 15. Bxf6 gxf6 16. Nxf6 e5 $19) 15. Bxe7 Nc5 16. Rhe1 Rc8 17. Bxc5 $4 (17. Bc4 $18) 17... Qxc5 18. Qf4 Qg5 19. Qd2 Qxd2+ 20. Rxd2 Bc6 21. Be4 Bxe4 22. Rxe4 Ke7 23. Rb4 Rc7 24. Rb6 Rd8 25. c3 Rxd2 26. Kxd2 Kd8 27. Ke3 Kc8 28. Rd6 Rd7 29. Rxd7 Kxd7 30. Kd4 Kd6 31. f4 h5 32. c4 b6 33. b3 a5 34. a3 f6 35. b4 axb4 36. axb4 Kc6 37. h3 Kd6 38. g4 hxg4 39. hxg4 g6 $4 (39... Kc6 40. g5 Kd6 41. g6 Kc6 $11) 40. g5 f5 41. c5+ bxc5+ 42. bxc5+ Kc6 43. Ke5 Kxc5 44. Kxe6 Kd4 45. Kf6 Ke4 46. Kxg6 Kxf4 47. Kh5 Ke3 48. g6 f4 49. g7 f3 50. g8=Q f2 51. Qc4 1-0
+

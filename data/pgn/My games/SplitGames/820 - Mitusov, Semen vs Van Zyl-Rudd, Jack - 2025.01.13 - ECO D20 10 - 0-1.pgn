@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.13"]
+[Round "4.8"]
+[White "Van Zyl-Rudd, Jack"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D20"]
+[WhiteElo "2248"]
+[BlackElo "2464"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "122"]
+[GameId "2133713953972242"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,122,36,27,19,-9,20,32,44,44,36,38,39,36,25,22,22,16,20,-41,-48,-33,-44,-51,-51,-58,-14,-32,-31,-62,-41,-59,-64,-126,-74,-70,-87,-87,-90,-105,-105,-143,-143,-146,-145,-196,-221,-202,-224,-276,-281,-320,-168,-232,-241,-242,-173,-178,-185,-183,-183,-175,-168,-191,-192,-195,-198,-190,-212,-199,-204,-214,-207,-204,-200,-195,-176,-194,-186,-214,-232,-248,-245,-268,-275,-293,-284,-370,-370,-360,-214,-244,-197,-229,-250,-229,-229,-257,-263,-241,-258,-249,-184,-180,-188,-214,-212,-229,-229,-199,-207,-253,-259,-262,-303,-315,-318,-312,-318,-369,-358,-378,-326,-337,-354]} 1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nc6 6. Ne2 Bf5 7. O-O (7. Qb3 e6 8. Qxb7 Ndb4 9. Bb5 Be4 10. Bg5 Qb8 11. Qxb8+ Rxb8 12. Nbc3 Nc2+) 7... e6 8. Nbc3 Nb6 9. Bd3 $2 (9. Bb3 Be7 10. Be3 O-O (10... Qd7 11. Ng3 Bg6 12. f4 O-O-O) 11. Ng3 Bg6 12. f4 Na5) 9... Bxd3 10. Qxd3 Nxe5 11. Qe4 Nc6 12. Rd1 Nd5 (12... Be7 13. d5 exd5 14. Nxd5 Nxd5 15. Rxd5 Qc8 16. Nd4 Nxd4 17. Qxd4 (17. Rxd4 O-O 18. Qxe7 Re8 19. Qb4 c5) 17... O-O 18. Bg5 Re8 19. Bxe7 Rxe7 20. g3 $15) 13. Nf4 Nce7 14. Qe5 c6 15. Qh5 (15. Ne4 Ng6 16. Nxe6 Qe7 17. Nxg7+ Bxg7) 15... Nf6 16. Qg5 Ng6 17. Nh5 Nxh5 18. Qxh5 Be7 (18... Qh4) 19. Rd3 Qb6 20. Be3 Qxb2 21. Qd1 Qa3 22. d5 Ne5 23. Bc1 Qa5 24. Re3 Nc4 (24... cxd5 25. Nxd5 Nc4 26. Nxe7 Nxe3 27. Bxe3 Kxe7) 25. dxc6 Rd8 26. Rd3 O-O 27. Bf4 (27. cxb7 Qxc3 28. Rxd8 Rxd8 29. Bf4 Nd6) 27... bxc6 (27... Nb2 28. Rxd8 Nxd1 29. Rxf8+ Bxf8 30. cxb7 (30. c7 Nxc3 31. c8=Q Ne2+ 32. Kh1 Nxf4) 30... Qb6 $1 $19) 28. Qe2 Bf6 29. Rc1 Rxd3 30. Qxd3 Nb2 31. Qc2 Rd8 32. Ne4 Nd3 33. Nxf6+ gxf6 34. Bd2 Qd5 35. Rf1 c5 36. Be3 f5 37. Rd1 Rd7 38. Bh6 f6 39. h4 c4 40. Rb1 Kf7 41. Qe2 Kg6 42. Be3 h5 43. Rb8 f4 44. Bd2 Rg7 (44... Nxf2 45. Bxf4 Ng4) 45. Bc3 (45. f3 Qd4+ 46. Kh2 e5) 45... e5 46. Rh8 f3 47. Qxf3 (47. Qe3 Nf4 48. g3 Qd3 (48... Qd1+ 49. Kh2 Kf5 50. Bxe5 $15) 49. gxf4 Kf5+ (49... Kf7+) 50. Kh2) 47... Qxf3 48. gxf3 Nf4 49. Bd2 Kf5+ (49... Rc7 50. Bxf4 exf4 51. Rb8 c3 52. Rb1 c2 53. Rc1 Kf5 54. Kf1 Ke5 55. Ke2 Rc3 56. Kd2 Rxf3) 50. Kf1 Rd7 51. Ke1 Rd3 52. Rc8 Ng2+ 53. Ke2 Rd4 54. Ra8 Nxh4 55. Rxa7 (55. Be3 Rd7 56. Rh8 Ke6) 55... Nxf3 56. Be3 Ng1+ 57. Kf1 Rd1+ 58. Kg2 Ne2 59. Rh7 c3 60. Rxh5+ Kg6 61. Rh6+ Kg7 0-1
+

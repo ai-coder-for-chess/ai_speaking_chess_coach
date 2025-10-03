@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.14"]
+[Round "5.1"]
+[White "Mitusov, Semen"]
+[Black "Iturrizaga Bonelli, Eduardo"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B13"]
+[WhiteElo "2464"]
+[BlackElo "2574"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "38"]
+[GameId "2134274000072723"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 (6. Ne2 Bg4 7. O-O e6 8. Qe1 Nf6 9. Bg5) 6... e6 7. Nf3 Bd6 8. O-O Nge7 9. a3 (9. b3 O-O 10. Re1 Bd7 11. c4 dxc4 12. bxc4 Nb4 13. Bf1 Bc6 14. Nbd2 Qd7) (9. Re1 O-O 10. Bxh7+ $2 Kxh7 11. Ng5+ Kg6 12. Qg4 f5 13. Qh4 Bd7 14. Qh7+ Kf6 15. Qh5 g6 16. Nh7+ Kf7 17. Ng5+ Ke8 18. Qh6 f4 $17) 9... O-O 10. Qe2 Bd7 11. Be3 Rae8 12. c4 dxc4 13. Bxc4 e5 14. d5 $2 (14. Nc3 Nxd4 15. Bxd4 exd4 16. Nb5 Bxb5 17. Bxb5 Nc6 18. Qc4) 14... Nd4 15. Bxd4 exd4 16. Qd3 Ng6 17. Nbd2 Nf4 18. Qxd4 b5 $2 (18... Bxh3 19. gxh3 Qc8 $1 20. Rfe1 Nxh3+ 21. Kf1 Bc5 22. Qc3 Nxf2 $19) 19. Bd3 Be5 (19... Be5 20. Nxe5 Qxe5 21. Qxe5 Rxe5 22. Be4 Rfe8 23. Bf3 Nxd5 $11) 1/2-1/2
+

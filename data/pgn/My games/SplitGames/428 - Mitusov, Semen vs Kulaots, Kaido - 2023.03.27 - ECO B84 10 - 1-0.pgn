@@ -1,0 +1,20 @@
+﻿[Event "Kvisla Invitational vol. 3"]
+[Site "Bogstadveien 30, Oslo"]
+[Date "2023.03.27"]
+[Round "8.5"]
+[White "Mitusov, Semen "]
+[Black "Kulaots, Kaido "]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B84"]
+[WhiteElo "2407"]
+[BlackElo "2525"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "83"]
+[GameId "462672569653"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,83,30,18,51,49,70,70,53,35,35,30,58,46,64,62,69,43,26,34,46,3,3,3,3,10,7,7,11,23,2,-9,-8,-9,0,-31,-23,-18,3,-18,0,-7,-5,0,76,-26,23,-16,-13,-19,56,48,76,9,22,-30,-33,-27,-19,33,0,1,0,-66,-64,0,0,0,136,181,180,136,150,135,25,142,139,139,348,0,578,660,29989,29990,29991,29992]} 1. e4 c5 2. Nf3 d6 (2... e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Be3 Be7 9. f4 d6 10. Kh1 O-O 11. Qe1 Nxd4 12. Bxd4 b5 13. a3 Bb7 14. Qg3 {Det er vanlig Scheveningen}) 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4 O-O 9. Kh1 (9. Be3 Qc7 10. g4 d5 11. e5 Ne4 12. Nxe4 dxe4 13. Qe1 Nc6 14. c3 b5 15. Nxc6 Qxc6 16. g5 $14) 9... Qc7 10. Be3 (10. Qe1 b5 11. Bf3 Bb7 $13) 10... b5 11. a3 Bb7 12. Bf3 Nbd7 $1 {[%cal Gd7c5,Gd7b6] Beste måten å plassere splineren på} 13. Qe1 Rfe8 {[%cal Ge6e5]} 14. Rd1 (14. Qg3 $6 Nc5 15. e5 Nfe4 16. Nxe4 Nxe4 17. Bxe4 Bxe4 $17) 14... Rac8 15. Bc1 Nb6 {[%cal Gb6a4,Gb6c4]} (15... Bf8 {[%cal Ge6e5,Gd7c5]} 16. Qg3 Nc5 17. Rfe1 e5 18. Nf5 g6 $13) 16. Qg3 Bf8 17. Rd3 $6 {[%cal Gd3a3,Gd3g3] Jeg mister et par skritt, men det er ikke kritisk} (17. Rde1 Nc4 18. b3 Nxa3 19. e5 $44) 17... Nfd7 $1 {[%csl Yd3][%cal Gd7c5,Gb6c4]} 18. Re1 {[%csl Ge4]} Qb8 (18... g6 $15) 19. Qh4 {[%csl Yh7][%cal Gf3d1,Gd3h3]} (19. h4 Na4 20. Nxa4 bxa4) 19... g6 (19... Nc5 20. Rde3 Nc4 21. R3e2 Qc7 $11) 20. e5 $5 (20. f5 $6 exf5 21. exf5 Rxe1+ 22. Qxe1 Ne5 23. Re3 Nxf3 24. Nxf3 Nc4 $15) (20. Bg4 $1 {[%cal Gd3h3]} Be7 21. Qh6 Bf8 22. Qh4 Be7 23. Qh3 $13) 20... Nc5 (20... dxe5 21. fxe5 Nc4 22. Bxb7 Qxb7 23. Ne4 $13) 21. Rde3 Bg7 {[%cal Gb6c4]} 22. R3e2 Red8 23. Bxb7 Qxb7 24. Nf3 {[%cal Gf3g5,Gc3e4,Ge4f6]} Nd5 25. Nxd5 Qxd5 26. h3 {Bare venter} Qa8 $6 {Han brukte sin siste halvtime på de to trekkene, og hvert trekk var en feil} (26... Qc6 27. b4 Nd7 (27... Na4 28. f5 $16) 28. Rd2 $13) 27. Ng5 h6 28. Nf3 d5 $2 (28... Qc6 $11) 29. f5 $1 exf5 30. Bxh6 Ne4 $4 (30... Ne6 31. Bxg7 Kxg7 32. Qf6+ Kg8 33. Ng5 Nxg5 34. Qxg5 Re8 35. e6 $18 Kg7 36. exf7 Re4 37. g4 $13) 31. Bxg7 Kxg7 32. Rxe4 $1 dxe4 33. Qf6+ Kg8 34. Ng5 Rf8 35. e6 Qd5 (35... Qb7 36. exf7+ Rxf7 37. Qxg6+ Rg7 38. Qe6+ Kh8 39. Qxf5 $18) 36. Nxf7 $1 {[%cal Gf6h8]} (36. exf7+ $4 Rxf7 37. Nxf7 Qxf7 38. Qxa6 Rxc2 39. Qxb5 Qc7 $11) 36... Kh7 {[%csl Ye1]} 37. Rf1 e3 $6 (37... Rxf7 38. Qxf7+ Kh6 39. Qf6 e3 40. e7 e2 41. Re1 Qd1 42. Qh4+ Kg7 43. Qf2 Kf7 44. Qxe2 Qxe2 45. Rxe2 $18) 38. Rf4 Rc4 39. e7 (39. Qe7 Rxf4 40. Qxf8 $18) 39... Re8 (39... Rg8 40. Ng5+ Kh6 41. Ne6 Rxf4 42. Qf8+ Kh7 43. Ng5+) 40. Ne5 Rxf4 41. Qxg6+ Kh8 42. Qxe8+ 1-0
+

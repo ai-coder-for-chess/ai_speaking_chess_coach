@@ -1,0 +1,19 @@
+﻿[Event "Nortekk Superlyn mars 2023"]
+[Site "?"]
+[Date "2023.03.07"]
+[Round "4"]
+[White "Al-Tarboush, Ward"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2257"]
+[BlackElo "2395"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "61"]
+[GameId "461012679970"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Bg5 Be7 9. g3 Be6 10. Bg2 Nc6 $6 (10... b5 11. O-O Nbd7 12. Nd5 Nxd5 13. exd5 Bf5 $11) 11. Qd2 b5 12. O-O-O $6 (12. O-O) 12... b4 13. Na4 (13. Nd5 Qa5 (13... Nxd5 14. exd5 Bxg5 15. f4 exf4 16. gxf4 $18) 14. Kb1 Nxd5 15. exd5 b3 16. Nc3) 13... Qa5 14. b3 Rd8 15. f4 d5 16. Bxf6 dxe4 17. Bxe4 $4 (17. Qe3 Bxf6 $11) 17... Rxd2 18. Bxc6+ Bd7 19. Rxd2 Bxc6 20. Bxe7 Bxh1 21. Bc5 Qb5 $2 (21... Rh6 22. fxe5 Bc6 23. Bb6 Qxe5 $19) 22. fxe5 Qb7 $2 23. Bd6 Bc6 24. Nc5 Qc8 25. Nd4 a5 26. Rf2 a4 27. Nf5 Rh7 28. e6 g6 $4 (28... f6 29. Ne7 Qa8 $11) 29. exf7+ Rxf7 30. Ng7+ Kd8 31. Rxf7 1-0
+

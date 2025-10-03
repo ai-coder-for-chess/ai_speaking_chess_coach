@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.27"]
+[Round "7.7"]
+[White "Schoorl, Rob"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "A17"]
+[WhiteElo "2295"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "2128602383745103"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. Nf3 {[%eval 14,0]} Nf6 {[%eval 18,0]} 2. g3 {[%eval 11,0]} b6 {[%eval 31,0]} 3. Bg2 {[%eval 23,0]} Bb7 {[%eval 33,0]} 4. d3 {[%eval 17,0]} c5 {[%eval 23,0]} 5. e4 {[%eval 6,0]} d6 {[%eval 17,0]} 6. O-O {[%eval 9,0]} e6 {[%eval 37,0]} 7. c4 {[%eval 28,0]} Be7 {[%eval 3,0]} 8. Nc3 {[%eval 19,0]} O-O {[%eval 2,0]} 9. b3 {[%eval 22,0]} a6 {[%eval 27,0]} 10. Bb2 {[%eval 16,0]} Qc7 {[%eval 41,0]} 11. Re1 {[%eval 29,0]} Nbd7 {[%eval 26,0]} 12. d4 {[%eval 29,0]} cxd4 {[%eval 21,0]} 13. Nxd4 {[%eval 22,0]} Rfe8 {[%eval 21,0]} 14. Qe2 {[%eval 26,0]} Bf8 {[%eval 23,0]} 15. Rac1 {[%eval 23,0]} Rac8 {[%eval 24,0]} 16. h3 {[%eval 22,0]} h6 {[%eval 2,0]} 17. Kh2 {[%eval 25,0]} Qb8 {[%eval 28,0]} 18. f4 {[%eval 26,0]} Nc5 {[%eval 34,0]} 19. b4 {[%eval 0,0]} Ncd7 {[%eval 15,0]} 20. a3 {[%eval 7,0]} Qc7 {[%eval 4,0]} 21. Qf2 {[%eval 21,0]} Qb8 {[%eval 0,0]} 22. Qe2 {[%eval 17,0]} Qa8 {[%eval 37,0]} 23. Nf3 {[%eval 6,0]} Rc7 {[%eval 34,0]} 24. Nd2 {[%eval 37,0]} Rec8 {[%eval 3,0]} 25. e5 {[%eval 0,0]} Bxg2 {[%eval 0,0]} 26. Qxg2 {[%eval 11,0]} Qxg2+ {[%eval 11,0]} 27. Kxg2 {[%eval 15,0]} Ne8 {[%eval 6,0]} 28. Nce4 {[%eval 19,0]} dxe5 {[%eval 7,0]} 29. fxe5 {[%eval 6,0]} f6 {[%eval 0,0]} 30. exf6 {[%eval 8,0]} gxf6 {[%eval 3,0]} 31. Re2 {[%eval 11,0]} Kf7 {[%eval 3,0]} 32. g4 {[%eval 11,0]} Be7 {[%eval 0,0]} 33. Rf1 {[%eval 0,0]} Kg8 {[%eval 32,0]} 34. Ng3 {[%eval 0,0]} Ng7 {[%eval 33,0]} 35. Nf5 {[%eval 3,0]} Nxf5 {[%eval 37,0]} 36. gxf5 {[%eval 32,0]} e5 {[%eval 45,0]} 37. Re4 {[%eval 26,0]} Kf7 {[%eval 25,0]} 38. Rg4 {[%eval 26,0]} a5 {[%eval 14,0]} 39. Bc3 {[%eval 7,0]} axb4 {[%eval 15,0]} 40. axb4 {[%eval 12,0]} Ra8 {[%eval 15,0]} 41. Kf2 {[%eval 0,0]} Ra2 {[%eval 0,0]} 42. Ke2 {[%eval 0,0]} Bf8 {[%eval 0,0]} 43. Kd3 {[%eval 9,0]} Nb8 {[%eval 9,0]} 44. b5 $4 {[%eval -173,0] Blunder. Rg6 was best.} (44. Rg6) 44... Nd7 {[%eval -21,0]} 45. Ra1 Nc5+ 46. Ke2 Na4 47. Rc1 Rd7 0-1
+

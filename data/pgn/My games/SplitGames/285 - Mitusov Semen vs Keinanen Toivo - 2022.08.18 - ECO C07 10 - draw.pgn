@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "?"]
+[Date "2022.08.18"]
+[Round "5"]
+[White "Mitusov Semen"]
+[Black "Keinanen Toivo"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C07"]
+[WhiteElo "2415"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "43"]
+[GameId "443107130923"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 Bxc6 8. Bxc6+ bxc6 9. c4 Nf6 10. Qa4 Qc7 (10... Qd7 11. e5 Ng8 12. O-O Ne7 13. Rd1 $14) 11. cxd5 (11. exd5 exd5 (11... Qe5+ $2 12. Kf1 Rc8 13. Nf3 Qe4 14. dxe6 $18) 12. O-O Be7 13. b3 O-O 14. cxd5 (14. Bb2 Rfd8 $13) 14... cxd5 15. Nf3 $14) 11... exd5 12. O-O Be7 (12... Bd6 $5 13. exd5 Bxh2+ 14. Kh1 O-O 15. Qxc6 (15. dxc6 Bd6 16. Nc4 Bc5 17. g3 $13) 15... Rad8 $11) 13. exd5 (13. b3 $5 O-O 14. Bb2 $11) 13... Nxd5 14. Nf3 (14. b3 Bf6 15. Re1+ Kd8 16. Ba3 Bxa1 17. Rxa1 Re8 18. Ne4 $11) 14... O-O 15. Bd2 Bf6 {Draw} 16. Rac1 Bxb2 17. Rxc6 Qd7 18. Rd1 Rac8 19. Ra6 Qxa4 20. Rxa4 Rc7 21. Ra5 Nb6 22. Bf4 $14 1/2-1/2
+

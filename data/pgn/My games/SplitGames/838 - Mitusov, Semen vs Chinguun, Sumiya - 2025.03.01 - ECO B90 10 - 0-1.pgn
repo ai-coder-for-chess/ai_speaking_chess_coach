@@ -1,0 +1,20 @@
+﻿[Event "VM for junior 2025"]
+[Site "lichess.org"]
+[Date "2025.03.01"]
+[Round "5.10"]
+[White "Mitusov, Semen"]
+[Black "Chinguun, Sumiya"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2467"]
+[BlackElo "2385"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "88"]
+[GameId "2150925057818635"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,88,19,31,72,53,80,69,72,36,30,32,48,34,36,0,33,-50,-36,-80,-91,-42,8,-4,10,-2,-5,0,19,9,9,13,28,17,35,39,53,56,41,55,41,41,30,24,45,52,40,42,29,29,36,22,64,35,39,9,-16,17,19,3,42,36,19,0,1,-25,0,-21,0,-9,0,-58,-30,-61,-33,-51,-70,-91,-103,-159,-160,-236,-268,-263,-272,-257,-251,-478,-494,-580,-599]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 e5 7. Nf5 d5 (7... Nxe4 8. Nxg7+ Bxg7 9. Nxe4 d5 10. Bg5 f6 11. Qh5+ Kf8 12. Be3 Be6 13. Nc5) 8. Bg5 d4 9. Bxf6 gxf6 10. Nb1 Be6 11. Nd2 Nc6 (11... Nd7 12. Bd3 Nc5 13. O-O Qd7) 12. Bd3 Ne7 13. Qf3 (13. Qh5 Nxf5 14. exf5 Bd5 15. O-O Qd7 16. Ne4 Be7 17. Rac1 O-O-O 18. c3 dxc3 19. Nxc3) 13... Nxf5 14. exf5 Bd5 15. Be4 Bxe4 16. Nxe4 Be7 17. O-O Qd7 18. c3 O-O-O 19. Rfd1 Kb8 20. cxd4 exd4 21. Rd3 Qd5 22. Rad1 Qe5 23. Nd2 $6 (23. Qg3 Ka8 24. Qxe5 fxe5 25. f6 Bd6 26. Rg3) (23. b4 Rd7 24. Nc3 Rhd8 25. Ne2) 23... Bc5 24. b4 (24. Ne4 Ba7 25. Qg3) 24... Ba7 25. h3 (25. Qh5 Rd5 (25... Rhg8 26. Nf3) 26. Qxf7 Qxf5 27. Nf3 $11) 25... Rhg8 26. Nc4 Qb5 27. Qf4+ (27. Ne3 Ka8 28. Nc2) 27... Ka8 28. Nd6 Qd5 29. Ne4 Rde8 30. Ng3 (30. f3 Bb8 31. Qh4 Qxf5) 30... Re5 31. Kh2 h5 (31... Rg5 $4 32. Rxd4 $18) 32. Rf3 (32. a4) 32... Rg5 33. Kh1 Re8 34. Qh4 Qa2 35. Kh2 $2 (35. Kg1 Qc2 (35... d3 36. Qf4) 36. Rfd3) 35... Qc2 $6 (35... Rxg3 $19) 36. Rxd4 (36. Rdd3 Rxg3) 36... Bxd4 37. Qxd4 Reg8 38. Rc3 $2 (38. Rf4 Qc7 39. Rf3 Qe5 40. Qxe5 fxe5 41. h4 Rg4 42. Kh3 e4 43. Re3 Rf4 44. Nxh5 $13) 38... Qxf5 $1 39. f4 $6 (39. Rf3 Qe5 40. Qxe5 fxe5 41. h4 Rg4 42. Kh3) 39... Qd5 40. Qxf6 R5g6 41. Qh4 Qd2 42. Rb3 f5 43. Rf3 (43. a4 $1) 43... Rc6 44. Rf1 Rc3 0-1
+

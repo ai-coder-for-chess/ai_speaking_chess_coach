@@ -1,0 +1,20 @@
+﻿[Event "Nordstrand GP Langsjakk 2022"]
+[Site "?"]
+[Date "2022.04.24"]
+[Round "5"]
+[White "Mitusov Semen"]
+[Black "Myagmarsuren Evsuld"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B25"]
+[WhiteElo "2274"]
+[BlackElo "1888"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "69"]
+[GameId "432868866904"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,37,26,38,55,50,91,0,88,20,20,9,16,8,44,35,64,62,60,51,86,101,84,14,14,23,64,11,73,6,43,36,53,30,28,18,18,21,17,49]} 1. e4 c5 2. Nc3 d6 3. g3 g6 4. Bg2 Nc6 5. Nge2 Bg7 6. d3 e6 7. O-O Rb8 8. a4 (8. Be3 b5 9. d4 b4 10. Na4 cxd4 11. Nxd4 Nge7 12. a3) 8... a6 9. Be3 b5 10. axb5 axb5 11. Qd2 b4 12. Nd1 Bd7 13. c3 Ne5 14. h3 bxc3 15. bxc3 Bb5 16. Nb2 $6 (16. c4 Bc6 17. Ndc3 Ne7 18. f4 Nd7 19. d4 $16) 16... Ne7 17. Rfd1 O-O 18. d4 Nc4 $2 19. Nxc4 Bxc4 20. Nc1 $4 (20. dxc5 $1 dxc5 21. Bxc5 Qxd2 22. Rxd2 Bxe2 23. Rxe2 Bxc3 (23... Rfe8 24. e5 Rbc8 25. Ra8) 24. Ra7 Nc6 25. Ra3 $3 $18) 20... Qb6 21. e5 (21. dxc5 dxc5 22. Nd3 Rfd8 23. Bxc5 Qxc5 24. Nxc5 Rxd2 25. Rxd2 Bxc3 $11) 21... Nf5 22. dxc5 dxc5 23. Bf4 Rfd8 $2 (23... h6 $19) 24. Qc2 $6 (24. Qxd8+ Rxd8 25. Rxd8+ Qxd8 26. Ra8 Qxa8 27. Bxa8 $11) 24... Rxd1+ 25. Qxd1 Qb2 26. Ra5 Qxc3 $6 (26... Bf8 $1 27. Qe1 h6) 27. Rxc5 Be2 $6 (27... Qb4 $1 28. Rc7 Bb5 $17) 28. Rxc3 Bxd1 29. g4 (29. Rd3 Ba4 30. g4 Nh4) 29... Nd4 30. Kf1 Ba4 31. Be4 Bb5+ 32. Bd3 Bxd3+ 33. Nxd3 h6 34. Rc4 Nf3 35. Kg2 1/2-1/2
+

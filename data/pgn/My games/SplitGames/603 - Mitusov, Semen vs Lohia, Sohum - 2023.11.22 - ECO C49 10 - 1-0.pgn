@@ -1,0 +1,20 @@
+﻿[Event "Reguengos de Monsaraz 2023"]
+[Site "lichess.org"]
+[Date "2023.11.22"]
+[Round "2.6"]
+[White "Mitusov, Semen"]
+[Black "Lohia, Sohum"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C49"]
+[WhiteElo "2484"]
+[BlackElo "2154"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "129"]
+[GameId "483864265065"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,129,30,30,18,17,13,13,13,-4,9,15,23,13,11,-7,19,15,12,9,25,16,13,15,18,-6,11,14,11,11,42,39,34,2,1,1,42,54,60,18,28,12,14,13,8,13,32,25,23,16,19,19,32,21,54,42,43,-1,40,7,30,50,52,52,53,19,28,28,64,53,50,-37,50,78,148,116,74,91,172,172,169,179,173,173,188,190,201,207,233,200,260,225,182,180,204,208,208,208,208,133,204,131,137,140,136,159,167,104,237,245,243,219,222,187,212,192,243,250,248,248,270,250,279,280,299,299,413,301,410,460,463,534]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 Ne7 8. c3 Ba5 9. Ng3 c6 10. Ba4 Ng6 11. d4 Bc7 12. Bc2 Re8 13. Re1 h6 14. h3 d5 15. exd5 Qxd5 16. Be3 e4 17. Nd2 Bxg3 18. fxg3 Qd6 19. Kh2 h5 20. Bf2 Bf5 21. Nc4 Qc7 22. Qc1 b5 23. Ne3 Be6 24. Kg1 a5 25. Nf1 Bd5 26. Qg5 Rad8 27. a4 Rb8 28. Qc1 bxa4 29. Bxa4 Bb3 30. Bxb3 Rxb3 31. Nd2 Rbb8 32. Nc4 Rb5 33. Qc2 Reb8 34. Ra2 Re8 35. Re3 Qd8 36. Nd2 Qb8 37. c4 Rb4 38. b3 Qd8 39. Nxe4 Nxe4 40. Rxe4 Rxe4 41. Qxe4 Rxb3 42. Qxc6 Rb1+ 43. Kh2 Qg5 44. Qa8+ Nf8 45. Re2 Rf1 46. Re8 Rxf2 47. Rxf8+ Kh7 48. Rh8+ Kg6 49. Qe4+ Qf5 50. Qxf5+ Kxf5 51. Rxh5+ Ke4 52. Rxa5 Kxd4 53. Rg5 Kxc4 54. Rxg7 Kd5 55. Rg8 Ke6 56. Rg4 Ra2 57. Rf4 Ra1 58. g4 Ra3 59. Rf3 Ra1 60. Kg3 Ra2 61. g5 Rb2 62. h4 Rb1 63. Kg4 Rg1 64. Re3+ Kd7 65. g3 1-0
+

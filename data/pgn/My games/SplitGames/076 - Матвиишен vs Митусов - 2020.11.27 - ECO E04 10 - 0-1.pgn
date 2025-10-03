@@ -1,0 +1,21 @@
+﻿[Event "×У рапид"]
+[Site "?"]
+[Date "2020.11.27"]
+[Round "5"]
+[White "Матвиишен"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator ",immortal223"]
+[ECO "E04"]
+[WhiteElo "2438"]
+[BlackElo "2182"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "50"]
+[GameId "389941305255"]
+[EventType "simul"]
+[EventRounds "15"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Rb8 8. Nfd2 e5 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Nbd2 Bb4 13. b3 h5 14. h3 Bc3 15. Ba3 Bxa1 16. Qxa1 h4 17. hxg4 hxg3 18. fxg3 Qd3 (18... Bxc4 19. Nxc4 Qd5) 19. Qd1 (19. Qd4 Qe2 20. Rf2 Qe1+ 21. Nf1 Bd5) 19... Bd5 20. Rf3 Qh7 21. Nf1 Qh1+ 22. Kf2 Rh2+ 23. Nxh2 Qxd1 24. e4 Qc2+ 25. Kg1 Bxc4 0-1
+

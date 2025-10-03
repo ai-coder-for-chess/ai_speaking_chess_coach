@@ -1,0 +1,20 @@
+﻿[Event "Seville Open 2025"]
+[Site "lichess.org"]
+[Date "2025.01.11"]
+[Round "2.8"]
+[White "Lopez Cueto, Julio"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B94"]
+[WhiteElo "2030"]
+[BlackElo "2464"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "76"]
+[GameId "2133153609416723"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,76,14,18,51,60,66,49,45,22,28,29,44,45,58,0,30,22,16,16,16,-15,-13,-33,-32,-41,-26,-28,-28,-22,-29,-37,-37,-35,-28,-62,-65,-65,-65,-61,-62,-47,-47,-83,-40,-40,-54,-60,-41,-45,-54,-53,-32,-71,-64,-68,-55,-68,-63,-75,-62,-75,-75,-92,-103,-96,-78,-239,-315,-375,-241,-239,-222,-685,-708,-1325,-1768,-29979,-29980]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 (7... Qb6 8. Qd2 e5 9. Nf5 Qxb2 10. Rb1 Qa3 11. Bc4) 8. Qd2 (8. Qf3 h6 9. Bh4 g5 10. fxg5 hxg5 11. Bxg5 Qc5 12. Be3 Ne5 13. Qe2 Neg4 14. Bg1 Bh6) (8. Qe2 e5 9. Nf5 h6 10. Bxf6 Nxf6 11. fxe5 dxe5 12. O-O-O Be6) 8... h6 (8... e6 9. O-O-O Be7 10. Bxf6 Nxf6) 9. Bh4 (9. Bxf6 Nxf6 10. O-O-O) 9... e6 10. O-O-O Be7 11. Nf3 b5 12. a3 (12. e5 dxe5 13. fxe5 Nxe5 14. Bg3 Nxf3) 12... Bb7 13. Bd3 Nc5 (13... O-O 14. g4 b4 15. axb4 a5 16. b5 a4) 14. Rhe1 Rd8 15. Kb1 O-O 16. Qe2 d5 $6 (16... Rb8) 17. exd5 $6 (17. Bxf6 Bxf6 18. e5 Be7 19. Nd4 b4 20. axb4 Ne4) 17... Nxd5 18. Nxd5 Rxd5 19. Bxe7 Qxe7 20. Ne5 Rfd8 21. Qg4 Nxd3 22. Rxd3 Rxd3 23. Nxd3 Qc7 24. g3 Rc8 25. Qd1 a5 26. Re5 Bd5 27. Qe2 Qc4 28. Nc1 Qc5 29. Re3 Qd4 (29... b4 30. a4 f5 31. Re5 Kh8 $19) 30. Qd3 Qa4 31. f5 b4 32. fxe6 Bxe6 33. Qe2 $4 (33. b3 Qc6 34. axb4 axb4) 33... Bf5 34. b3 Qc6 35. Nd3 bxa3 36. Re5 Bxd3 37. Qxd3 Qh1+ 38. Ka2 Qc1 0-1
+

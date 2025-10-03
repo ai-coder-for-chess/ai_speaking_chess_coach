@@ -1,0 +1,20 @@
+﻿[Event "EYCC 2022"]
+[Site "?"]
+[Date "2022.11.12"]
+[Round "7.12"]
+[White "Mitusov Semen"]
+[Black "Skrbec Leon"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C65"]
+[WhiteElo "2413"]
+[BlackElo "2175"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "62"]
+[GameId "450738381925"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,6,25,16,10,25,29,15,20]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. Re1 (7. Nbd2 Ne7 8. d4 exd4 9. cxd4 Bb6 10. Re1 Bg4 11. h3 Bh5 12. Qb3 $13) 7... Ne7 8. d4 Bb6 9. Nbd2 c6 10. Bd3 (10. Bf1 Ng6 11. Nc4 Bc7 12. dxe5 dxe5 13. Qc2 Bg4 14. Nfd2 $14) 10... Ng6 11. Nf1 $2 (11. h3 Nh5 12. Nc4 Bc7 13. Bc2 $14) 11... Bg4 12. Be3 Re8 (12... d5 13. dxe5 Bxf3 14. gxf3 Nxe5 15. Bxb6 Qxb6 16. exd5 Nxd3 17. Qxd3 Nxd5 $17) 13. Ng3 d5 14. h3 exd4 15. Bxd4 Bxf3 16. Bxf6 $6 (16. Qxf3 Bxd4 17. cxd4 dxe4 18. Nxe4 Qxd4 19. Rad1 $17) 16... Qxf6 17. Qxf3 Qxf3 18. gxf3 Nf4 19. Bf1 Rad8 $6 (19... Re6 $19) 20. Rad1 g6 $2 (20... dxe4 21. fxe4 g6 $19) 21. b4 $6 (21. Ne2 $15) 21... h5 $2 (21... d4 22. c4 d3 23. c5 Bc7 $19) 22. Ne2 Nxe2+ 23. Rxe2 dxe4 24. Rxd8 Bxd8 25. fxe4 Bf6 26. c4 Bd4 27. c5 b6 28. cxb6 axb6 29. Kg2 c5 30. bxc5 Bxc5 31. f4 Kg7 1/2-1/2
+

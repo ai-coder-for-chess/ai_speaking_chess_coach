@@ -1,0 +1,20 @@
+﻿[Event "Portimao 2024"]
+[Site "lichess.org"]
+[Date "2024.02.17"]
+[Round "8.5"]
+[White "Mitusov, Semen "]
+[Black "Gomez Ledo, Roberto Carlos "]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B06"]
+[WhiteElo "2487"]
+[BlackElo "2425"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "89"]
+[GameId "491617417107"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. h4 h6 6. h5 (6. a4 b6 7. h5 g5 8. f4 gxf4 9. Bxf4 Bb7 10. Nf3 Nd7 11. Bc4) 6... g5 7. a4 b6 8. Bc4 e6 9. f4 gxf4 10. Bxf4 Bb7 11. Nf3 Qe7 12. Qe2 Nd7 13. O-O-O Kd8 $5 14. Kb1 Kc8 15. Na2 $6 (15. Bd3 Kb8 16. a5 b5 17. e5 d5 18. Nd2 $18) 15... Ngf6 16. Bd3 Ne8 17. Bd2 c6 18. a5 b5 19. c4 bxc4 20. Bxc4 Nc7 21. e5 dxe5 22. dxe5 c5 23. Bf4 Nd5 24. Bh2 Qd8 25. Qd2 Bc6 26. Nc3 Nb4 27. Qf4 Rf8 28. Rd6 Qxa5 29. Rhd1 Ra7 30. Qg4 Bh8 31. Qf4 Bg7 32. Qe3 Rc7 33. Nd2 Qb6 $2 (33... Qa1+ $3 34. Kxa1 Nc2+ 35. Kb1 Nxe3 $17) 34. Bf4 Rg8 35. Bb3 Bf8 (35... c4 $1) 36. Nc4 Qa7 37. R6d2 a5 38. Ba4 Bxa4 39. Nxa4 Nd5 40. Rxd5 exd5 41. e6 fxe6 42. Qxe6 Rg7 43. Nab6+ Kb7 44. Qxd5+ Ka6 45. Bxc7 1-0
+

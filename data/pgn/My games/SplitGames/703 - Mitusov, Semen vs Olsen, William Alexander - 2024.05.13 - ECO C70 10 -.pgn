@@ -1,0 +1,20 @@
+﻿[Event "NM for lag 2024"]
+[Site "lichess.org"]
+[Date "2024.05.13"]
+[Round "3"]
+[White "Mitusov, Semen"]
+[Black "Olsen, William Alexander"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C70"]
+[WhiteElo "2477"]
+[BlackElo "2085"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "107"]
+[GameId "499199349520"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. d4 (5. c3 Bg7 6. d4 Nge7 (6... exd4 7. cxd4 b5 8. Bc2 d6 9. d5 Na5 10. O-O Ne7 11. Bd2) 7. dxe5 Nxe5 8. Nxe5 Bxe5 9. Bh6 Nc6 10. h4 $16) 5... exd4 (5... Bg7 6. dxe5 Nxe5 7. Nxe5 Bxe5 8. O-O Bg7 9. Nc3 Ne7 10. f4 Nc6) (5... b5 6. Bb3 exd4 7. c3 Bg7 8. cxd4 Nge7 9. d5 Na5 10. Bd2 Bxb2 (10... Nxb3 11. axb3 O-O 12. Bc3 $16) 11. Bxa5 Bxa1 12. Nc3) 6. Bg5 $6 (6. Nxd4 Bg7 (6... Nge7 7. Bg5 Bg7 8. Nxc6 bxc6 9. Nc3 h6 10. Be3 O-O 11. Qd2 Kh7 12. O-O-O d6 13. h4 Be6 14. h5 g5 15. Bd4) 7. Nxc6 bxc6 8. Nc3 Ne7 9. Be3 O-O (9... Rb8 10. Qd2 Rxb2 11. Bb3) 10. Qd2 d6 11. Bh6 Be6 12. h4 f6 13. Bxg7 Kxg7 14. O-O-O c5 15. Nd5 $16) 6... Be7 7. Bxe7 Ngxe7 (7... Qxe7 8. Bxc6 dxc6 9. Qxd4 Nf6 10. Nc3 Bg4 11. Nd2 c5 12. Qe3 O-O-O 13. f3 Be6 14. O-O-O) 8. Nxd4 b5 9. Nxc6 Nxc6 10. Bb3 O-O 11. a3 d6 12. Nc3 Be6 13. O-O Na5 14. Bd5 c6 15. Bxe6 fxe6 16. b3 Qf6 17. Qd2 e5 18. Rfd1 (18. a4 b4 (18... Nb7 19. b4 $14) 19. Nd5 $1) 18... Nb7 19. f3 Rfd8 20. Ne2 a5 21. Qe3 Nc5 22. Qc3 Ra6 23. Rd2 b4 24. Qe3 bxa3 25. Rxa3 Qe7 26. Rd1 (26. Ra1 Qa7 27. Kh1 Ne6 28. Qc3 $14) 26... d5 27. exd5 cxd5 28. Raa1 (28. c4 $2 d4 29. Rxd4 Rxd4 30. Nxd4 Rd6 $17) 28... d4 $2 (28... Qc7 29. f4 Re6 30. fxe5 Rxe5 31. Qd2 $11) 29. Rxd4 Rxd4 30. Nxd4 Qc7 31. Ne2 $6 (31. Nb5 Qb6 32. Na3 a4 33. Nc4 axb3 34. Rxa6 Qxa6 35. cxb3 Qa1+ 36. Kf2 $18) 31... Ne6 32. c4 Nf4 $6 (32... Nc5 33. Kh1 $16) 33. Nxf4 exf4 34. Qe8+ Kg7 35. Rd1 (35. Re1 Qc5+ 36. Kh1 Ra7 37. h3 Rf7 38. Re4 Qd6 39. Kh2 Qd2 40. Re7 Rxe7 41. Qxe7+ Kg8 42. c5 $18) 35... Qc5+ 36. Kh1 Ra7 37. h3 Re7 38. Qd8 (38. Rd7 Rxd7 39. Qxd7+ Kf6 40. Qd8+ Kf7 41. Qd7+ Kg8 42. Qb5 Qe3 43. Qxa5 Qxb3 44. c5 $18) 38... Qe3 39. Kh2 Rf7 40. Qb8 Qf2 41. Qe5+ Kh6 42. Qxa5 Rf5 43. Qe1 Qa7 44. Qd2 Qe7 45. b4 Kg5 46. Qd8 Re5 47. c5 Kf5 48. Qxe7 Rxe7 49. c6 Rc7 50. b5 Ke6 51. Rd8 Ke7 52. Rh8 Kd6 53. b6 Rxc6 54. b7 1-0
+

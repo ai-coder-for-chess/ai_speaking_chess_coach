@@ -1,0 +1,19 @@
+﻿[Event "Riga blitz 2023"]
+[Site "?"]
+[Date "2023.08.05"]
+[Round "4.17"]
+[White "Mitusov, Semen"]
+[Black "Schouten, Mathias Lind"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B92"]
+[WhiteElo "2318"]
+[BlackElo "2023"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "67"]
+[GameId "474329867237"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. Be2 Be6 9. O-O O-O 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Bxb3 13. cxb3 Nc5 14. Bxc5 (14. Qd1 Ncxe4 15. Nxe4 Nxe4 16. Qd5 Nf6 17. Qxb7 $18) 14... dxc5 15. Qc2 Qc7 16. Bc4 Rfd8 17. Nd5 Nxd5 18. Bxd5 Rd7 19. Qc4 Bf8 20. Qc3 Kh8 21. Rad1 Rcd8 22. Rc1 Qd6 23. Qf3 g6 24. Bxf7 Bg7 25. Bd5 Rf8 26. Qh3 Qc7 27. Rxc5 Qxc5 28. Qxd7 Qxa5 29. Qxb7 Qd2 30. Qxa6 Bh6 31. h3 Rxf2 32. Rxf2 Be3 33. Qc8+ Kg7 34. Qf8# 1-0
+

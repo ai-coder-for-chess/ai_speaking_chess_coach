@@ -1,0 +1,20 @@
+﻿[Event "Bærumsrappen hurtig Mai 2024"]
+[Site "Chess.com INT"]
+[Date "2024.05.30"]
+[Round "4"]
+[White "Bjugn, Gisle"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D00"]
+[WhiteElo "1896"]
+[BlackElo "2415"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "2051396804551794"]
+[EventDate "2020.07.07"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 g6 6. h3 Qb6 7. Qb3 c4 8. Qxb6 axb6 9. a3 b5 10. Rc1 Bg7 11. Ngf3 h6 12. Be2 g5 13. Bg3 Bf5 14. O-O O-O (14... Nd7 15. Rfe1 Bh7 16. Bd1 O-O 17. e4 dxe4 18. Nxe4 f5) 15. Rfe1 Nd7 16. Bf1 $6 (16. Bd1 Bd3 17. Bc2 Bxc2 18. Rxc2 f5) 16... e6 17. e4 Bh7 18. e5 $2 (18. exd5 exd5 19. Be2 Nb6 20. Bd1) 18... Nb6 19. Nb1 Na5 20. Rcd1 Na4 21. Re2 Bd3 (21... Nb3 22. Ne1 b4 23. axb4 (23. cxb4 Bxb1 24. Rxb1 Nxd4) 23... Nb6 24. Na3 Rxa3 25. bxa3 Na4 26. Re3 Nb2) 22. Red2 Nb3 $6 23. Bxd3 Nxd2 24. Rxd2 cxd3 25. Ne1 f6 26. Nxd3 fxe5 27. Nxe5 $6 (27. Bxe5 Bxe5 28. Nxe5 Nb6 29. Re2 Nc4 30. Nd3 Rfe8 31. Nd2 $11) 27... Bxe5 28. Bxe5 Nb6 29. Re2 Nc4 30. Bg3 Kf7 31. Kf1 Ke7 32. Ke1 h5 33. h4 gxh4 34. Bxh4+ Kd7 35. Kd1 Rf4 36. Bg3 Rg4 37. Be5 Rxg2 0-1
+

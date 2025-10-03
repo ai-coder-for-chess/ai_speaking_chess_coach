@@ -1,0 +1,19 @@
+﻿[Event "LangOffer NGP September 2023"]
+[Site "?"]
+[Date "2023.10.01"]
+[Round "6.1"]
+[White "Mitusov, Semen"]
+[Black "Nesse, David"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B27"]
+[WhiteElo "2468"]
+[BlackElo "1968"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "72"]
+[GameId "480986697408"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 g6 3. d4 (3. c4) 3... cxd4 4. Nxd4 Nf6 5. Qd3 $6 Nc6 6. Be3 (6. c4 Bg7 7. Nc3) 6... Qa5+ 7. c3 (7. Nc3 Bg7 8. Nb3 Qc7 9. O-O-O) 7... Bg7 8. Be2 O-O 9. O-O d5 10. Nd2 Rd8 11. Nxc6 bxc6 12. Qc2 e5 13. Rfd1 h6 (13... Be6 14. h3) (13... Ng4 14. Bxg4 Bxg4 15. f3 Be6 16. Nb3 Qa4 17. Qd2 $11) 14. h3 c5 $2 (14... Be6 15. b4 Qc7 16. f3 $11) 15. Nb3 Qa4 16. c4 $1 Nxe4 17. cxd5 Bf5 18. Qc4 Qxc4 19. Bxc4 Rac8 20. Rac1 Bf8 21. Na5 Bd7 22. Ba6 Rc7 23. f3 Ng3 $2 (23... Nd6 24. Rxc5 Rxc5 25. Bxc5) 24. d6 Rcc8 25. Bxc8 Rxc8 26. Kf2 Nf5 27. Bxc5 Nxd6 28. Nb3 Ba4 29. Bxd6 Rxc1 30. Rxc1 Bxd6 31. Nc5 Bb5 32. a4 Bxc5+ 33. Rxc5 Bxa4 34. Ra5 Bb3 35. Rxa7 Kf8 36. Ke3 f6 1-0
+

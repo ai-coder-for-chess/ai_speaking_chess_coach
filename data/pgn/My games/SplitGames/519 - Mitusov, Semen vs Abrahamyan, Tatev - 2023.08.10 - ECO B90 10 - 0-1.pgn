@@ -1,0 +1,20 @@
+﻿[Event "Riga Open 2023"]
+[Site "lichess.org"]
+[Date "2023.08.10"]
+[Round "6.14"]
+[White "Abrahamyan, Tatev"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2285"]
+[BlackElo "2445"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "474708989206"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,94,30,39,45,45,90,66,48,34,37,35,46,22,42,34,29,27,27,26,19,19,12,12,10,19,-4,21,21,19,33,25,36,11,36,22,40,31,31,19,41,43,64,68,63,46,27,30,54,32,16,6,-42,-36,-30,-98,-23,-29,-45,2,2,-2,34,29,17,17,49,54,99,0,68,61,74,87,109,101,110,104,59,73,142,-79,-46,-58,-76,-307,-308,-211,-166,-436,-452,-1630,-536,-1269,-510,-29977,-29980]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nb3 e6 7. g4 Be7 (7... b5 8. g5 (8. Bg2 Bb7 9. g5 Nfd7 (9... b4 10. Nd5 Nfd7 11. Nxb4 Be7)) 8... b4 9. gxf6 (9. Nd5 Nxe4 10. Be3) 9... bxc3 10. Qf3 Qxf6 11. Qxf6 gxf6 12. bxc3 $11) 8. g5 Nfd7 9. h4 b5 10. Bg2 Bb7 11. f4 Nc6 12. Be3 Nb6 $6 (12... b4 13. Ne2 O-O 14. Ng3 (14. Qd2 a5) 14... a5) 13. Qe2 Nc4 14. O-O-O Nxe3 15. Qxe3 Na5 16. Nxa5 Qxa5 17. Kb1 b4 18. Ne2 Qc5 19. Qh3 Qc4 $6 (19... O-O 20. h5 Rac8 21. Rd2 e5 22. g6 h6 23. gxf7+ Rxf7) 20. e5 Bxg2 21. Qxg2 Rd8 22. Nd4 dxe5 23. Nc6 Rc8 24. Nxe5 (24. Na7 Rb8 25. Nc6 Rc8) 24... Qxf4 25. Rhe1 $2 (25. Rde1 Qd4 26. Qb7 Qd8 27. Nxf7 Kxf7 28. Rhf1+ Ke8 29. Rxe6 $18) 25... O-O 26. Re4 $2 (26. Rd7 Rcd8 27. Rxd8 Bxd8) 26... Rfd8 27. Rc1 Qd2 $2 (27... Rd2 28. Rxf4 Rxg2 $19) 28. Qf3 Rf8 (28... f5 29. gxf6 Bxf6 $15) 29. Nd3 Qh2 30. Nxb4 a5 31. Nd3 Qc7 32. c4 a4 33. c5 a3 34. b3 Ra8 $2 (34... Rfd8 35. Ra4 Qh2 36. Rxa3 Qxh4) 35. c6 Rac8 36. Ne5 Qd6 37. Rd1 Qc5 38. Qe2 Rfd8 39. Rc1 Qd6 40. Qf3 $4 (40. Rec4 Qd2 41. Qxd2 Rxd2 42. R4c2 $16) 40... f6 41. gxf6 Bxf6 42. Nd7 Bb2 43. Rf1 Rxc6 44. Rf4 Rcc8 45. Rd1 Qe7 (45... Qxd7) 46. Qb7 Qe8 47. Re4 Rxd7 0-1
+

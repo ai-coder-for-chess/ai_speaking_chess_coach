@@ -1,0 +1,22 @@
+﻿[Event "Eliteserien 24 25"]
+[Site "Oslo"]
+[Date "2025.03.09"]
+[Round "9.43"]
+[White "Kulaots, Kaido"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2512"]
+[BlackElo "2467"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "77"]
+[GameId "2156480600854706"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[WhiteTeam "Vålerenga"]
+[BlackTeam "OSS"]
+
+{[%evp 0,77,25,22,41,49,79,54,44,27,36,42,61,25,25,15,32,-6,-2,-3,42,33,37,45,45,45,44,44,41,19,40,51,51,48,31,39,43,48,37,9,50,135,158,146,319,459,459,468,543,419,343,343,348,372,402,305,402,361,388,361,374,323,326,338,342,351,349,324,327,332,339,340,351,359,365,370,407,250,265,286]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nf3 Be7 8. g4 O-O 9. Be3 Nbd7 10. g5 Ne8 11. h4 Nb6 $2 (11... Nc7 12. Qd2 b5 13. O-O-O Bb7 14. h5 f5) 12. Qd2 Be6 13. O-O-O Qc7 (13... Rc8 14. h5 Bg4 15. Bxb6 Qxb6 16. Nd5 Qd8 17. Be2 Bxf3 18. Nxe7+ Qxe7 19. Bxf3 $16) 14. h5 Nc4 15. Bxc4 Qxc4 16. Nh4 g6 17. f4 exf4 18. Bxf4 Ng7 19. Ng2 Qc5 20. Ne3 Bxg5 21. Ned5 f6 22. hxg6 Bxd5 23. Nxd5 hxg6 24. Rdg1 Rae8 25. Bxg5 fxg5 26. Qxg5 Re6 27. Ne7+ Kf7 (27... Rxe7 28. Qxe7 Rf2 29. Qd8+ Kf7 30. Qd7+ Kg8 31. Qa4 $18) 28. Rf1+ Ke8 29. Rxf8+ Kxf8 30. Nxg6+ Ke8 31. Rh8+ Kd7 32. Nf8+ Kc6 33. Qxc5+ Kxc5 34. Nxe6+ Nxe6 35. Kd2 Kd4 36. Rh6 Ke5 37. Ke3 Nf4 38. Rxd6 Ng2+ 39. Kf2 1-0
+

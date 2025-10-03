@@ -1,0 +1,20 @@
+﻿[Event "Cesme Open 2025"]
+[Site "?"]
+[Date "2025.06.29"]
+[Round "9.14"]
+[White "Mitusov, Semen"]
+[Black "Zeynalli, Rashad"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2468"]
+[BlackElo "2255"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "39"]
+[GameId "2193985178177536"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,39,27,28,44,66,75,48,2,14,32,24,45,37,51,18,15,-8,4,-10,-6,1,3,-20,-15,-15,23,22,20,47,51,31,49,29,61,59,5,33,31,-23,-1,-29]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 (10... f5 11. g3 Bg7) 11. g3 f5 12. Bg2 $6 (12. exf5 e4 (12... Bxf5 13. Bg2 O-O (13... Rc8 14. c3 O-O 15. Nc2 Ne7 16. a4 Nxd5 17. Bxd5 Qb6 18. Ne3 Bg6 19. h4 h6 20. O-O Kh8 21. axb5 axb5 22. Bg2 f5 23. Nd5 Qd8 24. Ra7) 14. Ne3 Ne7 15. Nxf5 Nxf5 16. Qd3 e4 17. Bxe4 Bxb2 18. Rb1 Bxa3 19. O-O) 13. c3 Ne5 14. Be2 Bxf5 15. Nc2 O-O 16. a4 bxa4 17. Rxa4 Rb8 18. Nce3 Bg6 19. h4) 12... f4 13. c3 O-O 14. Nc2 Rb8 15. Qh5 a5 16. a3 (16. Bh3 Bxh3 17. Qxh3 b4 18. gxf4 exf4 19. Rg1 Kh8) 16... Ne7 17. gxf4 Nxd5 18. exd5 exf4 19. O-O h6 20. Rad1 (20. Kh1 Qg5 21. Qd1 Bg4 22. Bf3 h5 23. Rg1 f5 24. Be2 f3 25. Bxf3 Qf4 26. Bxg4 fxg4 27. Rg2 Qe4 28. Qd2 Rf3 29. Re1 Qd3 30. Qxd3 Rxd3 31. Re2 Rxd5 32. h3 Rd1+ 33. Rg1 Rxg1+ 34. Kxg1 gxh3 35. Kh2 Be5+ 36. Kxh3 Kf7 37. f4 Bf6 38. Kg3 Rg8+ 39. Kf3 Rg1 40. Ne3 h4 41. Nf5 Rd1 42. Kg4 Kg6 43. Nxh4+ Bxh4 44. f5+ Kf6 45. Re6+ Kf7 46. Kxh4 Rd2 47. Kg5 Rg2+ 48. Kf4 Rxb2 49. Rxd6 Rb3 50. Ke5 Rxc3 51. Rd7+ Kf8 52. Rb7 b4 53. axb4 axb4 54. Kf6 Rc6+ 55. Kg5 Ra6 56. Rxb4 Ra7 57. Rb6 Rg7+ 58. Rg6 Rh7 {1/2 Hamdouchi,H (2579)-Munoz Pantoja,M (2473) Tarragona op 7th 2006 (7)}) 1/2-1/2
+

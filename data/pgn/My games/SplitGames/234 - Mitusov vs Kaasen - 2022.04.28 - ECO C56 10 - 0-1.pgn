@@ -1,0 +1,18 @@
+﻿[Event "Friendly blitz"]
+[Site "?"]
+[Date "2022.04.28"]
+[Round "2"]
+[White "Mitusov"]
+[Black "Kaasen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C56"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "74"]
+[GameId "433217276319"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,32,16,28,38,44,44,44,44,-36,-11,-68,-34,-47,-37,-43,-23,-10,-10,-19,13,-3,21,-23,-25,-22,-4,-4,-4,4,-6,-20,-23,-23,18]} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Nd7 7. O-O Be7 8. Bxc6 bxc6 9. Nxd4 Nb8 10. Nc3 (10. Qf3 O-O 11. c4 c5 12. Ne2 Nc6 13. Nbc3 Nxe5 14. Qxd5 Qxd5 15. Nxd5 Bd6 16. b3 a5 $13) 10... O-O 11. Re1 $6 (11. Qf3 $5 a5 12. Re1 a4 13. a3 Ra6 14. Nf5 d4 15. Nxe7+ Qxe7 16. Ne2 c5) 11... c5 12. Nf3 Be6 13. h3 Nc6 14. Bf4 Qd7 15. Qd2 Rad8 16. Rad1 Rfe8 17. a3 c4 18. Ne2 Rb8 19. c3 Rb7 20. Ned4 Nxd4 21. Nxd4 Reb8 22. Nxe6 fxe6 23. Re2 h6 24. Qc1 Qa4 25. Kh2 Rxb2 26. Rxb2 Rxb2 27. Qxb2 Qxd1 28. Qb8+ Kh7 29. Qe8 Bc5 30. Qxe6 Qd3 31. Qd7 Bxf2 32. e6 Qf1 33. h4 Bg1+ 34. Kg3 Qf2+ 35. Kg4 Qxg2+ 36. Kf5 Qe4+ 37. Kg4 Qg2+ 0-1
+

@@ -1,0 +1,19 @@
+﻿[Event "LangOffer april NGP 2023"]
+[Site "?"]
+[Date "2023.04.28"]
+[Round "2"]
+[White "Gonzales, Francisco Silva"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D20"]
+[WhiteElo "2021"]
+[BlackElo "2412"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "465532722859"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Ne2 Bg4 8. f3 Bh5 (8... Be6 9. Nbc3 Qd7 10. Ne4 Bd5 11. Nc5 Qc8 12. a3 e6 13. Qc2 Bxc5 14. Qxc5 Qd7 15. O-O a6) 9. Be3 e6 10. Nbc3 Nb4 (10... Bg6 11. Be4 Bxe4 12. fxe4 Nc4 $11) 11. Be4 N4d5 12. Bf2 Be7 13. O-O Bg6 14. a4 c6 (14... a5 15. Qb3 O-O $11) 15. a5 Nc4 16. Qb3 Nd2 17. Qxb7 O-O 18. Rfd1 Nxe4 19. Nxe4 Rb8 20. Qxa7 Rxb2 21. Rd2 Rb3 22. Nc5 Rb5 23. Qd7 $4 (23. a6 $14) 23... Qa8 24. Nc3 Nxc3 $4 (24... Rxa5 25. Rxa5 Qxa5 26. Nxd5 Qa1+ $19) 25. Qxe7 Rxa5 26. Rf1 h6 27. g4 Ra2 28. Rxa2 Qxa2 29. h4 Ne2+ (29... Qe2 30. Kg2 Nd5 31. Kg3) 30. Kg2 Nf4+ 31. Kg3 Nd3 $2 (31... Bd3 $19) 32. h5 Bh7 33. Nd7 Ra8 34. Nb6 Rb8 35. Qd6 Rf8 36. Nd7 Re8 37. Qxc6 Rd8 38. Qc7 Ra8 39. Qc6 Kh8 40. Nb6 Rg8 41. d5 $4 (41. Qa4 $11) 41... Qe2 42. Kg2 Nf4+ 43. Kg1 Qxf3 0-1
+

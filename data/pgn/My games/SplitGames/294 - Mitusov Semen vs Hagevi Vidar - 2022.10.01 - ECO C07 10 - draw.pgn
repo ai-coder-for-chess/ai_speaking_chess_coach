@@ -1,0 +1,20 @@
+﻿[Event "Kvibergspilen 2022"]
+[Site "?"]
+[Date "2022.10.01"]
+[Round "2"]
+[White "Mitusov Semen"]
+[Black "Hagevi Vidar"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C07"]
+[WhiteElo "2418"]
+[BlackElo "1922"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "173"]
+[GameId "447010067901"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,173,7,19,34,47,49,30,71,26,30,19,18,18,-7,-13,23,23,15,-6,-4,0,-3,-3,8,8,28,-8,32,40,109,16,30,-148,-156,-163,-120,-114,-124,-109,-122,-115,-111,-121,-121,-138,-147,-155,-111,-166,-152,-226,-144,-148,-144,-139,-144,-164,-156,-143,-151,-150,-152,-150,-128,-167,-147,-170,-171,-170,-110,-81,-80,-86,-45,-47,-14,-50,37,47,48,34,34,34,55,64,53,25,26,30,34,-63,8,0,79,45,45,66,57,53,52,57,63,0,6,1,0,0,80,79,75,75,74,42,97,17,51,28,37,15,7,0,0,0,0,0,0,0,0,0,19,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8. Bd3 Bd6 9. Qe2 Qc7 10. Nf3 dxe4 11. Qxe4 Nf6 12. Qh4 h6 (12... c5 13. Bh6 $1) 13. O-O Nd5 14. Rd1 Nf4 15. Bf1 (15. Bxf4 Bxf4 16. g3 Bd6 17. Qd4 $18) 15... g5 16. Nxg5 $4 (16. Bxf4 $1 gxh4 17. Rxd6 $16) 16... Ng6 17. Nxe6 Nxh4 18. Nxc7+ Bxc7 19. Bc4 Be6 20. Bxe6 fxe6 21. Be3 Nf5 22. Bc5 Bb6 23. Bb4 Rd8 24. Re1 Kf7 25. a4 a5 26. Bc3 Rhe8 27. h3 Nd4 28. Rac1 Rd5 29. Re4 c5 30. Rf4+ Kg6 31. Rg4+ Kh7 32. Re1 Bc7 33. Kf1 Rd7 34. Rge4 Nxc2 $4 (34... e5 $19) 35. Rxe6 Rxe6 36. Rxe6 Nd4 37. Ra6 Bd8 38. Bd2 Nf5 39. Bxa5 Bxa5 40. Rxa5 Rc7 41. Ke2 (41. b4 c4 42. Rc5 Rxc5 43. bxc5 Kg6 44. Ke1 Kf6 45. Kd2 $16) 41... Kg6 42. Kd3 Nd6 43. Ra6 Rd7 44. Rc6 Kf7 45. f3 Ke7 46. Kc2 Nc4 47. Rxc5 Ne3+ 48. Kc3 Nxg2 49. a5 Kd6 50. Rh5 Rh7 51. a6 Nf4 52. Ra5 Ra7 53. b4 Nd5+ 54. Kc4 Ne3+ 55. Kb5 Nd5 56. Ra1 Ra8 57. a7 (57. Ka5 $18) 57... Kc7 58. Ra6 Kb7 59. Rxh6 Nc7+ 60. Kc5 Rxa7 61. h4 Ra3 62. Rf6 Rc3+ 63. Kd4 Rb3 64. Kc4 Rxb4+ 65. Kxb4 Nd5+ 66. Kc5 Nxf6 67. Kd6 Kc8 68. Ke6 Nh5 69. Kf5 Kd7 70. Kg5 Ng3 71. h5 Ke7 72. Kg6 Nxh5 73. Kxh5 Kf6 74. Kg4 Kg6 75. Kf4 Kf6 76. Ke4 Ke6 77. f4 Kf6 78. f5 Kf7 79. Ke5 Ke7 80. f6+ Kf7 81. Kf5 Kf8 82. Ke6 Ke8 83. Ke5 Kf7 84. Kf5 Kf8 85. Kg6 Kg8 86. f7+ Kf8 87. Kf6 1/2-1/2
+

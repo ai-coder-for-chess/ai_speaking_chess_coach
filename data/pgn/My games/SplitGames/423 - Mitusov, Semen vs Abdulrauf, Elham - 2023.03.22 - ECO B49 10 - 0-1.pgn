@@ -1,0 +1,20 @@
+﻿[Event "Kvisla Invitational vol. 3"]
+[Site "Bogstadveien 30, Oslo"]
+[Date "2023.03.22"]
+[Round "3.3"]
+[White "Mitusov, Semen "]
+[Black "Abdulrauf, Elham "]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B49"]
+[WhiteElo "2407"]
+[BlackElo "2518"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "98"]
+[GameId "462237658018"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,98,31,31,43,47,40,24,9,9,40,30,82,67,67,50,60,66,78,54,57,26,56,50,49,50,44,13,75,64,64,50,52,39,32,32,10,5,14,0,13,0,0,-13,0,0,0,-2,-7,0,0,-33,0,0,0,-42,-25,-61,-65,-58,-79,-80,-78,-72,-73,-80,-79,-89,-84,-80,-78,-104,-66,-75,-78,-75,-104,-122,-114,-121,-139,-171,-116,-207,-236,-272,-272,-272,-272,-272,-227,-202,-241,-1281,-1293,-1293,-1911,-2253,-28591,-29971,-29972]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. Be2 Nf6 8. a3 Be7 9. O-O O-O 10. f4 d6 11. h3 (11. Qe1 Nxd4 12. Bxd4 e5 13. fxe5 dxe5 14. Qg3 Bc5 15. Bxc5 Qxc5+ 16. Kh1 Kh8 17. b4 Qe7 18. Nd5 Nxd5 19. exd5 b5 20. a4 $14) 11... Nxd4 12. Qxd4 b5 13. a4 bxa4 (13... e5 14. Qd2 b4 15. Nd5 Nxd5 16. exd5 Bf6 $11) (13... b4 14. Qxb4 Rb8 15. Qc4 $14) 14. Rxa4 Bb7 15. Rfa1 Rfb8 16. Bxa6 Bxa6 17. Rxa6 Rxa6 18. Rxa6 Rxb2 19. Ra7 Rb7 20. Nb5 (20. Rxb7 Qxb7 21. Qa7 Qxa7 22. Bxa7 Kf8 23. Kf2 $11) 20... Qb8 21. Rxb7 Qxb7 22. Nxd6 Qb1+ 23. Kh2 Qxc2 24. f5 (24. e5 Nd5 25. f5 Bxd6 (25... Qc6 26. fxe6 Bxd6 27. exf7+ $11) 26. exd6 Qc6 27. Bf4 exf5 28. Qa7 Kf8 29. Be5 $11) 24... Qc6 25. e5 Bxd6 26. exd6 exf5 27. Bf4 (27. Qe5 Qe4 28. Qxe4 fxe4 29. Kg3 $11) 27... Qe4 28. Qd2 $2 (28. Qxe4 fxe4 29. Kg3 $11) 28... Qe6 29. Qd4 $6 (29. Qc3) 29... Nd7 30. Kh1 h6 31. Bd2 f6 32. Bb4 Kf7 33. Qa7 g5 34. Qa8 Kg6 35. Qh8 Qf7 36. Qd8 h5 37. Bc3 (37. h4 f4 38. Qc8 g4 39. Qc2+ Kg7 40. Qe4 $11) 37... Qe6 38. Bd2 h4 39. Qc8 $6 (39. Bc3 f4 40. Qa8 $15) 39... f4 40. Qc2+ Kg7 41. Qd3 $2 (41. Qc6 Ne5 42. Qb7+ Kg6 43. Qe4+ Kh6 44. Qd4) 41... Ne5 42. Qd4 f3 43. Qa7+ (43. Bxg5 f2 44. Bh6+ Kxh6 45. Qxh4+ Kg7 46. Qxf2 Qxd6 $19) 43... Kg6 44. Qd4 Qf5 45. Qd5 Kg7 46. Be3 Qb1+ 47. Kh2 Qf1 48. Qb7+ Kh6 49. Qb2 fxg2 0-1
+

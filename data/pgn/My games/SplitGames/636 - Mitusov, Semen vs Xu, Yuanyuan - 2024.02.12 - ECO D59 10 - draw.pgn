@@ -1,0 +1,20 @@
+﻿[Event "Portumao 2024"]
+[Site "lichess.org"]
+[Date "2024.02.12"]
+[Round "3.3"]
+[White "Xu, Yuanyuan"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D59"]
+[WhiteElo "2292"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "81"]
+[GameId "491176046410"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5 Nxd5 9. Nxd5 Bxh4 (9... exd5 10. Bg3 c5 11. Bd3) 10. Nxc7 (10. Nxh4 exd5 11. Nf3 c5) 10... Bxf2+ 11. Kxf2 Qxc7 12. Rc1 Qd6 (12... Qe7 13. Qc2 Na6 14. a3 Bb7 15. Bd3 Rac8 16. Qe2 Nb8) 13. Qc2 Bb7 (13... Nd7 14. Qc6 Qxc6 15. Rxc6 Nf6 16. Bd3 Bb7 17. Rc7 Rab8 18. a3 Rfc8 19. Rhc1 Rxc7 20. Rxc7 Nd5 21. Rc1 Rc8 $11) 14. Qc7 Qd5 (14... Qxc7 $6 15. Rxc7 Bd5 16. a3 (16. Bd3 Nc6 $14) 16... Nc6 17. Ba6 $18) 15. Bc4 Qe4 (15... Qd7 16. Qxd7 (16. Bd3 Rc8) 16... Nxd7) 16. Bd3 $6 (16. Rhd1 Na6 17. Qd6 $16) 16... Qxd3 17. Qxb7 Na6 18. a3 Rad8 $6 (18... Rab8 19. Qxa7 Ra8 20. Qb7 Qb3 $11) 19. Rc3 Qb5 20. b4 Rd7 21. Qc6 Qxc6 (21... Nc7 22. Rhc1 f6) 22. Rxc6 Rc7 23. Rxc7 Nxc7 24. Rc1 Nb5 (24... Nd5 25. e4 Nf6 26. Ke3 Ra8 $16) 25. a4 Nd6 26. Rc6 Rd8 27. g4 f6 28. h4 Rd7 29. h5 Kf7 30. Kg3 (30. Nh4 Ke8 31. Ng6 Rd8 $11) 30... Ke7 31. Nh4 Rb7 32. Ng6+ Kd7 33. b5 Rb8 34. Rc2 a6 35. bxa6 Ra8 36. Kf3 Rxa6 37. Nf8+ Ke7 38. Rc6 Kxf8 39. Rxd6 Ke7 40. Rc6 Rxa4 41. Rxb6 1/2-1/2
+

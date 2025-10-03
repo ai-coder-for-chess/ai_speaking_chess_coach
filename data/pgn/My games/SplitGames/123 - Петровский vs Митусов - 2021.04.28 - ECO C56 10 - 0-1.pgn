@@ -1,0 +1,21 @@
+﻿[Event "×У до 20 лет рапид"]
+[Site "?"]
+[Date "2021.04.28"]
+[Round "7"]
+[White "Петровский"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C56"]
+[WhiteElo "2190"]
+[BlackElo "2205"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "66"]
+[GameId "400931035727"]
+[EventType "simul"]
+[EventRounds "9"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 (7... Bd7 8. Bxc6 bxc6 9. O-O Be7 10. f3 Nc5 11. f4 O-O 12. f5 Ne4) 8. Be3 Bd7 9. Bxc6 bxc6 10. f3 (10. Nd2 Nxd2 11. Qxd2 O-O 12. O-O Bb6 13. f4 (13. Nb3 a5 14. Qc3 a4 15. Nc5 Qe7 16. f4 Bf5) 13... c5 14. Nf3 d4 15. Bf2 Bc6) (10. O-O Bb6 11. Nd2 c5 12. Ne2 Nxd2 13. Qxd2 Bc6 14. c3 O-O) 10... Qh4+ 11. g3 Nxg3 12. Bf2 Qh3 13. Bxg3 Qg2 14. Rf1 Bh3 15. Qd3 Bxd4 16. Nd2 Bb6 17. O-O-O Bd7 18. f4 O-O-O 19. Nb3 Qe4 20. Qxe4 dxe4 21. Bh4 Rde8 22. Rfe1 Bg4 23. Rd2 e3 24. Rg2 h5 25. c4 a5 26. c5 Ba7 27. Rxe3 a4 28. Na5 Bxc5 29. Re1 Bb6 30. Nxc6 Kb7 31. Rc2 Re6 32. Nb4 f6 33. a3 Rhe8 0-1
+

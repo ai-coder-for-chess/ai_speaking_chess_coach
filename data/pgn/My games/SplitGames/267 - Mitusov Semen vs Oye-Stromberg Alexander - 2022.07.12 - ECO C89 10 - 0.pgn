@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "?"]
+[Date "2022.07.12"]
+[Round "5"]
+[White "Oye-Stromberg Alexander"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C89"]
+[WhiteElo "2304"]
+[BlackElo "2378"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "96"]
+[GameId "439872530671"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,23,16,28,38,44,44,-1,11,-6,-36,-48,9,-37,-3,-23,-9,-50,42,3,99,74,80,88,66,64]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 e4 10. dxc6 exf3 11. g3 Bg4 12. d4 Bd6 13. Nd2 $2 (13. Bg5 $1 h6 14. Bxf6 Qxf6 15. Qd3 Rae8 16. Nd2 h5 17. Bd5 Re2 18. Rxe2 fxe2 19. Re1 Re8 20. Bf3 $18) 13... Re8 14. Rxe8+ Qxe8 15. Nxf3 Qxc6 16. Kg2 Re8 17. Qd3 Qd7 (17... Ne4 $1 18. Bc2 Qd5 $17) 18. Bc2 Ne4 $2 (18... h6 $1 19. a4 Be6 20. axb5 axb5 21. Ra5 Bc4 22. Qf5 Be6 23. Qd3 Qc6 $17) 19. a4 $2 (19. Ne5 $1 Bxe5 20. dxe5 Bh3+ 21. Kg1 Qxd3 22. Bxd3 Nc5 23. Be2 Rxe5 24. Be3 $16) 19... Bf5 20. Nh4 Bh3+ 21. Kg1 g6 22. axb5 axb5 23. Bh6 Nf6 24. b4 c6 25. f3 $2 (25. Bb3 $16) 25... Nd5 26. Qd2 Be7 27. Ng2 Bf6 28. Rd1 $4 (28. Ne3 Nxe3 (28... Nxc3 29. Qxc3 Bxd4 30. Qa3 $16) 29. Bxe3 Be6 $14) 28... Bxg2 29. Kxg2 Nxc3 30. Re1 Rxe1 31. Qxe1 Bxd4 32. Bb3 Bf6 $6 (32... Nd5 33. Bxd5 cxd5 34. Qd2 Bf6 (34... Bg7 35. Bxg7 Kxg7 36. Qd4+ Kg8 37. g4 $13) 35. Qf4 Qd8 $19) 33. Qa1 Qb7 34. Qe1 Qe7 35. Qa1 Na4 36. Qd1 Nb6 (36... Bg7 37. Bxg7 Kxg7 38. Bxa4 bxa4 39. Qxa4 Qe2+ 40. Kg1 Qxf3 $17) 37. Qc2 Qe8 38. Qc5 Nc8 $2 (38... Qe2+ 39. Kg1 (39. Kh3 Nd7 40. Qxc6) 39... Nd7 40. Qd6 Qe7 $19) 39. Bc2 $6 (39. h4 Bg7 40. Bxg7 Kxg7 41. Qd4+ Kg8 42. g4 $15) 39... Ne7 40. Be4 Qd7 41. h4 $2 (41. Qb6 Bg7 42. Qb8+ Nc8 43. Bf4 f5 44. Bc2 h5 45. Be5 $15) 41... Bg7 42. Bg5 f6 $2 (42... Nd5 $1 $19) 43. Bf4 f5 44. Bc2 Qe6 45. Bd6 $2 (45. Kf2 Qa2 $17) 45... Qe2+ 46. Kh3 (46. Qf2 Qxf2+ 47. Kxf2 Nd5 48. Bb3 Kf7 49. Bxd5+ cxd5 50. Ke3 Ke6 51. Bc5 Bc3 52. f4 d4+ 53. Kd3 Kd5 54. Bf8 Be1 $19) 46... Qxf3 47. Kh2 Nc8 48. Kh3 Qh1# 0-1
+

@@ -1,0 +1,20 @@
+﻿[Event "Portimao 2024"]
+[Site "lichess.org"]
+[Date "2024.02.15"]
+[Round "5.1"]
+[White "Ramirez, Lennis Martinez"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "A13"]
+[WhiteElo "2442"]
+[BlackElo "2487"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "173"]
+[GameId "491416524972"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,173,29,23,15,0,6,6,6,-5,-3,-4,4,-21,2,13,14,12,40,40,18,17,12,19,56,56,69,-26,-41,-47,-65,-65,-65,-65,-62,-76,-74,-88,-83,-120,-82,-104,-110,-110,-103,-103,-116,-116,-109,-111,-79,-97,-99,-104,-96,-106,-113,-106,-91,-92,-76,-90,-83,-101,-92,-88,-80,-168,-168,-168,-201,-235,-235,-248,-295,-287,-145,-205,-242,-253,-240,-187,-221,-221,-229,-321,-266,-266,-149,-130,-149,-130,-151,-151,-151,-151,-129,-121,-102,-98,-41,-186,0,-74,0,-22,84,-111,-110,-113,-115,-119,-115,-111,0,0,0,0,-28,0,-35,-35,-39,-62,17,0,0,-45,-99,-68,-99,-78,-78,-85,-86,-327,-117,-104,-127,-132,-98,-132,-110,-107,-97,-104,-55,-46,-46,-35,-29,-29,-39,-101,-99,-52,-83,-63,-46,-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. Nf3 d5 2. c4 e6 3. e3 Nf6 4. b3 Bd6 5. Bb2 O-O 6. Qc2 (6. Nc3 Re8 7. d4 b6) 6... Re8 (6... c5 7. cxd5 exd5 8. d4 cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 11. Nd2 c5 12. Bd3 Bb7 13. O-O) 7. c5 Bf8 8. b4 b6 9. d4 a5 10. b5 $6 (10. a3 c6 11. Nbd2 Ba6 $13) 10... c6 11. Nbd2 (11. a4 bxc5 12. dxc5 Nfd7 13. Bd3 h6) 11... bxc5 $6 (11... a4 12. bxc6 bxc5 13. dxc5 Nxc6 14. Bb5 Bd7) 12. dxc5 Nfd7 (12... Nbd7 13. bxc6 Nxc5 14. Ba3 Qb6) 13. Ba3 $6 (13. a4 Bxc5 14. Bd3 h6 15. g4 $44) (13. h4 $1 e5 14. Ng5 g6 15. Nxh7 Kxh7 16. h5 Kg7 17. hxg6 fxg6 18. Bd3 Qf6 19. f4 $44) 13... cxb5 14. Bxb5 Ba6 15. Rb1 Bxb5 16. Rxb5 Na6 17. Nb3 Rc8 $6 (17... a4 $1 18. Nbd4 (18. Na5 Naxc5) 18... Naxc5 (18... Rc8 $6) 19. Bxc5 (19. O-O Rc8 $19) 19... Nxc5 20. Rxc5 Bxc5 21. Qxc5 Rc8 $19) 18. Nxa5 Naxc5 19. Bxc5 (19. O-O Ne4 20. Qb2 Bxa3 21. Qxa3 Ra8) 19... Rxc5 $2 (19... Nxc5 20. O-O Ne4 21. Qb2 (21. Nc6 Qc7 22. Rc1 Ba3 $19) 21... Nc3 22. Nb7 Qc7 23. Rb3 e5 $19) 20. Qb1 Qc7 (20... Rxb5 21. Qxb5 Qb8 22. Qxd7 $11) 21. O-O Rxb5 22. Qxb5 Ra8 23. Nc6 Rxa2 24. Rc1 Nf6 25. Qb1 Ra8 26. g3 h6 27. Nfd4 Ne4 28. Kg2 Kh8 29. Rc2 Nc5 30. Qb5 Ne4 31. h4 Nf6 32. Qe2 Ra1 33. Qf3 $2 (33. g4 $1 Ne4 34. g5 Kh7 35. gxh6 gxh6 $17) 33... Qb7 34. Nd8 Qb1 35. Kh3 Kg8 36. Rc8 Qf1+ 37. Qg2 Qd1 $6 (37... Qa6 $1 38. Rc6 Qa8 $19) 38. g4 Ne4 39. f3 Nd6 40. Rb8 Rb1 41. Ra8 Ra1 42. Rb8 Rb1 43. Ra8 Qc1 $6 (43... Nc4 $1 44. N8xe6 fxe6 45. Nxe6 Rb2 46. Rxf8+ Kh7 $19) 44. Qc2 Qh1+ 45. Qh2 Qf1+ 46. Qg2 Qc1 (46... Qe1 47. N8xe6 fxe6 48. Nxe6 Kf7 $3 49. Nd8+ Kg6 $19) 47. Qc2 Qxc2 $2 48. Nxc2 Nb5 $2 (48... Rc1 49. Nd4 Rc8 50. Rxc8 Nxc8 $17) 49. h5 Rb2 50. Nc6 $2 (50. Nd4 Nxd4 51. exd4 Rc2 52. Kg3 $11) 50... f6 $4 (50... Rxc2 51. Ne7+ Kh7 52. Rxf8 Nd6 53. Kg3 Rc7 54. Rd8 Nc4 $19) 51. Ne1 Re2 52. Ng2 Rc2 $2 (52... e5 53. Ne7+ Kf7 54. Nxd5 $11) 53. Ne7+ $2 (53. Nf4 Nc7 54. Rc8 e5 55. Ng6 Ne6 56. Nce7+ $18) 53... Kf7 54. Ng6 Bd6 55. Nh8+ Ke7 56. Rg8 e5 $4 (56... d4 57. exd4 Nxd4 58. Rxg7+ Ke8 $19) 57. Rxg7+ Ke6 58. Nf7 d4 59. e4 Be7 60. Nxh6 Bf8 61. Rg6 d3 62. Nf5 d2 63. Nfe3 Kf7 64. g5 fxg5 65. Rxg5 Rc5 66. Nd1 $4 (66. Rf5+ Kg8 67. Rg5+ $13) 66... Bh6 67. Rf5+ Ke7 $4 (67... Kg7 68. f4 Rc1 69. Nb2 Rb1 70. Rxe5 Rxb2 71. Rd5 Nc3 $19) 68. f4 Nc3 69. Nf2 $1 Nxe4 70. Nd1 Nc3 71. Nf2 Ne4 72. Nd1 exf4 73. Rxc5 Nxc5 74. Kg4 Nd3 75. Nh4 Ke6 76. Kf3 Bg5 77. Ng6 Kf5 78. Ke2 Ke4 79. Nc3+ Kd4 80. Nb5+ Kc4 81. Nd6+ Kc3 82. Ne4+ Kc2 83. Nxd2 Nc1+ 84. Ke1 Nd3+ 85. Ke2 Nc1+ 86. Ke1 Nd3+ 87. Ke2 1/2-1/2
+

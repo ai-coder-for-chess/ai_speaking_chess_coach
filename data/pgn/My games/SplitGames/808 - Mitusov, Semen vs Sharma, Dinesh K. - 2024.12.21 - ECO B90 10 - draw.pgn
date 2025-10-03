@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.21"]
+[Round "1.6"]
+[White "Sharma, Dinesh K."]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "B90"]
+[WhiteElo "2200"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "78"]
+[GameId "2125706187415563"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nf3 Be7 (7... Qc7 8. Bg5 (8. g4 h6 9. Rg1 b5 10. g5 hxg5 11. Nxg5 Bb7 12. Be3 Nbd7 $15) 8... Nbd7 9. a4 h6 10. Be3 Nc5 11. Nd2 Be6 12. Be2 Be7 13. O-O O-O {1/2 Nakamura,H (2741)-Nepomniachtchi,I (2720) Wch Blitz 5th Moscow 2010 (38)}) 8. g4 h6 (8... b5 9. g5 Nfd7) 9. Rg1 Qc7 $6 (9... g5 10. Bc4 (10. Nd2 Nbd7 11. Nc4 Nc5 12. Qf3 b5 13. Ne3 Bb7 14. Bd3 b4 15. Ncd5 Bxd5 16. Nxd5 Nxd5 17. exd5 O-O $11) 10... Be6 11. Qd3 b5 12. Bb3 Nbd7) 10. g5 hxg5 11. Nxg5 Nbd7 (11... b5 12. Nd5 Nxd5 13. Qxd5 Bxg5) 12. Be3 Rf8 13. a4 b6 (13... Nc5 14. Bc4 Bd7) 14. Bd3 (14. h4 Bb7 15. Bh3) 14... Bb7 15. Qe2 Nc5 16. Bxc5 $2 (16. Bc4 $1 Ncxe4 (16... Rd8 17. O-O-O Rc8) 17. Ngxe4 Nxe4 18. Nd5 Qc6 19. Nxb6 $18) 16... Qxc5 17. Bc4 g6 18. Bb3 Nh5 19. O-O-O Nf4 20. Qe3 Bxg5 21. Rxg5 O-O-O (21... Rd8 22. Qf3 Rh8 23. Rg3 Kf8 24. Ne2 Rh4) 22. Rg3 f6 23. Qf3 f5 (23... g5 24. Bd5 Kb8 25. Bxb7 Kxb7 26. h4) 24. Bd5 Bxd5 25. Nxd5 Nxd5 $2 (25... fxe4 26. Qg4+ (26. Qxe4 Nxd5 27. Rxd5 Qxf2 28. Rxg6 Rf4 $11) 26... Kb7 27. Rc3 Qxf2 $17) 26. Rxd5 Qc4 27. Qd1 $1 (27. Rxg6 fxe4 28. Qg4+ Kb7 (28... Kc7 29. Rgxd6 $18) 29. Rgxd6 Rxd6 30. Rxd6 Rxf2 $11) 27... Qxa4 28. Kb1 Rf6 (28... fxe4 29. Rxd6 $18) 29. exf5 gxf5 (29... Qe4 30. fxg6 Rxg6 31. Rxg6 Qxg6) 30. Rc3+ Kb8 31. Rxe5 Rg8 32. Re1 Rfg6 33. Qd5 Qd7 34. Qd4 Ka7 35. Rce3 R8g7 (35... Rg1 36. h4) 36. b3 Rg1 37. Kb2 Rxe1 38. Rxe1 Rh7 39. Re3 Qg7 1/2-1/2
+

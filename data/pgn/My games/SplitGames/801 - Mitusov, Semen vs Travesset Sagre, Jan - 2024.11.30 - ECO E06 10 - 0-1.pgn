@@ -1,0 +1,20 @@
+﻿[Event "Gran Hotel Bali 2024"]
+[Site "Benidorm, Spain"]
+[Date "2024.11.30"]
+[Round "3.6"]
+[White "Travesset Sagre, Jan"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "E06"]
+[WhiteElo "2330"]
+[BlackElo "2465"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "32"]
+[GameId "2117939924664400"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. Nf3 Ne4 6. O-O f5 7. b3 Nc6 8. e3 h5 9. Ba3 Bf6 10. h4 $6 (10. Nbd2 h4 11. Nxe4 dxe4 12. Nd2 Qd7 $17 (12... hxg3 13. fxg3 {0-1 Sorensen,H (2377)-Hakobyan,A (2607) Titled Tuesday intern op 09th Nov Chess.com INT blitz 2021 (7)} Qd7)) 10... g5 11. hxg5 Bxg5 12. Nxg5 $6 (12. Nbd2 Bf6 $15 (12... h4 13. Nxe4 fxe4 14. Ne5)) 12... Qxg5 13. Bxe4 $2 (13. Nd2 h4 (13... Nxd2 14. Qxd2 h4 15. cxd5 exd5 16. Bxd5 Bd7 17. f4 Qxg3+ 18. Kh1 O-O-O $15) 14. Nf3 Qg7 15. Nxh4 Bd7 16. b4 O-O-O 17. b5 Na5 18. cxd5 exd5 19. Qf3 Rxh4 20. gxh4 Nc4 $19) 13... fxe4 14. Kh2 $2 (14. Nc3 Bd7 $1 $19 (14... h4 15. g4 e5 16. cxd5 Bxg4 17. Nxe4)) 14... e5 $1 15. cxd5 Bg4 16. f3 h4 0-1
+

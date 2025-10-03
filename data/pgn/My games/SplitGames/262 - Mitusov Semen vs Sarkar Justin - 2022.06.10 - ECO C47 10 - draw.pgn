@@ -1,0 +1,20 @@
+﻿[Event "Norway Chess Open 2022"]
+[Site "?"]
+[Date "2022.06.10"]
+[Round "9"]
+[White "Mitusov Semen"]
+[Black "Sarkar Justin"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C47"]
+[WhiteElo "2369"]
+[BlackElo "2348"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "108"]
+[GameId "437111058229"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,17,11,10,43,39,25,31,4,1,-20,-13,-24,-17,-10,-21,-12,-38,-29,-22]} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 d5 5. Bb5 d4 6. Ne2 Bd7 7. d3 Bd6 8. Bxc6 $6 (8. O-O O-O 9. Nd2 Ne7 10. Bxd7 Qxd7 11. Nc4 Ng6 12. Nxd6 Qxd6 13. Ng3 c5 14. Nf5 Qc7 15. Bg5 Ne8 16. h4 $14) 8... Bxc6 9. Ng3 (9. O-O O-O 10. Nd2) 9... O-O 10. O-O Bd7 11. h3 c5 12. Nh4 Ne8 13. Nhf5 g6 $6 (13... Bc7 14. f4 exf4 15. Bxf4 Bxf4 16. Rxf4 $16) 14. Nxd6 Nxd6 15. Bh6 Re8 16. f4 f6 (16... Qh4 17. fxe5 Qxh6 18. exd6 $16) 17. fxe5 fxe5 $6 (17... Nf7 $1 18. Bd2 Nxe5 $16) 18. Qc1 $2 (18. Nh5 $3 gxh5 19. Qxh5 Re6 20. Rf3 Rg6 21. Raf1 Qe7 (21... Qe8 22. g4 c4 23. Rf8+ Qxf8 24. Bxf8 Rxf8 25. Rxf8+ Kxf8 26. Qxe5 cxd3 27. cxd3 Nf7 28. Qxd4 $18) 22. Qxe5 $18) 18... Nf7 19. Bd2 Rc8 20. Rf3 Be6 21. c4 dxc3 22. Bxc3 b5 23. Qd2 Ng5 24. Rf2 Bxh3 25. Raf1 Rc6 $1 26. Bxe5 $2 $11 (26. Ne2 $1 Bg4 27. Ba5 Qe7 28. Nc3 Be6 29. Nxb5 $16) 26... Rxe5 27. Rf8+ Qxf8 28. Rxf8+ Kxf8 29. Qf4+ Nf7 30. gxh3 Rd6 31. Qe3 a5 32. Ne2 Kg7 33. Nf4 Rg5+ 34. Kf2 Rf6 35. Ke2 h5 36. Nd5 Rg2+ 37. Ke1 Rff2 38. Qxf2 Rxf2 39. Kxf2 Ne5 40. Ke3 Kf7 41. Nc7 b4 42. Na6 Nd7 43. h4 Ke6 44. Nc7+ Kd6 45. Nd5 Ne5 46. Nf4 Kc6 47. a4 b3 48. Ne2 Kd6 49. Nc1 c4 50. dxc4 Nxc4+ 51. Kf4 Nxb2 52. Nxb3 Nxa4 53. Nxa5 Nc5 54. Nc4+ Ke6 1/2-1/2
+

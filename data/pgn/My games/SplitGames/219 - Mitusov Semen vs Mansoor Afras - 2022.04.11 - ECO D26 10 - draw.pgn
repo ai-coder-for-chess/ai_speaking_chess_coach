@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Chess International 2022"]
+[Site "?"]
+[Date "2022.04.11"]
+[Round "1"]
+[White "Mansoor Afras"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "D26"]
+[WhiteElo "2033"]
+[BlackElo "2274"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "98"]
+[GameId "431688523619"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,98,16,28,26,-14,31,9,47,44,56,52,56,56,42,51,70,40,60,48,64,24,19,23,8,8,8,-17,-17,-22,-18,-28,21,-16,21,-5,-5,1,20,0,40,25,36,21,44,52,42,45,41,44,48,12,29,10,25,-5,-10,1,-23,-10,77,-4,240,240,240,141,130,109,130,156,175,222,233,236,236,194,207,198,195,185,193,132,152,105,100,116,89,97,96,159,159,112,117,30,57,93,80,83,83,83,63]} 1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 a6 5. Nf3 e6 6. O-O b5 7. Bd3 Bb7 8. a4 b4 9. Nbd2 Nbd7 10. a5 Be7 (10... c5 11. Qe2) 11. Qe2 c5 12. Nc4 (12. e4 cxd4 13. e5 Nd5 14. Nb3 h6 15. Nfxd4 Nc5 $16) 12... O-O 13. Rd1 Qc7 14. Bd2 Rad8 (14... Rac8 $5 15. Rac1 Qb8 16. Nfe5 Rfd8 17. Bb1) 15. Rac1 Qb8 16. Nfe5 g6 17. Be1 cxd4 18. exd4 Nxe5 19. dxe5 Nd5 20. Bd2 Rd7 21. Qg4 Qd8 $2 (21... Nc3 $1 22. Bxc3 bxc3 23. bxc3 h5 24. Qg3 h4 25. Qg4 Rfd8 26. Bf1 Rxd1 27. Rxd1 Rxd1 28. Qxd1 Bc6 $11) 22. Bh6 Re8 23. Be4 Bc5 24. Bg5 Qb8 25. Rd3 h5 $6 (25... Bf8 26. Qh4 Rc8 $13) 26. Qh4 Bf8 27. Rh3 $2 (27. g4 $1 hxg4 28. Qxg4 Bg7 29. Rh3 $18 f5 30. exf6 Nxf6 31. Bxf6 Bxf6 32. Bxg6 Rg7 33. Rd1) 27... Rc8 $1 28. Bd3 $1 Ne7 (28... Bg7 $5) (28... Rxc4 $1 29. Bxc4 Qxe5 $13) 29. Bf6 (29. Re1 $1) 29... Bh6 $4 (29... Qc7 $1 30. Qg5 Nd5 31. Qxh5 gxh5 32. Rg3+ Bg7 33. Rxg7+ Kf8 34. Rh7 Nxf6 35. exf6 Kg8 $11) 30. Bxe7 Rxd3 (30... Bxc1 $2 31. Qxh5 $3) 31. Rxd3 Bxc1 32. Bd6 Qa7 33. Nb6 Re8 34. Qc4 Bg5 35. Qc7 Ra8 36. Nxa8 Qxa8 37. Be7 Bxe7 38. Qxe7 Bd5 39. Qxb4 Bxg2 40. Qb6 Bd5 41. Qd6 Qb7 42. Qd8+ Kh7 43. Qf8 Qc7 44. Rc3 Qxe5 45. Qxf7+ Kh6 46. Kf1 Qxh2 47. Qf8+ Kh7 48. Qe7+ Kh6 49. Qf8+ Kh7 1/2-1/2
+

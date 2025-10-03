@@ -1,0 +1,20 @@
+﻿[Event "NM 2024"]
+[Site "?"]
+[Date "2024.07.04"]
+[Round "7.1"]
+[White "Kvaloy, Aksel Bu"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "A95"]
+[WhiteElo "2467"]
+[BlackElo "2478"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "69"]
+[GameId "2063661476827147"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 Ne4 6. O-O f5 7. Nc3 c6 8. Ne5 (8. Qc2 O-O) 8... Nd7 9. Nxd7 (9. Bf4 O-O) 9... Bxd7 10. Qd3 (10. Bf4 Nd6 11. c5 Nf7 12. b4 h5 $15) 10... O-O 11. Bf4 (11. b3 Bd6 12. f3 Nxc3 13. Qxc3 f4) 11... Be8 (11... Nd6 12. c5 (12. b3 g5 13. Be5 Nf7) 12... Nf7 13. b4 g5 14. Be3 Bf6 15. f4 gxf4 16. Bxf4) 12. f3 Nf6 (12... Nd6 13. c5 Nf7 14. e4 dxe4 15. fxe4 e5) 13. e4 fxe4 14. fxe4 Bg6 15. Kh1 (15. Bh3) 15... Qd7 16. Rad1 Rae8 $6 (16... Bb4 $1 17. Be5 Bxc3 18. Bxf6 Bxb2 19. Be5 dxe4 $17) 17. Qe2 Bh5 18. Bf3 Bxf3+ 19. Rxf3 dxc4 (19... dxe4 20. Nxe4 Nxe4 21. Qxe4 Bd6 22. Bd2 Rxf3 23. Qxf3 e5) 20. Qxc4 b5 21. Qe2 b4 22. Na4 c5 23. Nxc5 Bxc5 (23... Qc6 24. Qa6 Rc8 25. Qxc6 Rxc6 $11) 24. dxc5 Qc6 25. Bd6 Nxe4 26. Bxf8 Ng5 27. Be7 (27. Bxg7 $1 Nxf3 (27... Kxg7 $4 28. Qe5+ Kg6 29. Qf6+ Kh5 30. g4+ Kh4 31. Rdf1 $18) 28. Bf6 $16 (28. Bh6 Ng5+ (28... e5 $2 29. Qc4+ Kh8 30. Rd6 $18) 29. Qg2 Qxc5 $11)) 27... Nxf3 (27... Qxf3+ $4 28. Qxf3 Nxf3 29. c6 Rxe7 30. Rd7 $18) 28. Rd6 Qxc5 $1 (28... Qc8 29. Qxf3 Rxe7 30. c6 $18 Qc7 31. Qd3) 29. Qxf3 (29. Qxe6+ Kh8 30. Kg2 Ne1+ 31. Kf1 Nf3 $11) 29... Qc7 30. Rxe6 Rxe7 31. Rxe7 Qxe7 32. Qd5+ Kf8 33. Qf5+ Kg8 34. Qd5+ Kf8 35. Qf5+ 1/2-1/2
+

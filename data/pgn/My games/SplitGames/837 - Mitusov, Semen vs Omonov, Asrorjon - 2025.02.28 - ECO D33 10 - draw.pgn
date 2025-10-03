@@ -1,0 +1,20 @@
+﻿[Event "VM for junior 2025"]
+[Site "lichess.org"]
+[Date "2025.02.28"]
+[Round "4.6"]
+[White "Omonov, Asrorjon"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "D33"]
+[WhiteElo "2399"]
+[BlackElo "2469"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "140"]
+[GameId "2150541636153355"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,140,19,9,18,-10,-3,-3,27,19,19,32,38,-23,17,5,32,31,17,-24,0,7,19,0,36,-13,27,-21,15,30,19,-6,21,24,18,7,25,11,13,6,24,22,22,24,14,8,11,3,-22,-41,-26,-42,-49,-42,0,-14,-8,-11,-13,-20,-20,-30,-25,-53,-25,-26,-43,-43,41,-54,10,-46,-42,-38,-27,-17,-19,-19,-19,-50,-53,-33,0,0,0,-21,-17,-20,-24,-32,-23,-41,-24,-18,-14,-8,6,-17,-14,-21,-20,-15,0,-51,-15,-10,-10,0,0,-47,-39,-49,-49,-49,-49,-49,-47,-31,-33,-27,-26,-49,-49,-49,-41,-41,-5,-10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]} 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. Bg2 Bb4 8. O-O Nge7 9. Ne1 (9. e4 O-O 10. exd5 Nxd5 11. Bg5 Qa5 (11... f6 12. Nxd5 Qxd5 13. Be3) 12. Nxd5 Qxd5 13. a3 Bd6 14. Ne5 Qb5 15. a4 Qa6 16. Nxc6 bxc6 $11) 9... O-O 10. Nc2 Ba5 (10... Bxc3 11. bxc3 Qa5 12. Bd2 Be6 13. f3 $14) 11. Bf4 Be6 (11... Bf5 12. e4 $1) 12. Na4 b6 (12... Qc8 13. Nc5 Bg4 14. Ne3 Bxe2 $13) 13. Bd2 Rc8 14. Bxa5 (14. b4 cxb3 15. axb3 Bxd2 16. Qxd2 Na5 17. Ra3 Qc7 18. Nc5 Nxb3 19. Rxb3 bxc5 20. dxc5 Qxc5 21. Nd4 $11) 14... Nxa5 15. Qd2 Nb7 16. Nc3 Qd7 17. e4 dxe4 18. Nxe4 Nd6 19. Nc3 (19. Ng5 Bd5 20. Bh3 f5 21. Ne3 Ne4 22. Nxe4 Bxe4) 19... Bh3 (19... Bf5 20. d5) 20. Bxh3 Qxh3 21. Rfe1 Rfe8 22. Qf4 Qd7 23. h4 Nb5 24. Ne4 $6 (24. Ne3 $11) 24... Nd5 25. Qf3 h6 26. Rad1 Nbc7 $6 (26... f5 $1 27. Nc3 Nbxc3 28. bxc3 Re4 $1 $17) (26... Re6 27. Ne3) 27. Nc3 Rcd8 28. Ne3 (28. Re5 Nxc3 29. Rxe8+ Rxe8 30. bxc3) 28... Nxe3 29. fxe3 b5 30. a3 a5 31. Kg2 b4 (31... Qe7 32. e4 b4 33. axb4 axb4 34. Na4 Nb5 35. d5 $15) 32. axb4 axb4 33. Ne4 Ne6 $6 (33... Nb5 34. Nc5 Qc8 35. Rc1 Re7 36. Rxc4 Nxd4) 34. d5 Nc7 (34... Nf8 $1 35. Rd4 (35. d6 Re5 36. Rd4 Qe6 $17) 35... Ng6) 35. Nf2 (35. d6 Ne6 36. Rf1) 35... Nb5 36. e4 c3 37. bxc3 Nxc3 (37... bxc3 38. Re2 Rc8 39. Qd3 Re5 40. Rb1 Nd6) 38. Rd4 Qa7 39. Rxb4 Nxd5 40. Rbb1 Nc7 (40... Ne7 41. e5 Qa6) 41. Ra1 (41. e5 Qa5) 41... Qd4 42. Rad1 Qe5 43. Rxd8 Rxd8 44. Rd1 Rxd1 45. Qxd1 Qe7 46. Qa4 Ne8 47. Qa8 Kh7 48. Qd5 Nf6 49. Qf5+ g6 50. Qf4 h5 51. Qf3 Kg7 52. Qc3 Qe6 53. Qd4 Kh7 54. Qa4 Qe5 55. Qc2 Kg7 56. Qe2 Qd4 57. Qc2 Qa1 58. Qd2 Qe5 59. Kf3 Kh7 60. Qa2 Qc3+ 61. Kg2 Kg7 62. Qe2 Nd7 63. Qd3 Qxd3 64. Nxd3 Kf6 65. Kf3 Ne5+ 66. Nxe5 Kxe5 67. Ke3 f6 68. Kd3 f5 69. exf5 Kxf5 70. Ke3 Kg4 1/2-1/2
+

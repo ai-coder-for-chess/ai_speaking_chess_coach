@@ -1,0 +1,20 @@
+﻿[Event "NM for lag 2024"]
+[Site "lichess.org"]
+[Date "2024.05.13"]
+[Round "4"]
+[White "Mork, Kjell Arne"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B52"]
+[WhiteElo "2231"]
+[BlackElo "2477"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "94"]
+[GameId "499200039396"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Re1 (6. Qe2 e6 7. d4 (7. b3 g6 8. Bb2 Bg7 9. c4 O-O 10. d4 cxd4 11. Nxd4 d5 12. e5 Ne4 13. cxd5 exd5 14. f3 Nxe5 15. fxe4 dxe4 16. Qxe4 Re8 17. Nd2 Nc4 18. Qxe8+ Qxe8 19. Nxc4 b5 20. Rfe1 Bxd4+ 21. Bxd4 Qd7 22. Bf2 bxc4 23. bxc4 Rd8 24. c5 {1-0 Deuer,M (2338)-Yaniv,Y (2305) EU-chT U18 Thessaloniki 2022 (2.4)}) 7... cxd4 8. Nxd4 Rc8 9. c4 Be7 10. b3 O-O 11. Bb2 (11. Nc3 a6 12. Bb2 Qa5 13. Rad1 Rfe8 14. f4 Qh5 15. Nf3) 11... d5 12. e5 Ne4 13. cxd5 exd5 14. f3 Nec5) 6... e6 7. c4 (7. c3 Be7 8. d4 O-O (8... cxd4 9. cxd4 d5 10. e5 Ne4 11. Nbd2 Nxd2 12. Nxd2) 9. e5 Nd5 10. c4 N5b6) 7... Ne5 8. d3 Be7 9. Nc3 (9. b3 Nfd7 10. Bb2 Bf6 11. Nc3) 9... O-O 10. Nxe5 dxe5 11. Re3 Qb6 (11... Nd7 $1 12. Rh3 (12. Rg3 Bh4 $15) 12... Bg5 13. Qh5 h6 $15) 12. Rh3 Rfd8 13. Qe2 a6 14. f4 Qc7 15. f5 exf5 16. Bg5 $6 (16. exf5 h6 17. g4 Rd4 18. g5 hxg5 19. Bxg5 Qd7 $11) 16... Ne8 $2 (16... f4 $1 17. Bxf6 Bxf6 18. Nd5 Qd6 19. Qh5 h6 20. g3 (20. Rf3 b5 $15) 20... b5 $17) 17. Bxe7 Qxe7 18. Nd5 Qd7 $6 (18... Qe6 19. Qh5 (19. exf5 Qd6 $14) 19... h6 20. exf5 Qd6 $14) 19. Qh5 $6 (19. Rf1 $1 fxe4 20. Qxe4 h6 21. Qxe5 $18) 19... h6 20. exf5 f6 (20... Qd6 21. Qh4 Nf6 22. Nxf6+ Qxf6 23. Qxf6 gxf6 24. Rxh6 $11) 21. Rg3 $6 (21. Qg4 $1 Kf8 22. Nb6 $16) 21... Kf8 (21... Kh8 22. Rg6 $18) 22. Rf1 Qf7 23. Qe2 Nc7 24. Nc3 Rd4 25. Ne4 b6 26. Rff3 Rad8 27. Rg4 Ne8 28. Nf2 Qd7 29. h3 Nd6 $1 30. Rxd4 (30. Qf1 Re8 $19) 30... exd4 31. Rf4 Re8 32. Qf3 (32. Ne4 Qc6 33. Qf3 (33. Kf2 b5 34. b3 bxc4 35. bxc4 a5 $19) 33... Nxe4 34. Rxe4 Rxe4 35. dxe4 Qd6 $19) 32... Re1+ 33. Kh2 Qc7 (33... Qe8 34. Qd5 Qe5 35. Qxe5 Rxe5 $19) 34. g3 a5 35. Qa8+ Re8 36. Qd5 Re2 37. Qa8+ Qc8 38. Qd5 Qb8 39. b3 Rxa2 40. h4 Re2 41. Kh3 Re5 42. Qf3 Qc8 43. Ne4 Rxf5 44. g4 Rxf4 45. Qxf4 Nxe4 46. dxe4 h5 47. Qd6+ Ke8 0-1
+

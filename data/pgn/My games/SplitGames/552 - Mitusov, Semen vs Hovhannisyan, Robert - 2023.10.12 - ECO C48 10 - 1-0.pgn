@@ -1,0 +1,20 @@
+﻿[Event "Fagernes Autumn 2023"]
+[Site "Fagernes, Norway"]
+[Date "2023.10.12"]
+[Round "6.4"]
+[White "Hovhannisyan, Robert"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C48"]
+[WhiteElo "2616"]
+[BlackElo "2468"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "117"]
+[GameId "480275300389"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 (5. Nxe5 Qe7 6. Nf3 (6. f4 Nxb5 7. Nxb5 d6 8. Nf3 Qxe4+ 9. Kf2 Ng4+ 10. Kg1 (10. Kg3 Qg6 11. Nh4 Qf6 12. Nxc7+ (12. h3 g5 13. Qe2+ Ne5 14. Nf3 gxf4+ 15. Kh2 Kd8 16. d4 Ng6 17. Re1 Bd7 18. c4 Bg7 $15) 12... Kd8 13. Nxa8 g5 $19) 10... Qc6 11. a4 Be7 12. h3 Nf6 13. Qe2 Qd7 $17) 6... Nxb5 7. Nxb5 Qxe4+ 8. Qe2 Qxe2+ 9. Kxe2 Nd5 10. c4 a6 11. cxd5 (11. Nc3 Nxc3+ 12. dxc3 d6 $17) 11... axb5 $17) (5. Bc4 Bc5 6. Nxe5 Qe7 7. Nf3 d5 8. Bxd5 Bg4 9. d3 O-O-O 10. Be3 Nxd5 11. Nxd5 Rxd5 12. exd5 Re8 $11) 5... exd4 6. e5 dxc3 7. exf6 Qxf6 8. dxc3 Bc5 9. Qe2+ Qe7 10. a4 Qxe2+ 11. Kxe2 a5 12. h4 O-O 13. h5 Re8+ 14. Kf3 (14. Kf1 Re6 15. Bf4 d6 16. Rh4 h6) 14... h6 $6 (14... Bd6 15. g4 b6 16. Kg2 Bb7+ 17. f3 Re5 18. Bd3 Rae8 $15) 15. Bf4 c6 16. Bd3 d6 17. g4 Be6 18. Kg3 Bd5 19. Rhe1 f6 $6 (19... Kf8 20. c4 Rxe1 21. Rxe1 Be6 22. g5 hxg5 23. Bxg5 Re8 24. h6 gxh6 25. Bf6 Bb6 26. Rh1 Bd8 $11) 20. Bd2 Bf7 21. b4 Bb6 22. Rxe8+ Rxe8 (22... Bxe8 23. Rb1 Bc7 24. bxa5 Ra7 $16) 23. Rb1 Re7 24. Bf4 d5 25. Kf3 axb4 26. cxb4 Bd4 27. Bg6 (27. Bf5 Be6 28. Bd6 Bxf5 29. Bxe7 Be4+ 30. Kg3 Bxc2 $11) 27... Bc3 28. b5 $6 (28. Bd6 Rd7 29. Bc5 d4 30. Bxf7+ Kxf7 31. Ke4 $16) 28... d4 29. Bxf7+ Kxf7 30. Bd6 Rd7 31. bxc6 bxc6 32. Bc5 d3 $4 (32... f5 $1 33. Rb8 (33. gxf5 Rd5 34. Rb7+ Kf6 35. Bf8 Rxf5+ 36. Ke4 Rxf2 37. Bxg7+ Kg5 $11) 33... fxg4+ 34. Kxg4 Rd5 35. Bb6 Ba5 $11) 33. cxd3 Rxd3+ 34. Be3 Ba5 35. Rb7+ Kg8 36. Ra7 Bb4 (36... Rd5 37. Ke4 Re5+ 38. Kd3 (38. Kf4 Rd5 $13) 38... f5) 37. Ke4 Ra3 38. Ra6 $6 (38. Bb6 c5 39. a5 c4 40. a6 c3 41. Ra8+ Kh7 42. a7 c2 43. Rc8 Bc3 44. a8=Q Rxa8 45. Rxc3 Ra4+ 46. Bd4 $18) 38... c5 39. Kd5 Ra2 40. Bxc5 $6 (40. f4 $18) 40... Bxc5 41. Kxc5 Rxf2 42. Rd6 $1 Rc2+ 43. Kb6 Rb2+ 44. Kc7 $4 (44. Ka6 Rb4 45. a5 Rxg4 46. Kb7 g6 47. hxg6 Kg7 48. a6 $18) 44... Ra2 45. Rd4 Kf7 46. Kb6 g5 $1 47. a5 Ke6 $4 (47... f5 $1 48. gxf5 (48. a6 f4 49. a7 f3 50. Rd3 Rb2+ 51. Kc6 Rc2+ 52. Kd6 Ra2 53. Rxf3+ Kg8 $11) 48... Rb2+ $1 49. Kc6 Ra2 50. Kb5 Rb2+ 51. Rb4 Rxb4+ 52. Kxb4 g4 53. a6 g3 54. a7 g2 55. a8=Q g1=Q 56. Qd5+ Kf6 57. Qe6+ Kg7 58. f6+ Kh8 $11) 48. a6 f5 49. gxf5+ Kxf5 50. a7 Rxa7 51. Kxa7 g4 52. Rd5+ Kf4 53. Kb6 g3 54. Rd6 (54. Kc5 Kg4) 54... g2 55. Rg6 Kf3 56. Kc5 Kf2 57. Kd5 g1=Q 58. Rxg1 Kxg1 59. Ke5 1-0
+

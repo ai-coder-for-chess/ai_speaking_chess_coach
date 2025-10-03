@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "?"]
+[Date "2022.07.15"]
+[Round "8"]
+[White "Aulin-Jansson Joran"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C68"]
+[WhiteElo "2191"]
+[BlackElo "2378"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "68"]
+[GameId "440112464566"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,16,16,28,38,44,44,-1,8,28,28,8,33,25,51,23,23,11,19]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 $6 f6 6. O-O $6 Bg4 7. h3 Bh5 8. d3 Bd6 9. g4 $6 (9. Be3 c5 $15) 9... Bf7 10. Nh4 (10. d4 h5 $1 (10... exd4 11. Nxd4 Ne7 12. Nf5 Nxf5 13. exf5 O-O 14. Qf3 $11) 11. dxe5 fxe5 12. Ng5 Bc4 13. Re1 Nf6 $19) 10... Ne7 11. Nf5 Nxf5 12. exf5 h5 13. Ne4 Qd7 14. f3 hxg4 15. hxg4 O-O-O 16. Kg2 Be7 (16... g6 $5 17. Nxf6 Qe7 18. Bg5 gxf5 19. Ne4 Qf8 20. Bxd8 fxe4 $19) 17. f4 $6 (17. Rh1 g6 18. Ng3 gxf5 19. Nxf5 Be6 20. Nxe7+ Qxe7 21. Be3 f5 22. gxf5 Bxf5 23. Qe2 Bh3+ $19) 17... Bd5 18. Qf3 Rh4 $2 (18... g6 $1 19. fxe5 (19. fxg6 f5 20. gxf5 Qxf5 21. g7 Rdg8 $19) 19... gxf5 20. Qxf5 Be6 $19) 19. Rh1 $2 (19. fxe5 $1 fxe5 20. Be3 g6 21. Rh1 gxf5 22. gxf5 Rg8+ 23. Kf2 $15) (19. Be3 $2 g6 $19) 19... Bxe4 20. dxe4 (20. Qxe4 Rxg4+ 21. Kf3 g6 $3 22. fxg6 f5 23. Qxe5 Rxg6 $19) 20... Rxh1 21. Kxh1 Qd1+ 22. Qxd1 Rxd1+ 23. Kg2 exf4 24. b3 Bd6 $1 (24... Ba3 $2 25. Bxa3 Rxa1 26. Bf8 Rxa2 27. Bxg7 Rxc2+ 28. Kf3 Rc1 $14) 25. Bb2 Rd2+ 26. Kf3 Rxc2 27. Bd4 c5 28. Bf2 Rc3+ 29. Ke2 Rh3 30. Rg1 b6 31. g5 Be5 32. gxf6 (32. g6 Bd4 33. Bxd4 cxd4 34. Kf2 Re3 $19) 32... gxf6 33. Rg4 Kd7 34. Rh4 f3+ 0-1
+

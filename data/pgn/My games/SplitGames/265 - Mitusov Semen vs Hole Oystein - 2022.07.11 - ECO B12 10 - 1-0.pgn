@@ -1,0 +1,20 @@
+﻿[Event "Norwegian Championship 2022"]
+[Site "?"]
+[Date "2022.07.11"]
+[Round "3"]
+[White "Mitusov Semen"]
+[Black "Hole Oystein"]
+[Result "1-0"]
+[Annotator "User"]
+[ECO "B12"]
+[WhiteElo "2378"]
+[BlackElo "2282"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "103"]
+[GameId "439764781791"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,103,16,28,79,69,71,59,114,47,57,16,15,15,24,-48,-23,-23,-15,-9,65,-28,-30,-30,-27,-19,7,-55,-12,52,52,5,66,78,93,61,63,53,59,57,135,51,53,55,46,38,70,71,78,68,78,77,87,77,96,94,94,78,92,92,113,62,92,32,57,59,90,50,125,77,69,97,120,120,162,173,166,174,184,203,242,179,202,162,156,175,198,209,229,212,297,297,298,307,315,340,324,320,344,324,324,324,324,304,308,320]} 1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Qg4 Ne7 7. Bd3 Nbc6 8. Nf3 Ng6 9. O-O O-O 10. Re1 $2 (10. Qh5 $1 Qc7 11. Re1 Bd7 12. Nbd2 a6 13. Nb3 Be7 14. c3 b5 15. Nbd4 $18) 10... f5 $6 (10... f6 $1 11. Bxg6 hxg6 12. Qxg6 Nxe5 13. Nxe5 fxe5 14. Be3 Bd6 $15) 11. Qg3 a6 $6 (11... a5 $5) 12. Nbd2 b5 13. h4 Qc7 14. Nb3 Be7 15. Bg5 Rf7 16. Bxe7 Rxe7 17. h5 Nf8 18. Nbd4 Nd7 $2 (18... Bd7 19. c3 $18) 19. Nxc6 Qxc6 20. Nd4 (20. Qh4 $1 Re8 21. h6 Ra7 22. Re3) 20... Qb6 $6 (20... Qc7 $1 21. Qh4 Nc5 22. Re3 $16) 21. Qh4 Rf7 22. h6 (22. Nxf5 $5 Rxf5 23. Bxf5 exf5 24. Rad1 Bb7 25. Qe7 Nc5 26. e6 Rf8 27. h6 gxh6 28. Re3 f4 29. Rd4 $18) 22... Nf8 23. c3 Bd7 24. Re3 (24. g4 $1) 24... Ng6 25. Qh2 Raf8 26. Rae1 Qd8 27. Rg3 Qe7 (27... Qh4 28. Qxh4 Nxh4 29. Rh3 Ng6 30. g3 $18) 28. Nf3 gxh6 29. Qxh6 Rg7 30. Ng5 Be8 31. a4 $6 (31. Kf1 Kh8 32. Nf3 Rfg8 33. Nd4 Nf8 34. Rxg7 Qxg7 35. Qxg7+ Rxg7 36. g3 $18) 31... bxa4 32. Bxa6 f4 $6 (32... Kh8 33. Bc8 Bf7 $11) 33. Rg4 Rf5 34. Nf3 Nf8 35. Rxf4 Rh5 $2 (35... Rg6 36. Qh2 Rh5 $1 37. Rh4 Rxh4 38. Qxh4 Qxh4 39. Nxh4 Rg7 $16) 36. Qf6 Ng6 37. Qxe7 Rxe7 38. Rb4 Kf7 39. Bd3 Ra7 40. Bc2 Ke7 41. g4 Rh6 42. Ra1 Nf8 (42... Bc6 $1 43. Bxg6 Rxg6 44. Kh2 h5 45. g5 Ra8 46. Nd4 $18) 43. Ra3 Bg6 44. Raxa4 Rxa4 45. Rb7+ Kd8 46. Bxa4 Be4 47. Rb8+ Ke7 48. Re8+ Kf7 49. Ng5+ Kg7 50. Re7+ Kg8 51. Nxe4 dxe4 52. Be8 1-0
+

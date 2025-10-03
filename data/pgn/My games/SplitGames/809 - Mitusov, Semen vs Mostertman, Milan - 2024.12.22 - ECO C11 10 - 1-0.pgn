@@ -1,0 +1,20 @@
+﻿[Event "Groningen festival"]
+[Site "lichess.org"]
+[Date "2024.12.22"]
+[Round "2.14"]
+[White "Mitusov, Semen"]
+[Black "Mostertman, Milan"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C11"]
+[WhiteElo "2465"]
+[BlackElo "2244"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "143"]
+[GameId "2125709914883200"]
+[EventDate "2024.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,143,31,11,36,37,29,43,20,19,19,0,0,0,0,0,21,13,47,45,80,17,5,25,4,4,45,57,43,16,14,21,30,65,78,27,56,56,60,61,50,65,90,43,32,58,51,32,115,129,141,128,130,112,119,151,131,92,174,155,161,165,165,143,120,152,135,135,143,110,138,138,150,162,139,146,137,158,166,156,180,141,176,125,108,103,104,101,98,101,101,101,93,66,58,66,53,62,58,58,58,58,80,82,83,71,67,66,73,70,73,73,67,67,67,67,129,129,183,215,215,219,219,219,416,438,567,656,1292,1426,2243,2278,29127,29130,29979,29980,29981,29980,29981,29984,29985,29986,29997,29998,29999,29999]} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4 Qb6 9. Qd2 (9. a3 Bc5) 9... Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7 15. Rxb7 Qd8 (15... Rc8 16. O-O Qd8 17. f5 exf5 18. Qe3 Rc6 19. Rb6 Rc4 20. Rxa6 Qc8 21. Rd6) (15... Qh4+) 16. Bb6 Qh4+ (16... Qc8 17. Rc7 Qd8 18. Qd4 Ba3 19. Nb1 Be7 20. c4 Rc8 21. Rb7 Bb4+ 22. Kf2 Qxb6 23. Rxb6 Bc5 24. Rd1 O-O 25. cxd5 exd5 26. Rxa6) 17. Bf2 Qd8 18. Bb6 Qh4+ 19. g3 Qg4 20. O-O Rc8 21. Nd1 $1 Qf5 22. Ne3 Qe4 23. Bd4 $1 Bc5 $6 (23... Be7 24. Re1 $18) 24. Bxc5 Rxc5 25. Rb4 Qg6 26. f5 Qg5 (26... exf5 27. Nxd5 Qe6 28. Nf4 $18) 27. Rg4 Qh6 28. f6 g6 29. Qd4 $6 (29. Rd1 O-O (29... Rc8 30. c4) 30. Nxd5 Qxd2 31. Ne7+ Kh8 32. Rxd2 $18) 29... Rc8 30. c4 $6 (30. Rh4 Qf8 31. Rb1 Qc5 32. Rb7) 30... Qf8 $2 (30... O-O 31. Rff4) 31. Rgf4 $2 (31. cxd5 exd5 32. Nxd5 Bxg4 33. Ne7 Qh6 34. Nxc8 $18) 31... g5 32. Rg4 Qc5 33. Rd1 h6 34. Kf2 Ba4 35. Rd2 h5 36. Qxc5 (36. Rxg5 dxc4 37. Qc3 Bb5 38. h4) 36... Rxc5 37. Rgd4 O-O 38. cxd5 Bd7 39. h4 g4 $6 (39... Kh7 $1 40. hxg5 Kg6) 40. Re4 exd5 41. Nxd5 $2 (41. Rxd5 $18) 41... Rxd5 42. Rxd5 Bc6 43. Rdd4 $4 (43. Red4 Bxd5 44. Rxd5 Re8 45. a4 Kh7 46. e6 Rxe6 47. Rxh5+ Kg6 48. Rg5+ Kxf6 49. Rxg4 $18) 43... Bxe4 44. Rxe4 Re8 45. Ke3 Kh7 46. Kd4 Kg6 47. Rf4 Rd8+ 48. Kc5 Re8 49. Kd6 Re6+ 50. Kd5 a5 (50... Rb6 51. Rc4 Kf5 52. a4 Rb3 53. Kd6) 51. Rf2 a4 52. a3 Rb6 53. Kd4 Rb8 54. Rf4 Rb6 55. Kc5 Re6 56. Kd5 Ra6 57. Ke4 Rb6 $4 (57... Rc6 $11) 58. Rf5 Rb3 59. Rg5+ Kh6 60. Rg8 (60. Rg7 $4 Re3+ $11) 60... Rb1 61. Kd4 Re1 62. Kd5 Re2 63. Kd6 Re3 64. Ke7 Kh7 65. Kxf7 Rxe5 66. Rg5 Rxg5 67. hxg5 h4 68. gxh4 g3 69. g6+ Kh6 70. g7 g2 71. g8=Q g1=Q 72. Qh8# 1-0
+

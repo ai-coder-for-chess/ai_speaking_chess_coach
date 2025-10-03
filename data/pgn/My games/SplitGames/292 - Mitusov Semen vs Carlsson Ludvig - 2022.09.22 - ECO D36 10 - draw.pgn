@@ -1,0 +1,20 @@
+﻿[Event "OSS Klubbmesterskap 2022"]
+[Site "?"]
+[Date "2022.09.22"]
+[Round "3"]
+[White "Carlsson Ludvig"]
+[Black "Mitusov Semen"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "D36"]
+[WhiteElo "2386"]
+[BlackElo "2418"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "130"]
+[GameId "446294801574"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,56,16,28,26,-14,-23,-16,0,-36,-36,-51,13,13,44,44,50,17,23,39,36,41,41,29,25,27,31,31,51,48,54,42,63,29,48,96,96,54,30,32,32,11,10,5,9,28,12,20,2,8,48,70,53,-122,-126,-126,-141,-131,-94]} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8. Qc2 h6 9. Bh4 Nh5 10. Bxe7 Qxe7 11. O-O-O Nb6 12. h3 g6 13. Nf3 Be6 14. Ne5 O-O-O 15. Kb1 Kb8 16. Na4 Nxa4 17. Qxa4 Nf6 18. Rc1 Nd7 19. Nf3 Qf6 20. Rc3 Bf5 21. Bxf5 Qxf5+ 22. Ka1 Nb6 23. Qb4 f6 24. Rhc1 Rc8 25. a4 Nc4 26. Rb3 (26. b3 a5 27. Qc5 b6 28. Qe7 Rc7) 26... Rh7 27. a5 a6 28. Nd2 Nxd2 29. Qxd2 Rhc7 30. Rc5 Qe4 31. f3 Qe8 32. Qd3 Ka7 33. Qd2 Re7 34. Qb4 Qd8 35. Rcc3 (35. e4 dxe4 36. fxe4 Re6) 35... Qc7 36. Qc5+ Ka8 37. Rb6 Rd8 38. Rcb3 Qd6 39. Qc2 f5 40. g4 fxg4 41. hxg4 h5 42. Qf2 Rh8 43. gxh5 (43. Qh4 g5 44. Qxg5 h4 45. Rxb7) 43... gxh5 44. Qh4 Rf7 45. Ka2 Qd8 46. Qh3 h4 47. e4 Qd7 48. Qh2 dxe4 (48... Qe6 49. e5 h3 50. f4 Rg7) 49. Rxb7 Qxb7 50. Rxb7 Kxb7 (50... Rxb7 51. fxe4 Rhb8 52. Qxh4 Rxb2+ 53. Ka3) 51. fxe4 h3 52. d5 cxd5 53. Qe5 Rhh7 54. Qxd5+ Kc7 55. Qc5+ Kd7 56. Qd5+ Ke7 57. Qe5+ Kf8 58. Qb8+ Kg7 59. Qg3+ Kf6 60. Qd6+ Kg7 61. Qg3+ Kf8 62. Qb8+ Ke7 63. Qe5+ Kd7 64. Qd5+ Ke8 65. Qe6+ Re7 1/2-1/2
+

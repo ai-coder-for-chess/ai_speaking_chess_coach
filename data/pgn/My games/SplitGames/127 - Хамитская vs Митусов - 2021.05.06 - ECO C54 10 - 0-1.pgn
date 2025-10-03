@@ -1,0 +1,21 @@
+﻿[Event "×У"]
+[Site "?"]
+[Date "2021.05.06"]
+[Round "1"]
+[White "Хамитская"]
+[Black "Митусов"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "C54"]
+[WhiteElo "1300"]
+[BlackElo "2288"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "66"]
+[GameId "401634394938"]
+[EventType "simul"]
+[EventRounds "15"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d3 d6 6. O-O Nf6 7. Nbd2 h6 8. Re1 Ng4 9. Rf1 g5 10. Nb3 Bb6 11. d4 Nf6 12. dxe5 dxe5 13. Qe2 Nh5 14. Be3 (14. g3 Bh3 15. Rd1 Qf6 16. Be3 Nf4) 14... Nf4 15. Qd2 Bg4 16. Bxb6 axb6 17. Qe3 Qf6 18. Nc1 Ne7 19. Nd3 Nxd3 20. Bxd3 Bxf3 21. Qxf3 Qxf3 22. gxf3 h5 23. Kg2 Ng6 24. Bc4 Ke7 25. Rad1 Rad8 26. Rfe1 Nf4+ 27. Kg3 Kf6 28. h3 h4+ 29. Kg4 Kg6 30. Rxd8 (30. Bb3 Nd3 31. Re2 Rhf8 32. f4 exf4) 30... Rxd8 31. a3 Rd2 32. b3 Rxf2 33. Bf1 Nh5 0-1
+

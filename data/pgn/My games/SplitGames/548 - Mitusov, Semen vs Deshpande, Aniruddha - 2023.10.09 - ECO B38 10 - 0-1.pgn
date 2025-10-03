@@ -1,0 +1,19 @@
+﻿[Event "Fagerness Autumn 2023"]
+[Site "?"]
+[Date "2023.10.09"]
+[Round "2.9"]
+[White "Mitusov, Semen"]
+[Black "Deshpande, Aniruddha"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B38"]
+[WhiteElo "2468"]
+[BlackElo "2163"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "82"]
+[GameId "480043973453"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 g6 3. c4 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Nh6 7. Be2 (7. h3 d6 8. Nc3 f5 9. exf5 Nxf5 10. Nxf5 Bxf5 11. Rc1) 7... d6 8. g4 $4 (8. Nc3 O-O 9. O-O f5 10. exf5 Nxf5 11. Nxf5 Bxf5 12. Qd5+ Kh8 13. Rad1 Rc8 14. h3) 8... Nxg4 9. Bxg4 Bxg4 10. Qd2 Ne5 11. Qc2 Qa5+ 12. Nd2 Rc8 13. N4b3 Nf3+ 14. Kf1 Qh5 15. h4 Be5 16. Bxa7 Nh2+ 17. Ke1 Nf3+ 18. Nxf3 Bxf3 19. Rf1 (19. Rg1 Bh2 20. Nd2 Bxg1 21. Qc3 O-O 22. Nxf3 Rxc4 23. Qxc4 Qxf3) 19... Bg2 20. Rg1 Qxh4 21. Nd2 Qh2 22. Ke2 O-O 23. Qb3 f5 24. exf5 Rxf5 25. Rae1 Bc6 26. Be3 Qh5+ 27. Kd3 Bf6 28. a4 Ra5 29. Ra1 Qf5+ 30. Ke2 Qh5+ 31. Kd3 d5 32. c5 Rca8 33. Qb6 d4 34. Bxd4 Qf5+ 35. Ke3 Bxd4+ 36. Kxd4 Qxf2+ 37. Kd3 Rxc5 38. Nc4 Rf8 39. Rge1 Rf3+ 40. Re3 Rxc4 41. Qd8+ Rf8 0-1
+

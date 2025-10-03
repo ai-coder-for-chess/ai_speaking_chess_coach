@@ -1,0 +1,19 @@
+﻿[Event "LangOffer NGP September 2023"]
+[Site "?"]
+[Date "2023.10.01"]
+[Round "7.1"]
+[White "Mitusov, Semen"]
+[Black "Kierulf, Villum Brevick"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "B33"]
+[WhiteElo "2468"]
+[BlackElo "1862"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "77"]
+[GameId "480988169015"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 (11... Nd4 12. cxb5 Bb7 (12... O-O 13. b6 Bb7 14. Bc4 Rb8 15. O-O Bxd5 16. Bxd5 Qxb6 17. Nc4 Qc5 18. b3) 13. Bc4 axb5 14. Bxb5+ Kf8 15. Bc4 Qa5+ 16. Qd2 Bd8 17. Qxa5 Bxa5+ 18. Kd1 f5 19. f3 g6) 12. Nc2 Rb8 (12... O-O 13. g3 a5 14. Bg2 g6 15. Nxf6+ Qxf6 16. O-O h5 17. h4 Bg4) 13. b3 Bg5 (13... O-O 14. g3 g6 15. h4 Bg7 16. h5 Be6 17. Qd2 a5 18. Rd1 Rb7 19. h6 Bh8 20. Nde3) 14. g3 O-O 15. h4 Bh6 16. Bh3 Be6 (16... Bxh3 17. Rxh3 Qd7 18. g4 Bf4 19. Qf3 h5 20. g5 a5 21. Rd1 $16) 17. Kf1 $1 Qd7 18. Kg2 (18. Bf5 $1 Bxf5 (18... Kh8 19. Qh5) 19. exf5 Qxf5 20. g4 Qe4 21. f3 Qg6 22. g5 Bxg5 23. hxg5 Qxg5 24. Qd3 $18) 18... f5 $6 (18... Bxh3+ 19. Rxh3 f5 20. exf5 Rxf5 21. f3 Rf7 (21... Rbf8 22. g4) 22. Rh1 Rbf8 23. Rf1 g5 24. hxg5 Bxg5 25. Qe2 a5 $13) 19. exf5 Bxf5 20. Bxf5 Qxf5 21. Qe2 Qe6 22. Qe4 Qf5 $4 (22... Rf7 23. Rad1 Rbf8 24. Rhf1 a5 25. Nd4 Nxd4 26. Rxd4 Kh8 27. Rd3 $16) 23. Qxf5 Rxf5 24. g4 Rf7 25. g5 Bxg5 26. hxg5 Rf5 27. Rh3 Rxg5+ 28. Rg3 Rf5 29. Rd1 a5 30. Nc7 Rd8 31. Rd2 Kf7 32. Nb5 Rf6 33. Rgd3 Ke7 34. Ne3 Rg6+ 35. Kf1 h5 36. Nxd6 Kf8 37. Ndf5 Rxd3 38. Rxd3 Rf6 39. Rd6 1-0
+

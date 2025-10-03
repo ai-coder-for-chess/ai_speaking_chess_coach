@@ -1,0 +1,20 @@
+﻿[Event "NM for klubblag"]
+[Site "?"]
+[Date "2022.05.27"]
+[Round "2"]
+[White "Bjugn Gisle"]
+[Black "Mitusov Semen"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "D00"]
+[WhiteElo "1879"]
+[BlackElo "2332"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "50"]
+[GameId "435843757280"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,16,16,28,26,24,18,38,66,-5,24,21,16,-22,-21,-21,-30,-33,-40]} 1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 Bf5 6. Ngf3 (6. Qb3 Qd7 7. Ngf3 (7. Bb5 a6 8. Qa4 Rc8 $15) 7... c4 8. Qd1 e6 $11) 6... Qb6 (6... e6 $5 7. Qb3 Qc8 8. Nh4 Be4 9. f3 Bg6 10. g4 Be7 $13) 7. Qb3 (7. dxc5 $5 Qxb2 8. Nd4 Bg4 9. f3 e5 10. Nb5 Bxc5 11. Rb1 Qxa2 12. Ra1 $11) 7... c4 8. Qxb6 axb6 9. Be2 h6 10. h3 e6 (10... b5 11. O-O b4 12. cxb4 Nxb4 13. a3 Nd3 14. Bxd3 Bxd3 15. Rfc1 Ne4 16. Nxe4 Bxe4 $17) 11. O-O b5 12. a3 Nd7 13. Rac1 $5 (13. Rfe1 Nb6 14. Bd1 b4 15. cxb4 Nxb4) 13... Nb6 14. g4 $6 (14. Bd1 Na4 15. Bxa4 bxa4 16. Rfe1 Bd3 17. e4 Kd7 18. Re3 (18. exd5 exd5 19. Ne5+ Nxe5 20. dxe5 Ra5 21. Nf3 g5 22. e6+ fxe6 23. Ne5+ Ke7 24. Be3 Bg7 25. Bd4 Rb5 26. Rcd1 $17) 18... g5 19. Bg3 f5) 14... Bh7 15. Bd1 Na4 16. Bxa4 bxa4 17. Rfe1 f6 18. e4 Kd7 19. Re2 (19. exd5 exd5 20. Nf1 g5 21. Ne3 Be4 22. Nxc4 gxf4 23. Nb6+ Kd8 24. Nxa8 Bxf3) 19... Ra5 20. Ra1 $2 (20. Rce1 Rb5 21. exd5 exd5 22. Re8 Rxb2 23. Ra8 g5 24. Bg3 Bg7 25. Rxa4 Bc2) 20... Rb5 21. Ra2 Na5 22. exd5 exd5 23. Ne1 Be7 24. Nf1 Nb3 25. f3 Bb1 0-1
+

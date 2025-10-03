@@ -1,0 +1,20 @@
+﻿[Event "Fagernes vår 2025"]
+[Site "Fagernes, Norway"]
+[Date "2025.04.17"]
+[Round "6.7"]
+[White "Urazayev, Arystanbek"]
+[Black "Mitusov, Semen"]
+[Result "1/2-1/2"]
+[Annotator "semen"]
+[ECO "C55"]
+[WhiteElo "2467"]
+[BlackElo "2459"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "120"]
+[GameId "2167903072661524"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,120,36,23,23,30,26,27,23,20,27,12,4,-11,14,-2,18,8,6,6,-1,-1,-3,-7,19,14,15,13,15,5,5,-14,4,-10,10,9,51,46,56,52,52,47,52,9,46,46,51,43,66,28,55,25,20,20,62,60,54,60,55,60,57,23,28,23,28,15,15,19,16,29,37,35,34,30,30,34,56,57,34,47,45,34,47,34,34,34,34,34,73,34,34,34,34,34,67,34,56,34,47,34,34,34,34,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Nxe4 (5. Bxf7+ Kxf7 6. Nxe4 d5 7. Ng3 e4 8. Ng1 h5 9. Nxh5 Qh4 10. Ng3 Bg4 11. N1e2 Nd4) (5. O-O Nxc3 6. dxc3 h6 7. Re1 d6 8. Nd4 Bd7 9. f4 Qh4 10. Bb5 Nxd4 11. Bxd7+ Kxd7 12. cxd4 exd4) 5... d5 6. Bd3 dxe4 (6... f5 $6 7. Nc3 e4 8. Bb5 exf3 9. Qxf3 $14) (6... Nb4 7. Nxe5 (7. Ng3 e4 8. Be2 exf3 9. Bxf3 Bd6 10. a3 Nc6 11. Bxd5 Nd4 $13) 7... Nxd3+ 8. cxd3 dxe4 9. dxe4 Qd4) 7. Bxe4 Bd6 (7... Bg4 8. h3 Bh5 9. Bxc6+ bxc6 10. Qe2 Bd6 11. d4 O-O 12. dxe5 Bxf3 13. Qxf3 Bxe5 14. Qxc6 $11) 8. d4 (8. O-O O-O 9. Re1 Bg4 10. h3 (10. c3 Kh8 11. h3 Bh5 12. Bxc6 bxc6 13. g4 Bg6 14. Nxe5 Bxe5 15. Rxe5 f5 16. d4 Qh4 17. Qf3 fxg4 18. Qg3 Qxg3+ 19. fxg3 gxh3 20. Bf4) 10... Bh5 11. g4 (11. Bxc6 bxc6 12. g4 Bg6 13. Nxe5 Qh4) 11... f5 12. Bxc6 fxg4 13. hxg4 Bxg4 14. Bxb7 c6 15. Bxc6 Rc8 16. Bd5+ Kh8 17. d4 exd4) 8... Nxd4 (8... exd4 $1 9. O-O (9. Nxd4 O-O 10. Nxc6 Qh4 11. Bf3 Re8+ 12. Kf1 bxc6 13. Bxc6 (13. Be3 $17) 13... Qc4+) 9... O-O 10. Bg5 Qd7) 9. Nxd4 exd4 10. Qxd4 O-O (10... Qe7 11. O-O O-O 12. Re1 Kh8 13. Bd2 Be5 $11) 11. Be3 (11. Bd2 $5 Qe7 12. O-O-O Be5 13. Qe3) 11... Be7 $6 (11... Qe7 12. O-O-O Be5 13. Qd3 Bg4 $1) 12. O-O-O Qxd4 13. Bxd4 c6 14. a4 $3 (14. Rhe1 Be6 15. f4 Rfd8 16. f5 Bxa2 17. b3 Ba3+ 18. Bb2 Bb4 $11) 14... Be6 15. a5 a6 (15... Rad8 $1 16. Bxa7 (16. a6 c5 17. Be5 bxa6 $11) 16... Ra8 17. Bb6 Bb4) 16. Bb6 h5 17. f4 f5 $2 (17... Rae8 18. f5 Bc8 19. Rhe1 Bg5+ 20. Kb1 Re5 21. Bc7 Rb5) 18. Bf3 g6 19. Rhe1 Kf7 20. c3 $6 (20. Re3 $1 Rae8 (20... Rfe8 21. Be2 Bf8) 21. Be2 Bd5 22. Rxd5 $3 cxd5 23. Bf3 $18) 20... Rae8 21. Re3 Bf6 22. Kc2 Bc8 23. Red3 Re6 24. Bd8 (24. Bd4 Be7 (24... Bxd4 25. Rxd4 h4) 25. Be5 Re8) 24... Bg7 (24... Bxd8 $2 25. Rxd8 Rxd8 26. Rxd8 Re8 27. Rxe8 Kxe8 28. Kd3 Ke7 29. Kd4 Kd6 30. g3 $18) 25. h4 Rfe8 26. Bb6 Bf6 27. Bf2 R6e7 28. g3 Be6 29. b3 Bc8 30. Bd4 Bxd4 31. Rxd4 Re3 32. R4d3 Kf6 (32... Rxd3 33. Rxd3 Re6 34. Rd8 Re8) 33. c4 Rxd3 34. Kxd3 $2 (34. Rxd3 Re1 35. Rd8 Re3 36. Bxc6) 34... Rd8+ 35. Kc3 Rxd1 $11 36. Bxd1 Ke6 37. Kd4 Kd6 38. b4 Be6 39. Bb3 Bf7 $1 40. Bc2 Be6 41. Bd1 Bf7 42. Bf3 Be6 43. Bg2 Bd7 (43... Bf7 $4 44. c5+ Ke7 45. b5 axb5 46. Bxc6 $18) 44. Kc3 (44. b5 c5+ 45. Ke3 Bc8 (45... Kc7 46. Bd5 Be8 47. b6+ Kb8 48. Be6 Ka8 49. Kf2 Kb8 50. Kg2 Ka8 51. Kf3 Kb8 52. Kf2 Ka8 53. g4 fxg4 $1 (53... hxg4 $4 $18 54. Kg3 Kb8 55. h5 gxh5 56. Bxf5 Bf7 57. Bd3 Kc8 58. f5 Kd7 59. Kh4 Kd6 60. Bf1) 54. Ke3 Kb8 55. Ke4 Ka8 56. f5 gxf5+ 57. Bxf5 Bf7) 46. Bd5 Ke7 47. b6 Kf6 48. g4 $11) 44... Bc8 45. Bf1 Be6 46. Kd4 Bc8 47. Bd3 Bd7 48. Bb1 Bc8 49. Ba2 Be6 50. Bb3 Bf7 51. c5+ Ke7 52. Ba4 Ke6 53. Bd1 Kf6 54. Bf3 Be8 55. Be2 Bd7 56. Bc4 Be6 57. Be2 Bd7 58. Bd1 Be6 59. Bc2 Bd7 60. Ba4 Be8 1/2-1/2
+

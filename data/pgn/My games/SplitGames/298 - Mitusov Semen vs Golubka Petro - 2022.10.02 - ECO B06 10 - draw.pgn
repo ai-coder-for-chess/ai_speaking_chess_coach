@@ -1,0 +1,20 @@
+﻿[Event "Kvibergspilen 2022"]
+[Site "?"]
+[Date "2022.10.02"]
+[Round "6"]
+[White "Mitusov Semen"]
+[Black "Golubka Petro"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "B06"]
+[WhiteElo "2418"]
+[BlackElo "2360"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "34"]
+[GameId "447113137698"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,34,16,28,112,60,88,88,84,68,99,40,99,71,51,32,30,22,37,20,14,-35,-32,-48,-30,-15,4,-1,4,-35,-9,-9,2,7,5,22,38]} 1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. h4 h6 6. h5 g5 7. Qd2 Nf6 8. f3 (8. f4 Ng4 9. fxg5 Nxe3 10. Qxe3 hxg5 11. O-O-O e5 12. dxe5 Bxe5 13. Kb1 g4 14. Nge2 Be6 15. Nd4 $16) 8... b5 9. O-O-O Bb7 10. Qe1 Nbd7 (10... e6 $5) 11. e5 Nd5 12. Nxd5 Bxd5 13. f4 gxf4 14. Bxf4 Nf8 15. Ne2 Ne6 16. Bg3 Qd7 17. Nc3 Bb7 1/2-1/2
+

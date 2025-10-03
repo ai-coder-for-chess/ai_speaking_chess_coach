@@ -1,0 +1,19 @@
+﻿[Event "Kragerш Resort 2023"]
+[Site "?"]
+[Date "2023.02.24"]
+[Round "5"]
+[White "Mitusov, Semen"]
+[Black "Van Voreest, Lucas"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B22"]
+[WhiteElo "2396"]
+[BlackElo "2571"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "70"]
+[GameId "460210355836"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. Bb5+ (4. Qa4+ Nbd7 5. Qb3 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O b6 9. c4 $11) 4... Nbd7 5. Nf3 (5. c4 a6 6. Bxd7+ (6. Ba4 b5 7. cxb5 Nb6 8. bxa6+ Nxa4 9. Qxa4+ Nd7) 6... Qxd7 7. Nf3 e6 8. Qe2 Be7 9. dxe6 Qxe6 10. Qxe6 Bxe6 11. b3 $11) (5. d4 a6 6. Be2 Nxd5 7. Nf3 e6) 5... Nxd5 6. d4 e6 7. O-O a6 8. Bc4 (8. Bxd7+ Bxd7 9. Re1 Be7 10. Nbd2) 8... N7f6 9. Bg5 Qc7 10. Nbd2 (10. Bxd5 Nxd5 11. c4 Ne7 12. d5 $11) 10... cxd4 11. Nxd4 $6 (11. cxd4 b5 12. Bxd5 Nxd5 13. Rc1 Qa7 14. Ne5 $11) 11... Bd6 12. N4f3 O-O 13. Bd3 (13. Bxd5 Nxd5 14. c4 Nf6 15. Bxf6 gxf6 16. Ne4 Be7 17. Qd4 Qf4 $11) 13... b6 14. Qe2 Bb7 15. c4 $6 (15. Ne4 Nxe4 16. Qxe4 g6 17. Qe2 Nf4 18. Bxf4 Bxf4 19. Be4 $11) 15... Nf4 16. Bxf4 Bxf4 17. Ne4 Nd7 18. Ng3 Ne5 19. Nxe5 Qxe5 20. Rfe1 Qxe2 21. Rxe2 Rad8 22. Be4 Bc8 23. Bf3 Rd3 24. Ree1 $6 (24. Rc2 Rfd8 25. c5 b5 26. a4 $15) 24... Rfd8 25. Red1 $6 Be5 $1 26. Rxd3 Rxd3 27. Rb1 Rd2 28. Ne4 Rxb2 29. Rd1 Kf8 30. c5 bxc5 31. Nxc5 Rxa2 32. Nd3 Bd4 33. g3 Ra1 34. Nc1 e5 35. Kg2 Be6 0-1
+

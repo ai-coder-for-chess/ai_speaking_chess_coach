@@ -1,0 +1,20 @@
+﻿[Event "SS Manhem Chess Week 2022: IM Tournamen"]
+[Site "Schackcentrum, Vegagatan 20, "]
+[Date "2022.08.08"]
+[Round "4"]
+[White "Mitusov Semen"]
+[Black "Ingebretsen Jens E"]
+[Result "1/2-1/2"]
+[Annotator "User"]
+[ECO "C53"]
+[WhiteElo "2415"]
+[BlackElo "2325"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "113"]
+[GameId "442229792982"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,113,24,18,25,18,18,18,27,23,8,6,29,-18,4,-44,6,-38,-42,-46,4,0,0,0,-2,-30,6,-7,12,-22,-22,-24,-20,-12,5,-5,-5,-24,-6,2,2,-3,47,-16,10,9,-9,14,27,27,51,27,30,8,9,9,9,20,20,7,24,27,32,24,23,30,30,24,30,9,56,-68,18,2,14,-32,14,-42,-100,-237,-237,-235,-231,-234,-214,-231,-196,-196,-197,-248,-262,-285,-204,-285,-218,-257,-236,-289,-215,-243,-123,-105,-105,-105,-105,-97,-97,0,0,0,0,-362,-217,0,0,0]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a5 6. Nbd2 d6 7. Nf1 Be6 8. Bb5 (8. Bxe6 fxe6 9. Ng3 O-O 10. O-O a4 $11) 8... O-O 9. Ng3 Qb8 $2 (9... d5 $1 10. O-O (10. Qe2 $6 Na7 11. Ba4 b5 12. Bc2 dxe4 $15) 10... dxe4 11. dxe4 Qxd1 12. Rxd1 $11) 10. O-O Qa7 11. h3 h6 12. Ba4 Rad8 $6 13. Qe2 $6 (13. Bxc6 bxc6 14. d4 Bb6 15. Be3 $14) 13... Ne7 14. Nh4 $6 (14. Rd1 Ng6 15. d4 Bb6 16. Bc2 $14) 14... Ng6 15. Nxg6 (15. Nhf5 d5 $11) 15... fxg6 16. Be3 c6 $2 (16... Bxe3 17. Qxe3 Qxe3 18. fxe3 $17) 17. Bxc5 Qxc5 18. Rfd1 Qb6 19. d4 Nh7 20. d5 Bc8 21. dxc6 bxc6 22. Bb3+ Kh8 23. Rd2 Rf6 24. Rad1 Rdf8 25. Nh1 $6 (25. Qe3 $1 Qxe3 26. fxe3 Rd8 27. c4 $3 c5 28. Rd5 $16) 25... Qc7 26. h4 $2 (26. Qe3 Ng5 27. h4 Nh7 28. Bc4 g5 29. h5 $11) 26... g5 27. h5 g4 28. Qe3 Ng5 29. Ng3 Rd8 30. a4 Rdf8 31. Bc4 Qb8 32. Rb1 (32. b4 axb4 33. Rb1 Qa8 34. Rxb4 c5 35. Bd5 Qa7 36. Rb1 $16) 32... Rf4 33. Rbd1 $6 d5 34. Bd3 Be6 35. Bc2 R8f6 36. Rf1 $2 (36. Qc5 $1 Qf8 37. Qxf8+ Rxf8 38. b4 axb4 39. cxb4 d4 40. Bd3 $16) 36... Bg8 37. Re1 Qf8 38. Ree2 $4 (38. Rf1 $11) 38... d4 39. Qd3 (39. cxd4 Rf3 40. gxf3 Rxf3 41. Qxg5 hxg5 42. d5 $19) 39... Nf3+ 40. gxf3 Rxf3 41. cxd4 (41. Qa6 Rxg3+ 42. fxg3 Rf1+ 43. Kh2 Qf7 $3 $19) 41... Rxd3 42. Bxd3 Rf3 43. dxe5 Qc5 44. Nf5 Qxe5 45. Bc2 c5 46. Kg2 c4 47. Bb1 Rb3 48. Rd8 Rh3 49. Ng3 Kh7 $2 (49... Qf6 50. Rdd2 Qf3+ 51. Kg1 Rxg3+ $19) 50. Rf8 $2 (50. Red2 $1 Be6 51. Re8 $13) 50... Be6 51. Re8 g6 52. Rd2 gxh5 $2 (52... Kg7 $3 53. Rd7+ Kf6 $19) 53. Re7+ Kg6 54. Rd6 Rxg3+ 55. Kf1 $4 (55. fxg3 Qxb2+ 56. Kh1 Qxb1+ 57. Kh2 Qc2+ 58. Kg1 Qc1+ 59. Kh2 $11) 55... Qxb2 $4 (55... Qf4 $1 56. Rexe6+ Kg5 $19) (55... Qxd6 56. e5+ Qd3+ (56... Bf5 $2 57. exd6 Bd3+ 58. Re2 $18) 57. Bxd3+ Rxd3 58. Rxe6+ Kg5 $19) 56. Rexe6+ Kf7 57. Rf6+ 1/2-1/2
+

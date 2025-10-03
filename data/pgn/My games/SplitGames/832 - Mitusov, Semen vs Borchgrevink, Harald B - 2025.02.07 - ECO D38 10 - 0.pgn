@@ -1,0 +1,22 @@
+﻿[Event "Eliteserien 24 25"]
+[Site "Oslo"]
+[Date "2025.02.07"]
+[Round "4.32"]
+[White "Borchgrevink, Harald B"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "D38"]
+[WhiteElo "2258"]
+[BlackElo "2469"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "60"]
+[GameId "2143082289411751"]
+[EventDate "2025.??.??"]
+[SourceVersionDate "2019.06.17"]
+[WhiteTeam "Bærum"]
+[BlackTeam "OSS"]
+
+{[%evp 0,60,15,13,13,22,29,6,2,2,55,49,15,3,20,-3,47,-3,-16,-15,-20,-19,-17,-9,-9,-4,-4,-28,-13,-13,6,-26,-21,-21,-19,-45,-67,-69,-69,-67,-88,-74,-68,-76,-70,-77,-57,-37,16,-28,-3,-28,13,2,17,-111,-97,-97,-67,-67,-79,-79,-104]} 1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Bb4 7. Rc1 c5 (7... c6 8. a3 (8. e3 Qa5 9. Qb3 Ne4 10. Bf4 c5 11. a3 Bxc3+ 12. bxc3 O-O) 8... Bxc3+ 9. Rxc3 h6 10. Re3+ Kf8 11. Bf4 g5) 8. a3 (8. dxc5 $1 Qa5 9. a3 Bxc3+ 10. Rxc3 Ne4 11. Bd2 Ndxc5 12. Rc1 Nxd2 13. Qxd2 Qxd2+ 14. Nxd2 b6 15. e3 Ke7 16. b4 Ne6 17. Nb3 a5 18. bxa5 Bd7 19. Rc3 bxa5 20. Kd2 Rab8 21. Bd3 a4 22. Nd4 Nxd4 23. exd4 Rb2+ 24. Rc2 Rb3 25. Rc3 Rb2+ 26. Rc2 Rb3 27. Ra2 Rc8 28. Re1+ Kd6 29. Re3 h6 30. h4 g5 31. hxg5 hxg5 32. Bc2 Rbb8 33. Rc3 Rxc3 34. Kxc3 Rc8+ 35. Kd2 Rc4 36. Ke3 Rc3+ 37. Kd2 Rc4 38. Ke3 Rc3+ 39. Kd2 {1/2 Navara,D (2660)-Carlsen,M (2625) Corus-B Wijk aan Zee 2006 (8)}) 8... Bxc3+ 9. Rxc3 c4 10. e4 (10. Re3+ Kf8 11. Rc3 Qb6 $15) 10... dxe4 11. Nd2 h6 12. Bxf6 Nxf6 13. Bxc4 O-O 14. Nf1 b5 (14... Qb6 15. Rb3 Qa5+ 16. Qd2 Qxd2+ 17. Kxd2 Rd8 18. Kc3 a6 $15) 15. Bb3 b4 16. axb4 Rb8 17. Ne3 Rxb4 18. Nc2 Rb6 (18... Rxb3 $5 19. Rxb3 Ba6 20. Ne3 Nd5 21. Ra3 Bb5 22. Qh5 Nxe3 23. fxe3 Bd3 $13) 19. O-O Ba6 20. Re1 Bd3 21. h3 Qd7 22. Re3 Rd8 (22... Rc8 23. Ne1 Rxc3 24. bxc3 Qb7 25. Ba2 Rb2 26. Qa4 Qa6 27. Bb3 Qxa4 28. Bxa4 Bc4 $17) 23. Rg3 Rd6 $2 (23... Rc8 24. Ba4 Qb7) 24. Qc1 Nh5 25. Rg4 Bxc2 26. Rxc2 (26. Qxc2 Rxd4 27. Rxe4 Rd2 28. Qc1 Rxf2 $11) 26... Qb7 27. Qe3 $2 (27. Ba2 Qa6 $11 (27... Rxd4 28. Qxh6 $16)) 27... Rxd4 28. Rc3 Kh7 29. Rh4 Nf6 30. Qf4 Rd3 0-1
+

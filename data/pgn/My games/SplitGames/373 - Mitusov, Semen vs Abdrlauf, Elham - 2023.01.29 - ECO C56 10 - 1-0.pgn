@@ -1,0 +1,19 @@
+﻿[Event "SpringerOffer hurtig januar NGP 2023"]
+[Site "?"]
+[Date "2023.01.29"]
+[Round "5.1"]
+[White "Abdrlauf, Elham"]
+[Black "Mitusov, Semen"]
+[Result "1-0"]
+[Annotator "semen"]
+[ECO "C56"]
+[WhiteElo "2461"]
+[BlackElo "2317"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "85"]
+[GameId "457639659462"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8. Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne4 12. Be3 Bb6 13. Nd2 c5 14. N4f3 Nxd2 15. Qxd2 d4 (15... Bf5 16. c3 O-O 17. b4 cxb4 18. cxb4 Qe7 19. a3 Rfd8 20. Nd4 Bd7) 16. Bf2 Bc6 17. Bh4 Qd7 18. Kh1 Qg4 $6 (18... O-O $5 19. f5 (19. Rad1 Rae8 20. Qf2 Qg4) 19... Qxf5 20. Nxd4 Qd7 21. Nxc6) 19. h3 Qh5 20. Qf2 O-O 21. Qg3 Qg6 $6 (21... Be4 22. Ng5 Bf5 23. Rae1 Qg6 24. Qf3 Rae8 25. Ne4 Qh6 $11) 22. Bg5 Bxf3 23. Qxf3 Qxc2 $2 (23... Rae8 24. Rac1 f6 25. exf6 gxf6 26. Bh4 Re3 27. Qd5+ Qf7 $11) 24. f5 c4 $2 (24... Rae8 25. f6 g6 26. Bh6 Re6 $18) 25. Be7 $2 Rfe8 26. Rac1 Qd3 27. f6 $2 (27. Qc6 $18) 27... Qxf3 28. Rxf3 Rxe7 $2 (28... c5 29. Rxc4 Bd8 30. Bxc5 Rc8 31. Rd3 Rxe5 32. Bxd4 Re1+ 33. Bg1 Ra8 $16) 29. fxe7 Re8 30. e6 $3 (30. Rxc4 Rxe7 31. Rb3 h6 32. Rb5 Rd7) 30... f6 (30... Rxe7 31. exf7+ Rxf7 32. Rxf7 Kxf7 33. Rxc4 Ke6 $18) (30... fxe6 31. Rcf1 Bc5 32. Rf8+ Rxf8 33. Rxf8#) 31. Rxc4 Rxe7 32. Rc6 a5 33. Kg1 (33. Rf5 Kf8 34. Rd5 Ke8 35. a4) 33... Re8 34. Kf1 Kf8 35. Ke2 Ke7 36. Kd3 Rd8 37. Rf5 g6 38. Rb5 h5 39. a4 Ra8 40. Rd5 Rd8 41. Rd7+ Rxd7 42. exd7 g5 43. Rxf6 1-0
+

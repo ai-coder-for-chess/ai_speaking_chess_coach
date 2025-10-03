@@ -1,0 +1,20 @@
+﻿[Event "Riga Technical University Open 2022"]
+[Site "?"]
+[Date "2022.08.20"]
+[Round "8"]
+[White "Mitusov Semen"]
+[Black "Kantans Toms"]
+[Result "0-1"]
+[Annotator "User"]
+[ECO "B92"]
+[WhiteElo "2415"]
+[BlackElo "2504"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "86"]
+[GameId "443585161784"]
+[EventType "game"]
+[SourceVersionDate "2019.06.17"]
+
+{[%evp 0,51,16,28,97,43,86,86,86,37,62,38,65,55,54,48,48,46,47,43,44,14,36,12,40,1,2,-2,6,1,1,1,28,58,87,11,0,-12,-12,14,63,10,9,10,15,0,0,6,28,36,31,10,20,-14]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2 Be7 9. O-O O-O 10. Qd2 Nbd7 11. a4 Nb6 12. Na5 $6 (12. a5 Nc4 13. Bxc4 Bxc4 14. Rfd1 Rc8 15. Nc1 d5 16. Bb6 Qe8 17. exd5 Bb4 18. d6 Qd7 19. Nd3 Bxd6 20. Nxe5 Bxe5 21. Qxd7 Nxd7 22. Rxd7 Bxc3 23. bxc3 Bb5 24. Rxb7 Rxc3 25. h3 Rxc2 26. Rb1 $11) 12... Qc7 13. Bxb6 Qxb6 14. Nd5 (14. Nc4 Qb4 15. Ne3 $15) 14... Bxd5 15. exd5 Rac8 16. Nc4 Qc5 17. Ne3 $6 (17. c3 $1 Qxd5 (17... Nxd5 18. b4 $18) (17... Ne4 18. Qc2 f5 19. a5 $11) 18. Qxd5 Nxd5 19. Rfd1 Nf4 20. Bf1 Rfd8 21. Nb6 Rc6 22. a5 $11) 17... g6 18. Qd3 Rfe8 $6 (18... Nd7 19. a5 f5 20. Ra4 $17) 19. a5 e4 20. Qd2 Nd7 21. c4 f5 22. b4 Qa7 23. Rad1 $6 (23. c5 dxc5 24. d6 Bf6 25. Rac1 $16) 23... Bg5 24. g3 Ne5 25. c5 Red8 26. Qb2 (26. h4 $1 Bh6 (26... Bxe3 27. Qxe3 dxc5 28. d6 $18) 27. h5 dxc5 28. d6 $18) 26... Bf6 27. Qb3 dxc5 28. d6+ Kg7 29. Qe6 (29. bxc5 Rxc5 30. Nd5 Rxd6 31. Nc7 $11) 29... Rc6 $1 30. Rd5 $1 Nf7 31. bxc5 Rxc5 32. Rd2 $4 (32. Rfd1 Ng5 33. Nxf5+ gxf5 34. Qxf5 Rxd5 35. Rxd5 Qb8 36. h4 Nf7 37. d7 $13) 32... Rxa5 33. d7 Re5 34. Qa2 b5 35. Rfd1 Qb7 36. h4 Rc5 (36... Re7 37. Nd5 Rexd7 38. Nxf6 Rxd2 39. Nh5+ gxh5 40. Rxd2 Rxd2 41. Qxd2 Qe7 $19) 37. Nd5 Be5 38. Ne7 $6 (38. Qa3 Rc6 39. Nb4 Rc7 40. Qxa6 Bc3 41. Qxb7 Rxb7 42. Nc6 Bxd2 43. Nxd8 Nxd8 44. Rxd2 Kf6 $19) 38... e3 39. fxe3 Qe4 40. Qa3 $6 Rc3 41. Qxa6 Qxe3+ 42. Kf1 Bxg3 43. Bh5 (43. Qf6+ Kxf6 44. Nd5+ Ke6 45. Nxe3 Rxe3 46. Bxb5 Bxh4 $19) 43... Qxe7 0-1
+

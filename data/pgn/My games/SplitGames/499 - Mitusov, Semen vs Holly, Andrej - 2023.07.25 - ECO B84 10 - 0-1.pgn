@@ -1,0 +1,19 @@
+﻿[Event "Pardubice Open 2023"]
+[Site "?"]
+[Date "2023.07.25"]
+[Round "5.54"]
+[White "Holly, Andrej"]
+[Black "Mitusov, Semen"]
+[Result "0-1"]
+[Annotator "semen"]
+[ECO "B84"]
+[WhiteElo "2163"]
+[BlackElo "2455"]
+[WhiteFideId "-1"]
+[WhiteFideId "-1"]
+[PlyCount "70"]
+[GameId "473310150471"]
+[SourceVersionDate "2019.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. Be3 Qc7 8. f4 b5 9. a3 (9. Bf3 Bb7 10. e5 dxe5 11. Bxb7 Qxb7 12. fxe5 Nfd7 13. O-O Bc5) 9... Bb7 10. Bf3 Be7 (10... Nbd7 11. Qe2 Nc5 12. Bf2 Be7 13. O-O-O Rb8) 11. g4 Nc6 (11... h6 $2 12. Qe2 $16 (12. g5 hxg5 13. fxg5 Nfd7 14. g6 Bh4+ 15. Kd2 Ne5)) 12. g5 Nd7 13. Nxc6 Bxc6 14. Qd4 $6 (14. h4 a5 15. h5 h6 16. gxh6 gxh6) 14... O-O 15. h4 Rfe8 (15... a5 16. h5 e5 17. Qd2 exf4 18. Bxf4 Ne5 19. Bg2 b4 $17) 16. O-O (16. h5 d5 17. h6 e5 18. Nxd5 exd4 19. Nxc7 dxe3 $15) 16... e5 17. Qd2 exf4 18. Bxf4 Bf8 19. Rad1 Ne5 20. Nd5 $6 (20. Bg2 g6) 20... Qa7+ (20... Nxf3+ 21. Rxf3 Qd7 22. Qd3 Bxd5 23. exd5 g6 $17) 21. Be3 Qd7 22. Qg2 Bxd5 (22... Nxf3+ 23. Qxf3 Re6 24. Nb6 Qe8 25. Nxa8 Bxa8 $15) 23. Rxd5 Rac8 $6 (23... Re6) 24. c3 Qe7 25. Rd4 (25. Bd4 $11) 25... Rc7 26. Rfd1 Qe6 27. Bf4 g6 28. Qg3 Qb3 29. Bc1 $2 (29. Bxe5 dxe5 30. R4d2 a5 $13) 29... a5 $6 (29... Rc4 30. Rxc4 bxc4) 30. Bg2 $4 (30. Kg2 Nc4 31. Qf2 b4 $17) 30... b4 31. axb4 axb4 32. Bf4 bxc3 33. Bxe5 $2 (33. bxc3 Rxc3 34. Qe1 Nf3+ 35. Bxf3 Rxf3 36. Bh2 Re3 $19) 33... dxe5 34. Rd8 Qb6+ 35. Kh2 c2 0-1
+
